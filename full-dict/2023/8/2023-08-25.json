@@ -1,0 +1,50 @@
+[
+  {
+    "doi": "10.1101/2023.08.23.554550",
+    "title": "Phenotypic plasticity of antibiotic resistance, metabolism byproduct utilization and the evolution of mutually beneficial cooperation in Escherichia coli",
+    "authors": "Ye, N.; Hou, B.; Song, J.; Dunn, D. W.; Ma, Z.; Wang, R.-W.",
+    "author_corresponding": "Zhanshan (Sam) Ma",
+    "author_corresponding_institution": "Computational Biology and Medical Ecology Lab, State Key Laboratory for Genetic Resources and Evolution, Kunming Institute of Zoology, Chinese Academy of Scienc",
+    "date": "2023-08-25",
+    "version": "1",
+    "type": "new results",
+    "license": "cc_no",
+    "category": "ecology",
+    "jatsxml": "https://www.biorxiv.org/content/early/2023/08/25/2023.08.23.554550.source.xml",
+    "abstract": "Although tag-based donation and recognition have well explained how the cooperative individuals are positively assorted if the cooperative individuals possess some signals and are also able to detect such signals, an additional mechanism is required to explain why some individuals pay the costs of evolving such a tag that may not be rewarded subsequently, and how such tag-based cooperative individuals will meet other similar individuals with a very low mutation rate. Here, we show that many and even all Escherichia coli bacteria cells in the increased antibiotic concentration will plastically evolve to be antibiotic resistant individuals who could protect antibiotic sensitive strain from the attack of antibiotics, and the antibiotic resistant strain could reversibly evolve to be antibiotic sensitive in non-antibiotic supplement medium but in a harsher environment with low glucose. A further experiment showed that antibiotic-sensitive E. coli strain could in turn help reduce the concentration of indole produced by the resistant strain. This metabolic product is harmful to the growth of the antibiotic-resistant strain but benefits the antibiotic-sensitive strain by helping turn on the multi-drug exporter to discharge the antibiotic. The utilization of metabolism byproduct indole produced by antibiotic-resistant cells benefits antibiotic-sensitive cells, while the indole-absorbing service of antibiotic sensitive cells unconsciously help in nullifying the indole side effect on antibiotic resistant strain, and a mutual benefit cooperation could therefore evolve.",
+    "published": "NA",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/2023.08.24.554632",
+    "title": "Consequences of daily rhythm disruption on host-parasite malaria infection dynamics",
+    "authors": "Holland, J. G.; Prior, K. F.; O'Donnell, A. J.; Reece, S. E.",
+    "author_corresponding": "Sarah E Reece",
+    "author_corresponding_institution": "University of Edinburgh",
+    "date": "2023-08-25",
+    "version": "1",
+    "type": "new results",
+    "license": "cc_by_nc_nd",
+    "category": "evolutionary biology",
+    "jatsxml": "https://www.biorxiv.org/content/early/2023/08/25/2023.08.24.554632.source.xml",
+    "abstract": "Undertaking certain activities at the time of day that maximises fitness is assumed to explain the evolution of circadian clocks. Organisms often use daily environmental cues such as light and food availability to set the timing of their clocks. These cues may be the environmental rhythms that ultimately determine fitness, act as proxies for the timing of less tractable ultimate drivers, or are used simply to maintain internal synchrony. While many pathogens/parasites undertake rhythmic activities, both the proximate and ultimate drivers of their rhythms are poorly understood. Explaining the roles of rhythms in infections offers avenues for novel interventions to interfere with parasite fitness and reduce the severity and spread of disease. Here, we perturb several rhythms in the hosts of malaria parasites to investigate why parasites align their rhythmic replication to the hosts feeding-fasting rhythm. We manipulated host rhythms governed by light, food, or both, and assessed the fitness implications for parasites, and the consequences for hosts, to test which host rhythms represent ultimate drivers of the parasites rhythm. We found that alignment with the hosts light-driven rhythms did not affect parasite fitness metrics. In contrast, aligning with the timing of feeding-fasting rhythms may be beneficial for the parasite, but only when the host possess a functional canonical circadian clock. Because parasites in clock-disrupted hosts align with the hosts feeding-fasting rhythms and yet derive no apparent benefit, our results suggest cue(s) from host food act as a proxy rather than being a key selective driver of the parasites rhythm. Alternatively, parasite rhythmicity may only be beneficial because it promotes synchrony between parasite cells and/or allows parasites to align to the biting rhythms of vectors. Our results also suggest that interventions can disrupt parasite rhythms by targeting the proxies or the selective factors driving them without impacting host health.",
+    "published": "NA",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/2023.08.24.554692",
+    "title": "RNA-dependent RNA polymerase of predominant human norovirus forms liquid-liquid phase condensates as platforms for viral replication",
+    "authors": "PRASAD, B.; KAUNDAL, S.; Thachangattuthodi, A.; Ayyar, B. V.; Shanker, S.; Kaur, G.; Crawford, S.; Pollet, J.; Stossi, F.; Estes, M.",
+    "author_corresponding": "Bidadi PRASAD",
+    "author_corresponding_institution": "Baylor College of Medicine",
+    "date": "2023-08-25",
+    "version": "1",
+    "type": "new results",
+    "license": "cc_by_nc",
+    "category": "biochemistry",
+    "jatsxml": "https://www.biorxiv.org/content/early/2023/08/25/2023.08.24.554692.source.xml",
+    "abstract": "Biomolecular condensates are membrane-less cellular foci formed via liquid-liquid-phase separation (LLPS) of specific biological macromolecules to provide specialized compartments for regulating cellular functions. Many viral proteins undergo LLPS to form such condensates to support viral replication and evade host antiviral responses, and thus, these condensates are potential targets for designing antivirals. Human noroviruses (HuNoV) cause epidemic and sporadic gastroenteritis worldwide and are of significant health and economic burden. Here, we show that the RNA-dependent-RNA polymerase (RdRp) of the pandemic GII.4 HuNoV, which is essential for viral replication, forms distinct condensates capable of recruiting other viral replication components. Confocal microscopy and light scattering experiments show that RdRp phase separates into dynamic liquid-like condensates at physiological conditions. These condensates exhibit all the signature features of LLPS, including fluorescence recovery after photo-bleaching, droplet-fusion, surface wetting, and dripping in vitro and in live cells. More importantly, within these condensates, the RdRp exhibits a significant time-dependent increase in its enzymatic activity and recruits other components, such as RNA and the viral genome-linked protein (VPg), which are essential for viral replication. Such condensates, recognized by anti-RdRp antibodies, are observed in HuNoV-infected human intestinal enteroid cultures. Together, our studies demonstrate a hitherto unsuspected activity of HuNoV RdRp to form LLPS, which we suggest provides distinct cellular sites for efficient viral replication and its regulation.",
+    "published": "NA",
+    "server": "biorxiv"
+  }
+]
