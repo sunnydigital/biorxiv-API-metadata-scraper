@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/2023.01.05.522938",
+    "title": "Competition co-immunoprecipitation reveals interactors of the chloroplast CPN60 chaperonin machinery",
+    "authors": "Ries, F.; Weil, H. L.; Herkt, C.; Muehlhaus, T.; Sommer, F.; Schroda, M.; Willmund, F.",
+    "author_corresponding": "Felix Willmund",
+    "author_corresponding_institution": "Technical University Kaiserslautern",
+    "date": "2023-01-05",
+    "version": "1",
+    "type": "new results",
+    "license": "cc_by_nc_nd",
+    "category": "molecular biology",
+    "jatsxml": "https://www.biorxiv.org/content/early/2023/01/05/2023.01.05.522938.source.xml",
+    "abstract": "The functionality of essential metabolic processes in chloroplasts depends on a balanced integration of nuclear-and chloroplast-encoded polypeptides into the plastids proteome. The chloroplast chaperonin machinery is an essential player in chloroplast protein folding with a more intricate structure and subunit composition compared to the orthologous GroEL/ES chaperonin of Escherichia coli. However, its exact role in chloroplasts remains obscure, mainly because of a very limited knowledge about the folded substrates. We employed the competition immunoprecipitation method for the identification of the chaperonins substrates in Chlamydomonas reinhardtii. Co-immunoprecipitation of the target complex in the presence of increasing amounts of isotope-labelled competitor epitope and subsequent mass spectrometry analysis specifically allowed to distinguish true interactors from unspecifically co-precipitated proteins. Besides known substrates such as RbcL, we revealed numerous new substrates with high confidence. Identified substrate proteins differ from bulk chloroplast proteins by a higher content of beta-sheets, lower alpha-helical content and increased aggregation propensity. Immunoprecipitations performed with a subunit of the co-chaperonin lid revealed the ClpP protease as a specific partner complex, with altered interactions during heat stress, pointing to a close collaboration of these machineries to maintain protein homeostasis in the chloroplast.",
+    "published": "10.1111/pce.14697",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/2023.01.05.522830",
+    "title": "Decapping factor Dcp2 controls mRNA abundance and translation to adjust metabolism and filamentation to nutrient availability",
+    "authors": "Vijjamarri, A. K.; Niu, X.; Vandermeulen, M. D.; Onu, C.; Zhang, F.; Qiu, H.; Gupta, N.; Gaikwad, S.; Greenberg, M.; Cullen, P.; Lin, Z.; Hinnebusch, A. G.",
+    "author_corresponding": "Alan G Hinnebusch",
+    "author_corresponding_institution": "Eunice Kennedy Shriver National Institute of Child Health and Human Development",
+    "date": "2023-01-05",
+    "version": "1",
+    "type": "new results",
+    "license": "cc0",
+    "category": "molecular biology",
+    "jatsxml": "https://www.biorxiv.org/content/early/2023/01/05/2023.01.05.522830.source.xml",
+    "abstract": "Degradation of most yeast mRNAs involves decapping by Dcp1/Dcp2. DEAD-box protein Dhh1 has been implicated as an activator of decapping, in coupling codon non-optimality to enhanced degradation, and as a translational repressor, but its functions in cells are incompletely understood. RNA-Seq analyses coupled with CAGE sequencing of all capped mRNAs revealed increased abundance of hundreds of mRNAs in dcp2{Delta} cells that appears to result directly from impaired decapping rather than elevated transcription, which was confirmed by ChIP-Seq analysis of RNA Polymerase II occupancies genome-wide. Interestingly, only a subset of mRNAs requires Dhh1 for targeting by Dcp2, and also generally requires the other decapping activators Pat1, Lsm2, Edc3 or Scd6; whereas most of the remaining transcripts utilize NMD factors for Dcp2-mediated turnover. Neither inefficient translation initiation nor stalled elongation appears to be a major driver of Dhh1-enhanced mRNA degradation. Surprisingly, ribosome profiling revealed that dcp2{Delta} confers widespread changes in relative TEs that generally favor well-translated mRNAs. Because ribosome biogenesis is reduced while capped mRNA abundance is increased by dcp2{Delta}, we propose that an increased ratio of mRNA to ribosomes increases competition among mRNAs for limiting ribosomes to favor efficiently translated mRNAs in dcp2{Delta} cells. Interestingly, genes involved in respiration or utilization of alternative carbon or nitrogen sources are derepressed, and both mitochondrial function and cell filamentation (a strategy for nutrient foraging) are elevated by dcp2{Delta}, suggesting that mRNA decapping sculpts gene expression post-transcriptionally to fine-tune metabolic pathways and morphological transitions according to nutrient availability.",
+    "published": "NA",
+    "server": "biorxiv"
+  }
+]

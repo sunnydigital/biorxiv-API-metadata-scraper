@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/2022.01.25.477739",
+    "title": "Target-dependent siRNA suppression distinguishes self from non-self endogenous siRNAs in C. elegans germline",
+    "authors": "Gajic, Z.; Kaur, D.; Gu, S. G.",
+    "author_corresponding": "Sam G Gu",
+    "author_corresponding_institution": "Rutgers University",
+    "date": "2022-01-26",
+    "version": "1",
+    "type": "new results",
+    "license": "cc_by_nc_nd",
+    "category": "molecular biology",
+    "jatsxml": "https://www.biorxiv.org/content/early/2022/01/26/2022.01.25.477739.source.xml",
+    "abstract": "Despite their prominent role in transposon silencing, expression of endo-siRNAs is not limited to the \"non-self\" DNA elements. Transcripts of protein-coding genes (\"self\" DNA) in some cases also produce endo-siRNAs in yeast, plants, and animals [1]. How cells distinguish these two populations of siRNAs to prevent unwanted silencing of self-genes in animals is not well understood. To address this question, we examined the expression of ectopic siRNAs from an LTR retrotransposon in C. elegans germline. We found that the abundance of ectopic siRNAs was dependent on their homologous target genes: ectopic siRNAs against genes expressed only in somatic cells can be abundantly expressed. In contrast, ectopic siRNAs against germline-expressed genes are often suppressed. This phenomenon, which we termed \"target-directed siRNA suppression\", is dependent on the target mRNA and requires germline P-granule components. We found that siRNA suppression can also occur to naturally produced endo-siRNAs. We suggest that siRNA suppression plays an important role in regulating siRNA expression and preventing self-genes from aberrant epigenetic silencing.",
+    "published": "NA",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/2022.01.26.477833",
+    "title": "Interaction of the Proline-Rich Domain of Fission Yeast WASp (Ws1p1) with Actin Filaments",
+    "authors": "Pollard, T. D.; Rosenbloom, A. D.",
+    "author_corresponding": "Thomas D.  Pollard",
+    "author_corresponding_institution": "Yale University",
+    "date": "2022-01-26",
+    "version": "1",
+    "type": "new results",
+    "license": "cc_by",
+    "category": "biochemistry",
+    "jatsxml": "https://www.biorxiv.org/content/early/2022/01/26/2022.01.26.477833.source.xml",
+    "abstract": "BackgroundThe Wiskott-Aldrich Syndrome protein (WASp) family of proteins plays a crucial role in the activation of the Arp2/3 (actin-related protein 2/3) complex to promote the branching of actin filaments. The proline-rich domain (PRD) of WASp is known to contribute to branching nucleation but was overlooked, until experiments showed that the PRD of budding yeast Las17 can bind actin filaments (1).\n\nMethodsWe purified recombinant proline-rich domains from fission yeast S. pombe Wsp1 and budding yeast S. cerevisiae Las17 to test in biochemical assays of actin binding and polymerization.\n\nResultsThe PRD of the S. pombe Wsp1 binds actin filaments with micromolar affinity. The PRDs of both Wsp1 and Las17 slowed the rate of actin filament elongation by Mg-ATP-actin monomers by half and slowed the spontaneous polymerization of Mg-ATP-actin monomers modestly.\n\nConclusionThe affinity of PRDs of WASp-family proteins for actin filaments is high enough to contribute to the reported stimulation of actin filament branching by Arp2/3 complex.",
+    "published": "NA",
+    "server": "biorxiv"
+  }
+]
