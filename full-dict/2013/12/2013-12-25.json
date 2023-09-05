@@ -1,0 +1,18 @@
+[
+  {
+    "doi": "10.1101/000950",
+    "title": "An XA21-Associated Kinase (OsSERK2) regulates immunity mediated by the XA21 and XA3 immune receptors",
+    "authors": "Xuewei Chen;Shimin Zuo;Benjamin Schwessinger;Mawsheng Chern;Patrick Canlas;Deling Ruan;Arsalan Daudi;Xiaogang Zhang;Jing Wang;Christopher Petzold;Joshua Heazlewood;Pamela C Ronald;",
+    "author_corresponding": "Pamela C Ronald",
+    "author_corresponding_institution": "Department of Plant Pathology and the Genome Center, University of California, Davis, California 956",
+    "date": "2013-12-25",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Plant Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2013/12/25/000950.source.xml",
+    "abstract": "The rice XA21 immune receptor kinase and the structurally related XA3 receptor, confer immunity to Xanthomonas oryzae pv. oryzae (Xoo), the causal agent of bacterial leaf blight. Here we report the isolation of OsSERK2 (rice somatic embryogenesis receptor kinase 2) and demonstrate that OsSERK2 positively regulates immunity mediated by XA21 and XA3 as well as the rice immune receptor FLS2 (OsFLS2). Rice plants silenced for OsSerk2 display altered morphology and reduced sensitivity to the hormone brassinolide. OsSERK2 interacts with the intracellular domains of each immune receptor in the yeast-two-hybrid system in a kinase activity dependent manner. OsSERK2 undergoes bidirectional trans-phosphorylation with XA21 in vitro and forms a constitutive complex with XA21 in vivo. These results demonstrate an essential role for OsSERK2 in the function of three rice immune receptors and suggest that direct interaction with the rice immune receptors is critical for their function. Taken together, our findings suggest that the mechanism of OsSERK2-meditated regulation of rice XA21, XA3 and FLS2 differs from that of AtSERK3/BAK1-mediated regulation of Arabidopsis FLS2 and EFR.",
+    "published": "10.1093/mp/ssu003",
+    "server": "biorxiv"
+  }
+]

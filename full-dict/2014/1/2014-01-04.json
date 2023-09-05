@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/001677",
+    "title": "Beyond species: why ecological interaction networks vary through space and time",
+    "authors": "Timoth\u00e9e Poisot;Daniel B Stouffer;Dominique Gravel;",
+    "author_corresponding": "Timoth\u00e9e  Poisot",
+    "author_corresponding_institution": "Universit\u00e9 du Qu\u00e9bec \u00e0 Rimouski",
+    "date": "2014-01-04",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_by_nd",
+    "category": "Ecology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/01/04/001677.source.xml",
+    "abstract": "Community ecology is tasked with the considerable challenge of predicting the structure, and properties, of emerging ecosystems. It requires the ability to understand how and why species interact, as this will allow the development of mechanism-based predictive models, and as such to better characterize how ecological mechanisms act locally on the existence of interspecific interactions. Here we argue that the current conceptualization of species interaction networks is ill-suited for this task. Instead, we propose that future research must start to account for the intrinsic variability of species interactions, then scale up from here onto complex networks. This can be accomplished simply by recognizing that there exists intra-specific variability, in traits or properties related to the establishment of species interactions. By shifting the scale towards population-based processes, we show that this new approach will improve our predictive ability and mechanistic understanding of how species interact over large spatial or temporal scales.",
+    "published": "10.1111/oik.01719",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/001172",
+    "title": "Species Delimitation using Genome-Wide SNP Data",
+    "authors": "Adam Leache;Matthew Fujita;Vladimir Minin;Remco Bouckaert;",
+    "author_corresponding": "Adam  Leache",
+    "author_corresponding_institution": "University of Washington",
+    "date": "2014-01-04",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Evolutionary Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/01/04/001172.source.xml",
+    "abstract": "The multi-species coalescent has provided important progress for evolutionary inferences, including increasing the statistical rigor and objectivity of comparisons among competing species delimitation models. However, Bayesian species delimitation methods typically require brute force integration over gene trees via Markov chain Monte Carlo (MCMC), which introduces a large computation burden and precludes their application to genomic-scale data. Here we combine a recently introduced dynamic programming algorithm for estimating species trees that bypasses MCMC integration over gene trees with sophisticated methods for estimating marginal likelihoods, needed for Bayesian model selection, to provide a rigorous and computationally tractable technique for genome-wide species delimitation. We provide a critical yet simple correction that brings the likelihoods of different species trees, and more importantly their corresponding marginal likelihoods, to the same common denominator, which enables direct and accurate comparisons of competing species delimitation models using Bayes factors. We test this approach, which we call Bayes factor delimitation (*with genomic data; BFD*), using common species delimitation scenarios with computer simulations. Varying the numbers of loci and the number of samples suggest that the approach can distinguish the true model even with few loci and limited samples per species. Misspecification of the prior for population size{theta} has little impact on support for the true model. We apply the approach to West African forest geckos (Hemidactylus fasciatus complex) using genome-wide SNP data data. This new Bayesian method for species delimitation builds on a growing trend for objective species delimitation methods with explicit model assumptions that are easily tested.",
+    "published": "10.1093/sysbio/syu018",
+    "server": "biorxiv"
+  }
+]

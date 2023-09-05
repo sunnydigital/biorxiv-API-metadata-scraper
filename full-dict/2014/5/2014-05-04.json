@@ -1,0 +1,18 @@
+[
+  {
+    "doi": "10.1101/004713",
+    "title": "Spatial localization of recent ancestors for admixed individuals",
+    "authors": "Wen-Yun Yang;Alexander Platt;Charleston Wen-Kai Chiang;Eleazar Eskin;John Novembre;Bogdan Pasaniuc;",
+    "author_corresponding": "Bogdan  Pasaniuc",
+    "author_corresponding_institution": "University of California Los Angeles",
+    "date": "2014-05-04",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Genetics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/05/04/004713.source.xml",
+    "abstract": "Ancestry analysis from genetic data plays a critical role in studies of human disease and evolution. Recent work has introduced explicit models for the geographic distribution of genetic variation and has shown that such explicit models yield superior accuracy in ancestry inference over non-model-based methods. Here we extend such work to introduce a method that models admixture between ancestors from multiple sources across a geographic continuum. We devise efficient algorithms based on hidden Markov models to localize on a map the recent ancestors (e.g. grandparents) of admixed individuals, joint with assigning ancestry at each locus in the genome. We validate our methods using empirical data from individuals with mixed European ancestry from the POPRES study and show that our approach is able to localize their recent ancestors within an average of 470Km of the reported locations of their grandparents. Furthermore, simulations from real POPRES genotype data show that our method attains high accuracy in localizing recent ancestors of admixed individuals in Europe (an average of 550Km from their true location for localization of 2 ancestries in Europe, 4 generations ago). We explore the limits of ancestry localization under our approach and find that performance decreases as the number of distinct ancestries and generations since admixture increases. Finally, we build a map of expected localization accuracy across admixed individuals according to the location of origin within Europe of their ancestors.\\n\\nAuthor SummaryInferring ancestry from genetic data forms a fundamental problem with applications ranging from localizing disease genes to inference of human history. Recent approaches have introduced models of genetic variation as a function of geography and have shown that such models yield high accuracies in ancestry inference from genetic data. In this work we propose methods for modeling the mixing of genetic data from different sources (i.e. admixture process) in a genetic-geographic continuum and show that using these methods we can accurately infer the ancestry of the recent ancestors (e.g. grandparents) from genetic data.",
+    "published": "10.1534/g3.114.014274",
+    "server": "biorxiv"
+  }
+]

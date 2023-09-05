@@ -1,0 +1,18 @@
+[
+  {
+    "doi": "10.1101/009100",
+    "title": "Conservation and structural analysis of the Xenopus laevis phospho-proteome",
+    "authors": "Jeffrey R Johnson;Silvia D Santos;Tasha Johnson;Ursula Pieper;Andrej Sali;Nevan J Krogan;Pedro Beltrao;",
+    "author_corresponding": "Pedro  Beltrao",
+    "author_corresponding_institution": "EMBL-EBI",
+    "date": "2014-09-14",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by",
+    "category": "Evolutionary Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/09/14/009100.source.xml",
+    "abstract": "The African clawed frog Xenopus laevis is an important model organism for studies in developmental and cell biology, including cell-signaling. However, our knowledge of X. laevis protein post-translational modifications remains scarce. Here, we used a mass spectrometry-based approach to survey the phosphoproteome of this species, compiling a list of 3225 phosphosites. We used this resource to study the conservation between the phosphoproteomes of X. laevis and 13 other species. We found that the degree of conservation of phosphorylation across species is predictive of sites with known molecular function, kinase interactions and functionally relevant phospho-regulatory interactions. In addition, using comparative protein structure models, we find that phosphosites within structured domains tend to be located at positions with high conformational flexibility. A fraction of sites appear to occur in inaccessible positions and have the potential to regulate protein conformation.",
+    "published": "NA",
+    "server": "biorxiv"
+  }
+]

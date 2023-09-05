@@ -1,0 +1,18 @@
+[
+  {
+    "doi": "10.1101/001834",
+    "title": "Illumina TruSeq synthetic long-reads empower de novo assembly and resolve complex, highly repetitive transposable elements",
+    "authors": "Rajiv C McCoy;Ryan W Taylor;Timothy A Blauwkamp;Joanna L Kelley;Michael Kertesz;Dmitry Pushkarev;Dmitri A Petrov;Anna-Sophie Fiston-Lavier;",
+    "author_corresponding": "Rajiv C McCoy",
+    "author_corresponding_institution": "Stanford University",
+    "date": "2014-06-17",
+    "version": "6",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Genomics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/06/17/001834.source.xml",
+    "abstract": "High-throughput DNA sequencing technologies have revolutionized genomic analysis, including the de novo assembly of whole genomes. Nevertheless, assembly of complex genomes remains challenging, in part due to the presence of dispersed repeats which introduce ambiguity during genome reconstruction. Transposable elements (TEs) can be particularly problematic, especially for TE families exhibiting high sequence identity, high copy number, or present in complex genomic arrangements. While TEs strongly affect genome function and evolution, most current de novo assembly approaches cannot resolve long, identical, and abundant families of TEs. Here, we applied a novel Illumina technology called TruSeq synthetic long-reads, which are generated through highly parallel library preparation and local assembly of short read data and achieve lengths of 1.5-18.5 Kbp with an extremely low error rate ([~]0.03% per base). To test the utility of this technology, we sequenced and assembled the genome of the model organism Drosophila melanogaster (reference genome strain y;cn,bw,sp) achieving an N50 contig size of 69.7 Kbp and covering 96.9% of the euchromatic chromosome arms of the current reference genome. TruSeq synthetic long-read technology enables placement of individual TE copies in their proper genomic locations as well as accurate reconstruction of TE sequences. We entirely recovered and accurately placed 4,229 (77.8%) of the 5,434 of annotated transposable elements with perfect identity to the current reference genome. As TEs are ubiquitous features of genomes of many species, TruSeq synthetic long-reads, and likely other methods that generate long reads, offer a powerful approach to improve de novo assemblies of whole genomes.",
+    "published": "10.1371/journal.pone.0106689",
+    "server": "biorxiv"
+  }
+]

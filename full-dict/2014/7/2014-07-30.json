@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/007518",
+    "title": "Reproductive isolation of hybrid populations driven by genetic incompatibilities",
+    "authors": "Molly Schumer;Rongfeng Cui;Gil G Rosenthal;Peter Andolfatto;",
+    "author_corresponding": "Molly  Schumer",
+    "author_corresponding_institution": "Princeton University",
+    "date": "2014-07-30",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Evolutionary Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/07/30/007518.source.xml",
+    "abstract": "Despite its role in homogenizing populations, hybridization has also been proposed as a means to generate new species. The conceptual basis for this idea is that hybridization can result in novel phenotypes through recombination between the parental genomes, allowing a hybrid population to occupy ecological niches unavailable to parental species. A key feature of these models is that these novel phenotypes ecologically isolate hybrid populations from parental populations, precipitating speciation. Here we present an alternative model of the evolution of reproductive isolation in hybrid populations that occurs as a simple consequence of selection against incompatibilities. Unlike previous models, our model does not require small population sizes, the availability of new niches for hybrids or ecological or sexual selection on hybrid traits. We show that reproductive isolation between hybrids and parents evolves frequently and rapidly under this model, even in the presence of substantial ongoing migration with parental species and strong selection against hybrids. Our model predicts that multiple distinct hybrid species can emerge from replicate hybrid populations formed from the same parental species, potentially generating patterns of species diversity and relatedness that resemble an adaptive radiation.",
+    "published": "10.1371/journal.pgen.1005041",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/005850",
+    "title": "The Genetic Legacy of the Expansion of Turkic-Speaking Nomads Across Eurasia",
+    "authors": "Bayazit Yunusbayev;Mait Metspalu;Ene Metspalu;Albert Valeev;Sergei Litvinov;Ruslan Valiev;Vita Akhmetova;Elena Balanovska;Oleg Balanovsky;Shahlo Turdikulova;Dilbar Dalimova;Pagbajabyn Nymadawa;Ardeshir Bahmanimehr;Hovhannes Sahakyan;Kristiina Tambets;Sardana Fedorova;Nikolay Barashkov;Irina Khidiatova;Evelin Mihailov;Rita Khusainova;Larisa Damba;Miroslava Derenko;Boris Malyarchuk;Ludmila Osipova;Mikhail Voevoda;Levon Yepiskoposyan;Toomas Kivisild;Elza Khusnutdinova;Richard Villems;",
+    "author_corresponding": "Bayazit  Yunusbayev",
+    "author_corresponding_institution": "Estonian Biocentre",
+    "date": "2014-07-30",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by",
+    "category": "Genetics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/07/30/005850.source.xml",
+    "abstract": "The Turkic peoples represent a diverse collection of ethnic groups defined by the Turkic languages. These groups have dispersed across a vast area, including Siberia, Northwest China, Central Asia, East Europe, the Caucasus, Anatolia, the Middle East, and Afghanistan. The origin and early dispersal history of the Turkic peoples is disputed, with candidates for their ancient homeland ranging from the Transcaspian steppe to Manchuria in Northeast Asia. Previous genetic studies have not identified a clear-cut unifying genetic signal for the Turkic peoples, which lends support for language replacement rather than demic diffusion as the model for the Turkic languages expansion. We addressed the genetic origin of 373 individuals from 22 Turkic-speaking populations, representing their current geographic range, by analyzing genome-wide high-density genotype data. Most of the Turkic peoples studied, except those in Central Asia, genetically resembled their geographic neighbors, in agreement with the elite dominance model of language expansion. However, western Turkic peoples sampled across West Eurasia shared an excess of long chromosomal tracts that are identical by descent (IBD) with populations from present-day South Siberia and Mongolia (SSM), an area where historians center a series of early Turkic and non-Turkic steppe polities. The observed excess of long chromosomal tracts IBD (> 1cM) between populations from SSM and Turkic peoples across West Eurasia was statistically significant. Finally, we used the ALDER method and inferred admixture dates ([~]9th-17th centuries) that overlap with the Turkic migrations of the 5th-16th centuries. Thus, our results indicate historical admixture among Turkic peoples, and the recent shared ancestry with modern populations in SSM supports one of the hypothesized homelands for their nomadic Turkic and related Mongolic ancestors.\\n\\nAuthor SummaryCenturies of nomadic migrations have ultimately resulted in the distribution of Turkic languages over a large area ranging from Siberia, across Central Asia to Eastern Europe and the Middle East. Despite the profound cultural impact left by these nomadic peoples, little is known about their prehistoric origins. Moreover, because contemporary Turkic speakers tend to genetically resemble their geographic neighbors, it is not clear whether their nomadic ancestors left an identifiable genetic trace. In this study, we show that Turkic-speaking peoples sampled across the Middle East, Caucasus, East Europe, and Central Asia share varying proportions of Asian ancestry that originate in a single area, southern Siberia and Mongolia. Mongolic- and Turkic-speaking populations from this area bear an unusually high number of long chromosomal tracts that are identical by descent with Turkic peoples from across west Eurasia. Admixture induced linkage disequilibrium decay across chromosomes in these populations indicates that admixture occurred during the 9th-17th centuries, in agreement with the historically recorded Turkic nomadic migrations and later Mongol expansion. Thus, our findings reveal genetic traces of recent large-scale nomadic migrations and map their source to a previously hypothesized area of Mongolia and southern Siberia.",
+    "published": "10.1371/journal.pgen.1005068",
+    "server": "biorxiv"
+  }
+]

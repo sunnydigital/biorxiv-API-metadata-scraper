@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/013573",
+    "title": "SWS2 visual pigment evolution as a test of historically contingent patterns of plumage color evolution in Warblers",
+    "authors": "Natasha Bloch;James M Morrow;Belinda SW Chang;Trevor D Price;",
+    "author_corresponding": "Natasha  Bloch",
+    "author_corresponding_institution": "University of Chicago",
+    "date": "2015-01-09",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Evolutionary Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/01/09/013573.source.xml",
+    "abstract": "Distantly related clades that occupy similar environments may differ due to the lasting imprint of their ancestors - historical contingency. The New World warblers (Parulidae) and Old World warblers (Phylloscopidae) are ecologically similar clades that differ strikingly in plumage coloration. We studied genetic and functional evolution of the short-wavelength sensitive visual pigments (SWS2 and SWS1) to ask if altered color perception could contribute to the plumage color differences between clades. We show SWS2 is short-wavelength shifted in birds that occupy open environments, such as finches, compared to those in closed environments, including warblers. Sequencing of opsin genes and phylogenetic reconstructions indicate New World warblers were derived from a finch-like form that colonized from the Old World 15-20Ma. During this process the SWS2 gene accumulated 6 substitutions in branches leading to New World warblers, inviting the hypothesis that passage through a finch-like ancestor resulted in SWS2 evolution. In fact, we show spectral tuning remained similar across warblers as well as the finch ancestor. Results reject the hypothesis of historical contingency based on opsin spectral tuning, but point to evolution of other aspects of visual pigment function. Using the approach outlined here, historical contingency becomes a generally testable theory in systems where genotype and phenotype can be connected.",
+    "published": "10.1111/evo.12572",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/013607",
+    "title": "Independent molecular basis of convergent highland adaptation in maize",
+    "authors": "Shohei Takuno;Peter Ralph;Kelly Swarts;Rob J Elshire;Jeffrey C Glaubitz;Edward S. Buckler;Matthew B Hufford;Jeffrey Ross-Ibarra;",
+    "author_corresponding": "Jeffrey  Ross-Ibarra",
+    "author_corresponding_institution": "UCDavis",
+    "date": "2015-01-09",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Evolutionary Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/01/09/013607.source.xml",
+    "abstract": "Convergent evolution is the independent evolution of similar traits in different species or lineages of the same species; this often is a result of adaptation to similar environments, a process referred to as convergent adaptation. We investigate here the molecular basis of convergent adaptation in maize to highland climates in Mesoamerica and South America using genome-wide SNP data. Taking advantage of archaeological data on the arrival of maize to the highlands, we infer demographic models for both populations, identifying evidence of a strong bottleneck and rapid expansion in South America. We use these models to then identify loci showing an excess of differentiation as a means of identifying putative targets of natural selection, and compare our results to expectations from recently developed theory on convergent adaptation. Consistent with predictions across a wide parameter space, we see limited evidence for convergent evolution at the nucleotide level in spite of strong similarities in overall phenotypes. Instead, we show that selection appears to have predominantly acted on standing genetic variation, and that introgression from wild teosinte populations appears to have played a role in highland adaptation in Mexican maize.",
+    "published": "10.1534/genetics.115.178327",
+    "server": "biorxiv"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "doi": "10.1101/001545",
+    "title": "Exploring community structure in biological networks with random graphs",
+    "authors": "Pratha Sah;Lisa O. Singh;Aaron Clauset;Shweta Bansal;",
+    "author_corresponding": "Shweta  Bansal",
+    "author_corresponding_institution": "Georgetown University",
+    "date": "2014-06-02",
+    "version": "3",
+    "type": "New Results",
+    "license": "cc_by",
+    "category": "Bioinformatics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/06/02/001545.source.xml",
+    "abstract": "BackgroundCommunity structure is ubiquitous in biological networks. There has been an increased interest in unraveling the community structure of biological systems as it may provide important insights into a systems functional components and the impact of local structures on dynamics at a global scale. Choosing an appropriate community detection algorithm to identify the community structure in an empirical network can be difficult, however, as the many algorithms available are based on a variety of cost functions and are difficult to validate. Even when community structure is identified in an empirical system, disentangling the effect of community structure from other network properties such as clustering coefficient and assortativity can be a challenge.\\n\\nResultsHere, we develop a generative model to produce undirected, simple, connected graphs with a specified degrees and pattern of communities, while maintaining a graph structure that is as random as possible. Additionally, we demonstrate two important applications of our model: (a) to generate networks that can be used to benchmark existing and new algorithms for detecting communities in biological networks; and (b) to generate null models to serve as random controls when investigating the impact of complex network features beyond the byproduct of degree and modularity in empirical biological networks.\\n\\nConclusionOur model allows for the systematic study of the presence of community structure and its impact on network function and dynamics. This process is a crucial step in unraveling the functional consequences of the structural properties of biological systems and uncovering the mechanisms that drive these systems.",
+    "published": "10.1186/1471-2105-15-220",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/001347",
+    "title": "Evaluating the use of ABBA-BABA statistics to locate introgressed loci",
+    "authors": "Simon H. Martin;John W. Davey;Chris D. Jiggins;",
+    "author_corresponding": "Simon H. Martin",
+    "author_corresponding_institution": "University of Cambridge",
+    "date": "2014-06-02",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_by",
+    "category": "Evolutionary Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/06/02/001347.source.xml",
+    "abstract": "Several methods have been proposed to test for introgression across genomes. One method tests for a genome-wide excess of shared derived alleles between taxa using Pattersons D statistic, but does not establish which loci show such an excess or whether the excess is due to introgression or ancestral population structure. Several recent studies have extended the use of D by applying the statistic to small genomic regions, rather than genome-wide. Here, we use simulations and whole genome data from Heliconius butterflies to investigate the behavior of D in small genomic regions. We find that D is unreliable in this situation as it gives inflated values when effective population size is low, causing D outliers to cluster in genomic regions of reduced diversity. As an alternative, we propose a related statistic [Formula] a modified version of a statistic originally developed to estimate the genome-wide fraction of admixture. [Formula] is not subject to the same biases as D, and is better at identifying introgressed loci. Finally, we show that both D and [Formula] outliers tend to cluster in regions of low absolute divergence (dXY), which can confound a recently proposed test for differentiating introgression from shared ancestral variation at individual loci.",
+    "published": "10.1093/molbev/msu269",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/005249",
+    "title": "A field test for frequency-dependent selection on mimetic colour patterns in Heliconius butterflies",
+    "authors": "Patricio Alejandro Salazar Carri\u00f3n;Martin Stevens;Robert T. Jones;Imogen Ogilvie;Chris Jiggins;",
+    "author_corresponding": "Patricio Alejandro Salazar Carri?n",
+    "author_corresponding_institution": "Universidad Tecnol?gica Indoam?rica",
+    "date": "2014-06-02",
+    "version": "1",
+    "type": "Contradictory Results",
+    "license": "cc_no",
+    "category": "Evolutionary Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/06/02/005249.source.xml",
+    "abstract": "Mullerian mimicry, the similarity among unpalatable species, is thought to evolve by frequency-dependent selection. Accordingly, phenotypes that become established in an area are positively selected because predators have learnt to avoid these forms, while introduced phenotypes are eliminated because predators have not yet learnt to associate these other forms with unprofitability. We tested this prediction in two areas where different colour morphs of the mimetic species Heliconius erato and H. melpomene have become established, as well as in the hybrid zone between these morphs. In each area we tested for selection on three colour patterns: the two parental and the most common hybrid. We recorded bird predation on butterfly models with paper wings, matching the appearance of each morph to bird vision, and plasticine bodies. We did not detect differences in survival between colour morphs, but all morphs were more highly attacked in the hybrid zone. This finding is consistent with recent evidence from controlled experiments with captive birds, which suggest that the effectiveness of warning signals decreases when a large signal diversity is available to predators. This is likely to occur in the hybrid zone where over twenty hybrid phenotypes coexist.",
+    "published": "NA",
+    "server": "biorxiv"
+  }
+]

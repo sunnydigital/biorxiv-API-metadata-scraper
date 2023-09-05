@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/010488",
+    "title": "Making sense of RNA-Seq data: from low-level processing to functional analysis",
+    "authors": "Oleg Moskvin;Sean McIlwain;Irene Ong;",
+    "author_corresponding": "Oleg  Moskvin",
+    "author_corresponding_institution": "University of Wisconsin-Madison",
+    "date": "2014-10-17",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Bioinformatics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/10/17/010488.source.xml",
+    "abstract": "Numerous methods of RNA-Seq data analysis have been developed, and there are more under active development. In this paper, our focus is on evaluating the impact of each processing stage; from pre-processing of sequencing reads to alignment/counting to count normalization to differential expression testing to downstream functional analysis, on the inferred functional pattern of biological response. We assess the impact of 6,912 combinations of technical and biological factors on the resulting signature of transcriptomic functional response. Given the absence of the ground truth, we use two complementary evaluation criteria: a) consistency of the functional patterns identified in two similar comparisons, namely effects of a naturally-toxic medium and a medium with artificially reconstituted toxicity, and b) consistency of results in RNA-Seq and microarray versions of the same study. Our results show that despite high variability at the low-level processing stage (read pre-processing, alignment and counting) and the differential expression calling stage, their impact on the inferred pattern of biological response was surprisingly low; they were instead overshadowed by the choice of the functional enrichment method. The latter have an impact comparable in magnitude to the impact of biological factors per se.",
+    "published": "NA",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/010496",
+    "title": "Using more than the oldest fossils: Dating Osmundaceae by three Bayesian clock approaches",
+    "authors": "Guido Grimm;Pashalia Kapli;Benjamin Bomfleur;Stephen McLoughlin;Susanne S Renner;",
+    "author_corresponding": "Guido  Grimm",
+    "author_corresponding_institution": "Swedish Museum of Natural History",
+    "date": "2014-10-17",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc",
+    "category": "Plant Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/10/17/010496.source.xml",
+    "abstract": "A major concern in molecular clock dating is how to use information from the fossil record to calibrate genetic distances from DNA sequences. Here we apply three Bayesian dating methods that differ in how calibration is achieved-- node dating(ND) in BEAST,  total evidence(TE) dating in MrBayes, and the  fossilised birth-death(FBD) in FDPPDiv--to infer divergence times in the Osmundaceae or royal ferns. Osmundaceae have 13 species in four genera, two mainly in the Northern Hemisphere and two in South Africa and Australasia; they are the sister clade to the remaining leptosporangiate ferns. Their fossil record consists of at least 150 species in [~]17 genera and three extinct families. For ND, we used the five oldest fossils, while for TE and FBD dating, which do not require forcing fossils to nodes and thus can use more fossils, we included up to 36 rhizome and frond compression/impression fossils, which for TE dating were scored for 33 morphological characters. We also subsampled 10%, 25%, and 50% of the 36 fossils to assess model sensitivity. FBD-derived divergence dates were generally greater than ages inferred from ND dating; two of seven TE-derived ages agreed with FBD-obtained ages, the others were much younger or much older than ND or FBD ages. We favour the FBD-derived ages because they best match the Osmundales fossil record (including Triassic fossils not used in our study). Under the preferred model, the clade encompassing extant Osmundaceae (and many fossils) dates to the latest Palaeozoic to Early Triassic; divergences of the extant species occurred during the Neogene. Under the assumption of constant speciation and extinction rates, FBD yielded 0.0299 (0.0099-0.0549) and 0.0240 (0.0039-0.0495) for these rates, whereas neontological data yielded 0.0314 and 0.0339. However, FBD estimates of speciation and extinction are sensitive to violations in the assumption of continuous fossil sampling, therefore these estimates should be treated with caution.#",
+    "published": "10.1093/sysbio/syu108",
+    "server": "biorxiv"
+  }
+]

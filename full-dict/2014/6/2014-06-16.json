@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/003269",
+    "title": "Early warning signs in social-ecological networks",
+    "authors": "Samir Suweis;Paolo D'Odorico;",
+    "author_corresponding": "Paolo  D'Odorico",
+    "author_corresponding_institution": "University of Virginia",
+    "date": "2014-06-16",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Ecology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/06/16/003269.source.xml",
+    "abstract": "A number of social-ecological systems exhibit complex behaviour associated with nonlinearities, bifurcations, and interaction with stochastic drivers. These systems are often prone to abrupt and unexpected instabilities and state shifts that emerge as a discontinuous response to gradual changes in environmental drivers. Predicting such behaviours is crucial to the prevention of or preparation for unwanted regime shifts. Recent research in ecology has investigated early warning signs that anticipate the divergence of univariate ecosystem dynamics from a stable attractor. To date, leading indicators of instability in systems with multiple interacting components have remained poorly investigated. This is a major limitation in the understanding of the dynamics of complex social-ecological networks. Here, we develop a theoretical framework to demonstrate that rising variance - measured, for example, by the maximum element of the covariance matrix of the network - is an effective leading indicator of network instability. We show that its reliability and robustness depend more on the sign of the interactions within the network than the network structure or noise intensity. Mutualistic, scale free and small world networks are less stable than their antagonistic or random counterparts but their instability is more reliably predicted by this leading indicator. These results provide new advances in multidimensional early warning analysis and offer a framework to evaluate the resilience of social-ecological networks.",
+    "published": "10.1371/journal.pone.0101851",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/006247",
+    "title": "Comparison of the 3D organization of sperm and fibroblast genomes using the Hi-C approach",
+    "authors": "Nariman Battulin;Veniamin S Fishman;Alexander M Mazur;Mikhail Pomaznoy;Anna A Khabarova;Dmitry A Afonnikov;Egor B Prokhortchouk;Oleg L Serov;",
+    "author_corresponding": "Oleg L Serov",
+    "author_corresponding_institution": "Institute of Cytology and Genetics, Novosibirsk, Russia",
+    "date": "2014-06-16",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nd",
+    "category": "Developmental Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/06/16/006247.source.xml",
+    "abstract": "The 3D organization of the genome is tightly connected to its biological function. The Hi-C approach was recently introduced as a method that can be used to identify higher-order chromatin interactions genome-wide. The aim of this study was to determine genome-wide chromatin interaction frequencies using the Hi-C approach in mouse sperm cells and embryonic fibroblasts. The obtained results demonstrated that the 3D genome organizations of sperm and fibroblast cells show a high degree of similarity both with each other and with the previously described mouse embryonic stem (ES) cells. Both A- and B-compartments and topologically associated domains (TADs) are present in spermatozoa and fibroblasts. Nevertheless, sperm cells and fibroblasts exhibited statistically significant differences between each other in the contact probabilities of defined loci. Tight packaging of the sperm genome resulted in an enrichment of long-range contacts compared with the fibroblasts. However, only 30% of the differences in the number of contacts are based on differences in the densities of their genome packages; the main source of the differences is the gain or loss of contacts that are specific for defined genome regions. An analysis of interchromosomal contacts in both cell types demonstrated that the large chromosomes showed a tendency to interact with each other more than with the small chromosomes and vice versa. We found that the dependence of the contact probability P(s) on genomic distance for sperm is in a good agreement with the fractal globular folding of chromatin. The similarity of the spatial DNA organization in sperm and somatic cell genomes suggests the stability of the 3D structure of genomes through generations.",
+    "published": "10.1186/s13059-015-0642-0",
+    "server": "biorxiv"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/003053",
+    "title": "A tug-of-war between driver and passenger mutations in cancer and other adaptive processes",
+    "authors": "Christopher Dennis McFarland;Leonid A Mirny;Kirill S Korolev;",
+    "author_corresponding": "Leonid A Mirny",
+    "author_corresponding_institution": "Massachusetts Institute of Technology",
+    "date": "2014-02-26",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by",
+    "category": "Cancer Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/02/26/003053.source.xml",
+    "abstract": "Cancer progression is an example of a rapid adaptive process where evolving new traits is essential for survival and requires a high mutation rate. Precancerous cells acquire a few key mutations that drive rapid population growth and carcinogenesis. Cancer genomics demonstrates that these few  driver mutations occur alongside thousands of random  passenger mutations--a natural consequence of cancers elevated mutation rate. Some passengers can be deleterious to cancer cells, yet have been largely ignored in cancer research. In population genetics, however, the accumulation of mildly deleterious mutations has been shown to cause population meltdown. Here we develop a stochastic population model where beneficial drivers engage in a tug-of-war with frequent mildly deleterious passengers. These passengers present a barrier to cancer progression that is described by a critical population size, below which most lesions fail to progress, and a critical mutation rate, above which cancers meltdown. We find support for the model in cancer age-incidence and cancer genomics data that also allow us to estimate the fitness advantage of drivers and fitness costs of passengers. We identify two regimes of adaptive evolutionary dynamics and use these regimes to rationalize successes and failures of different treatment strategies. We find that a tumors load of deleterious passengers can explain previously paradoxical treatment outcomes and suggest that it could potentially serve as a biomarker of response to mutagenic therapies. The collective deleterious effect of passengers is currently an unexploited therapeutic target. We discuss how their effects might be exacerbated by both current and future therapies.",
+    "published": "10.1073/pnas.1404341111",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/003087",
+    "title": "Chromatin Loops as Allosteric Modulators of Enhancer-Promoter Interactions",
+    "authors": "Boryana Doyle;Geoffrey Fudenberg;Maxim Imakaev;Leonid Mirny;",
+    "author_corresponding": "Leonid  Mirny",
+    "author_corresponding_institution": "MIT",
+    "date": "2014-02-26",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Biophysics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/02/26/003087.source.xml",
+    "abstract": "The classic model of eukaryotic gene expression requires direct spatial contact between a distal enhancer and a proximal promoter. Recent Chromosome Conformation Capture (3C) studies show that enhancers and promoters are embedded in a complex network of looping interactions. Here we use a polymer model of chromatin fiber to investigate whether, and to what extent, looping interactions between elements in the vicinity of an enhancer-promoter pair can influence their contact frequency. Our equilibrium polymer simulations show that a chromatin loop, formed by elements flanking either an enhancer or a promoter, suppresses enhancer-promoter interactions, working as an insulator. A loop formed by elements located in the region between an enhancer and a promoter, on the contrary, facilitates their interactions. We find that different mechanisms underlie insulation and facilitation; insulation occurs due to steric exclusion by the loop, and is a global effect, while facilitation occurs due to an effective shortening of the enhancer-promoter genomic distance, and is a local effect. Consistently, we find that these effects manifest quite differently for in silico 3C and microscopy. Our results show that looping interactions that do not directly involve an enhancer-promoter pair can nevertheless significantly modulate their interactions. This phenomenon is analogous to allosteric regulation in proteins, where a conformational change triggered by binding of a regulatory molecule to one site affects the state of another site.\\n\\nAuthor SummaryIn eukaryotes, enhancers directly contact promoters over large genomic distances to regulate gene expression. Characterizing the principles underlying these long-range enhancer-promoter contacts is crucial for a full understanding of gene expression. Recent experimental mapping of chromosomal interactions by the Hi-C method shows an intricate network of local looping interactions surrounding enhancers and promoters. We model a region of chromatin fiber as a long polymer and study how the formation of loops between certain regulatory elements can insulate or facilitate enhancer-promoter interactions. We find 2-5 fold insulation or facilitation, depending on the location of looping elements relative to an enhancer-promoter pair. These effects originate from the polymer nature of chromatin, without requiring additional mechanisms beyond the formation of a chromatin loop. Our findings suggest that loop-mediated gene regulation by elements in the vicinity of an enhancer-promoter pair can be understood as an allosteric effect. This highlights the complex effects that local chromatin organization can have on gene regulation.",
+    "published": "10.1371/journal.pcbi.1003867",
+    "server": "biorxiv"
+  }
+]

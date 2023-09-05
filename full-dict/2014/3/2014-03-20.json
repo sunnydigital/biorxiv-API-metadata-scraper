@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/003400",
+    "title": "Optimizing Real Time fMRI Neurofeedback for Therapeutic Discovery and Development",
+    "authors": "Luke Stoeckel;Kathleen A. Garrison;Satrajit S Ghosh;Paul Wighton;Colleen A. Hanlon;Jodi M. Gilman;Stephanie Greer;Nicholas B. Turk-Browne;Megan T. deBettencourt;Dustin Scheinost;Cameron Craddock;Todd Thompson;Vanessa Calderon;Clemens C. Bauer;Mark George;Hans C. Breiter;Susan Whitfield-Gabrieli;John D. Gabrieli;Stephen M. LaConte;Laurence M. Hirshberg;Judson A. Brewer;Michelle Hampson;Andre Van Der Kouwe;Sean Mackey;Anne E Evins;",
+    "author_corresponding": "Luke  Stoeckel",
+    "author_corresponding_institution": "Massachusetts General Hospital and Harvard Medical School",
+    "date": "2014-03-20",
+    "version": "4",
+    "type": "New Results",
+    "license": "cc_by_nc",
+    "category": "Neuroscience ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/03/20/003400.source.xml",
+    "abstract": "While reducing the burden of brain disorders remains a top priority of organizations like the World Health Organization and National Institutes of Health (BRAIN, 2013), the development of novel, safe and effective treatments for brain disorders has been slow. In this paper, we describe the state of the science for an emerging technology, real time functional magnetic resonance imaging (rtfMRI) neurofeedback, in clinical neurotherapeutics. We review the scientific potential of rtfMRI and outline research strategies to optimize the development and application of rtfMRI neurofeedback as a next generation therapeutic tool. We propose that rtfMRI can be used to address a broad range of clinical problems by improving our understanding of brain-behavior relationships in order to develop more specific and effective interventions for individuals with brain disorders. We focus on the use of rtfMRI neurofeedback as a clinical neurotherapeutic tool to drive plasticity in brain function, cognition, and behavior. Our overall goal is for rtfMRI to advance personalized assessment and intervention approaches to enhance resilience and reduce morbidity by correcting maladaptive patterns of brain function in those with brain disorders.",
+    "published": "10.1016/j.nicl.2014.07.002",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/003475",
+    "title": "Divide and Conquer approach for Genome Classification based on subclass characterization",
+    "authors": "Siddanagouda Somanagouda Patil;Narasimha Murty Musti;Ulavappa Basvanneppa Angadi;",
+    "author_corresponding": "Siddanagouda Somanagouda Patil",
+    "author_corresponding_institution": "University of Agricultural Sciences",
+    "date": "2014-03-20",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Bioinformatics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/03/20/003475.source.xml",
+    "abstract": "Classification of large grass genome sequences has major challenges in functional genomes. The presence of motifs in grass genome chains can make the prediction of the functional behavior of grass genome possible. The correlation between grass genome properties and their motifs is not always obvious, since more than one motif may exist within a genome chain. Due to the complexity of this association most pattern classification algorithms are either vain or time consuming. Attempted to a reduction of high dimensional data that utilizes DAC technique is presented. Data are disjoining into equal multiple sets while preserving the original data distribution in each set. Then, multiple modules are created by using the data sets as independent training sets and classified into respective modules. Finally, the modules are combined to produce the final classification rules, containing all the previously extracted information. The methodology is tested using various grass genome data sets. Results indicate that the time efficiency of our algorithm is improved compared to other known data mining algorithms.",
+    "published": "NA",
+    "server": "biorxiv"
+  }
+]

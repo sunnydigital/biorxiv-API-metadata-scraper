@@ -1,0 +1,18 @@
+[
+  {
+    "doi": "10.1101/015511",
+    "title": "Ff-nano, Short Functionalized Nanorods Derived from Ff (f1, fd or M13) Filamentous Bacteriophage",
+    "authors": "Sadia Sattar;Nicholas J Bennett;Wesley Wen;Jenness M Guthrie;Len F Blackwell;James F Conway;Jasna Rakonjac;",
+    "author_corresponding": "Jasna  Rakonjac",
+    "author_corresponding_institution": "Massey University",
+    "date": "2015-02-22",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Bioengineering ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/02/22/015511.source.xml",
+    "abstract": "F-specific filamentous phage of Escherichia coli (Ff: f1, M13 or fd) are long thin filaments (860 nm x 6 nm). They have been a major workhorse in display technologies and bionanotechnology; however, some applications are limited by the high length-to-diameter ratio of Ff. Furthermore, use of functionalized Ff outside of laboratory containment is in part hampered by the fact that they are genetically modified viruses. We have now developed a system for production and purification of very short functionalized Ff-phage-derived nanorods, named Ff-nano, that are only 50 nm in length. In contrast to standard Ff-derived vectors that replicate in E. coli and contain antibiotic-resistance genes, Ff-nano are protein-DNA complexes that cannot replicate on their own and do not contain any coding sequences. These nanorods show an increased resistance to heating at 70 {degrees}C in 1 % SDS in comparison to the full-length Ff phage of the same coat composition. We demonstrate that functionalized Ff-nano particles are suitable for application as detection particles in sensitive and quantitative \\\"dipstick\\\" lateral flow diagnostic assay for human plasma fibronectin.",
+    "published": "10.3389/fmicb.2015.00316",
+    "server": "biorxiv"
+  }
+]

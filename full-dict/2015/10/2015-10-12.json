@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/022947",
+    "title": "Purging of deleterious variants due to drift and founder effect in Italian populations with extended autozygosity",
+    "authors": "Massimiliano Cocca;Marc Pybus;Pier Francesco Palamara;Erik Garrison;Michela Traglia;Cinzia F Sala;Sheila Ulivi;Yasin Memari;Anja Kolb-Kokocinski;Shane McCarthy;Richard Durbin;Paolo Gasparini;Daniela Toniolo;Nicole Soranzo;Vincenza Colonna;",
+    "author_corresponding": "Vincenza  Colonna",
+    "author_corresponding_institution": "National Research Council",
+    "date": "2015-10-12",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Evolutionary Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/10/12/022947.source.xml",
+    "abstract": "Purging through inbreeding occurs when consanguineous marriages increases the rate at which deleterious alleles are present in a homozygous state. In this study we carried out low-read depth (4-10x) whole-genome sequencing in 568 individuals from three Italian founder populations, and compared it to data from other Italian and European populations from the 1000 Genomes Project. We show extended consanguinity and depletion of homozygous genotypes at potentially detrimental sites in the founder populations compared to outbred populations. However these patterns are not compatible with the hypothesis of consanguinity driving the purging of highly deleterious mutations according to simulations. Therefore we conclude that genetic drift and the founder effect should be responsible for the observed purging of deleterious variants.",
+    "published": "NA",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/028555",
+    "title": "The interdependent nature of multi-loci associations can be revealed by 4C-Seq",
+    "authors": "Tingting Jiang;Ramya Raviram;Pedro P Rocha;Valentina Snetkova;Charlotte Proudhon;Sana Badri;Richard Bonneau;Jane A Skok;Yuval Kluger;",
+    "author_corresponding": "Yuval  Kluger",
+    "author_corresponding_institution": "Yale University School of Medicine",
+    "date": "2015-10-12",
+    "version": "3",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Genomics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/10/12/028555.source.xml",
+    "abstract": "Use of low resolution single cell DNA FISH and population based high resolution chromosome conformation capture techniques have highlighted the importance of pairwise chromatin interactions in gene regulation. However, it is unlikely that these associations act in isolation of other interacting partners within the genome. Indeed, the influence of multi-loci interactions in gene control remains something of an enigma as beyond low-resolution DNA FISH we do not have the appropriate tools to analyze these. Here we present a method that uses standard 4C-seq data to identify multi-loci interactions from the same cell. We demonstrate the feasibility of our method using 4C-seq data sets that identify known pairwise interactions involving the Tcrb and Igk antigen receptor enhancers, in addition to novel tri-loci associations. We further show that enhancer deletions not only interfere with tri-loci interactions in which they participate, but they also disrupt pairwise interactions between other partner enhancers and this disruption is linked to a reduction in their transcriptional output. These findings underscore the functional importance of hubs and provide new insight into chromatin organization as a whole. Our method opens the door for studying multi-loci interactions and their impact on gene regulation in other biological settings.",
+    "published": "10.1093/nar/gkw568",
+    "server": "biorxiv"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "doi": "10.1101/001685",
+    "title": "Stem cells in Nanomia bijuga (Siphonophora), a colonial animal with localized growth zones",
+    "authors": "Stefan Siebert;Freya E. Goetz;Samuel H. Church;Pathikrit Bhattacharyya;Felipe Zapata;Steven H.D. Haddock;Casey W. Dunn;",
+    "author_corresponding": "Stefan  Siebert",
+    "author_corresponding_institution": "Brown University",
+    "date": "2015-03-16",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Developmental Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/03/16/001685.source.xml",
+    "abstract": "BackgroundSiphonophores (Hydrozoa) have unparalleled colony-level complexity, precision of colony organization, and functional specialization between zooids (i.e., the units that make up colonies) Previous work has shown that, unlike other colonial animals, most growth in siphonophores is restricted to one or two well-defined growth zones that are the sites of both elongation and zooid budding. It remained unknown, however, how this unique colony growth and development is realized at the cellular level.\\n\\nResultsTo understand the colony-level growth and development of siphonophores at the cellular level, we characterize the distribution of proliferating cells and interstitial stem cells (i-cells) in the siphonophore Nanomia bijuga. Within the colony we find that i-cells are present at the tip of the horn, the structure within the growth zone that gives rise to new zooids. They persist in the youngest zooid buds, but as each zooid matures i-cells become progressively restricted to specific regions within the zooids until they are mostly absent from the oldest zooids. I-cell marker-gene expression remained in gametogenic regions. I-cells are not found in the stem between maturing zooids. Domains of high cell proliferation include regions where i-cells can be found, but also include some areas without i-cells such as the stem within the growth zones. Cell proliferation in regions devoid of marker gene expression indicates the presence of mitotically active epithelial cell lineages and, potentially, progenitor cell populations.\\n\\nConclusionsRestriction of stem cells to particular regions in the colony may play a major role in facilitating the precision of siphonophore growth, and also lead to a reduced developmental plasticity in other, typically older, parts of the colony. This helps explain why siphonophore colonies have such precise colony-level organization.",
+    "published": "10.1186/s13227-015-0018-2",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/010348",
+    "title": "NeuroVault.org: A web-based repository for collecting and sharing unthresholded statistical maps of the human brain",
+    "authors": "Krzysztof Jacek Gorgolewski;Gael Varoquaux;Gabriel Rivera;Yannick Schwartz;Satrajit S. Ghosh;Camille Maumet;Vanessa Sochat;Thomas E. Nichols;Russell A. Poldrack;Jean-Baptiste Poline;Tal Yarkoni;Daniel S. Margulies;",
+    "author_corresponding": "Krzysztof Jacek Gorgolewski",
+    "author_corresponding_institution": "Max Planck Research Group Neuroanatomy and Connectivity",
+    "date": "2015-03-16",
+    "version": "3",
+    "type": "New Results",
+    "license": "cc_by",
+    "category": "Neuroscience ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/03/16/010348.source.xml",
+    "abstract": "Here we present NeuroVault -- a web based repository that allows researchers to store, share, visualize, and decode statistical maps of the human brain. NeuroVault is easy to use and employs modern web technologies to provide informative visualization of data without the need to install additional software. In addition, it leverages the power of the Neurosynth database to provide cognitive decoding of deposited maps. The data are exposed through a public REST API enabling other services and tools to take advantage of it. NeuroVault is a new resource for researchers interested in conducting meta and coactivation analyses.",
+    "published": "10.3389/fninf.2015.00008",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/010686",
+    "title": "SomaticSignatures: Inferring Mutational Signatures from Single Nucleotide Variants",
+    "authors": "Julian S. Gehring;Bernd Fischer;Michael Lawrence;Wolfgang Huber;",
+    "author_corresponding": "Julian S. Gehring",
+    "author_corresponding_institution": "European Molecular Biology Laboratory",
+    "date": "2015-03-16",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_by",
+    "category": "Bioinformatics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/03/16/010686.source.xml",
+    "abstract": "Mutational signatures are patterns in the occurrence of somatic single nucleotide variants (SNVs) that can reflect underlying mutational processes. The SomaticSignatures package provides flexible, interoperable, and easy-to-use tools that identify such signatures in cancer sequencing studies. It facilitates large-scale, cross-dataset estimation of mutational signatures, implements existing methods for pattern decomposition, supports extension through user-defined methods and integrates with Bioconductor workflows.\\n\\nThe R package SomaticSignatures is available as part of the Bioconductor project (R Core Team, 2014; Gentleman et al., 2004). Its documentation provides additional details on the methodology and demonstrates applications to biological datasets.",
+    "published": "10.1093/bioinformatics/btv408",
+    "server": "biorxiv"
+  }
+]

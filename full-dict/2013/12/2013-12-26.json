@@ -1,0 +1,18 @@
+[
+  {
+    "doi": "10.1101/001537",
+    "title": "Assessing the Use of Antiviral Treatment to Control Influenza",
+    "authors": "Sarah C Kramer;Shweta Bansal;",
+    "author_corresponding": "Shweta  Bansal",
+    "author_corresponding_institution": "Georgetown University; National Institutes of Health",
+    "date": "2013-12-26",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Ecology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2013/12/26/001537.source.xml",
+    "abstract": "Vaccines are the cornerstone of influenza control policy, but can suffer from several drawbacks. Seasonal influenza vaccines are prone to production problems and low efficacies, while pandemic vaccines are unlikely to be available in time to slow a rapidly spreading global outbreak. Antiviral therapy was found to be beneficial during the influenza A(H1N1)pdm09 pandemic even with limited use; however, antiviral use has decreased further since then. We seek to determine the role antiviral therapy can play in pandemic and seasonal influenza control on the population level, and to find optimized strategies for more efficient use of treatment. Using an age-structured contact network model for an urban population, we find that while a conservative antiviral therapy strategy cannot replace a robust influenza vaccine, it can play a role in reducing attack rates and eliminating outbreaks.",
+    "published": "10.1017/S0950268814002520",
+    "server": "biorxiv"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "doi": "10.1101/001750",
+    "title": "Shifts in stability and control effectiveness during evolution of Paraves support aerial maneuvering hypotheses for flight origins",
+    "authors": "Dennis Evangelista;Sharlene Cam;Tony Huynh;Austin Kwong;Homayun Mehrabani;Kyle Tse;Robert Dudley;",
+    "author_corresponding": "Dennis  Evangelista",
+    "author_corresponding_institution": "University of North Carolina at Chapel Hill",
+    "date": "2014-04-22",
+    "version": "4",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Biophysics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/04/22/001750.source.xml",
+    "abstract": "The capacity for aerial maneuvering was likely a major influence on the evolution of flying animals. Here we evaluate consequences of paravian morphology for aerial performance by quantifying static stability and control effectiveness of physical models for numerous taxa sampled from within the lineage leading to birds (Paraves). Results of aerodynamic testing are mapped phylogenetically to examine how maneuvering characteristics correspond to tail shortening, forewing elaboration, and other morphological features. In the evolution of Paraves we observe shifts from static stability to inherently unstable aerial planforms; control effectiveness also migrated from tails to the forewings. These shifts suggest that some degree of aerodynamic control and and capacity for maneuvering preceded the evolution of strong power stroke. The timing of shifts also suggests features normally considered in light of development of a power stroke may play important roles in control.",
+    "published": "10.7717/peerj.632",
+    "server": "biorxiv"
+  }
+]

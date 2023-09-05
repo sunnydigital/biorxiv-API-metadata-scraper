@@ -1,0 +1,3331 @@
+{
+  "license": {
+    "cc_no": 225,
+    "cc_by": 130,
+    "cc_by_nc": 69,
+    "cc_by_nc_nd": 269,
+    "cc_by_nd": 49
+  },
+  "content": {
+    "10.1101/035154": {
+      "date": "2016-07-11",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/11/035154.source.xml"
+    },
+    "10.1101/039131": {
+      "date": "2016-07-11",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/11/039131.source.xml"
+    },
+    "10.1101/054544": {
+      "date": "2016-07-11",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/11/054544.source.xml"
+    },
+    "10.1101/058842": {
+      "date": "2016-07-11",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/11/058842.source.xml"
+    },
+    "10.1101/061184": {
+      "date": "2016-07-11",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/11/061184.source.xml"
+    },
+    "10.1101/062950": {
+      "date": "2016-07-25",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/25/062950.source.xml"
+    },
+    "10.1101/063271": {
+      "date": "2016-07-13",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/13/063271.source.xml"
+    },
+    "10.1101/063255": {
+      "date": "2016-07-11",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/11/063255.source.xml"
+    },
+    "10.1101/063230": {
+      "date": "2016-07-11",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/11/063230.source.xml"
+    },
+    "10.1101/063222": {
+      "date": "2016-07-11",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/11/063222.source.xml"
+    },
+    "10.1101/063206": {
+      "date": "2016-07-11",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/11/063206.source.xml"
+    },
+    "10.1101/063172": {
+      "date": "2016-07-11",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/11/063172.source.xml"
+    },
+    "10.1101/063164": {
+      "date": "2016-07-11",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/11/063164.source.xml"
+    },
+    "10.1101/062646": {
+      "date": "2016-07-11",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/11/062646.source.xml"
+    },
+    "10.1101/057836": {
+      "date": "2016-07-11",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/11/057836.source.xml"
+    },
+    "10.1101/030346": {
+      "date": "2016-07-12",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/12/030346.source.xml"
+    },
+    "10.1101/030239": {
+      "date": "2016-07-12",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/12/030239.source.xml"
+    },
+    "10.1101/038364": {
+      "date": "2016-07-12",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/12/038364.source.xml"
+    },
+    "10.1101/045047": {
+      "date": "2016-07-12",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/12/045047.source.xml"
+    },
+    "10.1101/046276": {
+      "date": "2016-07-12",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/12/046276.source.xml"
+    },
+    "10.1101/050856": {
+      "date": "2016-07-12",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/12/050856.source.xml"
+    },
+    "10.1101/063107": {
+      "date": "2016-07-12",
+      "license": "cc_by_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/12/063107.source.xml"
+    },
+    "10.1101/063560": {
+      "date": "2016-07-27",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/27/063560.source.xml"
+    },
+    "10.1101/063552": {
+      "date": "2016-07-12",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/12/063552.source.xml"
+    },
+    "10.1101/063545": {
+      "date": "2016-07-12",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/12/063545.source.xml"
+    },
+    "10.1101/063537": {
+      "date": "2016-07-12",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/12/063537.source.xml"
+    },
+    "10.1101/063479": {
+      "date": "2016-07-12",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/12/063479.source.xml"
+    },
+    "10.1101/063453": {
+      "date": "2016-07-12",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/12/063453.source.xml"
+    },
+    "10.1101/063446": {
+      "date": "2016-07-12",
+      "license": "cc_by_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/12/063446.source.xml"
+    },
+    "10.1101/063438": {
+      "date": "2016-07-12",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/12/063438.source.xml"
+    },
+    "10.1101/063404": {
+      "date": "2016-07-12",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/12/063404.source.xml"
+    },
+    "10.1101/063396": {
+      "date": "2016-07-12",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/12/063396.source.xml"
+    },
+    "10.1101/063388": {
+      "date": "2016-07-12",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/12/063388.source.xml"
+    },
+    "10.1101/063370": {
+      "date": "2016-07-12",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/12/063370.source.xml"
+    },
+    "10.1101/063362": {
+      "date": "2016-07-12",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/12/063362.source.xml"
+    },
+    "10.1101/063321": {
+      "date": "2016-07-12",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/12/063321.source.xml"
+    },
+    "10.1101/063305": {
+      "date": "2016-07-12",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/12/063305.source.xml"
+    },
+    "10.1101/063289": {
+      "date": "2016-07-12",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/12/063289.source.xml"
+    },
+    "10.1101/063248": {
+      "date": "2016-07-12",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/12/063248.source.xml"
+    },
+    "10.1101/023804": {
+      "date": "2016-07-13",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/13/023804.source.xml"
+    },
+    "10.1101/037713": {
+      "date": "2016-08-02",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/02/037713.source.xml"
+    },
+    "10.1101/048132": {
+      "date": "2016-07-13",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/13/048132.source.xml"
+    },
+    "10.1101/055731": {
+      "date": "2016-07-13",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/13/055731.source.xml"
+    },
+    "10.1101/063768": {
+      "date": "2016-07-13",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/13/063768.source.xml"
+    },
+    "10.1101/063750": {
+      "date": "2016-07-13",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/13/063750.source.xml"
+    },
+    "10.1101/063743": {
+      "date": "2016-07-13",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/13/063743.source.xml"
+    },
+    "10.1101/063727": {
+      "date": "2016-07-19",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/19/063727.source.xml"
+    },
+    "10.1101/063719": {
+      "date": "2016-07-13",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/13/063719.source.xml"
+    },
+    "10.1101/063701": {
+      "date": "2016-07-13",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/13/063701.source.xml"
+    },
+    "10.1101/063677": {
+      "date": "2016-07-13",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/13/063677.source.xml"
+    },
+    "10.1101/063669": {
+      "date": "2016-07-13",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/13/063669.source.xml"
+    },
+    "10.1101/063651": {
+      "date": "2016-07-13",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/13/063651.source.xml"
+    },
+    "10.1101/063636": {
+      "date": "2016-07-21",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/21/063636.source.xml"
+    },
+    "10.1101/063602": {
+      "date": "2016-07-13",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/13/063602.source.xml"
+    },
+    "10.1101/063594": {
+      "date": "2016-07-13",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/13/063594.source.xml"
+    },
+    "10.1101/063578": {
+      "date": "2016-07-13",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/13/063578.source.xml"
+    },
+    "10.1101/063495": {
+      "date": "2016-07-13",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/13/063495.source.xml"
+    },
+    "10.1101/063313": {
+      "date": "2016-07-13",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/13/063313.source.xml"
+    },
+    "10.1101/045583": {
+      "date": "2016-07-14",
+      "license": "cc_by_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/14/045583.source.xml"
+    },
+    "10.1101/047282": {
+      "date": "2016-07-14",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/14/047282.source.xml"
+    },
+    "10.1101/050526": {
+      "date": "2016-07-14",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/14/050526.source.xml"
+    },
+    "10.1101/049932": {
+      "date": "2016-07-14",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/14/049932.source.xml"
+    },
+    "10.1101/063800": {
+      "date": "2016-07-14",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/14/063800.source.xml"
+    },
+    "10.1101/063792": {
+      "date": "2016-07-14",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/14/063792.source.xml"
+    },
+    "10.1101/063784": {
+      "date": "2016-07-14",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/14/063784.source.xml"
+    },
+    "10.1101/063776": {
+      "date": "2016-07-14",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/14/063776.source.xml"
+    },
+    "10.1101/063487": {
+      "date": "2016-07-14",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/14/063487.source.xml"
+    },
+    "10.1101/063891": {
+      "date": "2016-07-14",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/14/063891.source.xml"
+    },
+    "10.1101/063883": {
+      "date": "2016-07-14",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/14/063883.source.xml"
+    },
+    "10.1101/063875": {
+      "date": "2016-07-14",
+      "license": "cc_by_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/14/063875.source.xml"
+    },
+    "10.1101/063867": {
+      "date": "2016-07-14",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/14/063867.source.xml"
+    },
+    "10.1101/063859": {
+      "date": "2016-07-14",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/14/063859.source.xml"
+    },
+    "10.1101/063818": {
+      "date": "2016-07-14",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/14/063818.source.xml"
+    },
+    "10.1101/059527": {
+      "date": "2016-07-15",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/15/059527.source.xml"
+    },
+    "10.1101/062257": {
+      "date": "2016-07-15",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/15/062257.source.xml"
+    },
+    "10.1101/064246": {
+      "date": "2016-07-15",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/15/064246.source.xml"
+    },
+    "10.1101/064238": {
+      "date": "2016-07-15",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/15/064238.source.xml"
+    },
+    "10.1101/064220": {
+      "date": "2016-07-15",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/15/064220.source.xml"
+    },
+    "10.1101/064212": {
+      "date": "2016-07-22",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/22/064212.source.xml"
+    },
+    "10.1101/064196": {
+      "date": "2016-08-02",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/02/064196.source.xml"
+    },
+    "10.1101/064188": {
+      "date": "2016-07-15",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/15/064188.source.xml"
+    },
+    "10.1101/064170": {
+      "date": "2016-07-15",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/15/064170.source.xml"
+    },
+    "10.1101/064139": {
+      "date": "2016-07-26",
+      "license": "cc_by_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/26/064139.source.xml"
+    },
+    "10.1101/064121": {
+      "date": "2016-07-15",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/15/064121.source.xml"
+    },
+    "10.1101/064113": {
+      "date": "2016-07-15",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/15/064113.source.xml"
+    },
+    "10.1101/064105": {
+      "date": "2016-07-15",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/15/064105.source.xml"
+    },
+    "10.1101/064089": {
+      "date": "2016-07-15",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/15/064089.source.xml"
+    },
+    "10.1101/064030": {
+      "date": "2016-07-15",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/15/064030.source.xml"
+    },
+    "10.1101/064022": {
+      "date": "2016-07-15",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/15/064022.source.xml"
+    },
+    "10.1101/064006": {
+      "date": "2016-07-15",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/15/064006.source.xml"
+    },
+    "10.1101/063941": {
+      "date": "2016-07-15",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/15/063941.source.xml"
+    },
+    "10.1101/063909": {
+      "date": "2016-07-15",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/15/063909.source.xml"
+    },
+    "10.1101/063735": {
+      "date": "2016-07-15",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/15/063735.source.xml"
+    },
+    "10.1101/063461": {
+      "date": "2016-07-15",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/15/063461.source.xml"
+    },
+    "10.1101/062596": {
+      "date": "2016-07-15",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/15/062596.source.xml"
+    },
+    "10.1101/062174": {
+      "date": "2016-07-15",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/15/062174.source.xml"
+    },
+    "10.1101/041103": {
+      "date": "2016-07-16",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/16/041103.source.xml"
+    },
+    "10.1101/047779": {
+      "date": "2016-07-16",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/16/047779.source.xml"
+    },
+    "10.1101/060053": {
+      "date": "2016-08-13",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/13/060053.source.xml"
+    },
+    "10.1101/064287": {
+      "date": "2016-07-17",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/17/064287.source.xml"
+    },
+    "10.1101/064345": {
+      "date": "2016-07-17",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/17/064345.source.xml"
+    },
+    "10.1101/064329": {
+      "date": "2016-07-17",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/17/064329.source.xml"
+    },
+    "10.1101/064303": {
+      "date": "2016-07-17",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/17/064303.source.xml"
+    },
+    "10.1101/064295": {
+      "date": "2016-07-17",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/17/064295.source.xml"
+    },
+    "10.1101/064279": {
+      "date": "2016-07-21",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/21/064279.source.xml"
+    },
+    "10.1101/063990": {
+      "date": "2016-07-17",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/17/063990.source.xml"
+    },
+    "10.1101/063529": {
+      "date": "2016-07-17",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/17/063529.source.xml"
+    },
+    "10.1101/023200": {
+      "date": "2016-07-18",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/18/023200.source.xml"
+    },
+    "10.1101/033613": {
+      "date": "2016-07-21",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/21/033613.source.xml"
+    },
+    "10.1101/041798": {
+      "date": "2016-07-18",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/18/041798.source.xml"
+    },
+    "10.1101/059386": {
+      "date": "2016-07-18",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/18/059386.source.xml"
+    },
+    "10.1101/064543": {
+      "date": "2016-07-18",
+      "license": "cc_by_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/18/064543.source.xml"
+    },
+    "10.1101/064527": {
+      "date": "2016-07-18",
+      "license": "cc_by_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/18/064527.source.xml"
+    },
+    "10.1101/064519": {
+      "date": "2016-07-18",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/18/064519.source.xml"
+    },
+    "10.1101/064493": {
+      "date": "2016-07-18",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/18/064493.source.xml"
+    },
+    "10.1101/064485": {
+      "date": "2016-08-04",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/04/064485.source.xml"
+    },
+    "10.1101/064477": {
+      "date": "2016-07-18",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/18/064477.source.xml"
+    },
+    "10.1101/064469": {
+      "date": "2016-07-22",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/22/064469.source.xml"
+    },
+    "10.1101/064444": {
+      "date": "2016-07-18",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/18/064444.source.xml"
+    },
+    "10.1101/064436": {
+      "date": "2016-07-18",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/18/064436.source.xml"
+    },
+    "10.1101/064428": {
+      "date": "2016-07-18",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/18/064428.source.xml"
+    },
+    "10.1101/064410": {
+      "date": "2016-07-18",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/18/064410.source.xml"
+    },
+    "10.1101/064394": {
+      "date": "2016-07-18",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/18/064394.source.xml"
+    },
+    "10.1101/064360": {
+      "date": "2016-07-18",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/18/064360.source.xml"
+    },
+    "10.1101/064352": {
+      "date": "2016-07-18",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/18/064352.source.xml"
+    },
+    "10.1101/064337": {
+      "date": "2016-07-18",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/18/064337.source.xml"
+    },
+    "10.1101/064311": {
+      "date": "2016-07-27",
+      "license": "cc_by_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/27/064311.source.xml"
+    },
+    "10.1101/064204": {
+      "date": "2016-07-18",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/18/064204.source.xml"
+    },
+    "10.1101/064147": {
+      "date": "2016-07-18",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/18/064147.source.xml"
+    },
+    "10.1101/062026": {
+      "date": "2016-07-18",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/18/062026.source.xml"
+    },
+    "10.1101/020610": {
+      "date": "2016-07-19",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/19/020610.source.xml"
+    },
+    "10.1101/022616": {
+      "date": "2016-07-19",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/19/022616.source.xml"
+    },
+    "10.1101/035998": {
+      "date": "2016-07-19",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/19/035998.source.xml"
+    },
+    "10.1101/038828": {
+      "date": "2016-07-19",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/19/038828.source.xml"
+    },
+    "10.1101/038125": {
+      "date": "2016-07-19",
+      "license": "cc_by_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/19/038125.source.xml"
+    },
+    "10.1101/063008": {
+      "date": "2016-07-19",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/19/063008.source.xml"
+    },
+    "10.1101/064840": {
+      "date": "2016-07-21",
+      "license": "cc_by_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/21/064840.source.xml"
+    },
+    "10.1101/064832": {
+      "date": "2016-08-01",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/01/064832.source.xml"
+    },
+    "10.1101/064808": {
+      "date": "2016-07-19",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/19/064808.source.xml"
+    },
+    "10.1101/064790": {
+      "date": "2016-07-19",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/19/064790.source.xml"
+    },
+    "10.1101/064766": {
+      "date": "2016-07-19",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/19/064766.source.xml"
+    },
+    "10.1101/064758": {
+      "date": "2016-07-19",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/19/064758.source.xml"
+    },
+    "10.1101/064741": {
+      "date": "2016-07-19",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/19/064741.source.xml"
+    },
+    "10.1101/064733": {
+      "date": "2016-07-19",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/19/064733.source.xml"
+    },
+    "10.1101/064717": {
+      "date": "2016-07-19",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/19/064717.source.xml"
+    },
+    "10.1101/064691": {
+      "date": "2016-07-21",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/21/064691.source.xml"
+    },
+    "10.1101/064683": {
+      "date": "2016-07-21",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/21/064683.source.xml"
+    },
+    "10.1101/064675": {
+      "date": "2016-07-19",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/19/064675.source.xml"
+    },
+    "10.1101/064667": {
+      "date": "2016-08-12",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/12/064667.source.xml"
+    },
+    "10.1101/064626": {
+      "date": "2016-07-19",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/19/064626.source.xml"
+    },
+    "10.1101/064618": {
+      "date": "2016-07-19",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/19/064618.source.xml"
+    },
+    "10.1101/064592": {
+      "date": "2016-07-19",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/19/064592.source.xml"
+    },
+    "10.1101/064535": {
+      "date": "2016-07-26",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/26/064535.source.xml"
+    },
+    "10.1101/064451": {
+      "date": "2016-07-19",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/19/064451.source.xml"
+    },
+    "10.1101/063610": {
+      "date": "2016-07-19",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/19/063610.source.xml"
+    },
+    "10.1101/027102": {
+      "date": "2016-07-20",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/20/027102.source.xml"
+    },
+    "10.1101/042937": {
+      "date": "2016-07-21",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/21/042937.source.xml"
+    },
+    "10.1101/048082": {
+      "date": "2016-07-20",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/20/048082.source.xml"
+    },
+    "10.1101/057331": {
+      "date": "2016-07-20",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/20/057331.source.xml"
+    },
+    "10.1101/062083": {
+      "date": "2016-07-20",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/20/062083.source.xml"
+    },
+    "10.1101/064956": {
+      "date": "2016-07-20",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/20/064956.source.xml"
+    },
+    "10.1101/064949": {
+      "date": "2016-07-20",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/20/064949.source.xml"
+    },
+    "10.1101/064915": {
+      "date": "2016-07-21",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/21/064915.source.xml"
+    },
+    "10.1101/064899": {
+      "date": "2016-07-20",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/20/064899.source.xml"
+    },
+    "10.1101/064881": {
+      "date": "2016-07-20",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/20/064881.source.xml"
+    },
+    "10.1101/064873": {
+      "date": "2016-07-20",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/20/064873.source.xml"
+    },
+    "10.1101/064857": {
+      "date": "2016-07-20",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/20/064857.source.xml"
+    },
+    "10.1101/064824": {
+      "date": "2016-07-23",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/23/064824.source.xml"
+    },
+    "10.1101/064774": {
+      "date": "2016-07-20",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/20/064774.source.xml"
+    },
+    "10.1101/060814": {
+      "date": "2016-07-20",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/20/060814.source.xml"
+    },
+    "10.1101/038505": {
+      "date": "2016-07-21",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/21/038505.source.xml"
+    },
+    "10.1101/054155": {
+      "date": "2016-07-21",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/21/054155.source.xml"
+    },
+    "10.1101/065177": {
+      "date": "2016-07-21",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/21/065177.source.xml"
+    },
+    "10.1101/065169": {
+      "date": "2016-07-21",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/21/065169.source.xml"
+    },
+    "10.1101/065151": {
+      "date": "2016-07-21",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/21/065151.source.xml"
+    },
+    "10.1101/065144": {
+      "date": "2016-07-21",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/21/065144.source.xml"
+    },
+    "10.1101/065136": {
+      "date": "2016-07-21",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/21/065136.source.xml"
+    },
+    "10.1101/065128": {
+      "date": "2016-07-21",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/21/065128.source.xml"
+    },
+    "10.1101/065110": {
+      "date": "2016-07-21",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/21/065110.source.xml"
+    },
+    "10.1101/065102": {
+      "date": "2016-07-21",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/21/065102.source.xml"
+    },
+    "10.1101/065094": {
+      "date": "2016-07-21",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/21/065094.source.xml"
+    },
+    "10.1101/065086": {
+      "date": "2016-07-21",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/21/065086.source.xml"
+    },
+    "10.1101/065078": {
+      "date": "2016-07-21",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/21/065078.source.xml"
+    },
+    "10.1101/065060": {
+      "date": "2016-07-21",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/21/065060.source.xml"
+    },
+    "10.1101/065037": {
+      "date": "2016-07-21",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/21/065037.source.xml"
+    },
+    "10.1101/065011": {
+      "date": "2016-07-21",
+      "license": "cc_by_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/21/065011.source.xml"
+    },
+    "10.1101/065003": {
+      "date": "2016-07-21",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/21/065003.source.xml"
+    },
+    "10.1101/030148": {
+      "date": "2016-07-22",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/22/030148.source.xml"
+    },
+    "10.1101/043315": {
+      "date": "2016-07-26",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/26/043315.source.xml"
+    },
+    "10.1101/051599": {
+      "date": "2016-07-22",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/22/051599.source.xml"
+    },
+    "10.1101/059899": {
+      "date": "2016-07-22",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/22/059899.source.xml"
+    },
+    "10.1101/065417": {
+      "date": "2016-07-22",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/22/065417.source.xml"
+    },
+    "10.1101/065359": {
+      "date": "2016-07-27",
+      "license": "cc_by_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/27/065359.source.xml"
+    },
+    "10.1101/065334": {
+      "date": "2016-07-22",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/22/065334.source.xml"
+    },
+    "10.1101/065326": {
+      "date": "2016-07-22",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/22/065326.source.xml"
+    },
+    "10.1101/065318": {
+      "date": "2016-07-22",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/22/065318.source.xml"
+    },
+    "10.1101/065284": {
+      "date": "2016-07-22",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/22/065284.source.xml"
+    },
+    "10.1101/065243": {
+      "date": "2016-07-22",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/22/065243.source.xml"
+    },
+    "10.1101/065227": {
+      "date": "2016-07-22",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/22/065227.source.xml"
+    },
+    "10.1101/065201": {
+      "date": "2016-07-22",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/22/065201.source.xml"
+    },
+    "10.1101/064980": {
+      "date": "2016-07-22",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/22/064980.source.xml"
+    },
+    "10.1101/065425": {
+      "date": "2016-07-22",
+      "license": "cc_by_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/22/065425.source.xml"
+    },
+    "10.1101/045252": {
+      "date": "2016-07-23",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/23/045252.source.xml"
+    },
+    "10.1101/065581": {
+      "date": "2016-07-23",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/23/065581.source.xml"
+    },
+    "10.1101/065540": {
+      "date": "2016-07-23",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/23/065540.source.xml"
+    },
+    "10.1101/065532": {
+      "date": "2016-07-23",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/23/065532.source.xml"
+    },
+    "10.1101/065516": {
+      "date": "2016-07-23",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/23/065516.source.xml"
+    },
+    "10.1101/065490": {
+      "date": "2016-07-23",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/23/065490.source.xml"
+    },
+    "10.1101/065482": {
+      "date": "2016-07-23",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/23/065482.source.xml"
+    },
+    "10.1101/065474": {
+      "date": "2016-07-23",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/23/065474.source.xml"
+    },
+    "10.1101/065458": {
+      "date": "2016-07-23",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/23/065458.source.xml"
+    },
+    "10.1101/065441": {
+      "date": "2016-07-23",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/23/065441.source.xml"
+    },
+    "10.1101/065235": {
+      "date": "2016-08-17",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/17/065235.source.xml"
+    },
+    "10.1101/065052": {
+      "date": "2016-07-23",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/23/065052.source.xml"
+    },
+    "10.1101/065623": {
+      "date": "2016-07-24",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/24/065623.source.xml"
+    },
+    "10.1101/065607": {
+      "date": "2016-07-24",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/24/065607.source.xml"
+    },
+    "10.1101/065508": {
+      "date": "2016-07-24",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/24/065508.source.xml"
+    },
+    "10.1101/061382": {
+      "date": "2016-07-24",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/24/061382.source.xml"
+    },
+    "10.1101/042341": {
+      "date": "2016-07-25",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/25/042341.source.xml"
+    },
+    "10.1101/053421": {
+      "date": "2016-07-25",
+      "license": "cc_by_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/25/053421.source.xml"
+    },
+    "10.1101/056135": {
+      "date": "2016-07-25",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/25/056135.source.xml"
+    },
+    "10.1101/059519": {
+      "date": "2016-07-25",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/25/059519.source.xml"
+    },
+    "10.1101/059170": {
+      "date": "2016-07-25",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/25/059170.source.xml"
+    },
+    "10.1101/065821": {
+      "date": "2016-07-25",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/25/065821.source.xml"
+    },
+    "10.1101/065797": {
+      "date": "2016-07-25",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/25/065797.source.xml"
+    },
+    "10.1101/065789": {
+      "date": "2016-08-02",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/02/065789.source.xml"
+    },
+    "10.1101/065755": {
+      "date": "2016-07-25",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/25/065755.source.xml"
+    },
+    "10.1101/065722": {
+      "date": "2016-07-26",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/26/065722.source.xml"
+    },
+    "10.1101/065714": {
+      "date": "2016-07-27",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/27/065714.source.xml"
+    },
+    "10.1101/065706": {
+      "date": "2016-07-25",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/25/065706.source.xml"
+    },
+    "10.1101/065672": {
+      "date": "2016-07-25",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/25/065672.source.xml"
+    },
+    "10.1101/065664": {
+      "date": "2016-07-25",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/25/065664.source.xml"
+    },
+    "10.1101/065631": {
+      "date": "2016-07-25",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/25/065631.source.xml"
+    },
+    "10.1101/065391": {
+      "date": "2016-07-25",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/25/065391.source.xml"
+    },
+    "10.1101/065383": {
+      "date": "2016-07-25",
+      "license": "cc_by_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/25/065383.source.xml"
+    },
+    "10.1101/038513": {
+      "date": "2016-07-26",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/26/038513.source.xml"
+    },
+    "10.1101/039800": {
+      "date": "2016-07-26",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/26/039800.source.xml"
+    },
+    "10.1101/050989": {
+      "date": "2016-07-26",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/26/050989.source.xml"
+    },
+    "10.1101/051714": {
+      "date": "2016-07-26",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/26/051714.source.xml"
+    },
+    "10.1101/055863": {
+      "date": "2016-07-26",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/26/055863.source.xml"
+    },
+    "10.1101/057729": {
+      "date": "2016-07-26",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/26/057729.source.xml"
+    },
+    "10.1101/056648": {
+      "date": "2016-07-26",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/26/056648.source.xml"
+    },
+    "10.1101/060723": {
+      "date": "2016-07-26",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/26/060723.source.xml"
+    },
+    "10.1101/066118": {
+      "date": "2016-07-26",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/26/066118.source.xml"
+    },
+    "10.1101/066100": {
+      "date": "2016-07-26",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/26/066100.source.xml"
+    },
+    "10.1101/066092": {
+      "date": "2016-07-26",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/26/066092.source.xml"
+    },
+    "10.1101/066084": {
+      "date": "2016-07-26",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/26/066084.source.xml"
+    },
+    "10.1101/066076": {
+      "date": "2016-07-26",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/26/066076.source.xml"
+    },
+    "10.1101/066050": {
+      "date": "2016-07-26",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/26/066050.source.xml"
+    },
+    "10.1101/066043": {
+      "date": "2016-07-26",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/26/066043.source.xml"
+    },
+    "10.1101/066027": {
+      "date": "2016-07-26",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/26/066027.source.xml"
+    },
+    "10.1101/066019": {
+      "date": "2016-07-26",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/26/066019.source.xml"
+    },
+    "10.1101/065961": {
+      "date": "2016-07-26",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/26/065961.source.xml"
+    },
+    "10.1101/065938": {
+      "date": "2016-07-26",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/26/065938.source.xml"
+    },
+    "10.1101/065920": {
+      "date": "2016-07-26",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/26/065920.source.xml"
+    },
+    "10.1101/065912": {
+      "date": "2016-07-26",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/26/065912.source.xml"
+    },
+    "10.1101/065862": {
+      "date": "2016-07-26",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/26/065862.source.xml"
+    },
+    "10.1101/065854": {
+      "date": "2016-07-26",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/26/065854.source.xml"
+    },
+    "10.1101/065847": {
+      "date": "2016-07-26",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/26/065847.source.xml"
+    },
+    "10.1101/065839": {
+      "date": "2016-07-26",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/26/065839.source.xml"
+    },
+    "10.1101/065805": {
+      "date": "2016-07-26",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/26/065805.source.xml"
+    },
+    "10.1101/065771": {
+      "date": "2016-07-26",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/26/065771.source.xml"
+    },
+    "10.1101/065748": {
+      "date": "2016-07-26",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/26/065748.source.xml"
+    },
+    "10.1101/065730": {
+      "date": "2016-07-26",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/26/065730.source.xml"
+    },
+    "10.1101/065680": {
+      "date": "2016-07-26",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/26/065680.source.xml"
+    },
+    "10.1101/065649": {
+      "date": "2016-07-26",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/26/065649.source.xml"
+    },
+    "10.1101/065292": {
+      "date": "2016-07-26",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/26/065292.source.xml"
+    },
+    "10.1101/065250": {
+      "date": "2016-07-26",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/26/065250.source.xml"
+    },
+    "10.1101/050997": {
+      "date": "2016-07-27",
+      "license": "cc_by_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/27/050997.source.xml"
+    },
+    "10.1101/066423": {
+      "date": "2016-07-27",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/27/066423.source.xml"
+    },
+    "10.1101/066381": {
+      "date": "2016-07-27",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/27/066381.source.xml"
+    },
+    "10.1101/066373": {
+      "date": "2016-07-27",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/27/066373.source.xml"
+    },
+    "10.1101/066357": {
+      "date": "2016-07-27",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/27/066357.source.xml"
+    },
+    "10.1101/066340": {
+      "date": "2016-07-27",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/27/066340.source.xml"
+    },
+    "10.1101/066324": {
+      "date": "2016-07-27",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/27/066324.source.xml"
+    },
+    "10.1101/066316": {
+      "date": "2016-07-27",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/27/066316.source.xml"
+    },
+    "10.1101/066282": {
+      "date": "2016-07-27",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/27/066282.source.xml"
+    },
+    "10.1101/066241": {
+      "date": "2016-07-27",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/27/066241.source.xml"
+    },
+    "10.1101/066233": {
+      "date": "2016-07-27",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/27/066233.source.xml"
+    },
+    "10.1101/066225": {
+      "date": "2016-07-30",
+      "license": "cc_by_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/30/066225.source.xml"
+    },
+    "10.1101/066217": {
+      "date": "2016-07-27",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/27/066217.source.xml"
+    },
+    "10.1101/066209": {
+      "date": "2016-07-27",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/27/066209.source.xml"
+    },
+    "10.1101/066183": {
+      "date": "2016-07-27",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/27/066183.source.xml"
+    },
+    "10.1101/066175": {
+      "date": "2016-07-27",
+      "license": "cc_by_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/27/066175.source.xml"
+    },
+    "10.1101/066159": {
+      "date": "2016-07-27",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/27/066159.source.xml"
+    },
+    "10.1101/066142": {
+      "date": "2016-07-27",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/27/066142.source.xml"
+    },
+    "10.1101/066134": {
+      "date": "2016-07-27",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/27/066134.source.xml"
+    },
+    "10.1101/066035": {
+      "date": "2016-07-27",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/27/066035.source.xml"
+    },
+    "10.1101/065565": {
+      "date": "2016-07-27",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/27/065565.source.xml"
+    },
+    "10.1101/039859": {
+      "date": "2016-07-27",
+      "license": "cc_by_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/27/039859.source.xml"
+    },
+    "10.1101/026369": {
+      "date": "2016-07-28",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/28/026369.source.xml"
+    },
+    "10.1101/056150": {
+      "date": "2016-07-28",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/28/056150.source.xml"
+    },
+    "10.1101/066621": {
+      "date": "2016-07-28",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/28/066621.source.xml"
+    },
+    "10.1101/066613": {
+      "date": "2016-07-28",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/28/066613.source.xml"
+    },
+    "10.1101/066597": {
+      "date": "2016-07-28",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/28/066597.source.xml"
+    },
+    "10.1101/066571": {
+      "date": "2016-07-28",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/28/066571.source.xml"
+    },
+    "10.1101/066563": {
+      "date": "2016-07-28",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/28/066563.source.xml"
+    },
+    "10.1101/066555": {
+      "date": "2016-07-28",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/28/066555.source.xml"
+    },
+    "10.1101/066522": {
+      "date": "2016-07-28",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/28/066522.source.xml"
+    },
+    "10.1101/066498": {
+      "date": "2016-07-28",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/28/066498.source.xml"
+    },
+    "10.1101/066480": {
+      "date": "2016-07-28",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/28/066480.source.xml"
+    },
+    "10.1101/066472": {
+      "date": "2016-07-28",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/28/066472.source.xml"
+    },
+    "10.1101/066464": {
+      "date": "2016-08-01",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/01/066464.source.xml"
+    },
+    "10.1101/066456": {
+      "date": "2016-07-29",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/29/066456.source.xml"
+    },
+    "10.1101/066431": {
+      "date": "2016-07-28",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/28/066431.source.xml"
+    },
+    "10.1101/066415": {
+      "date": "2016-07-28",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/28/066415.source.xml"
+    },
+    "10.1101/066332": {
+      "date": "2016-07-28",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/28/066332.source.xml"
+    },
+    "10.1101/066068": {
+      "date": "2016-07-28",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/28/066068.source.xml"
+    },
+    "10.1101/034025": {
+      "date": "2016-07-29",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/29/034025.source.xml"
+    },
+    "10.1101/036822": {
+      "date": "2016-07-29",
+      "license": "cc_by_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/29/036822.source.xml"
+    },
+    "10.1101/040105": {
+      "date": "2016-07-29",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/29/040105.source.xml"
+    },
+    "10.1101/044578": {
+      "date": "2016-07-29",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/29/044578.source.xml"
+    },
+    "10.1101/045351": {
+      "date": "2016-07-29",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/29/045351.source.xml"
+    },
+    "10.1101/053199": {
+      "date": "2016-07-29",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/29/053199.source.xml"
+    },
+    "10.1101/066878": {
+      "date": "2016-08-02",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/02/066878.source.xml"
+    },
+    "10.1101/066787": {
+      "date": "2016-07-29",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/29/066787.source.xml"
+    },
+    "10.1101/066779": {
+      "date": "2016-08-04",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/04/066779.source.xml"
+    },
+    "10.1101/066761": {
+      "date": "2016-07-29",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/29/066761.source.xml"
+    },
+    "10.1101/066738": {
+      "date": "2016-07-29",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/29/066738.source.xml"
+    },
+    "10.1101/066704": {
+      "date": "2016-07-29",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/29/066704.source.xml"
+    },
+    "10.1101/066696": {
+      "date": "2016-07-29",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/29/066696.source.xml"
+    },
+    "10.1101/066688": {
+      "date": "2016-07-29",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/29/066688.source.xml"
+    },
+    "10.1101/066670": {
+      "date": "2016-07-29",
+      "license": "cc_by_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/29/066670.source.xml"
+    },
+    "10.1101/066662": {
+      "date": "2016-07-29",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/29/066662.source.xml"
+    },
+    "10.1101/066647": {
+      "date": "2016-07-29",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/29/066647.source.xml"
+    },
+    "10.1101/066639": {
+      "date": "2016-07-29",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/29/066639.source.xml"
+    },
+    "10.1101/066589": {
+      "date": "2016-07-29",
+      "license": "cc_by_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/29/066589.source.xml"
+    },
+    "10.1101/066407": {
+      "date": "2016-07-29",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/29/066407.source.xml"
+    },
+    "10.1101/066803": {
+      "date": "2016-07-29",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/29/066803.source.xml"
+    },
+    "10.1101/045344": {
+      "date": "2016-07-30",
+      "license": "cc_by_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/30/045344.source.xml"
+    },
+    "10.1101/039438": {
+      "date": "2016-07-31",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/31/039438.source.xml"
+    },
+    "10.1101/055574": {
+      "date": "2016-07-31",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/31/055574.source.xml"
+    },
+    "10.1101/067025": {
+      "date": "2016-07-31",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/31/067025.source.xml"
+    },
+    "10.1101/067017": {
+      "date": "2016-08-04",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/04/067017.source.xml"
+    },
+    "10.1101/066993": {
+      "date": "2016-07-31",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/31/066993.source.xml"
+    },
+    "10.1101/066985": {
+      "date": "2016-07-31",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/31/066985.source.xml"
+    },
+    "10.1101/066977": {
+      "date": "2016-07-31",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/31/066977.source.xml"
+    },
+    "10.1101/066969": {
+      "date": "2016-07-31",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/31/066969.source.xml"
+    },
+    "10.1101/066928": {
+      "date": "2016-07-31",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/31/066928.source.xml"
+    },
+    "10.1101/066910": {
+      "date": "2016-07-31",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/31/066910.source.xml"
+    },
+    "10.1101/066902": {
+      "date": "2016-07-31",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/31/066902.source.xml"
+    },
+    "10.1101/066860": {
+      "date": "2016-07-31",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/31/066860.source.xml"
+    },
+    "10.1101/066795": {
+      "date": "2016-07-31",
+      "license": "cc_by_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/31/066795.source.xml"
+    },
+    "10.1101/066126": {
+      "date": "2016-08-03",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/03/066126.source.xml"
+    },
+    "10.1101/060327": {
+      "date": "2016-07-31",
+      "license": "cc_by_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/07/31/060327.source.xml"
+    },
+    "10.1101/032458": {
+      "date": "2016-08-01",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/01/032458.source.xml"
+    },
+    "10.1101/053116": {
+      "date": "2016-08-01",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/01/053116.source.xml"
+    },
+    "10.1101/059642": {
+      "date": "2016-08-01",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/01/059642.source.xml"
+    },
+    "10.1101/059188": {
+      "date": "2016-08-01",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/01/059188.source.xml"
+    },
+    "10.1101/062117": {
+      "date": "2016-08-01",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/01/062117.source.xml"
+    },
+    "10.1101/067264": {
+      "date": "2016-08-01",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/01/067264.source.xml"
+    },
+    "10.1101/067249": {
+      "date": "2016-08-01",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/01/067249.source.xml"
+    },
+    "10.1101/067223": {
+      "date": "2016-08-01",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/01/067223.source.xml"
+    },
+    "10.1101/067207": {
+      "date": "2016-08-01",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/01/067207.source.xml"
+    },
+    "10.1101/067199": {
+      "date": "2016-08-01",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/01/067199.source.xml"
+    },
+    "10.1101/067173": {
+      "date": "2016-08-01",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/01/067173.source.xml"
+    },
+    "10.1101/067165": {
+      "date": "2016-08-01",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/01/067165.source.xml"
+    },
+    "10.1101/067124": {
+      "date": "2016-08-01",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/01/067124.source.xml"
+    },
+    "10.1101/067116": {
+      "date": "2016-08-01",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/01/067116.source.xml"
+    },
+    "10.1101/067090": {
+      "date": "2016-08-01",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/01/067090.source.xml"
+    },
+    "10.1101/067074": {
+      "date": "2016-08-01",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/01/067074.source.xml"
+    },
+    "10.1101/066944": {
+      "date": "2016-08-01",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/01/066944.source.xml"
+    },
+    "10.1101/066845": {
+      "date": "2016-08-01",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/01/066845.source.xml"
+    },
+    "10.1101/066829": {
+      "date": "2016-08-01",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/01/066829.source.xml"
+    },
+    "10.1101/031757": {
+      "date": "2016-08-02",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/02/031757.source.xml"
+    },
+    "10.1101/039115": {
+      "date": "2016-08-02",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/02/039115.source.xml"
+    },
+    "10.1101/044149": {
+      "date": "2016-08-02",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/02/044149.source.xml"
+    },
+    "10.1101/043562": {
+      "date": "2016-08-02",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/02/043562.source.xml"
+    },
+    "10.1101/044628": {
+      "date": "2016-08-02",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/02/044628.source.xml"
+    },
+    "10.1101/049643": {
+      "date": "2016-08-02",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/02/049643.source.xml"
+    },
+    "10.1101/055541": {
+      "date": "2016-08-02",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/02/055541.source.xml"
+    },
+    "10.1101/067496": {
+      "date": "2016-08-02",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/02/067496.source.xml"
+    },
+    "10.1101/067488": {
+      "date": "2016-08-02",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/02/067488.source.xml"
+    },
+    "10.1101/067470": {
+      "date": "2016-08-02",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/02/067470.source.xml"
+    },
+    "10.1101/067462": {
+      "date": "2016-08-02",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/02/067462.source.xml"
+    },
+    "10.1101/067447": {
+      "date": "2016-08-02",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/02/067447.source.xml"
+    },
+    "10.1101/067397": {
+      "date": "2016-08-02",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/02/067397.source.xml"
+    },
+    "10.1101/067389": {
+      "date": "2016-08-03",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/03/067389.source.xml"
+    },
+    "10.1101/067371": {
+      "date": "2016-08-04",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/04/067371.source.xml"
+    },
+    "10.1101/067363": {
+      "date": "2016-08-02",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/02/067363.source.xml"
+    },
+    "10.1101/067355": {
+      "date": "2016-08-02",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/02/067355.source.xml"
+    },
+    "10.1101/067348": {
+      "date": "2016-08-02",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/02/067348.source.xml"
+    },
+    "10.1101/067322": {
+      "date": "2016-08-02",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/02/067322.source.xml"
+    },
+    "10.1101/067306": {
+      "date": "2016-08-02",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/02/067306.source.xml"
+    },
+    "10.1101/067272": {
+      "date": "2016-08-02",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/02/067272.source.xml"
+    },
+    "10.1101/067256": {
+      "date": "2016-08-02",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/02/067256.source.xml"
+    },
+    "10.1101/067231": {
+      "date": "2016-08-02",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/02/067231.source.xml"
+    },
+    "10.1101/067215": {
+      "date": "2016-08-02",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/02/067215.source.xml"
+    },
+    "10.1101/067132": {
+      "date": "2016-08-02",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/02/067132.source.xml"
+    },
+    "10.1101/067108": {
+      "date": "2016-08-03",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/03/067108.source.xml"
+    },
+    "10.1101/067066": {
+      "date": "2016-08-09",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/09/067066.source.xml"
+    },
+    "10.1101/022640": {
+      "date": "2016-08-03",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/03/022640.source.xml"
+    },
+    "10.1101/052803": {
+      "date": "2016-08-03",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/03/052803.source.xml"
+    },
+    "10.1101/067660": {
+      "date": "2016-08-03",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/03/067660.source.xml"
+    },
+    "10.1101/067652": {
+      "date": "2016-08-04",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/04/067652.source.xml"
+    },
+    "10.1101/067629": {
+      "date": "2016-08-03",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/03/067629.source.xml"
+    },
+    "10.1101/067611": {
+      "date": "2016-08-03",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/03/067611.source.xml"
+    },
+    "10.1101/067603": {
+      "date": "2016-08-03",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/03/067603.source.xml"
+    },
+    "10.1101/067587": {
+      "date": "2016-08-05",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/05/067587.source.xml"
+    },
+    "10.1101/067579": {
+      "date": "2016-08-03",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/03/067579.source.xml"
+    },
+    "10.1101/067561": {
+      "date": "2016-08-03",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/03/067561.source.xml"
+    },
+    "10.1101/067520": {
+      "date": "2016-08-03",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/03/067520.source.xml"
+    },
+    "10.1101/067512": {
+      "date": "2016-08-03",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/03/067512.source.xml"
+    },
+    "10.1101/067504": {
+      "date": "2016-08-03",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/03/067504.source.xml"
+    },
+    "10.1101/067454": {
+      "date": "2016-08-03",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/03/067454.source.xml"
+    },
+    "10.1101/066399": {
+      "date": "2016-08-03",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/03/066399.source.xml"
+    },
+    "10.1101/030528": {
+      "date": "2016-08-04",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/04/030528.source.xml"
+    },
+    "10.1101/036152": {
+      "date": "2016-08-04",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/04/036152.source.xml"
+    },
+    "10.1101/058099": {
+      "date": "2016-08-04",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/04/058099.source.xml"
+    },
+    "10.1101/059477": {
+      "date": "2016-08-04",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/04/059477.source.xml"
+    },
+    "10.1101/067967": {
+      "date": "2016-08-05",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/05/067967.source.xml"
+    },
+    "10.1101/067942": {
+      "date": "2016-08-05",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/05/067942.source.xml"
+    },
+    "10.1101/067934": {
+      "date": "2016-08-05",
+      "license": "cc_by_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/05/067934.source.xml"
+    },
+    "10.1101/067926": {
+      "date": "2016-08-04",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/04/067926.source.xml"
+    },
+    "10.1101/067918": {
+      "date": "2016-08-04",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/04/067918.source.xml"
+    },
+    "10.1101/067900": {
+      "date": "2016-08-04",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/04/067900.source.xml"
+    },
+    "10.1101/067892": {
+      "date": "2016-08-05",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/05/067892.source.xml"
+    },
+    "10.1101/067884": {
+      "date": "2016-08-04",
+      "license": "cc_by_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/04/067884.source.xml"
+    },
+    "10.1101/067876": {
+      "date": "2016-08-04",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/04/067876.source.xml"
+    },
+    "10.1101/067868": {
+      "date": "2016-08-05",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/05/067868.source.xml"
+    },
+    "10.1101/067835": {
+      "date": "2016-08-04",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/04/067835.source.xml"
+    },
+    "10.1101/067843": {
+      "date": "2016-08-04",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/04/067843.source.xml"
+    },
+    "10.1101/067827": {
+      "date": "2016-08-04",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/04/067827.source.xml"
+    },
+    "10.1101/067819": {
+      "date": "2016-08-04",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/04/067819.source.xml"
+    },
+    "10.1101/067801": {
+      "date": "2016-08-04",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/04/067801.source.xml"
+    },
+    "10.1101/067793": {
+      "date": "2016-08-04",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/04/067793.source.xml"
+    },
+    "10.1101/067785": {
+      "date": "2016-08-04",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/04/067785.source.xml"
+    },
+    "10.1101/067769": {
+      "date": "2016-08-04",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/04/067769.source.xml"
+    },
+    "10.1101/067751": {
+      "date": "2016-08-04",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/04/067751.source.xml"
+    },
+    "10.1101/067744": {
+      "date": "2016-08-04",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/04/067744.source.xml"
+    },
+    "10.1101/067694": {
+      "date": "2016-08-04",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/04/067694.source.xml"
+    },
+    "10.1101/067538": {
+      "date": "2016-08-04",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/04/067538.source.xml"
+    },
+    "10.1101/067421": {
+      "date": "2016-08-04",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/04/067421.source.xml"
+    },
+    "10.1101/037606": {
+      "date": "2016-08-05",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/05/037606.source.xml"
+    },
+    "10.1101/050823": {
+      "date": "2016-08-05",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/05/050823.source.xml"
+    },
+    "10.1101/058024": {
+      "date": "2016-08-05",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/05/058024.source.xml"
+    },
+    "10.1101/068189": {
+      "date": "2016-08-07",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/07/068189.source.xml"
+    },
+    "10.1101/068171": {
+      "date": "2016-08-05",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/05/068171.source.xml"
+    },
+    "10.1101/068148": {
+      "date": "2016-08-05",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/05/068148.source.xml"
+    },
+    "10.1101/068130": {
+      "date": "2016-08-05",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/05/068130.source.xml"
+    },
+    "10.1101/068122": {
+      "date": "2016-08-05",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/05/068122.source.xml"
+    },
+    "10.1101/068106": {
+      "date": "2016-08-05",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/05/068106.source.xml"
+    },
+    "10.1101/068098": {
+      "date": "2016-08-05",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/05/068098.source.xml"
+    },
+    "10.1101/068056": {
+      "date": "2016-08-05",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/05/068056.source.xml"
+    },
+    "10.1101/068049": {
+      "date": "2016-08-05",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/05/068049.source.xml"
+    },
+    "10.1101/068114": {
+      "date": "2016-08-05",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/05/068114.source.xml"
+    },
+    "10.1101/068007": {
+      "date": "2016-08-05",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/05/068007.source.xml"
+    },
+    "10.1101/068064": {
+      "date": "2016-08-05",
+      "license": "cc_by_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/05/068064.source.xml"
+    },
+    "10.1101/068072": {
+      "date": "2016-08-05",
+      "license": "cc_by_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/05/068072.source.xml"
+    },
+    "10.1101/068031": {
+      "date": "2016-08-05",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/05/068031.source.xml"
+    },
+    "10.1101/068015": {
+      "date": "2016-08-05",
+      "license": "cc_by_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/05/068015.source.xml"
+    },
+    "10.1101/067991": {
+      "date": "2016-08-05",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/05/067991.source.xml"
+    },
+    "10.1101/067850": {
+      "date": "2016-08-05",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/05/067850.source.xml"
+    },
+    "10.1101/067702": {
+      "date": "2016-08-05",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/05/067702.source.xml"
+    },
+    "10.1101/067678": {
+      "date": "2016-08-05",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/05/067678.source.xml"
+    },
+    "10.1101/068254": {
+      "date": "2016-08-06",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/06/068254.source.xml"
+    },
+    "10.1101/068262": {
+      "date": "2016-08-06",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/06/068262.source.xml"
+    },
+    "10.1101/068247": {
+      "date": "2016-08-06",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/06/068247.source.xml"
+    },
+    "10.1101/068239": {
+      "date": "2016-08-06",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/06/068239.source.xml"
+    },
+    "10.1101/068221": {
+      "date": "2016-08-06",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/06/068221.source.xml"
+    },
+    "10.1101/068213": {
+      "date": "2016-08-06",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/06/068213.source.xml"
+    },
+    "10.1101/068205": {
+      "date": "2016-08-06",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/06/068205.source.xml"
+    },
+    "10.1101/068163": {
+      "date": "2016-08-06",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/06/068163.source.xml"
+    },
+    "10.1101/028134": {
+      "date": "2016-08-07",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/07/028134.source.xml"
+    },
+    "10.1101/034132": {
+      "date": "2016-08-07",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/07/034132.source.xml"
+    },
+    "10.1101/051029": {
+      "date": "2016-08-07",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/07/051029.source.xml"
+    },
+    "10.1101/052241": {
+      "date": "2016-08-07",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/07/052241.source.xml"
+    },
+    "10.1101/068346": {
+      "date": "2016-08-07",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/07/068346.source.xml"
+    },
+    "10.1101/068338": {
+      "date": "2016-08-07",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/07/068338.source.xml"
+    },
+    "10.1101/068320": {
+      "date": "2016-08-07",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/07/068320.source.xml"
+    },
+    "10.1101/068312": {
+      "date": "2016-08-07",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/07/068312.source.xml"
+    },
+    "10.1101/068288": {
+      "date": "2016-08-07",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/07/068288.source.xml"
+    },
+    "10.1101/068270": {
+      "date": "2016-08-07",
+      "license": "cc_by_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/07/068270.source.xml"
+    },
+    "10.1101/032805": {
+      "date": "2016-08-08",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/08/032805.source.xml"
+    },
+    "10.1101/029801": {
+      "date": "2016-08-08",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/08/029801.source.xml"
+    },
+    "10.1101/046490": {
+      "date": "2016-08-08",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/08/046490.source.xml"
+    },
+    "10.1101/054239": {
+      "date": "2016-08-08",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/08/054239.source.xml"
+    },
+    "10.1101/056655": {
+      "date": "2016-08-08",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/08/056655.source.xml"
+    },
+    "10.1101/068502": {
+      "date": "2016-08-08",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/08/068502.source.xml"
+    },
+    "10.1101/068478": {
+      "date": "2016-08-08",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/08/068478.source.xml"
+    },
+    "10.1101/068460": {
+      "date": "2016-08-08",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/08/068460.source.xml"
+    },
+    "10.1101/068445": {
+      "date": "2016-08-08",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/08/068445.source.xml"
+    },
+    "10.1101/068429": {
+      "date": "2016-08-08",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/08/068429.source.xml"
+    },
+    "10.1101/068403": {
+      "date": "2016-08-08",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/08/068403.source.xml"
+    },
+    "10.1101/068387": {
+      "date": "2016-08-08",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/08/068387.source.xml"
+    },
+    "10.1101/068155": {
+      "date": "2016-08-08",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/08/068155.source.xml"
+    },
+    "10.1101/068080": {
+      "date": "2016-08-08",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/08/068080.source.xml"
+    },
+    "10.1101/018762": {
+      "date": "2016-08-09",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/09/018762.source.xml"
+    },
+    "10.1101/068759": {
+      "date": "2016-08-09",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/09/068759.source.xml"
+    },
+    "10.1101/068742": {
+      "date": "2016-08-09",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/09/068742.source.xml"
+    },
+    "10.1101/068684": {
+      "date": "2016-08-09",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/09/068684.source.xml"
+    },
+    "10.1101/068668": {
+      "date": "2016-08-09",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/09/068668.source.xml"
+    },
+    "10.1101/068627": {
+      "date": "2016-08-12",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/12/068627.source.xml"
+    },
+    "10.1101/068601": {
+      "date": "2016-08-09",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/09/068601.source.xml"
+    },
+    "10.1101/068593": {
+      "date": "2016-08-09",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/09/068593.source.xml"
+    },
+    "10.1101/068585": {
+      "date": "2016-08-09",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/09/068585.source.xml"
+    },
+    "10.1101/068577": {
+      "date": "2016-08-09",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/09/068577.source.xml"
+    },
+    "10.1101/068569": {
+      "date": "2016-08-09",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/09/068569.source.xml"
+    },
+    "10.1101/068551": {
+      "date": "2016-08-09",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/09/068551.source.xml"
+    },
+    "10.1101/068544": {
+      "date": "2016-08-09",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/09/068544.source.xml"
+    },
+    "10.1101/068536": {
+      "date": "2016-08-09",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/09/068536.source.xml"
+    },
+    "10.1101/068528": {
+      "date": "2016-08-09",
+      "license": "cc_by_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/09/068528.source.xml"
+    },
+    "10.1101/068510": {
+      "date": "2016-08-15",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/15/068510.source.xml"
+    },
+    "10.1101/064550": {
+      "date": "2016-08-09",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/09/064550.source.xml"
+    },
+    "10.1101/062729": {
+      "date": "2016-08-09",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/09/062729.source.xml"
+    },
+    "10.1101/020909": {
+      "date": "2016-08-10",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/10/020909.source.xml"
+    },
+    "10.1101/040923": {
+      "date": "2016-08-10",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/10/040923.source.xml"
+    },
+    "10.1101/049882": {
+      "date": "2016-08-10",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/10/049882.source.xml"
+    },
+    "10.1101/058537": {
+      "date": "2016-08-10",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/10/058537.source.xml"
+    },
+    "10.1101/059808": {
+      "date": "2016-08-10",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/10/059808.source.xml"
+    },
+    "10.1101/062612": {
+      "date": "2016-08-10",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/10/062612.source.xml"
+    },
+    "10.1101/068932": {
+      "date": "2016-08-10",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/10/068932.source.xml"
+    },
+    "10.1101/068916": {
+      "date": "2016-08-10",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/10/068916.source.xml"
+    },
+    "10.1101/068858": {
+      "date": "2016-08-10",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/10/068858.source.xml"
+    },
+    "10.1101/068841": {
+      "date": "2016-08-10",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/10/068841.source.xml"
+    },
+    "10.1101/068833": {
+      "date": "2016-08-10",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/10/068833.source.xml"
+    },
+    "10.1101/068825": {
+      "date": "2016-08-10",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/10/068825.source.xml"
+    },
+    "10.1101/068791": {
+      "date": "2016-08-10",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/10/068791.source.xml"
+    },
+    "10.1101/068775": {
+      "date": "2016-08-10",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/10/068775.source.xml"
+    },
+    "10.1101/068734": {
+      "date": "2016-08-10",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/10/068734.source.xml"
+    },
+    "10.1101/068718": {
+      "date": "2016-08-10",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/10/068718.source.xml"
+    },
+    "10.1101/068692": {
+      "date": "2016-08-14",
+      "license": "cc_by_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/14/068692.source.xml"
+    },
+    "10.1101/068635": {
+      "date": "2016-08-10",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/10/068635.source.xml"
+    },
+    "10.1101/068957": {
+      "date": "2016-08-10",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/10/068957.source.xml"
+    },
+    "10.1101/026252": {
+      "date": "2016-08-11",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/11/026252.source.xml"
+    },
+    "10.1101/037374": {
+      "date": "2016-08-11",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/11/037374.source.xml"
+    },
+    "10.1101/046839": {
+      "date": "2016-08-11",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/11/046839.source.xml"
+    },
+    "10.1101/047829": {
+      "date": "2016-08-11",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/11/047829.source.xml"
+    },
+    "10.1101/048769": {
+      "date": "2016-08-11",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/11/048769.source.xml"
+    },
+    "10.1101/054205": {
+      "date": "2016-08-11",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/11/054205.source.xml"
+    },
+    "10.1101/056473": {
+      "date": "2016-08-11",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/11/056473.source.xml"
+    },
+    "10.1101/057414": {
+      "date": "2016-08-11",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/11/057414.source.xml"
+    },
+    "10.1101/059113": {
+      "date": "2016-08-17",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/17/059113.source.xml"
+    },
+    "10.1101/061549": {
+      "date": "2016-08-11",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/11/061549.source.xml"
+    },
+    "10.1101/069278": {
+      "date": "2016-08-11",
+      "license": "cc_by_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/11/069278.source.xml"
+    },
+    "10.1101/069260": {
+      "date": "2016-08-11",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/11/069260.source.xml"
+    },
+    "10.1101/069252": {
+      "date": "2016-08-11",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/11/069252.source.xml"
+    },
+    "10.1101/069237": {
+      "date": "2016-08-11",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/11/069237.source.xml"
+    },
+    "10.1101/069229": {
+      "date": "2016-08-11",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/11/069229.source.xml"
+    },
+    "10.1101/069211": {
+      "date": "2016-08-11",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/11/069211.source.xml"
+    },
+    "10.1101/069187": {
+      "date": "2016-08-11",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/11/069187.source.xml"
+    },
+    "10.1101/069179": {
+      "date": "2016-08-11",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/11/069179.source.xml"
+    },
+    "10.1101/069153": {
+      "date": "2016-08-11",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/11/069153.source.xml"
+    },
+    "10.1101/069120": {
+      "date": "2016-08-15",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/15/069120.source.xml"
+    },
+    "10.1101/069112": {
+      "date": "2016-08-11",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/11/069112.source.xml"
+    },
+    "10.1101/069104": {
+      "date": "2016-08-11",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/11/069104.source.xml"
+    },
+    "10.1101/069096": {
+      "date": "2016-08-11",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/11/069096.source.xml"
+    },
+    "10.1101/069070": {
+      "date": "2016-08-11",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/11/069070.source.xml"
+    },
+    "10.1101/069047": {
+      "date": "2016-08-11",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/11/069047.source.xml"
+    },
+    "10.1101/068940": {
+      "date": "2016-08-11",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/11/068940.source.xml"
+    },
+    "10.1101/068908": {
+      "date": "2016-08-11",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/11/068908.source.xml"
+    },
+    "10.1101/068783": {
+      "date": "2016-08-11",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/11/068783.source.xml"
+    },
+    "10.1101/068767": {
+      "date": "2016-08-12",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/12/068767.source.xml"
+    },
+    "10.1101/068353": {
+      "date": "2016-08-11",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/11/068353.source.xml"
+    },
+    "10.1101/067546": {
+      "date": "2016-08-11",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/11/067546.source.xml"
+    },
+    "10.1101/069021": {
+      "date": "2016-08-11",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/11/069021.source.xml"
+    },
+    "10.1101/068999": {
+      "date": "2016-08-11",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/11/068999.source.xml"
+    },
+    "10.1101/068965": {
+      "date": "2016-08-11",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/11/068965.source.xml"
+    },
+    "10.1101/029892": {
+      "date": "2016-08-12",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/12/029892.source.xml"
+    },
+    "10.1101/052076": {
+      "date": "2016-08-13",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/13/052076.source.xml"
+    },
+    "10.1101/062711": {
+      "date": "2016-08-15",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/15/062711.source.xml"
+    },
+    "10.1101/069377": {
+      "date": "2016-08-12",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/12/069377.source.xml"
+    },
+    "10.1101/069369": {
+      "date": "2016-08-12",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/12/069369.source.xml"
+    },
+    "10.1101/069351": {
+      "date": "2016-08-12",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/12/069351.source.xml"
+    },
+    "10.1101/069310": {
+      "date": "2016-08-12",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/12/069310.source.xml"
+    },
+    "10.1101/069302": {
+      "date": "2016-08-12",
+      "license": "cc_by_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/12/069302.source.xml"
+    },
+    "10.1101/069286": {
+      "date": "2016-08-12",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/12/069286.source.xml"
+    },
+    "10.1101/069245": {
+      "date": "2016-08-12",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/12/069245.source.xml"
+    },
+    "10.1101/069203": {
+      "date": "2016-08-12",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/12/069203.source.xml"
+    },
+    "10.1101/069195": {
+      "date": "2016-08-12",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/12/069195.source.xml"
+    },
+    "10.1101/069161": {
+      "date": "2016-08-12",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/12/069161.source.xml"
+    },
+    "10.1101/069062": {
+      "date": "2016-08-12",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/12/069062.source.xml"
+    },
+    "10.1101/069039": {
+      "date": "2016-08-12",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/12/069039.source.xml"
+    },
+    "10.1101/068882": {
+      "date": "2016-08-12",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/12/068882.source.xml"
+    },
+    "10.1101/068809": {
+      "date": "2016-08-12",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/12/068809.source.xml"
+    },
+    "10.1101/069013": {
+      "date": "2016-08-12",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/12/069013.source.xml"
+    },
+    "10.1101/053462": {
+      "date": "2016-08-13",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/13/053462.source.xml"
+    },
+    "10.1101/051706": {
+      "date": "2016-08-14",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/14/051706.source.xml"
+    },
+    "10.1101/069542": {
+      "date": "2016-08-14",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/14/069542.source.xml"
+    },
+    "10.1101/069534": {
+      "date": "2016-08-14",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/14/069534.source.xml"
+    },
+    "10.1101/069526": {
+      "date": "2016-08-14",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/14/069526.source.xml"
+    },
+    "10.1101/069518": {
+      "date": "2016-08-14",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/14/069518.source.xml"
+    },
+    "10.1101/069500": {
+      "date": "2016-08-14",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/14/069500.source.xml"
+    },
+    "10.1101/069427": {
+      "date": "2016-08-14",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/14/069427.source.xml"
+    },
+    "10.1101/069393": {
+      "date": "2016-08-14",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/14/069393.source.xml"
+    },
+    "10.1101/069385": {
+      "date": "2016-08-14",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/14/069385.source.xml"
+    },
+    "10.1101/069336": {
+      "date": "2016-08-14",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/14/069336.source.xml"
+    },
+    "10.1101/069294": {
+      "date": "2016-08-14",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/14/069294.source.xml"
+    },
+    "10.1101/068726": {
+      "date": "2016-08-14",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/14/068726.source.xml"
+    },
+    "10.1101/069468": {
+      "date": "2016-08-14",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/14/069468.source.xml"
+    },
+    "10.1101/069625": {
+      "date": "2016-08-15",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/15/069625.source.xml"
+    },
+    "10.1101/069617": {
+      "date": "2016-08-15",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/15/069617.source.xml"
+    },
+    "10.1101/069609": {
+      "date": "2016-08-15",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/15/069609.source.xml"
+    },
+    "10.1101/069591": {
+      "date": "2016-08-15",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/15/069591.source.xml"
+    },
+    "10.1101/069492": {
+      "date": "2016-08-15",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/15/069492.source.xml"
+    },
+    "10.1101/064642": {
+      "date": "2016-08-15",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/15/064642.source.xml"
+    },
+    "10.1101/069724": {
+      "date": "2016-08-15",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/15/069724.source.xml"
+    },
+    "10.1101/069716": {
+      "date": "2016-08-15",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/15/069716.source.xml"
+    },
+    "10.1101/069708": {
+      "date": "2016-08-15",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/15/069708.source.xml"
+    },
+    "10.1101/069682": {
+      "date": "2016-08-15",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/15/069682.source.xml"
+    },
+    "10.1101/069658": {
+      "date": "2016-08-15",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/15/069658.source.xml"
+    },
+    "10.1101/069641": {
+      "date": "2016-08-15",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/15/069641.source.xml"
+    },
+    "10.1101/069633": {
+      "date": "2016-08-15",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/15/069633.source.xml"
+    },
+    "10.1101/069567": {
+      "date": "2016-08-16",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/16/069567.source.xml"
+    },
+    "10.1101/046789": {
+      "date": "2016-08-16",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/16/046789.source.xml"
+    },
+    "10.1101/057927": {
+      "date": "2016-08-16",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/16/057927.source.xml"
+    },
+    "10.1101/069930": {
+      "date": "2016-08-16",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/16/069930.source.xml"
+    },
+    "10.1101/069922": {
+      "date": "2016-08-16",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/16/069922.source.xml"
+    },
+    "10.1101/069914": {
+      "date": "2016-08-16",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/16/069914.source.xml"
+    },
+    "10.1101/069906": {
+      "date": "2016-08-16",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/16/069906.source.xml"
+    },
+    "10.1101/069856": {
+      "date": "2016-08-16",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/16/069856.source.xml"
+    },
+    "10.1101/069849": {
+      "date": "2016-08-17",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/17/069849.source.xml"
+    },
+    "10.1101/069831": {
+      "date": "2016-08-16",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/16/069831.source.xml"
+    },
+    "10.1101/069815": {
+      "date": "2016-08-16",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/16/069815.source.xml"
+    },
+    "10.1101/069807": {
+      "date": "2016-08-16",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/16/069807.source.xml"
+    },
+    "10.1101/069799": {
+      "date": "2016-08-16",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/16/069799.source.xml"
+    },
+    "10.1101/069781": {
+      "date": "2016-08-16",
+      "license": "cc_by_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/16/069781.source.xml"
+    },
+    "10.1101/069773": {
+      "date": "2016-08-16",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/16/069773.source.xml"
+    },
+    "10.1101/069757": {
+      "date": "2016-08-16",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/16/069757.source.xml"
+    },
+    "10.1101/069575": {
+      "date": "2016-08-16",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/16/069575.source.xml"
+    },
+    "10.1101/069559": {
+      "date": "2016-08-16",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/16/069559.source.xml"
+    },
+    "10.1101/069484": {
+      "date": "2016-08-16",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/16/069484.source.xml"
+    },
+    "10.1101/069450": {
+      "date": "2016-08-16",
+      "license": "cc_by_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/16/069450.source.xml"
+    },
+    "10.1101/069344": {
+      "date": "2016-08-16",
+      "license": "cc_by_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/16/069344.source.xml"
+    },
+    "10.1101/068817": {
+      "date": "2016-08-16",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/16/068817.source.xml"
+    },
+    "10.1101/068676": {
+      "date": "2016-08-16",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/16/068676.source.xml"
+    },
+    "10.1101/068361": {
+      "date": "2016-08-16",
+      "license": "cc_by_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/16/068361.source.xml"
+    },
+    "10.1101/032359": {
+      "date": "2016-08-17",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/17/032359.source.xml"
+    },
+    "10.1101/070086": {
+      "date": "2016-08-17",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/17/070086.source.xml"
+    },
+    "10.1101/070060": {
+      "date": "2016-08-17",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/17/070060.source.xml"
+    },
+    "10.1101/070052": {
+      "date": "2016-08-17",
+      "license": "cc_by_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/17/070052.source.xml"
+    },
+    "10.1101/070045": {
+      "date": "2016-08-17",
+      "license": "cc_by_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/17/070045.source.xml"
+    },
+    "10.1101/070037": {
+      "date": "2016-08-17",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/17/070037.source.xml"
+    },
+    "10.1101/070011": {
+      "date": "2016-08-17",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/17/070011.source.xml"
+    },
+    "10.1101/069997": {
+      "date": "2016-08-17",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/17/069997.source.xml"
+    },
+    "10.1101/069989": {
+      "date": "2016-08-17",
+      "license": "cc_by_nc",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/17/069989.source.xml"
+    },
+    "10.1101/069963": {
+      "date": "2016-08-17",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/17/069963.source.xml"
+    },
+    "10.1101/069955": {
+      "date": "2016-08-17",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/17/069955.source.xml"
+    },
+    "10.1101/026393": {
+      "date": "2016-08-18",
+      "license": "cc_by_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/18/026393.source.xml"
+    },
+    "10.1101/038612": {
+      "date": "2016-08-18",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/18/038612.source.xml"
+    },
+    "10.1101/039511": {
+      "date": "2016-08-18",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/18/039511.source.xml"
+    },
+    "10.1101/054585": {
+      "date": "2016-08-18",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/18/054585.source.xml"
+    },
+    "10.1101/056762": {
+      "date": "2016-08-18",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/18/056762.source.xml"
+    },
+    "10.1101/058669": {
+      "date": "2016-08-18",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/18/058669.source.xml"
+    },
+    "10.1101/070342": {
+      "date": "2016-08-18",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/18/070342.source.xml"
+    },
+    "10.1101/070326": {
+      "date": "2016-08-18",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/18/070326.source.xml"
+    },
+    "10.1101/070318": {
+      "date": "2016-08-18",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/18/070318.source.xml"
+    },
+    "10.1101/070300": {
+      "date": "2016-08-18",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/18/070300.source.xml"
+    },
+    "10.1101/070276": {
+      "date": "2016-08-18",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/18/070276.source.xml"
+    },
+    "10.1101/070250": {
+      "date": "2016-08-18",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/18/070250.source.xml"
+    },
+    "10.1101/070243": {
+      "date": "2016-08-18",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/18/070243.source.xml"
+    },
+    "10.1101/070235": {
+      "date": "2016-08-18",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/18/070235.source.xml"
+    },
+    "10.1101/070227": {
+      "date": "2016-08-18",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/18/070227.source.xml"
+    },
+    "10.1101/070219": {
+      "date": "2016-08-18",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/18/070219.source.xml"
+    },
+    "10.1101/070201": {
+      "date": "2016-08-18",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/18/070201.source.xml"
+    },
+    "10.1101/070193": {
+      "date": "2016-08-18",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/18/070193.source.xml"
+    },
+    "10.1101/070177": {
+      "date": "2016-08-18",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/18/070177.source.xml"
+    },
+    "10.1101/070169": {
+      "date": "2016-08-18",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/18/070169.source.xml"
+    },
+    "10.1101/070151": {
+      "date": "2016-08-18",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/18/070151.source.xml"
+    },
+    "10.1101/070144": {
+      "date": "2016-08-18",
+      "license": "cc_by",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/18/070144.source.xml"
+    },
+    "10.1101/070128": {
+      "date": "2016-08-18",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/18/070128.source.xml"
+    },
+    "10.1101/070102": {
+      "date": "2016-08-18",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/18/070102.source.xml"
+    },
+    "10.1101/065268": {
+      "date": "2016-08-18",
+      "license": "cc_by_nc_nd",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/18/065268.source.xml"
+    },
+    "10.1101/064253": {
+      "date": "2016-08-18",
+      "license": "cc_no",
+      "jatsxml": "https://www.biorxiv.org/content/early/2016/08/18/064253.source.xml"
+    }
+  }
+}

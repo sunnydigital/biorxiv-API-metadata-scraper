@@ -1,0 +1,50 @@
+[
+  {
+    "doi": "10.1101/004762",
+    "title": "Sequence co-evolution gives 3D contacts and structures of protein complexes",
+    "authors": "Thomas A. Hopf;Charlotta P.I. Sch\u00e4rfe;Jo\u00e3o P.G.L.M. Rodrigues;Anna G. Green;Chris Sander;Alexandre M.J.J. Bonvin;Debora S. Marks;",
+    "author_corresponding": "Debora S. Marks",
+    "author_corresponding_institution": "Harvard Medical School",
+    "date": "2014-09-15",
+    "version": "3",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Bioinformatics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/09/15/004762.source.xml",
+    "abstract": "Protein-protein interactions are fundamental to many biological processes. Experimental screens have identified tens of thousands of interactions and structural biology has provided detailed functional insight for select 3D protein complexes. An alternative rich source of information about protein interactions is the evolutionary sequence record. Building on earlier work, we show that analysis of correlated evolutionary sequence changes across proteins identifies residues that are close in space with sufficient accuracy to determine the three-dimensional structure of the protein complexes. We evaluate prediction performance in blinded tests on 76 complexes of known 3D structure, predict protein-protein contacts in 32 complexes of unknown structure, and demonstrate how evolutionary couplings can be used to distinguish between interacting and non-interacting protein pairs in a large complex. With the current growth of sequence databases, we expect that the method can be generalized to genome-wide elucidation of protein-protein interaction networks and used for interaction predictions at residue resolution.",
+    "published": "10.7554/eLife.03430",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/009134",
+    "title": "Characterization of the transcriptome, nucleotide sequence polymorphism, and natural selection in the desert adapted mouse Peromyscus eremicus",
+    "authors": "Matthew D MacManes;Michael B Eisen;",
+    "author_corresponding": "Matthew D MacManes",
+    "author_corresponding_institution": "University of New Hampshire",
+    "date": "2014-09-15",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by",
+    "category": "Genomics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/09/15/009134.source.xml",
+    "abstract": "As a direct result of intense heat and aridity, deserts are thought to be among the most harsh of environments, particularly for their mammalian inhabitants. Given that osmoregulation can be challenging for these animals, with failure resulting in death, strong selection should be observed on genes related to the maintenance of water and solute balance. One such animal, Peromyscus eremicus, is native to the desert regions of the southwest United States and may live its entire life without oral fluid intake. As a first step toward understanding the genetics that underlie this phenotype, we present a characterization of the P. eremicus transcriptome. We assay four tissues (kidney, liver, brain, testes) from a single individual and supplement this with population level renal transcriptome sequencing from 15 additional animals. We identified a set of transcripts undergoing both purifying and balancing selection based on estimates of Tajimas D. In addition, we used the branch-site test to identify a transcript - Slc2a9, likely related to desert osmoregulation - undergoing enhanced selection in P. eremicus relative to a set of related non-desert rodents.",
+    "published": "10.7717/peerj.642",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/008185",
+    "title": "Interpretable per Case Weighted Ensemble Method for Cancer Associations",
+    "authors": "Adrin Jalali;Nico Pfeifer;",
+    "author_corresponding": "Adrin  Jalali",
+    "author_corresponding_institution": "Max Planck Institute for Informatics",
+    "date": "2014-09-15",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc",
+    "category": "Bioinformatics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/09/15/008185.source.xml",
+    "abstract": "Motivation: Molecular measurements from cancer patients such as gene expression and DNA methylation are usually very noisy. Furthermore, cancer types can be very heterogeneous. Therefore, one of the main assumptions for machine learning, that the underlying unknown distribution is the same for all samples, might not be completely fullfilled. We introduce a method, that can estimate this bias on a per-feature level and incorporate calculated feature confidences into a weighted combination of classifiers with disjoint feature sets. Results: The new method achieves state-of-the-art performance on many different cancer data sets with measured DNA methylation or gene expression. Moreover, we show how to visualize the learned classifiers to find interesting associations with the target label. Applied to a leukemia data set we find several ribosomal proteins associated with leukemia's risk group that might be interesting targets for follow-up studies and support the hypothesis that the ribosomes are a new frontier in gene regulation. Availability: The method is available under GPLv3+ License at https: //github.com/adrinjalali/Network-Classifier.",
+    "published": "10.1186/s12864-016-2647-9",
+    "server": "biorxiv"
+  }
+]

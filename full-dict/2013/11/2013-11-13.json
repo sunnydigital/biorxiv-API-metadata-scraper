@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/000349",
+    "title": "Filling up the tree: considering the self-organization of avian roosting behavior",
+    "authors": "Bradly J Alicea;",
+    "author_corresponding": "Bradly J Alicea",
+    "author_corresponding_institution": "Michigan State University",
+    "date": "2013-11-13",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc",
+    "category": "Zoology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2013/11/13/000349.source.xml",
+    "abstract": "In this paper, models for understanding bird roosting will be considered for purposes of developing better Artificial Life models of complex behavior. Roosting involves multiple flocks of birds picking a single tree limb to rest on for the night, and can be considered an iterative, time-dependent process that unfolds over a 45-minute interval roughly corresponding to twilight. Two models will be used to better understand the main components of this behavior. The constrained dynamics model, which represents continuous random absorption on a one-dimensional lattice, will be used to characterize the dynamics of crowding in the tree structure over time. A second approach involves the relationships between complex networks and roosting behaviors, in particular the evolution of structured networks via rules of incorporation and interaction. Finally, the percolation model will be proposed as a way to bridge behaviors explained by the constrained dynamics and complex network models.",
+    "published": "NA",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/000315",
+    "title": "On the Reproducibility of TCGA Ovarian Cancer MicroRNA Profiles",
+    "authors": "Ying-Wooi Wan;Claire Mach;Genevera I. Allen;Matthew Anderson;Zhandong Liu;",
+    "author_corresponding": "Zhandong  Liu",
+    "author_corresponding_institution": "Baylor College of Medicine",
+    "date": "2013-11-13",
+    "version": "1",
+    "type": "Contradictory Results",
+    "license": "cc_by_nc_nd",
+    "category": "Genomics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2013/11/13/000315.source.xml",
+    "abstract": "Dysregulated microRNA (miRNA) expression is a well-established feature of human cancer. However, the role of specific miRNAs in determining cancer outcomes remains unclear. Using Level 3 expression data from the Cancer Genome Atlas (TCGA), we identified 61 miRNAs that are associated with overall survival in 469 ovarian cancers profiled by microarray (p<0.01). We also identified 12 miRNAs that are associated with survival when miRNAs were profiled in the same specimens using Next Generation Sequencing (miRNA-Seq) (p<0.01). Surprisingly, only 1 miRNA transcript is associated with ovarian cancer survival in both datasets. Our analyses indicate that this discrepancy is due to the fact that miRNA levels reported by the two platforms correlate poorly, even after correcting for potential issues inherent to signal detection algorithms. Further investigation is warranted.",
+    "published": "10.1371/journal.pone.0087782",
+    "server": "biorxiv"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/009175",
+    "title": "Non-crossover gene conversions show strong GC bias and unexpected clustering in humans",
+    "authors": "Amy L. Williams;Giulio Geneovese;Thomas Dyer;Nicolas Altemose;Katherine Truax;Goo Jun;Nick Patterson;Simon R. Myers;Joanne E. Curran;Ravi Duggirala;John Blangero;David Reich;Molly Przeworski;the T2D-GENES Consortium;",
+    "author_corresponding": "Amy L. Williams",
+    "author_corresponding_institution": "Cornell University",
+    "date": "2015-01-08",
+    "version": "3",
+    "type": "New Results",
+    "license": "cc_by",
+    "category": "Genetics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/01/08/009175.source.xml",
+    "abstract": "Although the past decade has seen tremendous progress in our understanding of fine-scale recombination, little is known about non-crossover (NCO) gene conversion. We report the first genome-wide study of NCO events in humans. Using SNP array data from 98 meioses, we identified 103 sites affected by NCO, of which 50/52 were confirmed in sequence data. Overlap with double strand break (DSB) hotspots indicates that the events are likely of meiotic origin. We estimate that a site is involved in a NCO at a rate of 5.7x10-6/bp/generation, consistent with sperm-typing studies, and infer that tract lengths span at least an order of magnitude. Observed NCO events show strong allelic bias at heterozygous AT/GC SNPs, with 68% (58-78%) transmitting GC alleles (P=5x10-4). Strikingly, in 4 of 15 regions for which there are also resequencing data, multiple disjoint NCO tracts cluster in close proximity (~20-30 kb), a phenomenon not previously seen in mammals.",
+    "published": "10.7554/eLife.04637",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/010116",
+    "title": "RNA-Seq analysis and annotation of a draft blueberry genome assembly identifies candidate genes involved in fruit ripening, biosynthesis of bioactive compounds, and stage-specific alternative splicing",
+    "authors": "Vikas Gupta;April Dawn Estrada;Ivory Clabaugh Blakley;Rob Reid;Ketan Patel;Mason D. Meyer;Stig Uggerhoj Andersen;Allan F. Brown;Mary Ann Lila;Ann Loraine;",
+    "author_corresponding": "Ann  Loraine",
+    "author_corresponding_institution": "University of North Carolina at Charlotte",
+    "date": "2015-01-08",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Genomics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/01/08/010116.source.xml",
+    "abstract": "BackgroundBlueberries are a rich source of antioxidants and other beneficial compounds that can protect against disease. Identifying genes involved in synthesis of bioactive compounds could enable breeding berry varieties with enhanced health benefits.\\n\\nResultsToward this end, we annotated a draft blueberry genome assembly using RNA-Seq data from five stages of berry fruit development and ripening. Genome-guided assembly of RNA-Seq read alignments combined with output from ab initio gene finders produced around 60,000 gene models, of which more than half were similar to proteins from other species, typically the grape Vitis vinifera. Comparison of gene models to the PlantCyc database of metabolic pathway enzymes identified candidate genes involved in synthesis of bioactive compounds, including bixin, an apocarotenoid with potential disease-fighting properties, and defense-related cyanogenic glycosides, which are toxic.\\n\\nCyanogenic glycoside (CG) biosynthetic enzymes were highly expressed in green fruit, and a candidate CG detoxification enzyme was up regulated during fruit ripening. Candidate genes for ethylene, anthocyanin, and 400 other biosynthetic pathways were also identified. Homology-based annotation using Blast2GO and InterPro assigned Gene Ontology terms to around 15,000 genes. RNA-Seq expression profiling showed that blueberry growth, maturation, and ripening involve dynamic gene expression changes, including coordinated up and down regulation of metabolic pathway enzymes and transcriptional regulators. Analysis of RNA-seq alignments identified developmentally regulated alternative splicing, promoter use, and 3 end formation.\\n\\nConclusionsWe report genome sequence, gene models, functional annotations, and RNA-Seq expression data that provide an important new resource enabling high throughput studies in blueberry. RNA-Seq data are freely available for visualization in Integrated Genome Browser, and analysis code is available from the git repository at http://bitbucket.org/lorainelab/blueberrygenome.",
+    "published": "10.1186/s13742-015-0046-9",
+    "server": "biorxiv"
+  }
+]

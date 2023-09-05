@@ -1,0 +1,50 @@
+[
+  {
+    "doi": "10.1101/006916",
+    "title": "Products of the Parkinson\u2019s-disease related glyoxalase DJ-1, D-lactate and glycolate, support mitochondrial membrane potential and neuronal survival",
+    "authors": "Yusuke Toyoda;Cihan Erkut;Francisco Pan-Montojo;Sebastian Boland;Martin P. Stewart;Daniel J. M?ller;Wolfgang Wurst;Anthony A. Hyman;Teymuras V. Kurzchalia;",
+    "author_corresponding": "Teymuras V. Kurzchalia",
+    "author_corresponding_institution": "Max Planck Institute of Molecular Cell Biology and Genetics",
+    "date": "2014-07-04",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Cell Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/07/04/006916.source.xml",
+    "abstract": "Parkinson's disease is associated with mitochondrial decline in dopaminergic neurons of the substantia nigra. One of the genes, DJ- 1/PARK7, linked with the onset of Parkinson's disease, belongs to a novel glyoxalase family and influences mitochondrial activity. It has been assumed that glyoxalases fulfill this task by detoxifying aggressive aldehyde by-products of metabolism. Here we show that supplying either D-lactate or glycolate, products of DJ-1, rescues the requirement for the enzyme in maintenance of mitochondrial potential. We further show that glycolic acid and D-lactic acid can elevate lowered mitochondrial membrane potential caused by silencing PINK-1, another Parkinson's related gene, as well as by paraquat, an environmental toxin known to be linked with Parkinson's disease. We propose that DJ-1 and consequently its products are components of a novel pathway that stabilizes mitochondria during cellular stress. We go on to show that survival of cultured mesencephalic dopaminergic neurons, defective in Parkinson's disease, is enhanced by glycolate and D-lactate. Because glycolic and D-lactic acids occur naturally, they are therefore a potential therapeutic route for treatment or prevention of Parkinson's disease.",
+    "published": "10.1242/bio.20149399",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/006908",
+    "title": "Recurrent alternative splicing isoform switches in tumor samples provide novel signatures of cancer",
+    "authors": "Endre Sebesty\u00e9n;Micha\u0142 Zawisza;Eduardo Eyras;",
+    "author_corresponding": "Eduardo  Eyras",
+    "author_corresponding_institution": "Universitat Pompeu Fabra, Barcelona, Spain",
+    "date": "2014-07-04",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by",
+    "category": "Bioinformatics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/07/04/006908.source.xml",
+    "abstract": "Cancer genomics has been instrumental to determine the genetic alterations that are predictive of various tumor conditions. However, the majority of these alterations occur at low frequencies, motivating the need to expand the catalogue of cancer signatures. Alternative pre-mRNA splicing alterations, which bear major importance for the understanding of cancer, have not been exhaustively studied yet in the context of recent cancer genome projects. In this article we analyze RNA sequencing data for more than 4000 samples from The Cancer Genome Atlas (TCGA) project, including paired normal samples, to detect recurrent alternative splicing isoform switches in 9 different cancer types. We first investigate whether alternative splicing isoform changes are predictive of tumors by applying a rank-based algorithm based on the reversal of the relative expression of transcript isoforms. We find that consistent alternative splicing isoform changes can separate with high accuracy tumor and normal samples, as well as some cancer subtypes. We then searched for those changes that occur in the most abundant isoform, i.e isoform switches, and are therefore more likely to have a functional impact. In total we detected 244 isoform switches, which are associated to functional pathways that are frequently altered in cancer and also separate tumor and normal samples accurately. We further assessed whether these isoform changes are associated to somatic mutations. Surprisingly, only a few cases appear to have association, including the putative tumor suppressor FBLN2 and the tumor driver MYH11, which show association of an isoform switch to mutations and indels on the alternatively spliced exon. However, the number of observed mutations is in general not sufficient to explain the frequency of the found isoform switches, suggesting that recurrent isoform switching in cancer is mostly independent of somatic mutations. In summary, we present an effective approach to detect novel alternative splicing signatures that are predictive of tumors. Moreover, the same methodology has led to uncover recurrent isoform switches in tumors, which may provide novel prognostic and therapeutic targets.\\n\\nSoftware and data are available at: https://bitbucket.org/regulatorygenomicsupf/iso-ktsp and http://dx.doi.org/10.6084/m9.figshare.1061917",
+    "published": "10.1093/nar/gku1392",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/006783",
+    "title": "Hybrid origins and the earliest stages of diploidization in the highly successful recent polyploid Capsella bursa-pastoris",
+    "authors": "Gavin Douglas;Gesseca Gos;Kim Steige;Adriana Salcedo;Karl Holm;J. Arvid \u00c5gren;Khaled Hazzouri;Wei Wang;Adrian E. Platts;Emily B. Josephs;Robert J. Williamson;Barbara Neuffer;Martin Lascoux;Tanja Slotte;Stephen Wright;",
+    "author_corresponding": "Stephen  Wright",
+    "author_corresponding_institution": "University of Toronto",
+    "date": "2014-07-04",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nd",
+    "category": "Evolutionary Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/07/04/006783.source.xml",
+    "abstract": "Whole genome duplication events have occurred repeatedly during flowering plant evolution, and there is growing evidence for predictable patterns of gene retention and loss following polyploidization. Despite these important insights, the rate and processes governing the earliest stages of diploidization remain poorly understood, and the relative importance of genetic drift, positive selection and relaxed purifying selection in the process of gene degeneration and loss is unclear. Here, we conduct whole genome resequencing in Capsella bursa-pastoris, a recently formed tetraploid with one of the most widespread species distributions of any angiosperm. Whole genome data provide strong support for recent hybrid origins of the tetraploid species within the last 100-300,000 years from two diploid progenitors in the Capsella genus. Major-effect inactivating mutations are frequent, but many were inherited from the parental species and show no evidence of being fixed by positive selection. Despite a lack of large-scale gene loss, we observe a decrease in the efficacy of natural selection genome-wide, due to the combined effects of demography, selfing and genome redundancy from whole genome duplication. Our results suggest that the earliest stages of diploidization are associated with quantitative genome-wide decreases in the strength and efficacy of selection rather than rapid gene loss, and that non-functionalization can receive a 'head start' through a legacy of deleterious variants and differential expression originating in parental diploid populations.",
+    "published": "10.1073/pnas.1412277112",
+    "server": "biorxiv"
+  }
+]

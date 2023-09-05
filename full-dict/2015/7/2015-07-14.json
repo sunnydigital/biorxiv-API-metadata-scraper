@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/016840",
+    "title": "A general theory of individuated multicellularity",
+    "authors": "Felipe A. Veloso;",
+    "author_corresponding": "Felipe A. Veloso",
+    "author_corresponding_institution": "Universidad Mayor",
+    "date": "2015-07-14",
+    "version": "13",
+    "type": "New Results",
+    "license": "cc_by",
+    "category": "Developmental Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/07/14/016840.source.xml",
+    "abstract": "Changes in gene expression are thought to regulate the differentiation process intrinsically through complex epigenetic mechanisms. In fundamental terms, however, this assumed regulation refers only to the intricate propagation of changes in gene expression or else leads to logical inconsistencies. The evolution and self-regulatory dynamics of individuated multicellularity also lack a unified and falsifiable description. To fill this gap, I computationally analyzed publicly available high-throughput data of histone H3 post-translational modifications and mRNA abundance for different Homo sapiens, Mus musculus, and Drosophila melanogaster cell-type/developmental-periods samples. My analysis of genomic regions adjacent to transcription start sites generated a profile from pairwise partial correlations between histone modifications controlling for the respective mRNA levels for each cell-type/developmental-period dataset. I found that these profiles, while explicitly uncorrelated to transcript abundance by construction, associate strongly with cell differentiation states. This association is not expected if cell differentiation is, in effect, regulated by epigenetic mechanisms. Based on these results, I propose a falsifiable theory of individuated multicellularity, which relies on the synergistic coupling across the extracellular space of two stochastically independent \\\"self-organizing\\\" systems constraining histone modification states at the same sites. This theory describes how the multicellular individual--understood as an intrinsic, higher-order constraint--emerges from proliferating undifferentiated cells, and may explain the intrinsic regulation of gene transcriptional changes during cell differentiation and the evolution of individuated multicellular organisms.",
+    "published": "10.1016/j.jtbi.2016.12.025",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/022376",
+    "title": "Gctf: real-time CTF determination and correction",
+    "authors": "Kai Zhang;",
+    "author_corresponding": "Kai  Zhang",
+    "author_corresponding_institution": "MRC Laboratory of Molecular Biology",
+    "date": "2015-07-14",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Biophysics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/07/14/022376.source.xml",
+    "abstract": "Accurate estimation of the contrast transfer function (CTF) is critical for a near-atomic resolution cryo electron microscopy (cryoEM) reconstruction. Here, I present a GPU-accelerated computer program, Gctf, for accurate and robust, real-time CTF determination. Similar to alternative programs, the main target of Gctf is to maximize the cross-correlation of a simulated CTF with the power spectra of observed micrographs after background reduction. However, novel approaches in Gctf improve both speed and accuracy. In addition to GPU acceleration, a fast  1-dimensional search plus 2-dimensional refinement (1S2R) procedure significantly speeds up Gctf. Based on the global CTF determination, the local defocus for each particle and for single frames of movies is accurately refined, which improves CTF parameters of all particles for subsequent image processing. Novel diagnosis method using equiphase averaging(EFA) and self-consistency verification procedures have also been implemented in the program for practical use, especially for aims of near-atomic reconstruction. Gctf is an independent program and the outputs can be easily imported into other cryoEM software such as Relion and Frealign. The results from several representative datasets are shown and discussed in this paper.",
+    "published": "10.1016/j.jsb.2015.11.003",
+    "server": "biorxiv"
+  }
+]

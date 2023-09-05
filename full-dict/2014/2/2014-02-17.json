@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/002782",
+    "title": "Large-scale non-targeted metabolomic profiling in three human population-based studies",
+    "authors": "Andrea Ganna;Tove Fall;Samira Salihovic;Woojoo Lee;Corey D Broeckling;Jitender Kumar;Sara H\u00e4gg;Markus Stenemo;Patrik K.E. Magnusson;Jessica Prenni;Lars Lind;Yudi Pawitan;Erik Ingelsson;",
+    "author_corresponding": "Erik  Ingelsson",
+    "author_corresponding_institution": "Uppsala University",
+    "date": "2014-02-17",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nd",
+    "category": "Bioinformatics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/02/17/002782.source.xml",
+    "abstract": "Metabolomic profiling is an emerging technique in life sciences. Human studies using these techniques have been performed in a small number of individuals or have been targeted at a restricted number of metabolites. In this article, we propose a data analysis workflow to perform non-targeted metabolomic profiling in large human population-based studies using ultra performance liquid chromatography-mass spectrometry (UPLC-MS). We describe challenges and propose solutions for quality control, statistical analysis and annotation of metabolic features. Using the data analysis workflow, we detected more than 8,000 metabolic features in serum samples from 2,489 fasting individuals. As an illustrative example, we performed a non-targeted metabolome-wide association analysis of high-sensitive C-reactive protein (hsCRP) and detected 407 metabolic features corresponding to 90 unique metabolites that could be replicated in an external population. Our results reveal unexpected biological associations, such as metabolites identified as monoacylphosphorylcholines (LysoPC) being negatively associated with hsCRP. R code and fragmentation spectra for all metabolites are made publically available. In conclusion, the results presented here illustrate the viability and potential of non-targeted metabolomic profiling in large population-based studies.",
+    "published": "NA",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/002766",
+    "title": "A Novel Approach for Multi-Domain and Multi-Gene Family Identification Provides Insights into Evolutionary Dynamics of Disease Resistance Genes in Core Eudicot Plants",
+    "authors": "Johannes A. Hofberger;Beifei Zhou;Haibao Tang;Jonathan DG Jones;M. Eric Schranz;",
+    "author_corresponding": "M. Eric  Schranz",
+    "author_corresponding_institution": "Wageningen University & Research Center",
+    "date": "2014-02-17",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by",
+    "category": "Genomics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/02/17/002766.source.xml",
+    "abstract": "Recent advances in DNA sequencing techniques resulted in more than forty sequenced plant genomes representing a diverse set of taxa of agricultural, energy, medicinal and ecological importance. However, gene family curation is often only inferred from DNA sequence homology and lacks insights into evolutionary processes contributing to gene family dynamics. In a comparative genomics framework, we integrated multiple lines of evidence provided by gene synteny, sequence homology and protein-based Hidden Markov Modelling to extract homologous super-clusters composed of multi-domain resistance (R)-proteins of the NB-LRR type (for NUCLEOTIDE BINDING/LEUCINE-RICH REPEATS), that are involved in plant innate immunity. To assess the diversity of R-proteins within and between species, we screened twelve eudicot plant genomes including six major crops and found a total of 2,363 NB-LRR genes. Our curated R-proteins set shows a 50% average for tandem duplicates and a 22% fraction of gene copies retained from ancient polyploidy events (ohnologs). We provide evidence for strong positive selection acting on all identified genes and show significant differences in molecular evolution rates (Ka/Ks-ratio) among tandem- (mean = 1.59), ohnolog (mean = 1.36) and singleton (mean = 1.22) R-gene duplicates. To foster the process of gene-edited plant breeding, we report species-specific presence/absence of all 140 NB-LRR genes present in the model plant Arabidopsis and describe four distinct clusters of NB-LRR \\\"gatekeeper\\\" loci sharing syntelogs across all analyzed genomes. In summary, we designed and implemented an easy-to-follow computational framework for super-gene family identification, and provide the most curated set of NB-LRR genes whose genetic versatility among twelve lineages can underpin crop improvement.",
+    "published": "10.1186/1471-2164-15-966",
+    "server": "biorxiv"
+  }
+]

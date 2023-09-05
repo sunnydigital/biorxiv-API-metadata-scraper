@@ -1,0 +1,50 @@
+[
+  {
+    "doi": "10.1101/008581",
+    "title": "An analytical approach to bistable biological circuit discrimination using real algebraic geometry",
+    "authors": "Dan Siegal-Gaskins;Elisa Franco;Tiffany Zhou;Richard M Murray;",
+    "author_corresponding": "Dan  Siegal-Gaskins",
+    "author_corresponding_institution": "California Institute of Technology",
+    "date": "2015-05-30",
+    "version": "5",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Systems Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/05/30/008581.source.xml",
+    "abstract": "Biomolecular circuits with two distinct and stable steady states have been identified as essential components in a wide range of biological networks, with a variety of mechanisms and topologies giving rise to their important bistable property. Understanding the differences between circuit implementations is an important question, particularly for the synthetic biologist faced with determining which bistable circuit design out of many is best for their specific application. In this work we explore the applicability of Sturms theorem--a tool from 19th-century real algebraic geometry--to comparing \\\"functionally equivalent\\\" bistable circuits without the need for numerical simulation. We first consider two genetic toggle variants and two different positive feedback circuits, and show how specific topological properties present in each type of circuit can serve to increase the size of the regions of parameter space in which they function as switches. We then demonstrate that a single competitive monomeric activator added to a purely-monomeric (and otherwise monostable) mutual repressor circuit is sufficient for bistability. Finally, we compare our approach with the Routh-Hurwitz method and derive consistent, yet more powerful, parametric conditions. The predictive power and ease of use of Sturms theorem demonstrated in this work suggests that algebraic geometric techniques may be underutilized in biomolecular circuit analysis.",
+    "published": "10.1098/rsif.2015.0288",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/018291",
+    "title": "Latent developmental and evolutionary shapes embedded within the grapevine leaf",
+    "authors": "Daniel H Chitwood;Laura L Klein;Regan O'Hanlon;Steven Chacko;Matthew Greg;Cassandra Kitchen;Allison J Miller;Jason P Londo;",
+    "author_corresponding": "Daniel H Chitwood",
+    "author_corresponding_institution": "Donald Danforth Plant Science Center",
+    "date": "2015-05-30",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Plant Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/05/30/018291.source.xml",
+    "abstract": "O_LIAcross plants, leaves exhibit profound diversity in shape. As a single leaf expands, its shape is in constant flux. Plants may also produce leaves with different shapes at successive nodes. Additionally, leaf shape varies among individuals, populations, and species due to evolutionary processes and environmental influences.\\nC_LIO_LIBecause leaf shape can vary in many different ways, theoretically the effects of distinct developmental and evolutionary processes are separable, even within the shape of a single leaf. Here, we measure the shapes of >3,200 leaves representing >270 vines from wild relatives of domesticated grape (Vitis spp.) to determine if leaf shapes attributable to genetics and development are separable from each other.\\nC_LIO_LIWe isolate latent shapes (multivariate signatures that vary independently from each other) embedded within the overall shape of leaves. These latent shapes can predict developmental stages independent from species identity and vice versa. Shapes predictive of development are then used to stage leaves from 1,200 varieties of domesticated grape (Vitis vinifera), revealing that changes in timing underlie leaf shape diversity.\\nC_LIO_LIOur results indicate distinct latent shapes combine to produce a composite morphology in leaves, and that developmental and evolutionary contributions to shape vary independently from each other.\\nC_LI",
+    "published": "10.1111/nph.13754",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/019257",
+    "title": "Layering genetic circuits to build a single cell, bacterial half adder",
+    "authors": "Adison Wong;Huijuan Wang;Chueh Loo Poh;Richard Kitney;",
+    "author_corresponding": "Chueh Loo  Poh",
+    "author_corresponding_institution": "Nanyang Technological University",
+    "date": "2015-05-30",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Synthetic Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/05/30/019257.source.xml",
+    "abstract": "Gene regulation in biological systems is impacted by the cellular and genetic context-dependent effects of the biological parts which comprise the circuit. Here, we have sought to elucidate the limitations of engineering biology from an architectural point of view, with the aim of compiling a set of engineering solutions for overcoming failure modes during the development of complex, synthetic genetic circuits. Using a synthetic biology approach that is supported by computational modelling and rigorous characterisation, AND, OR and NOT biological logic gates were layered in both parallel and serial arrangements to generate a repertoire of Boolean operations that include NIMPLY, XOR, half adder and half subtractor logics in single cell. Subsequent evaluation of these near-digital biological systems revealed critical design pitfalls that triggered genetic context dependent effects, including 5 UTR interference and uncontrolled switch-on behaviour of {sigma}54 promoter. Importantly, this work provides a representative case study to the debugging of genetic context dependent effects through principles elucidated herein, thereby providing a rational design framework to program single prokaryotic cell with diversified digital operations.",
+    "published": "10.1186/s12915-015-0146-0",
+    "server": "biorxiv"
+  }
+]

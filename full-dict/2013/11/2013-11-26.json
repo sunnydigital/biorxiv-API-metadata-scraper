@@ -1,0 +1,50 @@
+[
+  {
+    "doi": "10.1101/000968",
+    "title": "Functional connectivity networks with and without global signal correction",
+    "authors": "Satoru Hayasaka;",
+    "author_corresponding": "Satoru  Hayasaka",
+    "author_corresponding_institution": "Wake Forest School of Medicine",
+    "date": "2013-11-26",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Neuroscience ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2013/11/26/000968.source.xml",
+    "abstract": "In functional connectivity analyses in BOLD (blood oxygenation level dependent) fMRI data, there is an ongoing debate on whether to correct global signals in fMRI time series data. Although the discussion has been ongoing in the fMRI community since the early days of fMRI data analyses, this subject has gained renewed attention in recent years due to the surging popularity of functional connectivity analyses, in particular graph theory-based network analyses. However, the impact of correcting (or not correcting) for global signals has not been systematically characterized in the context of network analyses. Thus, in this work, I examined the effect of global signal correction on an fMRI network analysis. In particular, voxel-based resting-state fMRI networks were constructed with and without global signal correction. The resulting functional connectivity networks were compared. Without global signal correction, the distributions of the correlation coefficients were positively biased. I also found that, without global signal correction, nodes along the interhemisphic fissure were highly connected whereas some nodes and subgraphs around white-matter tracts became disconnected from the rest of the network. These results from this study show differences between the networks with or without global signal correction.",
+    "published": "10.3389/fnhum.2013.00880",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/000950",
+    "title": "An XA21-Associated Kinase (OsSERK2) regulates immunity mediated by the XA21 and XA3 immune receptors",
+    "authors": "Xuewei Chen;Shimin Zuo;Benjamin Schwessinger;Mawsheng Chern;Patrick Canlas;Deling Ruan;Arsalan Daudi;Xiaogang Zhang;Jing Wang;Christopher Petzold;Joshua Heazlewood;Pamela C Ronald;",
+    "author_corresponding": "Pamela C Ronald",
+    "author_corresponding_institution": "Department of Plant Pathology and the Genome Center, University of California, Davis, California 956",
+    "date": "2013-11-26",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Plant Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2013/11/26/000950.source.xml",
+    "abstract": "The rice XA21 immune receptor kinase and the structurally related XA3 receptor, confer immunity to Xanthomonas oryzae pv. oryzae (Xoo), the causal agent of bacterial leaf blight. Here we report the isolation of OsSERK2 (rice somatic embryogenesis receptor kinase 2) and demonstrate that OsSERK2 positively regulates immunity mediated by XA21 and XA3 as well as the rice immune receptor FLS2 (OsFLS2). Rice plants silenced for OsSerk2 display altered morphology and reduced sensitivity to the hormone brassinolide. OsSERK2 interacts with the intracellular domains of each immune receptor in the yeast-two-hybrid system in a kinase activity dependent manner. OsSERK2 undergoes bidirectional trans-phosphorylation with XA21 in vitro and forms a constitutive complex with XA21 in vivo. These results demonstrate an essential role for OsSERK2 in the function of three rice immune receptors and suggest that direct interaction with the rice immune receptors is critical for their function. Taken together, our findings suggest that the mechanism of OsSERK2-meditated regulation of rice XA21, XA3 and FLS2 differs from that of AtSERK3/BAK1-mediated regulation of Arabidopsis FLS2 and EFR.",
+    "published": "10.1093/mp/ssu003",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/000885",
+    "title": "Resource usage and gene circuit performance characterization in a cell-free ?breadboard?",
+    "authors": "Dan Siegal-Gaskins;Zoltan A. Tuza;Jongmin Kim;Vincent Noireaux;Richard M. Murray;",
+    "author_corresponding": "Dan  Siegal-Gaskins",
+    "author_corresponding_institution": "California Institute of Technology",
+    "date": "2013-11-26",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_by_nd",
+    "category": "Synthetic Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2013/11/26/000885.source.xml",
+    "abstract": "The many successes of synthetic biology have come in a manner largely different from those in other engineering disciplines; in particular, without well-characterized and simplified prototyping environments to play a role analogous to wind-tunnels in aerodynamics and breadboards in electrical engineering. However, as the complexity of synthetic circuits increases, the benefits--in cost savings and design cycle time--of a more traditional engineering approach can be significant. We have recently developed an in vitro  breadboard prototyping platform based on E. coli cell extract that allows biocircuits to operate in an environment considerably simpler than but functionally similar to in vivo. The simplicity of this system makes it a promising tool for rapid biocircuit design and testing, as well as for probing fundamental aspects of gene circuit operation normally masked by cellular complexity. In this work we characterize the cell-free breadboard using real-time and simultaneous measurements of transcriptional and translational activities of a small set of reporter genes and a transcriptional activation cascade. We determine the effects of promoter strength, gene concentration, and nucleoside triphosphate concentration on biocircuit properties, and we isolate the specific contributions of essential biomolecular resources--core RNA polymerase and ribosomes--to overall performance. Importantly, we show how limits on resources, particularly those involved in translation, are manifested as reduced expression in the presence of orthogonal genes that serve as additional loads on the system.",
+    "published": "10.1021/sb400203p",
+    "server": "biorxiv"
+  }
+]

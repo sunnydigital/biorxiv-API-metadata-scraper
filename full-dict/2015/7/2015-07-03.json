@@ -1,0 +1,18 @@
+[
+  {
+    "doi": "10.1101/009795",
+    "title": "XWAS: a software toolset for genetic data analysis and association studies of the X chromosome",
+    "authors": "Feng Gao;Diana Chang;Arjun Biddanda;Li Ma;Yingjie Guo;Zilu Zhou;Alon Keinan;",
+    "author_corresponding": "Alon  Keinan",
+    "author_corresponding_institution": "Cornell University",
+    "date": "2015-07-03",
+    "version": "4",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Genetics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/07/03/009795.source.xml",
+    "abstract": "XWAS is a new software suite for the analysis of the X chromosome in association studies and similar studies. The X chromosome plays an important role in human disease, especially those with sexually dimorphic characteristics. Special attention needs to be given to its analysis due to the unique inheritance pattern, which leads to analytical complications that have resulted in the majority of genome-wide association studies (GWAS) either not considering X or mishandling it with toolsets that had been designed for non-sex chromosomes. We hence developed XWAS to fill the need for tools that are specially designed for analysis of X. Following extensive, stringent, and X-specific quality control, XWAS offers an array of statistical tests of association, including: (1) the standard test between a SNP (single nucleotide polymorphism) and disease risk, including after first stratifying individuals by sex, (2) a test for a differential effect of a SNP on disease between males and females, (3) motivated by X-inactivation, a test for higher variance of a trait in heterozygous females as compared to homozygous females, and (4) for all tests, a version that allows for combining evidence from all SNPs across a gene. We applied the toolset analysis pipeline to 16 GWAS datasets of immune-related disorders and 7 risk factors of coronary artery disease, and discovered several new X-linked genetic associations. XWAS will provide the tools and incentive for others to incorporate the X chromosome into GWAS, hence enabling discoveries of novel loci implicated in many diseases and in their sexual dimorphism.",
+    "published": "10.1093/jhered/esv059",
+    "server": "biorxiv"
+  }
+]

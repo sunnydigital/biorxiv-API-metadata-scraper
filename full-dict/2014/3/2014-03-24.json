@@ -1,0 +1,18 @@
+[
+  {
+    "doi": "10.1101/003541",
+    "title": "An optimized CRISPR/Cas toolbox for efficient germline and somatic genome engineering in Drosophila",
+    "authors": "Fillip Port;Hui-Min Chen;Tzumin Lee;Simon L Bullock;",
+    "author_corresponding": "Fillip  Port",
+    "author_corresponding_institution": "MRC-LMB",
+    "date": "2014-03-24",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Genetics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/03/24/003541.source.xml",
+    "abstract": "The type II CRISPR/Cas system has recently emerged as a powerful method to manipulate the genomes of various organisms. Here, we report a novel toolbox for high efficiency genome engineering of Drosophila melanogaster consisting of transgenic Cas9 lines and versatile guide RNA (gRNA) expression plasmids. Systematic evaluation reveals Cas9 lines with ubiquitous or germline restricted patterns of activity. We also demonstrate differential activity of the same gRNA expressed from different U6 snRNA promoters, with the previously untested U6:3 promoter giving the most potent effect. Choosing an appropriate combination of Cas9 and gRNA allows targeting of essential and non-essential genes with transmission rates ranging from 25% - 100%. We also provide evidence that our optimized CRISPR/Cas tools can be used for offset nicking-based mutagenesis and, in combination with oligonucleotide donors, to precisely edit the genome by homologous recombination with efficiencies that do not require the use of visible markers. Lastly, we demonstrate a novel application of CRISPR/Cas-mediated technology in revealing loss-of-function phenotypes in somatic cells following efficient biallelic targeting by Cas9 expressed in a ubiquitous or tissue-restricted manner. In summary, our CRISPR/Cas tools will facilitate the rapid evaluation of mutant phenotypes of specific genes and the precise modification of the genome with single nucleotide precision. Our results also pave the way for high throughput genetic screening with CRISPR/Cas.",
+    "published": "10.1073/pnas.1405500111",
+    "server": "biorxiv"
+  }
+]

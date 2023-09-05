@@ -1,0 +1,50 @@
+[
+  {
+    "doi": "10.1101/024745",
+    "title": "Data science identifies novel drug interactions that prolong the QT interval",
+    "authors": "Tal Lorberbaum;Kevin J Sampson;Raymond L Woosley;Robert S Kass;Nicholas P Tatonetti;",
+    "author_corresponding": "Nicholas P Tatonetti",
+    "author_corresponding_institution": "Columbia University",
+    "date": "2015-08-16",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Bioinformatics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/08/16/024745.source.xml",
+    "abstract": "Drug-induced prolongation of the QT interval on the electrocardiogram (long QT syndrome, LQTS) can lead to a potentially fatal ventricular arrhythmia called torsades de pointes (TdP). 180 drugs with both cardiac and non-cardiac indications have been found to increase risk for TdP, but drug-drug interactions contributing to LQTS (QT-DDIs) remain poorly characterized. Traditional methods for mining observational healthcare data are poorly equipped to detect QT- DDI signals due to low reporting numbers and a lack of direct evidence for LQTS. In this study we present an integrative data science pipeline that addresses these limitations by identifying latent signals for QT-DDIs in the FDAs Adverse Event Reporting System and retrospectively validating these predictions using electrocardiogram data in electronic health records. We present 26 novel QT-DDIs flagged using this method that warrant further investigation.\\n\\nKey Points- Drug-induced long QT syndrome (LQTS) can lead to potentially fatal arrhythmias (torsades de pointes, TdP). Drug-drug interactions that prolong the QT interval (QT- DDIs) can be clinically significant but remain poorly characterized.\\n- Observational health data (such as adverse event spontaneous reporting systems and electronic health records) offer an opportunity to mine for new QT-DDIs, but when used individually these datasets have a number of limitations that prevent identification of true signals.\\n- We present an integrative data science approach that combines mining for latent QT- DDI signals in the FDA Adverse Event Reporting System and retrospective analysis of electrocardiogram lab results in electronic health records at Columbia University Medical Center to identify 26 novel QT-DDIs.",
+    "published": "10.1007/s40264-016-0393-1",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/024737",
+    "title": "Optimal Point Process Filtering and Estimation of the Coalescent Process",
+    "authors": "Kris V Parag;Oliver G Pybus;",
+    "author_corresponding": "Kris V Parag",
+    "author_corresponding_institution": "University of Oxford",
+    "date": "2015-08-16",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Bioinformatics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/08/16/024737.source.xml",
+    "abstract": "The coalescent process is an important and widely used model for inferring the dynamics of biological populations from samples of genetic diversity. Coalescent analysis typically involves applying statistical methods to either samples of genetic sequences or an estimated genealogy in order to estimate the demographic history of the population from which the samples originated. Several parametric and non-parametric estimation techniques, employing diverse methods, such as Gaussian processes and Monte Carlo particle filtering, already exist. However, these techniques often trade estimation accuracy and sophistication for methodological flexibility and ease of use. Thus, there is room for new coalescent estimation techniques that can be easily implemented for a range of inference problems while still maintaining some sense of statistical optimality.\\n\\nHere we introduce the Bayesian Snyder filter as a natural, easily implementable and flexible minimum mean square error estimator for parametric demographic functions. By reinterpreting the coalescent as a self-correcting inhomogeneous Poisson process, we show that the Snyder filter can be applied to both isochronous (sampled at one time point) and heterochronous (serially sampled) estimation problems. We test the estimation performance of the filter on both standard, simulated demographic models and on a well-studied empirical dataset comprising hepatitis= C virus sequences from Egypt. Additionally, we provide some analytical insight into the relationship between the Snyder filter and popular maximum likelihood and skyline plot techniques for coalescent inference. The Snyder filter is an exact and direct Bayesian estimation method that provides optimal mean square error estimates. It has the potential to become as a useful, alternative technique for coalescent inference.",
+    "published": "10.1016/j.jtbi.2017.04.001",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/024679",
+    "title": "Cookiecutter: a tool for kmer-based read filtering and extraction",
+    "authors": "Ekaterina Starostina;Gaik Tamazian;Pavel Dobrynin;Stephen O'Brien;Aleksey Komissarov;",
+    "author_corresponding": "Aleksey  Komissarov",
+    "author_corresponding_institution": "Theodosius Dobzhansky Center for Genome Bioinformatics, St. Petersburg State University",
+    "date": "2015-08-16",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by",
+    "category": "Bioinformatics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/08/16/024679.source.xml",
+    "abstract": "MotivationKmer-based analysis is a powerful method used in read error correction and implemented in various genome assembly tools. A number of read processing routines include extracting or removing sequence reads from the results of high-throughput sequencing experiments prior to further analysis. Here we present a new approach to sorting or filtering of raw reads based on a provided list of kmers.\\n\\nResultsWe developed Cookiecutter -- a computational tool for rapid read extraction or removing according to a provided list of k-mers generated from a FASTA file. Cookiecutter is based on the implementation of the Aho-Corasik algorithm and is useful in routine processing of high-throughput sequencing datasets. Cookiecutter can be used for both removing undesirable reads and read extraction from a user-defined region of interest.\\n\\nAvailabilityThe open-source implementation with user instructions can be obtained from GitHub: https://github.com/ad3002/Cookiecutter.",
+    "published": "NA",
+    "server": "biorxiv"
+  }
+]

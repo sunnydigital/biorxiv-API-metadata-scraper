@@ -1,0 +1,50 @@
+[
+  {
+    "doi": "10.1101/023200",
+    "title": "Dendrites enable a robust mechanism for neuronal stimulus selectivity",
+    "authors": "Romain D. Caz\u00e9;Sarah Jarvis;Amanda Joy Foust;Simon R Schultz;",
+    "author_corresponding": "Romain D. Caz\u00e9",
+    "author_corresponding_institution": "Center for Neurotechnology and Dept. of Bioengineering, Imperial College London",
+    "date": "2015-07-24",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Neuroscience ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/07/24/023200.source.xml",
+    "abstract": "Hearing, vision, touch -- underlying all of these senses is stimulus selectivity, a robust information processing operation in which cortical neurons respond more to some stimuli than to others. Previous models assume that these neurons receive the highest weighted input from an ensemble encoding the preferred stimulus, but dendrites enable other possibilities. Non-linear dendritic processing can produce stimulus selectivity based on the spatial distribution of synapses, even if the total preferred stimulus weight does not exceed that of non-preferred stimuli. Using a multi-subunit non-linear model, we demonstrate that selectivity can arise from the spatial distribution of synapses. Moreover, we show that this implementation of stimulus selectivity increases the neuron's robustness to synaptic and dendritic failure. Contrary to an equivalent linear model, our model can maintain stimulus selectivity even when 50% of synapses fail or when more than 50% of dendrites fail. We then use a Layer 2/3 biophysical neuron model to show that our implementation is consistent with recent experimental observations, of a mixture of selectivities in dendrites, that can differ from the somatic selectivity, and of hyperpolarization broadening somatic tuning without affecting dendritic tuning. Our model predicts that an initially non-selective neuron can become selective when depolarized. In addition to motivating new experiments, the model's increased robustness to synapses and dendrites loss provides a starting point for fault-resistant neuromorphic chip development.",
+    "published": "10.1162/NECO_a_00989",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/023184",
+    "title": "Capabilities and Limitations of Tissue Size Control Through Passive Mechanical Forces",
+    "authors": "Jochen Kursawe;Pavel A. Brodskiy;Jeremiah J. Zartman;Ruth E. Baker;Alexander George Fletcher;",
+    "author_corresponding": "Alexander George Fletcher",
+    "author_corresponding_institution": "University of Sheffield",
+    "date": "2015-07-24",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Developmental Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/07/24/023184.source.xml",
+    "abstract": "Embryogenesis is an extraordinarily robust process, exhibiting the ability to control tissue size and repair patterning defects in the face of environmental and genetic perturbations. The size and shape of a developing tissue is a function of the number and size of its constituent cells as well as their geometric packing. How these cellular properties are coordinated at the tissue level to ensure developmental robustness remains a mystery; understanding this process requires studying multiple concurrent processes that make up morphogenesis, including the spatial patterning of cell fates and apoptosis, as well as cell intercalations. In this work, we develop a computational model that aims to understand aspects of the robust pattern repair mechanisms of the Drosophila embryonic epidermal tissues. Size control in this system has previously been shown to rely on the regulation of apoptosis rather than proliferation; however, to date little work has been done to understand the role of cellular mechanics in this process. We employ a vertex model of an embryonic segment to test hypotheses about the emergence of this size control. Comparing the model to previously published data across wild type and genetic perturbations, we show that passive mechanical forces suffice to explain the observed size control in the posterior (P) compartment of a segment. However, observed asymmetries in cell death frequencies across the segment are demonstrated to require patterning of cellular properties in the model. Finally, we show that distinct forms of mechanical regulation in the model may be distinguished by differences in cell shapes in the P compartment, as quantified through experimentally accessible summary statistics, as well as by the tissue recoil after laser ablation experiments.\\n\\nAuthor SummaryDeveloping embryos are able to grow organs of the correct size even in the face of significant external perturbations. Such robust size control is achieved via tissue-level coordination of cell growth, proliferation, death and rearrangement, through mechanisms that are not well understood. Here, we employ computational modelling to test hypotheses of size control in the developing fruit fly. Segments in the surface tissues of the fruit fly embryo have been shown to achieve the same size even if the number of cells in each segment is perturbed genetically. We show that simple mechanical interactions between the cells of this tissue can recapitulate previously gathered data on tissue sizes and cell numbers. However, this simple model does not capture the experimentally observed spatial variation in cell death rates in this tissue, which may be explained through several adaptations to the model. These distinct adaptations may be distinguished through summary statistics of the tissue behaviour, such as statistics of cell shapes or tissue recoil after cutting. This work demonstrates how computational modelling can help investigate the complex mechanical interactions underlying tissue size and shape, which are important for understanding the underlying causes of birth defects and diseases driven by uncontrolled growth.",
+    "published": "10.1371/journal.pcbi.1004679",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/023135",
+    "title": "Temporal patterns of damage and decay kinetics of DNA retrieved from plant herbarium specimens",
+    "authors": "Clemens L Wei\u00df;Verena J Schuenemann;Jane Devos;Gautam Shirsekar;Ella Reiter;Billie A Gould;John R Stinchcombe;Johannes Krause;Hern\u00e1n A Burbano;",
+    "author_corresponding": "Hern\u00e9n A Burbano",
+    "author_corresponding_institution": "Max Planck Institute for Developmental Biology",
+    "date": "2015-07-24",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Evolutionary Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/07/24/023135.source.xml",
+    "abstract": "Herbaria archive a record of changes of worldwide plant biodiversity harboring millions of specimens that contain DNA suitable for genome sequencing. To profit from this resource, it is fundamental to understand in detail the process of DNA degradation in herbarium specimens. We investigated patterns of DNA fragmentation -length and base composition at breaking points-, and nucleotide misincorporation by analyzing 86 herbarium samples spanning the last 300 years using Illumina shot-gun sequencing. We found an exponential decay relationship between DNA fragmentation and time, and estimated a per nucleotide fragmentation rate of 1.66 x 10-4 per year, which is ten times faster than the rate estimated for fossilized bones. Additionally, we found that strand breaks occur specially before purines, and that depurination-driven DNA breakage occurs constantly through time and can to a great extent explain decreasing fragment length over time. Similar of what has been found analyzing ancient DNA from bones, we found a strong correlation between the deamination-driven accumulation of cytosine (C) to thymine (T) substitutions and time, which reinforces the importance of substitution patterns to authenticate the ancient/historical nature of DNA fragments. Accurate estimations of DNA degradation through time will allow informed decisions about laboratory and computational procedures to take advantage of the vast collection of worldwide herbarium specimens.",
+    "published": "10.1098/rsos.160239",
+    "server": "biorxiv"
+  }
+]

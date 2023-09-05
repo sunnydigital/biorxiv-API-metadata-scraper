@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/035816",
+    "title": "Global Prediction of Chromatin Accessibility Using RNA-seq from Small Number of Cells",
+    "authors": "Weiqiang Zhou;Zhicheng Ji;Hongkai Ji;",
+    "author_corresponding": "Hongkai  Ji",
+    "author_corresponding_institution": "Department of Biostatistics, Johns Hopkins University Bloomberg School of Public Health",
+    "date": "2016-01-03",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Genomics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2016/01/03/035816.source.xml",
+    "abstract": "Conventional high-throughput technologies for mapping regulatory element activities such as ChIP-seq, DNase-seq and FAIRE-seq cannot analyze samples with small number of cells. The recently developed ATAC-seq allows regulome mapping in small-cell-number samples, but its signal in single cell or samples with [&le;]500 cells remains discrete or noisy. Compared to these technologies, measuring transcriptome by RNA-seq in single-cell and small-cell-number samples is more mature. Here we show that one can globally predict chromatin accessibility and infer regulome using RNA-seq. Genome-wide chromatin accessibility predicted by RNA-seq from 30 cells is comparable with ATAC-seq from 500 cells. Predictions based on single-cell RNA-seq can more accurately reconstruct bulk chromatin accessibility than using single-cell ATAC-seq by pooling the same number of cells. Integrating ATAC-seq with predictions from RNA-seq increases power of both methods. Thus, transcriptome-based prediction can provide a new tool for decoding gene regulatory programs in small-cell-number samples.",
+    "published": "NA",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/035808",
+    "title": "Genome-wide Prediction of DNase I Hypersensitivity Using Gene Expression",
+    "authors": "Weiqiang Zhou;Ben Sherwood;Zhicheng Ji;Fang Du;Jiawei Bai;Hongkai Ji;",
+    "author_corresponding": "Hongkai  Ji",
+    "author_corresponding_institution": "Department of Biostatistics, Johns Hopkins University Bloomberg School of Public Health",
+    "date": "2016-01-03",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Genomics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2016/01/03/035808.source.xml",
+    "abstract": "We evaluate the feasibility of using a biological samples transcriptome to predict its genome-wide regulatory element activities measured by DNase I hypersensitivity (DH). We develop BIRD, Big Data Regression for predicting DH, to handle this high-dimensional problem. Applying BIRD to the Encyclopedia of DNA Element (ENCODE) data, we found that gene expression to a large extent predicts DH, and information useful for prediction is contained in the whole transcriptome rather than limited to a regulatory elements neighboring genes. We show that the predicted DH predicts transcription factor binding sites (TFBSs), prediction models trained using ENCODE data can be applied to gene expression samples in Gene Expression Omnibus (GEO) to predict regulome, and one can use predictions as pseudo-replicates to improve the analysis of high-throughput regulome profiling data. Besides improving our understanding of the regulome-transcriptome relationship, this study suggests that transcriptome-based prediction can provide a useful new approach for regulome mapping.",
+    "published": "10.1038/s41467-017-01188-x",
+    "server": "biorxiv"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/001529",
+    "title": "Revisiting the effect of population size on cumulative cultural evolution",
+    "authors": "Ryan Baldini;",
+    "author_corresponding": "Ryan  Baldini",
+    "author_corresponding_institution": "UC Davis",
+    "date": "2013-12-31",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Evolutionary Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2013/12/31/001529.source.xml",
+    "abstract": "Henrich (2004) argued that larger populations can better maintain complex technologies because they contain more highly skilled people whom others can imitate. His original model, however, did not distinguish the effects of population size from population density or network size; a learners social network included the entire population. Does population size remain important when populations are subdivided and networks are realistically small? I use a mathematical model to show that population size has little effect on equilibrium levels of mean skill under a wide range of conditions. The effects of network size and transmission error rate usually overshadow that of population size. Population size can, however, affect the rate at which a population approaches equilibrium, by increasing the rate at which innovations arise. This effect is small unless innovation is very rare. Whether population size predicts technological complexity in the real world, then, depends on whether technological evolution is innovation-limited and short of equilibrium. The effect of population \\\"connectedness,\\\" via migration or trade, is similar. I discuss the results of this analysis in light of the current empirical debate.",
+    "published": "10.1163/15685373-12342153",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/001636",
+    "title": "Hippocampal Motifs",
+    "authors": "Zahra Aghajan;Lavanya Acharya;Jesse Cushman;Cliff Vuong;Jason Moore;Mayank Mehta;",
+    "author_corresponding": "Mayank  Mehta",
+    "author_corresponding_institution": "UCLA",
+    "date": "2013-12-31",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Neuroscience ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2013/12/31/001636.source.xml",
+    "abstract": "Dorsal Hippocampal neurons provide an allocentric map of space1, characterized by three key properties. First, their firing is spatially selective1-3, termed a rate code. Second, as animals traverse through place fields, neurons sustain elevated firing rates for long periods, however this has received little attention. Third the theta-phase of spikes within this sustained activity varies with animals location, termed phase-precession or a temporal code4-10. The precise relationship between these properties and the mechanisms governing them are not understood, although distal visual cues (DVC) are thought to be sufficient to reliably elicit them2,3. Hence, we measured rat CA1 neurons activity during random foraging in two-dimensional VR--where only DVC provide consistent allocentric location information-- and compared it with their activity in real world (RW). Surprisingly, we found little spatial selectivity in VR. This is in sharp contrast to robust spatial selectivity commonly seen in one-dimensional RW and VR7-11, or two-dimensional RW1-3. Despite this, neurons in VR generated approximately two-second long phase precessing spike sequences, termed \\\"hippocampal motifs\\\". Motifs, and \\\"Motif-fields\\\", an aggregation of all motifs of a neuron, had qualitatively similar properties including theta-scale temporal coding in RW and VR, but the motifs were far less spatially localized in VR. These results suggest that intrinsic, network mechanisms generate temporally coded hippocampal motifs, which can be dissociated from their spatial selectivity. Further, DVC alone are insufficient to localize motifs spatially to generate a robust rate code.",
+    "published": "10.1038/nn.3884",
+    "server": "biorxiv"
+  }
+]

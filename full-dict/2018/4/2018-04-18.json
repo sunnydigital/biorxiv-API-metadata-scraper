@@ -1,0 +1,18 @@
+[
+  {
+    "doi": "10.1101/304246",
+    "title": "Non-intravenous, carbapenem-sparing antibiotics for the treatment of bacteremia due to ESBL or AMP-C \u03b2-lactamase: A propensity score study",
+    "authors": "Meije, Y.; Pigrau, C.; Fernandez-Hidalgo, N.; Clemente, M.; Ortega, L.; Sanz, X.; Loureiro-Amigo, J.; Sierra, M.; Morales-Cartagena, A.; Ribera, A.; Ayestaran, A.; Rodriguez-Bano, J.; Martinez-Montauti, J.",
+    "author_corresponding": "Yolanda  Meije",
+    "author_corresponding_institution": "Hospital de  Barcelona. Societat Cooperativa d'Installacions Assistencials Sanitaries (SCIAS)",
+    "date": "2018-04-18",
+    "version": "1",
+    "type": "new results",
+    "license": "cc_by_nc",
+    "category": "pathology",
+    "jatsxml": "https://www.biorxiv.org/content/early/2018/04/18/304246.source.xml",
+    "abstract": "IntroductionCarbapenems are considered the treatment of choice for extended-spectrum {beta}-lactamase (ESBL) or Amp-C {beta}-lactamase-producing Enterobacteriaceae bacteremia. Data on the effectiveness of non-intravenous carbapenem-sparing antibiotic options are limited.\\n\\nObjectiveTo compare the 30 day-mortality and clinical failures associated with the use of carbapenems vs an alternative non-intravenous antibiotic for the definitive treatment of ESBL/Amp-C positive Enterobacteriaceae bacteremia.\\n\\nMethodsThis is a 12-year retrospective study (2004 - 2015) including all patients with bacteremia due to ESBL/Amp-C-producing Enterobacteriaceae. Given the lack of randomization of the initial therapies, a propensity score for receiving carbapenems was calculated.\\n\\nResultsThere were 1115 patients with a first episode of bacteremia due to E. coli or K. pneumoniae, of which 123 were ESBL/Amp C-positive (11%). There were 101 eligible patients: 59 in the carbapenem group and 42 in the alternative treatment group (cotrimoxazole 59.5%, quinolones 21.4%). The most frequent sources of infection were urinary (63%) and biliary (15%). Compared to the carbapenem group, patients treated with the alternative regimen had a shorter hospital stay (median [IQR]: 7 days [5-10] vs 12 days [9-18], p<0,001). The use of an alternative non-IV treatment did not increase mortality (OR 27; 95% CI 0.05-1.61; p=.15). After controlling for confounding factors with the propensity score, the adjusted OR of carbapenem treatment was 4.95; 95% CI (0.9426.01, p=.059).\\n\\nConclusionAlternative non-IV carbapenem-sparing antibiotics could have a role in the definitive treatment of ESBL/Amp-C-positive Enterobacteriaceae bloodstream infections, allowing a reduction in carbapenem use. The use of cotrimoxazole in this setting has shown favourable results.\\n\\nSome of the data contained in this article were presented at the 55th Interscience Conference on Antimicrobial Agents and Chemotherapy (ICAAC) and at the 28th International Congress of Chemotherapy Meeting (ICC), San Diego, USA, 2015.",
+    "published": "NA",
+    "server": "biorxiv"
+  }
+]

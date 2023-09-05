@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/005009",
+    "title": "Data-intensive modeling of forest dynamics",
+    "authors": "Jean F Lienard;Dominique Gravel;Nikolay Strigul;",
+    "author_corresponding": "Nikolay  Strigul",
+    "author_corresponding_institution": "Washington State University",
+    "date": "2014-05-10",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Ecology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/05/10/005009.source.xml",
+    "abstract": "Forest dynamics are highly dimensional phenomena that are poorly understood theoretically. Modeling these dynamics is data-intensive and requires repeated measurements taken with a consistent methodology. Forest inventory datasets offer unprecedented opportunities to model these dynamics, but they are analytically challenging due to high dimensionality and sampling irregularities across years. We develop a methodology for predicting forest stand dynamics using such datasets. Our methodology involves the following steps: 1) computing stand level characteristics from individual tree measurements, 2) reducing the characteristic dimensionality through analyses of their correlations, 3) parameterizing transition matrices for each uncorrelated dimension using Gibbs sampling, and 4) deriving predictions of forest developments at different timescales. Applying our methodology to a forest inventory database from Quebec, Canada, we discovered that four uncorrelated dimensions were required to describe the stand structure: the biomass, biodiversity, shade tolerance index and stand age. We were able to successfully estimate transition matrices for each of these dimensions. The model predicted substantial short-term increases in biomass and longer-term increases in the average age of trees, biodiversity, and shade intolerant species. Using highly dimensional and irregularly sampled forest inventory data, our original data-intensive methodology provides both descriptions of the short-term dynamics as well as predictions of forest development on a longer timescale. This method can be applied in other contexts such as conservation and silviculture, and can be delivered as an efficient tool for sustainable forest management.",
+    "published": "10.1016/j.envsoft.2015.01.010",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/004994",
+    "title": "An appraisal of the classic forest succession paradigm with the shade tolerance index",
+    "authors": "Jean F Lienard;Ionut Florescu;Nikolay Strigul;",
+    "author_corresponding": "Nikolay  Strigul",
+    "author_corresponding_institution": "Washington State University, Vancouver WA",
+    "date": "2014-05-10",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Ecology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/05/10/004994.source.xml",
+    "abstract": "In this paper we revisit the classic theory of forest succession that relates shade tolerance and species replacement and assess its validity to understand patch-mosaic patterns of forested ecosystems of the USA. We introduce a macroscopic parameter called the \\\"shade tolerance index\\\" and compare it to the classic continuum index in southern Wisconsin forests. We exemplify shade tolerance driven succession in White Pine-Eastern Hemlock forests using computer simulations and analyzing approximated chronosequence data from the USDA FIA forest inventory. We describe this parameter across the last 50 years in the ecoregions of mainland USA, and demonstrate that it does not correlate with the usual macroscopic characteristics of stand age, biomass, basal area, and biodiversity measures. We characterize the dynamics of shade tolerance index using transition matrices and delimit geographical areas based on the relevance of shade tolerance to explain forest succession. We conclude that shade tolerance driven succession is linked to climatic -variables and can be considered as a primary driving factor of forest dynamics mostly in central-north and northeastern areas in the USA. Overall, the shade tolerance index constitutes a new quantitative approach that can be used to understand and predict succession of forested ecosystems and biogeographic patterns.",
+    "published": "10.1371/journal.pone.0117138",
+    "server": "biorxiv"
+  }
+]

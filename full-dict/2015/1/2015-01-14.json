@@ -1,0 +1,50 @@
+[
+  {
+    "doi": "10.1101/013805",
+    "title": "SW#db: GPU-accelerated exact sequence similarity database search",
+    "authors": "Matija Korpar;Martin Sosic;Dino Blazeka;Mile Sikic;",
+    "author_corresponding": "Mile  Sikic",
+    "author_corresponding_institution": "University of Zagreb, Faculty of Electrical Engineering and Computing",
+    "date": "2015-01-14",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc",
+    "category": "Bioinformatics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/01/14/013805.source.xml",
+    "abstract": "The deluge of next-generation sequencing (NGS) data and expanding database poses higher requirements for protein similarity search. State-of-the-art tools such as BLAST are not fast enough to cope with these requirements. Because of that it is necessary to create new algorithms that will be faster while keeping similar sensitivity levels. The majority of protein similarity search methods are based on a seed-and-extend approach which uses standard dynamic programming algorithms in the extend phase. In this paper we present a SW#db tool and library for exact similarity search. Although its running times, as standalone tool, are comparable to running times of BLAST it is primarily designed for the extend phase where there are reduced number of candidates in the database. It uses both GPU and CPU parallelization and when we measured multiple queries on Swiss-prot and Uniref90 databases SW#db was 4 time faster than SSEARCH, 6-10 times faster than CUDASW++ and more than 20 times faster than SSW.",
+    "published": "10.1371/journal.pone.0145857",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/013789",
+    "title": "Chromosomal Inversion Symmetry: Generalized Chargaff Rules",
+    "authors": "Sagi Shporer;Benny Chor;David Horn;",
+    "author_corresponding": "David  Horn",
+    "author_corresponding_institution": "Tel Aviv University",
+    "date": "2015-01-14",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Genomics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/01/14/013789.source.xml",
+    "abstract": "The generalization of the second Chargaff rule to values of k larger than 1, states that the frequency of any k-mer on a single strand almost equals that of its inverse (reverse-complement). We demonstrate the validity of the generalized rule up to k=10 for all human chromosomes. Moreover, this Inversion Symmetry holds for many species, both eukaryotes and prokaryotes, for ranges of k which may vary from 7 to 10 as chromosomal lengths vary from 2Mbp up to 200 Mbp. We demonstrate that the statistical distributions of inverted pairs of k-mers are very different from other natral pairings of k-mers, implying that inversion symmetry is a basic principle of chromosomal structure. We suggest that it came into being because genomic evolution employed many rearrangements which conisted of inversions of chromosomal sections; on length scales down to order 1-10Kbp. Model simulations substantiate this claim.Low-scale inversions during chromosomal evolution imply that IS may exist for short sections of human chromosomes. This is indeed the case: we find that chromosome sections of length 5Kbp satisfy IS for k=1 and k=2. The largest value of k for which IS holds,which we call the k-limit of IS, increases logarithmically as the section length increases. The logarithmic dependence of the k-limit on the length of the chromosome is a universal characteristic, observed throughout the tree of life.",
+    "published": "NA",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/013797",
+    "title": "Controlling E. coli gene expression noise",
+    "authors": "Kyung Hyuk Kim;Kiri Choi;Bryan Bartley;Herbert M Sauro;",
+    "author_corresponding": "Kyung Hyuk Kim",
+    "author_corresponding_institution": "University of Washington",
+    "date": "2015-01-14",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Synthetic Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/01/14/013797.source.xml",
+    "abstract": "Intracellular protein copy numbers show significant cell-to-cell variability within an isogenic population due to the random nature of biological reactions. Here we show how the variability in copy number can be controlled by perturbing gene expression. Depending on the genetic network and host, different perturbations can be applied to control variability. To understand more fully how noise propagates and behaves in biochemical networks we developed stochastic control analysis (SCA) which is a sensitivity-based analysis framework for the study of noise control. Here we apply SCA to synthetic gene expression systems encoded on plasmids that are transformed into Escherichia coli. We show that (1) dual control of transcription and translation efficiencies provides the most efficient way of noise-vs.-mean control. (2) The expressed proteins follow the gamma distribution function as found in chromosomal proteins. (3) One of the major sources of noise, leading to the cell-to-cell variability in protein copy numbers, is related to bursty translation. (4) By taking into account stochastic fluctuations in autofluorescence, the correct scaling relationship between the noise and mean levels of the protein copy numbers was recovered for the case of weak fluorescence signals.",
+    "published": "10.1109/TBCAS.2015.2461135",
+    "server": "biorxiv"
+  }
+]

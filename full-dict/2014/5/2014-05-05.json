@@ -1,0 +1,50 @@
+[
+  {
+    "doi": "10.1101/002683",
+    "title": "Evolutionary rates for multivariate traits: the role of selection and genetic variation",
+    "authors": "William Pitchers;Jason B. Wolf;Tom Tregenza;John Hunt;Ian Dworkin;",
+    "author_corresponding": "Ian  Dworkin",
+    "author_corresponding_institution": "Michigan State University",
+    "date": "2014-05-05",
+    "version": "3",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Evolutionary Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/05/05/002683.source.xml",
+    "abstract": "A fundamental question in evolutionary biology is the relative importance of selection and genetic architecture in determining evolutionary rates. Adaptive evolution can be described by the multivariate breeders equation [Formula], which predicts evolutionary change for a suite of phenotypic traits [Formula] as a product of directional selection acting on them ({beta}) and the genetic variance-covariance matrix for those traits (G). Despite being empirically challenging to estimate, there are enough published estimates of G and {beta} to allow for synthesis of general patterns across species. We use published estimates to test the hypotheses that there are systematic differences in the rate of evolution among trait types, and that these differences are in part due to genetic architecture. We find evidence some evidence that sexually selected traits exhibit faster rates of evolution compared to life-history or morphological traits. This difference does not appear to be related to stronger selection on sexually selected traits. Using numerous proposed approaches to quantifying the shape, size and structure of G we examine how these parameters relate to one another, and how they vary among taxonomic and trait groupings. Despite considerable variation, they do not explain the observed differences in evolutionary rates.",
+    "published": "10.1098/rstb.2013.0252",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/004739",
+    "title": "Automatic Classification of Human Epithelial Type 2 Cell Indirect Immunofluorescence Images using Cell Pyramid Matching",
+    "authors": "Arnold Wiliem;Conrad Sanderson;Yongkang Wong;Peter Hobson;Rodney Minchin;Brian Lovell;",
+    "author_corresponding": "Conrad  Sanderson",
+    "author_corresponding_institution": "NICTA",
+    "date": "2014-05-05",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Bioinformatics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/05/05/004739.source.xml",
+    "abstract": "This paper describes a novel system for automatic classification of images obtained from Anti-Nuclear Antibody (ANA) pathology tests on Human Epithelial type 2 (HEp-2) cells using the Indirect Immunofluorescence (IIF) protocol. The IIF protocol on HEp-2 cells has been the hallmark method to identify the presence of ANAs, due to its high sensitivity and the large range of antigens that can be detected. However, it suffers from numerous shortcomings, such as being subjective as well as time and labour intensive. Computer Aided Diagnostic (CAD) systems have been developed to address these problems, which automatically classify a HEp-2 cell image into one of its known patterns (eg. speckled, homogeneous). Most of the existing CAD systems use handpicked features to represent a HEp-2 cell image, which may only work in limited scenarios. We propose a novel automatic cell image classification method termed Cell Pyramid Matching (CPM), which is comprised of regional histograms of visual words coupled with the Multiple Kernel Learning framework. We present a study of several variations of generating histograms and show the efficacy of the system on two publicly available datasets: the ICPR HEp-2 cell classification contest dataset and the SNPHEp-2 dataset.",
+    "published": "10.1016/j.patcog.2013.10.014",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/004747",
+    "title": "Pre-trial exogenous visual flicker does not affect behavioral or EEG signatures of conflict processing",
+    "authors": "Michael X Cohen;Fraser William Steel;",
+    "author_corresponding": "Michael X Cohen",
+    "author_corresponding_institution": "University of Amsterdam",
+    "date": "2014-05-05",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by",
+    "category": "Neuroscience ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/05/05/004747.source.xml",
+    "abstract": "Activity in the theta frequency band (4-8 Hz) over medial prefrontal regions has been consistently implicated in top-down cognitive control processes, including recognizing and resolving response conflict. It remains an unanswered question whether these theta-band dynamics are a neural mechanism of cognitive control, or instead are epiphenomenal to the neural computational machinery but are useful indices of brain function. Here we addressed this question by attempting to boost conflict processing (or its EEG theta-band signatures) via pre-trial exogenous theta-band visual flicker. Although the flicker successfully entrained posterior brain networks, there were no effects of flicker on behavior or on EEG signatures of conflict processing. In this paper, we detail our attempts and discuss possible future directions for using exogenous flicker in the study of the role of endogenous brain oscillations in conflict processing.",
+    "published": "NA",
+    "server": "biorxiv"
+  }
+]

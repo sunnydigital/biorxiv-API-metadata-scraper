@@ -1,0 +1,18 @@
+[
+  {
+    "doi": "10.1101/007344",
+    "title": "Efficient site-specific editing of the C. elegans genome",
+    "authors": "Donglei Zhang;Michael Glotzer;",
+    "author_corresponding": "Michael  Glotzer",
+    "author_corresponding_institution": "The University of Chicago",
+    "date": "2014-07-31",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Genetics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/07/31/007344.source.xml",
+    "abstract": "In just two years, genome editing with the CRISPR-associated endonuclease Cas9 has transformed genetic analysis in conventional and emerging model organisms. The efficiency of this method varies among systems and continues to be optimized. Numerous strategies have been reported for editing the C. elegans genome. To date, these strategies do not provide a simple, rapid and inexpensive means to introduce and isolate arbitrary point mutants. Here, we report a strategy with all three of these desirable properties. It utilizes oligonucleotides as donor templates for homology-dependent repair and visible markers that are edited in parallel that markedly reduce the number of animals that must be molecularly screened in order to isolate mutants that lack visible phenotypes.",
+    "published": "NA",
+    "server": "biorxiv"
+  }
+]

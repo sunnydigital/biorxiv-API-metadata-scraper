@@ -1,0 +1,18 @@
+[
+  {
+    "doi": "10.1101/028134",
+    "title": "in silico Whole Genome Sequencer &amp;amp; Analyzer (iWGS): a computational pipeline to guide the design and analysis of de novo genome sequencing studies",
+    "authors": "Xiaofan Zhou;David Peris;Jacek Kominek;Cletus P Kurtzman;Chris Todd Hittinger;Antonis Rokas;",
+    "author_corresponding": "Antonis  Rokas",
+    "author_corresponding_institution": "Vanderbilt University",
+    "date": "2015-11-01",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Bioinformatics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/11/01/028134.source.xml",
+    "abstract": "The availability of genomes across the tree of life is highly biased toward vertebrates, pathogens, human disease models, and organisms with relatively small and simple genomes. Recent progress in genomics has enabled the de novo decoding of the genome of virtually any organism, greatly expanding its potential for understanding the biology and evolution of the full spectrum of biodiversity. The increasing diversity of sequencing technologies, assays, and de novo assembly algorithms have augmented the complexity of de novo genome sequencing projects in non-model organisms. To reduce the costs and challenges in de novo genome sequencing projects and streamline their experimental design and analysis, we developed iWGS (in silico Whole Genome Sequencer and Analyzer), an automated pipeline for guiding the choice of appropriate sequencing strategy and assembly protocols. iWGS seamlessly integrates the four key steps of a de novo genome sequencing project: data generation (through simulation), data quality control, de novo assembly, and assembly evaluation and validation. The last three steps can also be applied to the analysis of real data. iWGS is designed to enable the user to have great flexibility in testing the range of experimental designs available for genome sequencing projects, and supports all major sequencing technologies and popular assembly tools. Three case studies illustrate how iWGS can guide the design of de novo genome sequencing projects and evaluate the performance of a wide variety of user-specified sequencing strategies and assembly protocols on genomes of differing architectures. iWGS, along with a detailed documentation, is freely available at https://github.com/zhouxiaofan1983/iWGS.",
+    "published": "10.1534/g3.116.034249",
+    "server": "biorxiv"
+  }
+]

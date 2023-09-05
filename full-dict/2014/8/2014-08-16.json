@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/000257",
+    "title": "Matchmaker, Matchmaker, Make Me a Match: Migration of Populations via Marriages in the Past",
+    "authors": "Sang Hoon Lee;Robyn Ffrancon;Daniel M. Abrams;Beom Jun Kim;Mason A. Porter;",
+    "author_corresponding": "Sang Hoon  Lee",
+    "author_corresponding_institution": "Sungkyunkwan University",
+    "date": "2014-08-16",
+    "version": "3",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Genetics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/08/16/000257.source.xml",
+    "abstract": "The study of human mobility is both of fundamental importance and of great potential value. For example, it can be leveraged to facilitate efficient city planning and improve prevention strategies when faced with epidemics. The newfound wealth of rich sources of data--including banknote flows, mobile phone records, and transportation data--have led to an explosion of attempts to characterize modern human mobility. Unfortunately, the dearth of comparable historical data makes it much more difficult to study human mobility patterns from the past. In this paper, we present such an analysis: we demonstrate that the data record from Korean family books (called \\\"jokbo\\\") can be used to estimate migration patterns via marriages from the past 750 years. We apply two generative models of long-term human mobility to quantify the relevance of geographical information to human marriage records in the data, and we find that the wide variety in the geographical distributions of the clans poses interesting challenges for the direct application of these models. Using the different geographical distributions of clans, we quantify the \\\"ergodicity\\\" of clans in terms of how widely and uniformly they have spread across Korea, and we compare these results to those obtained using surname data from the Czech Republic. To examine population flow in more detail, we also construct and examine a population-flow network between regions. Based on the correlation between ergodicity and migration patterns in Korea, we identify two different types of migration patterns: diffusive and convective. We expect the analysis of diffusive versus convective effects in population flows to be widely applicable to the study of mobility and migration patterns across different cultures.",
+    "published": "10.1103/PhysRevX.4.041009",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/008078",
+    "title": "Understanding Admixture Fractions",
+    "authors": "Mason Liang;Rasmus Nielsen;",
+    "author_corresponding": "Mason  Liang",
+    "author_corresponding_institution": "UC Berkeley",
+    "date": "2014-08-16",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Evolutionary Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/08/16/008078.source.xml",
+    "abstract": "Estimation of admixture fractions has become one of the most commonly used computational tools in population genomics. However, there is remarkably little population genetic theory on their statistical properties. We develop theoretical results that can accurately predict means and variances of admixture proportions within a population using models with recombination and genetic drift. Based on established theory on measures of multilocus disequilibrium, we show that there is a set of recurrence relations that can be used to derive expectations for higher moments of the admixture fraction distribution. We obtain closed form solutions for some special cases. Using these results, we develop a method for estimating admixture parameters from estimated admixture proportion obtained from programs such as Structure or Admixture. We apply this method to HapMap data and find that the population history of African Americans, as expected, is not best explained by a single admixture event between people of European and African ancestry. A model of constant gene flow for the past 11 generations until 2 generations ago gives a better fit.",
+    "published": "NA",
+    "server": "biorxiv"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "doi": "10.1101/008847",
+    "title": "DiffVar: A new method for detecting differential variability with application to methylation in cancer and aging",
+    "authors": "Belinda Phipson;Alicia Oshlack;",
+    "author_corresponding": "Belinda  Phipson",
+    "author_corresponding_institution": "Murdoch Childrens Research Institute",
+    "date": "2014-09-06",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Bioinformatics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/09/06/008847.source.xml",
+    "abstract": "Methylation of DNA is known to be essential to development and dramatically altered in cancers. The Illumina HumanMethylation450 BeadChip has been used extensively as a cost-effective way to profile nearly half a million CpG sites across the human genome. Here we present DiffVar, a novel method to test for differential variability between sample groups. DiffVar employs an empirical Bayes model framework that can take into account any experimental design and is robust to outliers. We applied DiffVar to several datasets from The Cancer Genome Atlas, as well as an aging dataset. DiffVar is available in the missMethyl Bioconductor R package.",
+    "published": "10.1186/s13059-014-0465-4",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/008821",
+    "title": "Epigenomic co-localization and co-evolution reveal a key role for 5hmC as a communication hub in the chromatin network of ESCs",
+    "authors": "David Juan;Juliane Perner;Enrique Carrillo de Santa Pau;Simone Marsili;David Ochoa;Ho-Ryun Chung;Martin Vingron;Daniel Rico;Alfonso Valencia;",
+    "author_corresponding": "Daniel  Rico",
+    "author_corresponding_institution": "Spanish National Cancer Research Center, CNIO",
+    "date": "2014-09-06",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc",
+    "category": "Bioinformatics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/09/06/008821.source.xml",
+    "abstract": "Epigenetic communication through histone and cytosine modifications is essential for gene regulation and cell identity. Here, we propose a framework that is based on a chromatin communication model to get insight on the function of epigenetic modifications in ESCs. The epigenetic communication network was inferred from genome-wide location data plus extensive manual annotation. Notably, we found that 5-hydroxymethylcytosine (5hmC) is the most influential hub of this network, connecting DNA demethylation to nucleosome remodeling complexes and to key transcription factors of pluripotency. Moreover, an evolutionary analysis revealed a central role of 5hmC in the co-evolution of chromatin-related proteins. Further analysis of regions where 5hmC colocalizes with specific interactors shows that each interaction points to chromatin remodelling, stemness, differentiation or metabolism. Our results highlight the importance of cytosine modifications in the epigenetic communication of ESCs.",
+    "published": "10.1016/j.celrep.2016.01.008",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/008862",
+    "title": "Generation of a Panel of Induced Pluripotent Stem Cells From Chimpanzees: a Resource for Comparative Functional Genomics",
+    "authors": "Irene Gallego Romero;Bryan J Pavlovic;Irene Hernando-Herraez;Nicholas E Banovich;Courtney L Kagan;Jonathan E Burnett;Constance H Huang;Amy Mitrano;Claudia I Chavarria;Inbar F Ben-Nun;Yingchun Li;Karen Sabatini;Trevor R Leonardo;Mana Parast;Tomas Marques-Bonet;Louise C Laurent;Jeanne F Loring;Yoav Gilad;",
+    "author_corresponding": "Irene  Gallego Romero",
+    "author_corresponding_institution": "University of Chicago",
+    "date": "2014-09-06",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nd",
+    "category": "Evolutionary Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/09/06/008862.source.xml",
+    "abstract": "Comparative genomics studies in primates are extremely restricted because we only have access to a few types of cell lines from non-human apes and to a limited collection of frozen tissues. In order to gain better insight into regulatory processes that underlie variation in complex phenotypes, we must have access to faithful model systems for a wide range of tissues and cell types. To facilitate this, we have generated a panel of 7 fully characterized chimpanzee (Pan troglodytes) induced pluripotent stem cell (iPSC) lines derived from fibroblasts of healthy donors. All lines appear to be free of integration from exogenous reprogramming vectors, can be maintained using standard iPSC culture techniques, and have proliferative and differentiation potential similar to human and mouse lines. To begin demonstrating the utility of comparative iPSC panels, we collected RNA sequencing data and methylation profiles from the chimpanzee iPSCs and their corresponding fibroblast precursors, as well as from 7 human iPSCs and their precursors, which were of multiple cell type and population origins. Overall, we observed much less regulatory variation within species in the iPSCs than in the somatic precursors, indicating that the reprogramming process has erased many of the differences observed between somatic cells of different origins. We identified 4,918 differentially expressed genes and 3,598 differentially methylated regions between iPSCs of the two species, many of which are novel inter-species differences that were not observed between the somatic cells of the two species. Our panel will help realise the potential of iPSCs in primate studies, and in combination with genomic technologies, transform studies of comparative evolution.",
+    "published": "NA",
+    "server": "biorxiv"
+  }
+]

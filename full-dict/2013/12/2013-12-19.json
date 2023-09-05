@@ -1,0 +1,50 @@
+[
+  {
+    "doi": "10.1101/001461",
+    "title": "RNA Structure Refinement using the ERRASER-Phenix pipeline",
+    "authors": "Fang-Chieh Chou;Nathaniel Echols;Thomas C. Terwilliger;Rhiju Das;",
+    "author_corresponding": "Rhiju  Das",
+    "author_corresponding_institution": "Stanford",
+    "date": "2013-12-19",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nd",
+    "category": "Biophysics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2013/12/19/001461.source.xml",
+    "abstract": "The final step of RNA crystallography involves the fitting of coordinates into electron density maps. The large number of backbone atoms in RNA presents a difficult and tedious challenge, particularly when experimental density is poor. The ERRASER-Phenix pipeline can improve an initial set of RNA coordinates automatically based on a physically realistic model of atomic-level RNA interactions. The pipeline couples diffraction-based refinement in Phenix with the Rosetta-based real-space refinement protocol ERRASER (Enumerative Real-Space Refinement ASsisted by Electron density under Rosetta). The combination of ERRASER and Phenix can improve the geometrical quality of RNA crystallographic models while maintaining or improving the fit to the diffraction data (as measured by Rfree). Here we present a complete tutorial for running ERRASER-Phenix through the Phenix GUI, from the command-line, and via an application in the Rosetta On-line Server that Includes Everyone (ROSIE).",
+    "published": "10.1007/978-1-4939-2763-0_17",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/001479",
+    "title": "Massively differential bias between two widely used Illumina library preparation methods for small RNA sequencing",
+    "authors": "Jeanette Baran-Gale;Michael R Erdos;Christina Sison;Alice Young;Emily E Fannin;Peter S Chines;Praveen Sethupathy;",
+    "author_corresponding": "Praveen  Sethupathy",
+    "author_corresponding_institution": "University of North Carolina at Chapel HIll",
+    "date": "2013-12-19",
+    "version": "1",
+    "type": "Confirmatory Results",
+    "license": "cc_by_nc_nd",
+    "category": "Genomics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2013/12/19/001479.source.xml",
+    "abstract": "Recent advances in sequencing technology have helped unveil the unexpected complexity and diversity of small RNAs. A critical step in small RNA library preparation for sequencing is the ligation of adapter sequences to both the 5 and 3 ends of small RNAs. Two widely used protocols for small RNA library preparation, Illumina v1.5 and Illumina TruSeq, use different pairs of adapter sequences. In this study, we compare the results of small RNA-sequencing between v1.5 and TruSeq and observe a striking differential bias. Nearly 100 highly expressed microRNAs (miRNAs) are >5-fold differentially detected and 48 miRNAs are >10-fold differentially detected between the two methods of library preparation. In fact, some miRNAs, such as miR-24-3p, are over 30-fold differentially detected. The results are reproducible across different sequencing centers (NIH and UNC) and both major Illumina sequencing platforms, GAIIx and HiSeq. While some level of bias in library preparation is not surprising, the apparent massive differential bias between these two widely used adapter sets is not well appreciated. As increasingly more laboratories transition to the newer TruSeq-based library preparation for small RNAs, researchers should be aware of the extent to which the results may differ from previously published results using v1.5.",
+    "published": "10.3389/fgene.2015.00352",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/000968",
+    "title": "Functional connectivity networks with and without global signal correction",
+    "authors": "Satoru Hayasaka;",
+    "author_corresponding": "Satoru  Hayasaka",
+    "author_corresponding_institution": "Wake Forest School of Medicine",
+    "date": "2013-12-19",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Neuroscience ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2013/12/19/000968.source.xml",
+    "abstract": "In functional connectivity analyses in BOLD (blood oxygenation level dependent) fMRI data, there is an ongoing debate on whether to correct global signals in fMRI time series data. Although the discussion has been ongoing in the fMRI community since the early days of fMRI data analyses, this subject has gained renewed attention in recent years due to the surging popularity of functional connectivity analyses, in particular graph theory-based network analyses. However, the impact of correcting (or not correcting) for global signals has not been systematically characterized in the context of network analyses. Thus, in this work, I examined the effect of global signal correction on an fMRI network analysis. In particular, voxel-based resting-state fMRI networks were constructed with and without global signal correction. The resulting functional connectivity networks were compared. Without global signal correction, the distributions of the correlation coefficients were positively biased. I also found that, without global signal correction, nodes along the interhemisphic fissure were highly connected whereas some nodes and subgraphs around white-matter tracts became disconnected from the rest of the network. These results from this study show differences between the networks with or without global signal correction.",
+    "published": "10.3389/fnhum.2013.00880",
+    "server": "biorxiv"
+  }
+]

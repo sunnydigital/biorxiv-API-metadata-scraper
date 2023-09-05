@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/253989",
+    "title": "Dawn and photoperiod sensing by phytochrome A",
+    "authors": "Seaton, D.; Toledo-Ortiz, G.; Kubota, A.; Ganpudi, A.; Imaizumi, T.; Halliday, K.",
+    "author_corresponding": "Karen  Halliday",
+    "author_corresponding_institution": "University of Edinburgh",
+    "date": "2018-01-25",
+    "version": "1",
+    "type": "new results",
+    "license": "cc_by",
+    "category": "plant biology",
+    "jatsxml": "https://www.biorxiv.org/content/early/2018/01/25/253989.source.xml",
+    "abstract": "In plants, light receptors play a pivotal role in photoperiod sensing, enabling them to track seasonal progression. Photoperiod sensing arises from an interaction between the plants endogenous circadian oscillator and external light cues. Here, we characterise the role of phytochrome A (phyA) in photoperiod sensing. Our meta-analysis of functional genomic datasets identified phyA as a principal transcriptional regulator of morning-activated genes, specifically in short photoperiods. We demonstrate that PHYA expression is under the direct control of the PHYTOCHROME INTERACTING FACTOR transcription factors, PIF4 and PIF5. As a result, phyA protein accumulates during the night, especially in short photoperiods. At dawn phyA activation by light results in a burst of gene expression, with consequences for anthocyanin accumulation. The combination of complex regulation of PHYA transcript and the unique molecular properties of phyA protein make this pathway a sensitive detector of both dawn and photoperiod.\\n\\nSignificance statementThe changing seasons subject plants to a variety of challenging environments. In order to deal with this, many plants have mechanisms for inferring the season by measuring the duration of daylight in a day. A number of well-known seasonal responses such as flowering are responsive to daylength or photoperiod. Here, we describe how the photoreceptor protein phytochrome A senses short photoperiods. This arises from its accumulation during long nights, as happens during winter, and subsequent activation by light at dawn. As a result of this response, the abundance of red anthocyanin pigments is increased in short photoperiods. Thus, we describe a mechanism underlying a novel seasonal phenotype in an important model plant species.",
+    "published": "10.1073/pnas.1803398115",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/252809",
+    "title": "Prediction and information integration determine subtle anticipatory fixation biases",
+    "authors": "Giuseppe Notaro;Wieske van Zoest;David Paul Melcher;Uri Hasson",
+    "author_corresponding": "Giuseppe  Notaro",
+    "author_corresponding_institution": "The University of Trento",
+    "date": "2018-01-25",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc",
+    "category": "neuroscience",
+    "jatsxml": "https://www.biorxiv.org/content/early/2018/01/25/252809.source.xml",
+    "abstract": "A core question underlying neurobiological and computational models of behavior is how individuals learn environmental statistics and use them for making predictions. Treatment of this issue largely relies on reactive paradigms, where inferences about predictive processes are derived by modeling responses to stimuli that vary in likelihood. Here we deployed a novel proactive oculomotor metric to determine how input statistics impact anticipatory behavior, decoupled from stimulus-response. We implemented transition constraints between target locations, and quantified a subtle fixation bias (FB) discernible while individuals fixated a screen center awaiting target presentation. We show that FB is informative with respect the input statistics, reflects learning at different temporal scales, predicts saccade latencies on a trial level, and can be linked to fundamental oculomotor metrics. We also present an extension of this approach to a more complex paradigm. Our work demonstrates how learning impacts strictly predictive processes and presents a novel direction for studying learning and prediction.",
+    "published": "NA",
+    "server": "biorxiv"
+  }
+]

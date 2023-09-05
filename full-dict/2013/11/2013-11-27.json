@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/000943",
+    "title": "Simultaneous optogenetic manipulation and calcium imaging in freely moving C. elegans",
+    "authors": "Frederick B. Shipley;Christopher M. Clark;Mark J. Alkema;Andrew M. Leifer;",
+    "author_corresponding": "Andrew M. Leifer",
+    "author_corresponding_institution": "Princeton University",
+    "date": "2013-11-27",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc",
+    "category": "Neuroscience ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2013/11/27/000943.source.xml",
+    "abstract": "Editor:\\n\\nA fundamental goal of systems neuroscience is to probe the dynamics of neural activity that generate behavior. Here we present an instrument to simultaneously manipulate and monitor neural activity and behavior in the freely moving nematode Caenorhabditis elegans. We use the instrument to directly observe the relationship between sensory neuron activation, interneuron dynamics and locomotion in the mechanosensory circuit.\\n\\nPreviously in this journal, we presented an optogenetic illumination system capable of real-time light delivery with high spatial resolution to stimulate or inhibit specified targets in freely moving C. elegans [1]. This \\\"Colbert\\\" system and others like it [2] have been instrumental in defining neural coding of several behaviors in C. elegans including chemotaxis [3], nociception [4] and the escape response [5]. Here we integrate the Colbert s ...",
+    "published": "10.3389/fncir.2014.00028",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/000455",
+    "title": "A data repository and analysis framework for spontaneous neural activity recordings in developing retina",
+    "authors": "Stephen Eglen;Michael Weeks;Mark Jessop;Jennifer Simonotto;Tom Jackson;Evelyne Sernagor;",
+    "author_corresponding": "Stephen  Eglen",
+    "author_corresponding_institution": "University of Cambridge",
+    "date": "2013-11-27",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Neuroscience ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2013/11/27/000455.source.xml",
+    "abstract": "BackgroundDuring early development, neural circuits fire spontaneously, generating activity episodes with complex spatiotemporal patterns. Recordings of spontaneous activity have been made in many parts of the nervous system over the last 25 years, reporting developmental changes in activity patterns and the effects of various genetic perturbations.\\n\\nResultsWe present a curated repository of multielectrode array recordings of spontaneous activity in developing mouse and ferret retina. The data have been annotated with minimal metadata and converted into HDF5. This paper describes the structure of the data, along with examples of reproducible research using these data files. We also demonstrate how these data can be analysed in the CARMEN workflow system. This article is written as a literate programming document; all programs and data described here are freely available.\\n\\nConclusions1. We hope this repository will lead to novel analysis of spontaneous activity recorded in different laboratories. 2. We encourage published data to be added to the repository. 3. This repository serves as an example of how multielectrode array recordings can be stored for long-term reuse.",
+    "published": "10.1186/2047-217X-3-3",
+    "server": "biorxiv"
+  }
+]
