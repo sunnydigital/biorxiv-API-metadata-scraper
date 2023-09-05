@@ -1,0 +1,50 @@
+[
+  {
+    "doi": "10.1101/2020.08.21.256180",
+    "title": "Mass Spectrometric Characterization of Narcolepsy-Associated Pandemic 2009 Influenza Vaccines.",
+    "authors": "Ambati, A.; Luo, G.; Pradhan, E.; Jacob, L.; Lin, L.; Leib, R.; Ollila, H. M.; Poiret, T.; Adams, C.; Mignot, E.",
+    "author_corresponding": "Emmanuel  Mignot",
+    "author_corresponding_institution": "Stanford University",
+    "date": "2020-08-22",
+    "version": "1",
+    "type": "new results",
+    "license": "cc_no",
+    "category": "immunology",
+    "jatsxml": "https://www.biorxiv.org/content/early/2020/08/22/2020.08.21.256180.source.xml",
+    "abstract": "The onset of narcolepsy, an irreversible sleep disorder, has been associated with 2009 influenza pandemic (pH1N1) infections in China, and with ASO3-adjuvanted pH1N1 vaccinations using Pandemrix in Europe. Intriguingly, however, the increased incidence was only observed following vaccination with Pandemrix but not Arepanrix in Canada. In this study, the mutational burden of actual vaccine lots of Pandemrix (n=6) and Arepanrix (n=5) sourced from Canada, and Northern Europe were characterized by mass spectrometry. The four most abundant influenza proteins across both vaccines were nucleoprotein NP, hemagglutinin HA, matrix protein M1, with the exception that Pandemrix harbored a significantly increased proportion of neuraminidase NA (7.5%) as compared to Arepanrix (2.6%). Most significantly, 17 motifs in HA, NP, and M1 harbored mutations, which significantly differed in Pandemrix versus Arepanrix. Among these, a 6-fold higher deamidation of HA146 (N to D) in Arepanrix was found relative to Pandemrix, while NP257 (T to A) and NP424 (T to I) were increased in Pandemrix. DQ0602 binding and tetramer analysis with mutated epitopes were conducted in Pandemrix-vaccinated cases versus controls but were unremarkable. Pandemrix harbored lower mutational burden than Arepanrix, indicating higher similarity to wild-type 2009 pH1N1, which could explain differences in narcolepsy susceptibility amongst the vaccines.",
+    "published": "10.3390/vaccines8040630",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/2020.08.22.262493",
+    "title": "Age influences aggressive behaviour: an RNA-seq analysis in bovines",
+    "authors": "G. Eusebi, P.; Sevane, N.; Pizarro, M.; Dunner, S.",
+    "author_corresponding": "Paulina  G. Eusebi",
+    "author_corresponding_institution": "Universidad Complutense de Madrid",
+    "date": "2020-08-22",
+    "version": "1",
+    "type": "new results",
+    "license": "cc_no",
+    "category": "genomics",
+    "jatsxml": "https://www.biorxiv.org/content/early/2020/08/22/2020.08.22.262493.source.xml",
+    "abstract": "Aggressiveness is one of the most basic behaviors, characterized by targeted intentional actions oriented to cause harm. The reactive type of aggression is regulated mostly by the brains prefrontal cortex; however, the molecular changes underlying aggressiveness in adults have not been fully characterized. Here we used an RNA-seq approach to investigate differential gene expression in the prefrontal cortex of bovines from the aggressive Lidia breed at different age stages: young three-year old and adult four-year-old bulls. A total of 50 up and 193 down-regulated genes in the adult group were identified. Furthermore, a cross-species comparative analysis retrieved 29 genes in common with previous studies on aggressive behaviors, representing an above-chance overlap with the differentially expressed genes in adult bulls.\n\nParticularly, we detected changes in the regulation of networks such as synaptogenesis, involved in maintenance and refinement of synapses, and the glutamate receptor pathway, which acts as excitatory driver in aggressive responses. Our results provide insights into candidate genes and networks involved in the molecular mechanisms leading to the maturation of the brain. The reduced reactive aggression typical of domestication has been proposed to form part of a retention of juvenile traits as adults (neoteny). The significant age-associated differential expression of genes implicated in aggressive behaviors and concomitant increase in Lidia cattle aggression validates this species as a novel model comparator to explore the impact of behavioral neoteny under domestication.",
+    "published": "10.1007/s10519-021-10097-1",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/2020.08.22.256347",
+    "title": "Molecular basis for substrate recruitment to the PRMT5 methylosome",
+    "authors": "Mulvaney, K. M.; Blomquist, C.; Acharya, N.; Li, R.; OKeefe, M.; Ranaghan, M.; Stokes, M.; Nelson, A. J.; Jain, S. S.; Columbus, J.; Bozal, F. K.; Skepner, A.; Raymond, D.; McKinney, D. C.; Freyzon, Y.; Baidi, Y.; Porter, D.; Ianari, A.; McMillan, B.; Sellers, W. R.",
+    "author_corresponding": "William R Sellers",
+    "author_corresponding_institution": "BROAD INSTITUTE, INC.",
+    "date": "2020-08-22",
+    "version": "1",
+    "type": "new results",
+    "license": "cc_no",
+    "category": "cancer biology",
+    "jatsxml": "https://www.biorxiv.org/content/early/2020/08/22/2020.08.22.256347.source.xml",
+    "abstract": "PRMT5 is an arginine methyltransferase and a therapeutic target in MTAP null cancers. PRMT5 utilizes adaptor proteins for substrate recruitment through a previously undefined mechanism. Here, we identify an evolutionarily conserved peptide sequence shared among the three known substrate adaptors (pICln/CLNS1A, RIOK1 and COPR5) and show it is necessary and sufficient for interaction with PRMT5. We structurally resolve the interface with PRMT5 and show via genetic perturbation that it is required for methylation of adaptor-recruited substrates including the spliceosome, histones, and ribosome assembly complexes. Genetic disruption of the PRMT5-substrate adaptor interface leads to a hypomorphic decrease in growth of MTAP null tumor cells and is thus a novel site for development of therapeutic inhibitors of PRMT5.",
+    "published": "10.1016/j.molcel.2021.07.019",
+    "server": "biorxiv"
+  }
+]

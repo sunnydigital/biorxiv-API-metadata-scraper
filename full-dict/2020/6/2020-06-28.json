@@ -1,0 +1,50 @@
+[
+  {
+    "doi": "10.1101/2020.06.28.175851",
+    "title": "Multiplexed mRNA assembly into ribonucleoprotein particles plays an operon-like role in the control of yeast cell physiology",
+    "authors": "Nair, R. R.; Zabezhinsky, D.; Gelin-Licht, R.; Haas, B. J.; Dyhr, M. C. A.; Sperber, H. S.; Nusbaum, C.; Gerst, J. E.",
+    "author_corresponding": "Jeffrey E Gerst",
+    "author_corresponding_institution": "Weizmann Institute of Science",
+    "date": "2020-06-28",
+    "version": "1",
+    "type": "new results",
+    "license": "cc_by_nc_nd",
+    "category": "cell biology",
+    "jatsxml": "https://www.biorxiv.org/content/early/2020/06/28/2020.06.28.175851.source.xml",
+    "abstract": "Prokaryotes utilize polycistronic messages (operons) to co-translate proteins involved in the same biological process. Whether eukaryotes achieve similar regulation by selectively assembling monocistronic messages derived from different chromosomes is unclear. We employed transcript-specific RNA pulldowns and RNA-seq/RT-PCR to identify mRNAs that co-precipitate into ribonucleoprotein (RNP) particles in yeast. Consistent with the hypothesis of eukaryotic RNA operons, mRNAs encoding components of the mating pathway, heat shock proteins, and mitochondrial outer membrane proteins multiplex in trans to form discrete mRNP particles, termed transperons. Chromatin-capture experiments reveal that genes encoding multiplexed mRNAs physically interact, thus, RNA assembly may result from co-regulated gene expression. Transperon assembly and function depends upon H4 histones and their depletion leads to defects in RNA multiplexing, resulting in decreased pheromone responsiveness and mating, and increased heat shock sensitivity. We propose that intergenic associations and non-canonical H4 histone functions contribute to transperon formation in eukaryotic cells to regulate cell physiology.\n\nO_FIG_DISPLAY_L [Figure 1] M_FIG_DISPLAY C_FIG_DISPLAY",
+    "published": "10.7554/eLife.66050",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/2020.06.24.169532",
+    "title": "Circadian photoperiod alters TREK-1 channel function and expression in dorsal raphe serotonergic neurons",
+    "authors": "Giannoni-Guzman, M. A.; Kamitakahara, A.; Magalong, V.; Levitt, P.; McMahon, D. G.",
+    "author_corresponding": "Douglas G McMahon",
+    "author_corresponding_institution": "Vanderbilt University",
+    "date": "2020-06-28",
+    "version": "1",
+    "type": "new results",
+    "license": "cc_no",
+    "category": "neuroscience",
+    "jatsxml": "https://www.biorxiv.org/content/early/2020/06/28/2020.06.24.169532.source.xml",
+    "abstract": "Seasonal daylength has been linked to the development and prevalence of mood disorders, however, the neural mechanisms underlying this relationship remain unknown. Previous work in our laboratory has shown that developmental exposure to seasonal photoperiods has enduring effects on the activity of mouse dorsal raphe serotonergic neurons, their intrinsic electrical properties, as well as on depression and anxiety-related behaviors. Here we focus on the possible ionic mechanisms that underlie the observed photoperiodic programming of the electrophysiological properties of serotonin neurons, focusing on the twin-pore K+ channels TREK-1 and TASK-1 that set resting membrane potential and regulate excitability. Using multielectrode array recordings in ex vivo dorsal raphe slices, we examined the effects of pharmacological inhibition of these channels on the spike rates of serotonin neurons of mice from different photoperiods. Pharmacological inhibition of TREK-1 significantly increased spike frequency in Short and Equinox photoperiod cohorts, but did not further elevate the firing rate in slices from Long photoperiod mice, suggesting that TREK-1 function is reduced in Long photoperiods. In contrast, inhibition of TASK-1 resulted in increases in firing rates across all photoperiods, suggesting that it contributes to setting excitability, but is not regulated by photoperiod. To examine if photoperiod impacts transcriptional regulation of TREK-1, we quantified Kcnk2 mRNA levels specifically in dorsal raphe 5-HT neurons using triple-label RNAscope. We found that Long photoperiod significantly reduced levels of Kcnk2 in serotonin neurons co-expressing Tph2, and Pet-1, Photoperiodic effects on the function and expression of TREK-1 were blocked in melatonin 1 receptor knockout (MT-1KO) mice, consistent with previous findings that MT-1 signaling is necessary for photoperiodic programming of dorsal raphe 5-HT neurons. Taken together these results indicate that photoperiodic regulation of TREK-1 expression and function plays a key role in photoperiodic programming the excitability of dorsal raphe 5-HT neurons.",
+    "published": "10.1111/jpi.12705",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/2020.06.28.176305",
+    "title": "SCARECROW gene function is required for photosynthetic development in maize",
+    "authors": "Hughes, T. E.; Langdale, J. A.",
+    "author_corresponding": "Jane A Langdale",
+    "author_corresponding_institution": "University of Oxford",
+    "date": "2020-06-28",
+    "version": "1",
+    "type": "new results",
+    "license": "cc_by",
+    "category": "plant biology",
+    "jatsxml": "https://www.biorxiv.org/content/early/2020/06/28/2020.06.28.176305.source.xml",
+    "abstract": "C4 photosynthesis in grasses relies on a specialized leaf anatomy. In maize, this \u2018Kranz\u2019 leaf anatomy is patterned in part by the duplicated SCARECROW (SCR) genes ZmSCR1 and ZmSCR1h. Here we show that in addition to patterning defects, chlorophyll content and levels of transcripts encoding Golden2-like regulators of chloroplast development are significantly lower in Zmscr1;Zmscr1h mutants than in wild-type. These perturbations are not associated with changes in chloroplast number, size or ultrastructure. However, the maximum rates of carboxylation by ribulose bisphosphate carboxylase/oxygenase (RuBisCO, Vcmax) and phosphoenolpyruvate carboxylase (PEPC, Vpmax) are both reduced, leading to perturbed plant growth. The CO2 compensation point and 13C\u2030 of Zmscr1;Zmscr1h plants are both normal, indicating that a canonical C4 cycle is operating, albeit at reduced overall capacity. Taken together, our results reveal that the maize SCR genes, either directly or indirectly, play a role in photosynthetic development.Significance statement SCARECROW (SCR) is one of the best studied plant developmental regulators, however, its role in downstream plant physiology is less well-understood. Here, we have demonstrated that SCR is required to establish and/or maintain photosynthetic capacity in maize leaves.Competing Interest StatementThe authors have declared no competing interest.View Full Text",
+    "published": "10.1002/pld3.264",
+    "server": "biorxiv"
+  }
+]

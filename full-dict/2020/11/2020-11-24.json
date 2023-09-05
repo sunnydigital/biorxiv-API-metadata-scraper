@@ -1,0 +1,18 @@
+[
+  {
+    "doi": "10.1101/2020.11.24.395665",
+    "title": "Missing pieces in the full annual cycle of fish ecology: a systematic review of the phenology of freshwater fish research",
+    "authors": "Brady, M.; Chione, A. M.; Armstrong, J. B.",
+    "author_corresponding": "Megan  Brady",
+    "author_corresponding_institution": "Oregon State University",
+    "date": "2020-11-24",
+    "version": "1",
+    "type": "new results",
+    "license": "cc_by",
+    "category": "ecology",
+    "jatsxml": "https://www.biorxiv.org/content/early/2020/11/24/2020.11.24.395665.source.xml",
+    "abstract": "In recent decades, fish ecologists have become increasingly aware of the need for spatially comprehensive sampling. However, a corresponding reflection on the temporal aspects of research has been lacking. We quantified the seasonal timing and extent of freshwater fish research. Since reviewing all prior work was not feasible, we considered two different subsets. First, we compiled the last 30 years of ecological research on juvenile Pacific salmon and trout (Oncorhynchus spp.) (n = 371 studies). In addition to the aggregate, we compared groups classified by subject matter. Next, to evaluate whether riverscape ecology has embraced space at the expense of time, we compiled research across taxa in which fish were enumerated in a spatially continuous fashion (n = 46). We found that ecological Oncorhynchus spp. research was biased towards summer (40% occurred during June-August) and the month of June in particular, at the expense of winter work (only 13% occurred during December-February). Riverscape studies were also biased toward summer (47% of studies) and against winter (11%). It was less common for studies to encompass multiple seasons (43% of ecological Oncorhynchus spp. studies and 54% of riverscape studies) and most were shorter than 4 months (73% of ecological Oncorhynchus spp. studies and 81% of riverscape studies). These temporal biases may cause researchers to overemphasize ecological phenomena observed during summer and limit our ability to recognize seasonal interactions such as carry-over effects or compensatory responses. Full year and winter studies likely hold valuable insights for conservation and management.",
+    "published": "NA",
+    "server": "biorxiv"
+  }
+]
