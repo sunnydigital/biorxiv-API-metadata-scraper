@@ -11,3 +11,5 @@ Scraper for bioRxiv to obtain metadata relevant to licensing for all articles, a
     - `dict_by_license.json` contains all of the metadata for each license type on bioRxiv, and is updated daily.
 
 In the spirit of open-source, when running the notebook `continuous-scraper.ipynb`, this will automatically append any relevant `return_dict.json` and `full-dict.json` files into the correct location in the repository. Please create a pull request for this, as this open-sourced nature ensures up-to-date data.
+
+Through running `continuous-scraper.ipynb`, all addended files will be added to the `amend_dict` folder. Thank you for your contribution!
