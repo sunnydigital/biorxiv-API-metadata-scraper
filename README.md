@@ -1,5 +1,21 @@
 # biorxiv-API-metadata-scraper
-Scraper for bioRxiv to obtain metadata relevant to licensing for all articles, and the metadata themselves from the publicly-available API on bioRxiv
+Scraper for bioRxiv to obtain metadata relevant to licensing for all articles, and the metadata themselves from the publicly-available API on BioRxiv, i.e. the licenses and URLs of all preprints on BioRxiv
+
+![](assets/BioRxiv_logo.png)
+
+## Installation
+
+### Prerequisites
+
+- [Python 3.6+](https://www.python.org/downloads/)
+- [Jupyter Notebook](https://jupyter.org/install)
+- [requests](https://requests.readthedocs.io/en/master/)
+- [json](https://docs.python.org/3/library/json.html)
+- [pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)
+
+### Clone
+
+- Clone this repo to your local machine using from the GitHub link
 
 ## Usage
 
