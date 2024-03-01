@@ -1,0 +1,18 @@
+[
+  {
+    "doi": "10.1101/007260",
+    "title": "Aligning sequence from molecular inversion probes",
+    "authors": "Brent S Pedersen;",
+    "author_corresponding": "Brent S Pedersen",
+    "author_corresponding_institution": "University of Colorado",
+    "date": "2014-07-19",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nd",
+    "category": "Bioinformatics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/07/19/007260.source.xml",
+    "abstract": "Summary: Molecular inversion probes (MIPs) allow efficient enrichment of genomic regions of interest for the purpose of targeted sequencing. To date, there is a paucity of simple-to-use software to align sequences derived from this method. Here, we describe a single program that performs mapping, arm removal, and deduplication before outputting alignments in SAM format. Availability: bwa-mips is available at https://github.com/brentp/bwa-mips under the MIT license. Contact: bpederse@gmail.com",
+    "published": "NA",
+    "server": "biorxiv"
+  }
+]

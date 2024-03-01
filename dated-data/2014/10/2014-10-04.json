@@ -1,0 +1,18 @@
+[
+  {
+    "doi": "10.1101/010017",
+    "title": "Leveraging ancestry to improve causal variant identification in exome sequencing for monogenic disorders",
+    "authors": "Robert P Brown;Hane Lee;Ascia Eskin;Gleb Kichaev;Kirk E Lohmueller;Bruno Reversade;Stanley F Nelson;Bogdan Pasaniuc;",
+    "author_corresponding": "Robert P Brown",
+    "author_corresponding_institution": "UCLA",
+    "date": "2014-10-04",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Genetics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/10/04/010017.source.xml",
+    "abstract": "Recent breakthroughs in exome sequencing technology have made possible the identification of many causal variants of monogenic disorders. Although extremely powerful when closely related individuals (e.g. child and parents) are simultaneously sequenced, exome sequencing of individual only cases is often unsuccessful due to the large number of variants that need to be followed-up for functional validation. Many approaches remove from consideration common variants above a given frequency threshold (e.g. 1%), and then prioritize the remaining variants according to their allele frequency, functional, structural and conservation properties. In this work, we present methods that leverage the genetic structure of different populations while accounting for the finite sample size of the reference panels to improve the variant filtering step. Using simulations and real exome data from individuals with monogenic disorders, we show that our methods significantly reduce the number of variants to be followed-up (e.g. a 36% reduction from an average 418 variants per exome when ancestry is ignored to 267 when ancestry is taken into account for case-only sequenced individuals). Most importantly our proposed approaches are well calibrated with respect to the probability of filtering out a true causal variant (i.e. false negative rate, FNR), whereas existing approaches are susceptible to high FNR when reference panel sizes are limited.",
+    "published": "10.1038/ejhg.2015.68",
+    "server": "biorxiv"
+  }
+]

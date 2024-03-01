@@ -1,0 +1,50 @@
+[
+  {
+    "doi": "10.1101/2022.10.03.510635",
+    "title": "Suppression of Betacellulin expression is a key mechanism for omega-3 fatty acid mediated attenuation of nonalcoholic steatohepatitis",
+    "authors": "Padiadpu, J.; Garcia-Jaramillo, M.; Newman, N.; Pederson, J.; Rodrigues, R.; Li, Z.; Singh, S.; Monnier, P.; Trinchieri, G.; Brown, K.; Dzutsev, A. K.; Shulzhenko, N.; Jump, D. B.; Morgun, A.",
+    "author_corresponding": "Andrey Morgun",
+    "author_corresponding_institution": "College of Pharmacy, Oregon State University, Corvallis, OR, USA.",
+    "date": "2022-10-05",
+    "version": "1",
+    "type": "new results",
+    "license": "cc_by",
+    "category": "systems biology",
+    "jatsxml": "https://www.biorxiv.org/content/early/2022/10/05/2022.10.03.510635.source.xml",
+    "abstract": "Clinical and preclinical studies have established that supplementing diets with {omega}3 polyunsaturated fatty acids (PUFA) can reduce hepatic dysfunction in nonalcoholic steatohepatitis (NASH). Herein, we used multi-omic network analysis to unveil novel mechanistic targets of {omega}3 PUFA effects in a preclinical mouse model of western diet induced NASH. After identifying critical molecular processes responsible for the effects of {omega}3 PUFA, we next performed meta-analysis of human liver cancer transcriptomes and uncovered betacellulin as a key EGFR-binding protein that was induced in liver cancer and downregulated by {omega}3 PUFAs in animals with NASH. We then confirmed that betacellulin acts by promoting proliferation of quiescent hepatic stellate cells, stimulating transforming growth factor-{beta}2 and increasing collagen production. When used in combination with TLR2/4 agonists, betacellulin upregulated integrins in macrophages thereby potentiating inflammation and fibrosis. Taken together, our results suggest that suppression of betacellulin is one of the key mechanisms associated with anti-inflammatory and antifibrotic effects of {omega}3 PUFA during NASH.\n\nSynopsis\n\nO_FIG O_LINKSMALLFIG WIDTH=200 HEIGHT=124 SRC=\"FIGDIR/small/510635v2_ufig1.gif\" ALT=\"Figure 1\">\nView larger version (43K):\norg.highwire.dtl.DTLVardef@b8ebe7org.highwire.dtl.DTLVardef@879e8dorg.highwire.dtl.DTLVardef@1ba56f3org.highwire.dtl.DTLVardef@a26c67_HPS_FORMAT_FIGEXP  M_FIG C_FIG O_LIMulti-omic network analysis points to mitochondrial cardiolipin precursors as candidate key lipids whereby {omega}3 fatty acids restore mitochondrial functioning.\nC_LIO_LIMulti-omic network analysis suggests betacellulin (BTC) as one of the key mediators of NASH suppressed by {omega}3 polyunsaturated fatty acids.\nC_LIO_LIReduction of liver fibrosis by omega-3 fatty acids (especially by docosahexaenoic acid, DHA) is accomplished by simultaneous inhibition of betacellulin and TLR agonists.\nC_LIO_LIBTC promotes collagen production and induces TGFB2 in hepatic stellate cells.\nC_LIO_LIBTC together with TLR2/4 agonists stimulate expression of integrins in macrophages.\nC_LIO_LIDHA suppresses BTC-EGFR pathway in NASH animal model potentially preventing progression to hepatocellular carcinoma.\nC_LI",
+    "published": "NA",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/2022.10.05.510984",
+    "title": "Imaging of lactate metabolism in retinal Mu\u0308ller cells with a FRET nanosensor",
+    "authors": "Calbiague Garcia, V. M.; Chen, Y.; Cadiz, B.; Paquet-Durand, F.; Schmachtenberg, O.",
+    "author_corresponding": "Oliver Schmachtenberg",
+    "author_corresponding_institution": "CINV, Universidade de Valparaiso, Chile",
+    "date": "2022-10-05",
+    "version": "1",
+    "type": "new results",
+    "license": "cc_by_nc",
+    "category": "cell biology",
+    "jatsxml": "https://www.biorxiv.org/content/early/2022/10/05/2022.10.05.510984.source.xml",
+    "abstract": "Muller cells, the glial cells of the retina, provide metabolic support for photoreceptors and inner retinal neurons, and have been proposed as source of the significant lactate production of this tissue. To better understand the role of lactate in retinal metabolism, we expressed a lactate and a glucose nanosensor in organotypic mouse retinal explants cultured for 14 days, and used FRET imaging in acute vibratome sections of the explants to study metabolite flux in real time. Pharmacological manipulation with specific monocarboxylate transporter (MCT) inhibitors and immunohistochemistry revealed the functional expression of MCT2 and MCT4 in Muller cells. The introduction of nanosensors to measure key metabolites at the cellular level may contribute to a better understanding of heretofore poorly understood issues in retinal metabolism.",
+    "published": "10.1016/j.exer.2022.109352",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/2022.10.05.510616",
+    "title": "Whole-mount smFISH allows combining RNA and protein quantification at cellular and subcellular resolution",
+    "authors": "Zhao, L.; Fonseca, A.; Meschichi, A.; Sicard, A.; Rosa, S.",
+    "author_corresponding": "Stefanie Rosa",
+    "author_corresponding_institution": "Department of Plant Biology, Swedish University of Agricultural Sciences (SLU), Uppsala, Sweden.",
+    "date": "2022-10-05",
+    "version": "1",
+    "type": "new results",
+    "license": "cc_by_nc_nd",
+    "category": "cell biology",
+    "jatsxml": "https://www.biorxiv.org/content/early/2022/10/05/2022.10.05.510616.source.xml",
+    "abstract": "Multicellular organisms result from complex developmental processes largely orchestrated through the quantitative spatiotemporal regulation of gene expression. Yet, obtaining absolute counts of mRNAs at a 3-dimensional resolution remains challenging, especially in plants, due to high levels of tissue autofluorescence that prevent the detection of diffraction-limited fluorescent spots. In situ hybridization methods based on amplification cycles have recently emerged, but they are laborious and often lead to quantification biases. In this article, we present a simple method based on single molecule RNA fluorescence in situ hybridization (smFISH) to visualize and count the number of mRNA molecules in several intact plant tissues. In addition, with the use of fluorescent protein reporters, our method also enables simultaneous detection of mRNA and protein quantity, as well as subcellular distribution, in single cells. With this method, research in plants can now fully explore the benefits of the quantitative analysis of transcription and protein levels at cellular and subcellular resolution in plant tissues.",
+    "published": "10.1038/s41477-023-01442-9",
+    "server": "biorxiv"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "doi": "10.1101/014456",
+    "title": "Disturbance opens recruitment sites for bacterial colonization in activated sludge",
+    "authors": "David Vuono;Junko Munakata Marr;John Spear;J\u00f6rg Drewes;",
+    "author_corresponding": "David  Vuono",
+    "author_corresponding_institution": "Colorado School of Mines",
+    "date": "2015-02-25",
+    "version": "2",
+    "type": "Confirmatory Results",
+    "license": "cc_no",
+    "category": "Ecology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/02/25/014456.source.xml",
+    "abstract": "Little is known about the role of immigration in shaping bacterial communities or the factors that may dictate success or failure of colonization by bacteria from regional species pools. To address these knowledge gaps, the influence of bacterial colonization into an ecosystem (activated sludge bioreactor) was measured through a disturbance gradient (successive decreases in the parameter solids retention time) relative to stable operational conditions. Through a DNA sequencing approach, we show that the most abundant bacteria within the immigrant community have a greater probability of colonizing the receiving ecosystem, but mostly as low abundance community members. Only during the disturbance do some of these bacterial populations significantly increase in abundance beyond background levels and in few cases become dominant community members post-disturbance. Two mechanisms facilitate the enhanced enrichment of immigrant populations during disturbance: 1) the availability of resources left unconsumed by established species and 2) the increased availability of niche space for colonizers to establish and displace resident populations. Thus, as a disturbance decreases local diversity, recruitment sites become available to promote colonization. This work advances our understanding of microbial resource management and diversity maintenance in complex ecosystems.",
+    "published": "10.1111/1462-2920.12824",
+    "server": "biorxiv"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "doi": "10.1101/020545",
+    "title": "RNA:DNA hybrids in the human genome have distinctive nucleotide characteristics, chromatin composition, and transcriptional relationships",
+    "authors": "Julie Nadel;Rodoniki Athanasiadou;Christophe Lemetre;Neil Ari Wijetunga;Pilib \u00d3 Broin;Hanae Sato;Zhengdong Zhang;Jeffrey Jeddeloh;Cristina Montagna;Aaron Golden;Cathal Seoighe;John M. Greally;",
+    "author_corresponding": "John M. Greally",
+    "author_corresponding_institution": "Albert Einstein College of Medicine",
+    "date": "2015-11-02",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Genomics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/11/02/020545.source.xml",
+    "abstract": "BackgroundRNA:DNA hybrids represent a non-canonical nucleic acid structure that has been associated with a range of human diseases and potential transcriptional regulatory functions. Mapping of RNA:DNA hybrids in human cells reveals them to have a number of characteristics that give insights into their functions.\\n\\nResultsWe find RNA:DNA hybrids to occupy millions of base pairs in the human genome. A directional sequencing approach shows the RNA component of the RNA:DNA hybrid to be purine-rich, indicating a thermodynamic contribution to their in vivo stability. The RNA:DNA hybrids are enriched at loci with decreased DNA methylation and increased DNase hypersensitivity, and within larger domains with characteristics of heterochromatin formation, indicating potential transcriptional regulatory properties. Mass spectrometry studies of chromatin at RNA:DNA hybrids shows the presence of the ILF2 and ILF3 transcription factors, supporting a model of certain transcription factors binding preferentially to the RNA:DNA conformation.\\n\\nConclusionsOverall, there is little to indicate a dependence for RNA:DNA hybrids forming co-transcriptionally, with results from the ribosomal DNA repeat unit instead supporting the intriguing model of RNA generating these structures in trans. The results of the study indicate heterogeneous functions of these genomic elements and new insights into their formation and stability in vivo.",
+    "published": "10.1186/s13072-015-0040-6",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/024802",
+    "title": "An extensive comparison of species-abundance distribution models.",
+    "authors": "Elita Baldridge;Xiao Xiao;Ethan P. White;",
+    "author_corresponding": "Elita  Baldridge",
+    "author_corresponding_institution": "Independant researcher",
+    "date": "2015-11-02",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_by",
+    "category": "",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/11/02/024802.source.xml",
+    "abstract": "A number of different models have been proposed as descriptions of the species-abundance distribution (SAD). Most evaluations of these models use only one or two models, focus only a single ecosystem or taxonomic group, or fail to use appropriate statistical methods. We use likelihood and AIC to compare the fit of four of the most widely used models to data on over 16,000 communities from a diverse array of taxonomic groups and ecosystems. Across all datasets combined the log-series, Poisson lognormal, and negative binomial all yield similar overall fits to the data. Therefore, when correcting for differences in the number of parameters the log-series generally provides the best fit to data. Within individual datasets some other distributions performed nearly as well as the log-series even after correcting for the number of parameters. The Zipf distribution is generally a poor characterization of the SAD.",
+    "published": "10.7717/peerj.2823",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/029223",
+    "title": "Disruption of endosperm development is a major cause of hybrid seed inviability between Mimulus guttatus and M. nudatus",
+    "authors": "Elen Oneal;John H. Willis;Robert Franks;",
+    "author_corresponding": "Elen  Oneal",
+    "author_corresponding_institution": "Duke University",
+    "date": "2015-11-02",
+    "version": "3",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Evolutionary Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/11/02/029223.source.xml",
+    "abstract": "O_LIDivergence of developmental mechanisms within populations may lead to hybrid developmental failure, and may be a factor driving speciation in angiosperms.\\nC_LIO_LIWe investigate patterns of endosperm and embryo development in Mimulus guttatus and the closely related, serpentine endemic M. nudatus, and compare them to those of reciprocal hybrid seed. We address whether disruption in hybrid seed development is the primary source of reproductive isolation between these sympatric taxa.\\nC_LIO_LIM. guttatus and M. nudatus differ in the pattern and timing of endosperm and embryo development. Some hybrid seed exhibit early disruption of endosperm development and are completely inviable, while others develop relatively normally at first, but later exhibit impaired endosperm proliferation and low germination success. These developmental patterns are reflected in mature hybrid seed, which are either small and flat (indicating little to no endosperm), or shriveled (indicating reduced endosperm volume). Hybrid seed inviability forms a potent reproductive barrier between M. guttatus and M. nudatus.\\nC_LIO_LIWe shed light on the extent of developmental variation between closely related species within the M. guttatus species complex, an important ecological model system, and provide a partial mechanism for the hybrid barrier between M. guttatus and M. nudatus.\\nC_LI",
+    "published": "10.1111/nph.13842",
+    "server": "biorxiv"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/003160",
+    "title": "Conditions for the validity of SNP-based heritability estimation",
+    "authors": "James J Lee;Carson C Chow;",
+    "author_corresponding": "Carson C Chow",
+    "author_corresponding_institution": "NIDDK, NIH",
+    "date": "2014-03-04",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_by_nd",
+    "category": "Genetics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/03/04/003160.source.xml",
+    "abstract": "The heritability of a trait (h2) is the proportion of its population variance caused by genetic differences, and estimates of this parameter are important for interpreting the results of genome-wide association studies (GWAS). In recent years, researchers have adopted a novel method for estimating a lower bound on heritability directly from GWAS data that uses realized genetic similarities between nominally unrelated individuals. The quantity estimated by this method is purported to be the contribution to heritability that could in principle be recovered from association studies employing the given panel of SNPs [Formula] Thus far the validity of this approach has mostly been tested empirically. Here, we provide a mathematical explication and show that the method should remain a robust means of obtaining [Formula] under circumstances wider than those under which it has so far been derived.",
+    "published": "10.1007/s00439-014-1441-5",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/003186",
+    "title": "Does \u2018information control the living state\u2019?",
+    "authors": "Rodrick Wallace;",
+    "author_corresponding": "Rodrick  Wallace",
+    "author_corresponding_institution": "The New York State Psychiatric Institute",
+    "date": "2014-03-04",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Biophysics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/03/04/003186.source.xml",
+    "abstract": "We generalize the recently-uncovered Data Rate Theorem in the context of cognitive systems having a  dual information source, including those of the living state that is particularly characterized by cognition at every scale and level of organization. The unification of information theory and control theory via the Data Rate Theorem is not additive, but synergistic, generating new statistical tools that greatly constrain the possible dynamics of that state. Thus, in addition to providing novel conceptual approaches, this emerging body of theory permits construction of models that, like those of regression analysis, can provide benchmarks against which to compare experimental or observational data.",
+    "published": "NA",
+    "server": "biorxiv"
+  }
+]

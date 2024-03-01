@@ -1,0 +1,50 @@
+[
+  {
+    "doi": "10.1101/000984",
+    "title": "A Bayesian Method to Incorporate Hundreds of Functional Characteristics with Association Evidence to Improve Variant Prioritization",
+    "authors": "Sarah A Gagliano;Michael R Barnes;Michael E Weale;Jo Knight;",
+    "author_corresponding": "Jo  Knight",
+    "author_corresponding_institution": "Centre for Addiction and Mental Health",
+    "date": "2013-12-04",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Bioinformatics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2013/12/04/000984.source.xml",
+    "abstract": "The increasing quantity and quality of functional genomic information motivate the assessment and integration of these data with association data, including data originating from genome-wide association studies (GWAS). We used previously described GWAS signals (\\\"hits\\\") to train a regularized logistic model in order to predict SNP causality on the basis of a large multivariate functional dataset. We show how this model can be used to derive Bayes factors for integrating functional and association data into a combined Bayesian analysis. Functional characteristics were obtained from the Encyclopedia of DNA Elements (ENCODE), from published expression quantitative trait loci (eQTL), and from other sources of genome-wide characteristics. We trained the model using all GWAS signals combined, and also using phenotype specific signals for autoimmune, brain-related, cancer, and cardiovascular disorders. The non-phenotype specific and the autoimmune GWAS signals gave the most reliable results. We found SNPs with higher probabilities of causality from functional characteristics showed an enrichment of more significant p-values compared to all GWAS SNPs in three large GWAS studies of complex traits. We investigated the ability of our Bayesian method to improve the identification of true causal signals in a psoriasis GWAS dataset and found that combining functional data with association data improves the ability to prioritise novel hits. We used the predictions from the penalized logistic regression model to calculate Bayes factors relating to functional characteristics and supply these online alongside resources to integrate these data with association data.\\n\\nAuthor SummaryLarge-scale genetic studies have had success identifying genes that play a role in complex traits. Advanced statistical procedures suggest that there are still genetic variants to be discovered, but these variants are difficult to detect. Incorporating biological information that affect the amount of protein or other product produced can be used to prioritise the genetic variants in order to identify which are likely to be causal. The method proposed here uses such biological characteristics to predict which genetic variants are most likely to be causal for complex traits.",
+    "published": "10.1371/journal.pone.0098122",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/001156",
+    "title": "Influence of walking speed on locomotor time production",
+    "authors": "Fabrice MEGROT;Carole MEGROT;",
+    "author_corresponding": "Fabrice  MEGROT",
+    "author_corresponding_institution": "French Red Cross",
+    "date": "2013-12-04",
+    "version": "1",
+    "type": "Contradictory Results",
+    "license": "cc_by_nc",
+    "category": "Neuroscience ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2013/12/04/001156.source.xml",
+    "abstract": "The aim of the present study was to determine whether or not walking speed affects temporal perception. It was hypothesized that fast walking would reduce the perceived length of time while slow walking increase production estimates. 16 healthy subjects were included. After a first << calibration >> phase allowing the determination of different walking speeds, the subjects were instructed to demonstrate periods of time or << target times >> of 3s and 7s, by a walking movement. Then, subjects were asked to simulate walking by raising one foot after the other without advancing. Finally, a third condition, Motionless, involved producing the target times while standing without movement. The results of this study suggest that movement does influence the perception of time, causing an overestimation of time. In agreement with the results of Denner et al. (1963) the subjects produced times which were longer than the target times.",
+    "published": "NA",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/001016",
+    "title": "Predictability of adaptive evolution under the successive fixation assumption",
+    "authors": "Sandeep Venkataram;Diamantis Sellis;Dmitri A Petrov;",
+    "author_corresponding": "Dmitri A Petrov",
+    "author_corresponding_institution": "Stanford University",
+    "date": "2013-12-04",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Evolutionary Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2013/12/04/001016.source.xml",
+    "abstract": "Predicting the course of evolution is critical for solving current biomedical challenges such as cancer and the evolution of drug resistant pathogens. One approach to studying evolutionary predictability is to observe repeated, independent evolutionary trajectories of similar organisms under similar selection pressures in order to empirically characterize this adaptive fitness landscape. As this approach is infeasible for many natural systems, a number of recent studies have attempted to gain insight into the adaptive fitness landscape by testing the plausibility of different orders of appearance for a specific set of adaptive mutations in a single adaptive trajectory. While this approach is technically feasible for systems with very few available adaptive mutations, the usefulness of this approach for predicting evolution in situations with highly polygenic adaptation is unknown. It is also unclear whether the presence of stable adaptive polymorphisms can influence the predictability of evolution as measured by these methods. In this work, we simulate adaptive evolution under Fishers geometric model to study evolutionary predictability. Remarkably, we find that the predictability estimated by these methods are anti-correlated, and that the presence of stable adaptive polymorphisms can both qualitatively and quantitatively change the predictability of evolution.",
+    "published": "NA",
+    "server": "biorxiv"
+  }
+]

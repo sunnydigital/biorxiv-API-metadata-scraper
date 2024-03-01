@@ -1,0 +1,18 @@
+[
+  {
+    "doi": "10.1101/035014",
+    "title": "On Miller\u2019s rule for the brain working memory, or why human memory is so short",
+    "authors": "Evgeny Z Meilikhov;Rimma M Farzetdinova;",
+    "author_corresponding": "Evgeny Z Meilikhov",
+    "author_corresponding_institution": "Kurchatov Institute, 123182 Moscow, Russia",
+    "date": "2015-12-22",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nd",
+    "category": "Systems Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/12/22/035014.source.xml",
+    "abstract": "Working memory is a cognitive construct that describes how information can be maintained in brain for a limited period of time, while concurrent processing is also performed. We present a simple model that accounts for working memory span and explains the origin of the cognitive Millers rule (Magical Number Seven).",
+    "published": "10.1134/s1063776116060170",
+    "server": "biorxiv"
+  }
+]

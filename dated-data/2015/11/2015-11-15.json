@@ -1,0 +1,50 @@
+[
+  {
+    "doi": "10.1101/019356",
+    "title": "Streaming algorithms for identification of pathogens and antibiotic resistance potential from real-time MinION sequencing",
+    "authors": "Minh Duc Cao;Devika Ganesamoorthy;Alysha Elliott;Huihui Zhang;Matthew Cooper;Lachlan Coin;",
+    "author_corresponding": "Lachlan  Coin",
+    "author_corresponding_institution": "University of Queensland",
+    "date": "2015-11-15",
+    "version": "3",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Bioinformatics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/11/15/019356.source.xml",
+    "abstract": "The recently introduced Oxford Nanopore MinION platform generates DNA sequence data in real-time. This opens immense potential to shorten the sample-to-results time and is likely to lead to enormous benefits in rapid diagnosis of bacterial infection and identification of drug resistance. However, there are very few tools available for streaming analysis of real-time sequencing data. Here, we present a framework for streaming analysis of MinION real-time sequence data, together with probabilistic streaming algorithms for species typing, multi-locus strain typing, gene presence strain-typing and antibiotic resistance profile identification. Using three culture isolate samples as well as a mixed-species sample, we demonstrate that bacterial species and strain information can be obtained within 30 minutes of sequencing and using about 500 reads, initial drug-resistance profiles within two hours, and complete resistance profiles within 10 hours. Multi-locus strain typing required more than 15x coverage to generate confident assignments, whereas gene-presence typing could detect the presence of a known strain with 0.5x coverage. We also show that our pipeline can process over 100 times more data than the current throughput of the MinION on a desktop computer.",
+    "published": "10.1186/s13742-016-0137-2",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/031856",
+    "title": "A protein aggregation-dependent scaling-free synaptic facilitation rule for neural network simulations",
+    "authors": "Michele Sanguanini;Antonino Cattaneo;",
+    "author_corresponding": "Antonino  Cattaneo",
+    "author_corresponding_institution": "Scuola Normale Superiore",
+    "date": "2015-11-15",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Neuroscience ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/11/15/031856.source.xml",
+    "abstract": "The regulation of mRNA translation at synaptic level is believed to be fundamental in memory and learning at cellular level. A family of RNA binding proteins (RBPs) which emerged to be important during development and in adult neurons is the one of Cytoplasmic Polyadenylation Element Binding proteins (CPEBs). Drosophila Orb2 (homolog of vertebrate CPEB2 protein and of the neural isoform of Aplysia CPEB) has been found to be involved in the translation of plasticity-dependent mRNAs and has been associated to Long Term Memory (LTM). Orb2 protein presents two main isoforms, Orb2A and Orb2B, which form an activity induced amyloid-like functional aggregate, which is thought to be the translation-inducing state of the RBP. Here we present a two-states continuous differential model for Orb2A-Orb2B aggregation and we propose it, more generally, as a new synaptic facilitation rule for learning processes involving protein aggregation-dependent plasticity (PADP).",
+    "published": "10.1098/rsos.180336",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/031849",
+    "title": "Ant and mite diversity drives toxin variation in the Little Devil poison frog",
+    "authors": "Jenna R McGugan;Gary D Byrd;Alexandre B Roland;Stephanie N Caty;Nisha Kabir;Elicio E Tapia;Sunia A Trauger;Luis A Coloma;Lauren O'Connell;",
+    "author_corresponding": "Lauren  O'Connell",
+    "author_corresponding_institution": "Harvard University",
+    "date": "2015-11-15",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nd",
+    "category": "",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/11/15/031849.source.xml",
+    "abstract": "Poison frogs sequester chemical defenses from arthropod prey, although the details of how arthropod diversity contributes to variation in poison frog toxins remains unclear. We characterized skin alkaloid profiles in the Little Devil frog, Oophaga sylvatica (Dendrobatidae), across three populations in northwestern Ecuador. Using gas chromatography mass spectrometry, we identified histrionicotoxins, 3,5- and 5,8-disubstituted indolizidines, decahydroquinolines, and lehmizidines as the primary alkaloid toxins in these O. sylvatica populations. Frog skin alkaloid composition varied along a latitudinal gradient across populations in a principal component analysis. We also characterized diversity in arthropods isolated from frog stomach contents and confirmed O. sylvatica specialize on ants and mites. To test the hypothesis that poison frog toxin diversity reflects species and chemical diversity in arthropod prey, we (1) used liquid chromatography mass spectrometry to chemically profile consumed ants and mites, and (2) used sequencing of cytochrome oxidase 1 to identify individual prey specimens. We show that chemical profiles of consumed ants and mites cluster by frog population, suggesting different frog populations have access to chemically distinct prey. We identified 45 ants and 9 mites isolated from frog stomachs, finding several undescribed species. Finally, by comparing chemical profiles of frog skin and isolated prey items, we were able to trace the arthropod source of four poison frog alkaloids, including 3,5- and 5,8-disubstituted indolizidines and a lehmizidine alkaloid. Together, our data shows the diversity of alkaloid toxins found in O. sylvatica can be traced to chemical diversity in arthropod prey.",
+    "published": "10.1007/s10886-016-0715-x",
+    "server": "biorxiv"
+  }
+]

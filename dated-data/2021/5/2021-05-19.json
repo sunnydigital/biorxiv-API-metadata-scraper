@@ -1,0 +1,50 @@
+[
+  {
+    "doi": "10.1101/2021.05.19.444777",
+    "title": "Hif1\u03b1 is required for Wnt regulated gene expression during Xenopus tropicalis tail regeneration",
+    "authors": "Patel, J. H.; Schattinger, P. A.; Takayoshi, E. E.; Wills, A. E.",
+    "author_corresponding": "Andrea Elizabeth  Wills",
+    "author_corresponding_institution": "University of Washington",
+    "date": "2021-05-19",
+    "version": "1",
+    "type": "new results",
+    "license": "cc_by",
+    "category": "developmental biology",
+    "jatsxml": "https://www.biorxiv.org/content/early/2021/05/19/2021.05.19.444777.source.xml",
+    "abstract": "Regeneration of complex tissues is initiated by an injury-induced stress response, eventually leading to activation of developmental signaling pathways such as Wnt signaling. How early injury cues are interpreted and coupled to activation of these developmental signals and their targets is not well understood. Here, we show that Hif1, a stress induced transcription factor, is required for tail regeneration in Xenopus tropicalis. We find that Hif1 is required for regeneration of differentiated axial tissues, including axons and muscle. Using RNA-sequencing, we find that Hif1 and Wnt converge on a broad set of genes required for posterior specification and differentiation, including the posterior hox genes. We further show that Hif1 is required for transcription via a Wnt-responsive element, a function that is conserved in both regeneration and early neural patterning. Our findings indicate a regulatory role for Hif1 in Wnt mediated gene expression across multiple tissue contexts.",
+    "published": "10.1016/j.ydbio.2022.01.007",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/2021.05.19.444704",
+    "title": "Semaphorin3f as an intrinsic regulator of chamber-specific heart development",
+    "authors": "Halabi, R.; Cechmanek, P. B.; Hehr, C. L.; McFarlane, S.",
+    "author_corresponding": "Sarah  McFarlane",
+    "author_corresponding_institution": "University of Calgary",
+    "date": "2021-05-19",
+    "version": "1",
+    "type": "new results",
+    "license": "cc_by_nc_nd",
+    "category": "developmental biology",
+    "jatsxml": "https://www.biorxiv.org/content/early/2021/05/19/2021.05.19.444704.source.xml",
+    "abstract": "During development a pool of precursors form a heart with atrial and ventricular chambers that exhibit distinct transcriptional and electrophysiological properties. Normal development of these chambers is essential for full term survival of the fetus, and deviations result in congenital heart defects. The large number of genes that may cause congenital heart defects when mutated, and the genetic variability and penetrance of the ensuing phenotypes, reveals a need to understand the molecular mechanisms that allow for the formation of chamber-specific cardiomyocyte differentiation. We find that in the developing zebrafish heart, mRNA for a secreted Semaphorin (Sema), Sema3fb, is expressed by all cardiomyocytes, whereas mRNA for its receptor Plexina3 (Plxna3) is expressed by ventricular cardiomyocytes. In sema3fb CRISPR zebrafish mutants, ventricular chamber development is impaired; the ventricles of mutants are smaller in size than their wild type siblings, apparently because of differences in cell size and not cell numbers, with ventricular cardiomyocytes failing to undergo normal developmental hypertrophy. Analysis of chamber differentiation indicates defects in chamber specific gene expression at the border between the ventricular and atrial chambers, with spillage of ventricular chamber genes into the atrium, and vice versa, and a failure to restrict bmp4a mRNA to the atrioventricular canal. The disrupted atrioventricular border region in mutants is accompanied by hypoplastic heart chambers and impaired cardiac function. These data suggest a model whereby cardiomyocytes secrete a Sema cue that, through spatially restricted expression of the receptor, signals in a ventricular chamber-specific manner to establish a distinct border between atrial and ventricular chambers that is important for functional development of the heart.",
+    "published": "NA",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/2021.05.19.444770",
+    "title": "Epi-mutations for spermatogenic defects by maternal exposure to Di (2-ethylhexyl) phthalate",
+    "authors": "Tando, Y.; Hiura, H.; Takehara, A.; Ito-Matsuoka, Y.; Arima, T.; Matsui, Y.",
+    "author_corresponding": "Yasuhisa  Matsui",
+    "author_corresponding_institution": "Tohoku University",
+    "date": "2021-05-19",
+    "version": "1",
+    "type": "new results",
+    "license": "cc_by",
+    "category": "developmental biology",
+    "jatsxml": "https://www.biorxiv.org/content/early/2021/05/19/2021.05.19.444770.source.xml",
+    "abstract": "Exposure to environmental factors during fetal development may lead to epigenomic modifications in fetal germ cells, altering gene expression and promoting diseases in successive generations. In mouse, maternal exposure to Di (2-ethylhexyl) phthalate (DEHP) is known to induce defects in spermatogenesis in successive generations, but the mechanism(s) of impaired spermatogenesis are unclear. Here, we showed that maternal DEHP exposure results in DNA hypermethylation of promoters of spermatogenesis-related genes in fetal testicular germ cells in F1 mice, and hypermethylation of Hist1h2ba, Sycp1 and Taf7l, which are crucial for spermatogenesis, persisted from fetal testicular cells to adult spermatogonia, resulting in the downregulation of expression of these genes. Forced methylation of these gene promoters silenced expression of these loci in a reporter assay. Expression and methylation of those genes tended to be downregulated and increased, respectively in F2 spermatogonia following maternal DEHP exposure. These results suggested that DEHP-induced hypermethylation of Hist1h2ba, Sycp1 and Taf7l in fetal germ cells results in downregulation of these genes in spermatogonia and subsequent defects in spermatogenesis, at least in the F1 generation.",
+    "published": "10.7554/eLife.70322",
+    "server": "biorxiv"
+  }
+]

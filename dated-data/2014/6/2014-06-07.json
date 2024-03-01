@@ -1,0 +1,50 @@
+[
+  {
+    "doi": "10.1101/006072",
+    "title": "Gene co-expression modules underlying polymorphic and monomorphic zooids in the colonial hydrozoan, Hydractinia symbiolongicarpus",
+    "authors": "David C Plachetzki;M. Sabrina Pankey;Brian R Johnson;Eric J Ronne;Artyom Kopp;Richard K Grosberg;",
+    "author_corresponding": "David C Plachetzki",
+    "author_corresponding_institution": "The University of New Hampshire",
+    "date": "2014-06-07",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Developmental Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/06/07/006072.source.xml",
+    "abstract": "Advances in sequencing technology have forced a quantitative revolution in Evolutionary Biology. One important feature of this renaissance is that comprehensive genomic resources can be obtained quickly for almost any taxon, thus speeding the development of new model organisms. Here we analyze 20 RNA-seq libraries from morphologically, sexually, and genetically distinct polyp types from the gonochoristic colonial hydrozoan, Hydractinia symbiolongicarpus (Cnidaria). Analyses of these data using Weighted Gene Co-expression Networks highlights deeply conserved genetic elements of animal spermatogenesis and demonstrate the utility of these methods in identifying modules of genes that correlate with different zooid types across various statistical contrasts. RNAseq data and analytical scripts described here are deposited in publicly available databases.",
+    "published": "10.1093/icb/icu080",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/005876",
+    "title": "Rapid transcriptional response to physiological neuronal activity in vivo revealed by transcriptome sequencing",
+    "authors": "Yarden Katz;Tarciso Velho;Vincent Butty;Christopher B. Burge;Carlos Lois;",
+    "author_corresponding": "Yarden  Katz",
+    "author_corresponding_institution": "MIT",
+    "date": "2014-06-07",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Neuroscience ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/06/07/005876.source.xml",
+    "abstract": "Neuronal activity serves as a gateway between external stimulus from environment and the brain, often inducing gene expression changes. Alternative splicing (AS) is a widespread mechanism of increasing the number of transcripts produced from a single gene and has been shown to alter properties of neuronal genes, such as ion channels (Xie and Black 2001) and neurotransmitter receptors (Mu et al. 2003). Patterns of neural tissue-specific AS have been identified, often regulated by neuron-specific splicing factors that are essential for survival (Jensen et al. 2000; Li et al. 2007), demonstrating the importance of AS in neurons. In vitro studies of neuronal activity found AS changes in response to neuronal activity in addition to transcriptional ones, raising the question of whether such changes are recapitulated in vivo on behaviorally relevant timescales. We developed a paradigm for studying physiological neuronal activity through controlled stimulation of the olfactory bulb, and performed RNA-Seq transcriptome analysis of olfactory bulbs from odor-deprived and stimulated mice. We found that physiological stimulation induces large, rapid and reproducible changes in transcription in vivo, and that the activation of a core set of activity-regulated factors is recapitulated in an in vitro model of neuronal stimulation. However, physiological activity did not induce global changes in post-transcriptional mRNA processing, such as AS or alternative cleavage and polyadenylation. In contrast, analysis of RNA-Seq from in vitro stimulation models showed rapid activity-dependent changes in both transcription and mRNA processing. Our results provide the first genome-wide look at neuronal activity-dependent mRNA processing and suggest that rapid changes in AS might not be the dominant form of transcriptome alterations that take place during olfactory rodent behavior.",
+    "published": "NA",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/006080",
+    "title": "Efficient isolation of specific genomic regions retaining molecular interactions by the iChIP system using recombinant exogenous DNA-binding proteins",
+    "authors": "Toshitsugu Fujita;Hodaka Fujii;",
+    "author_corresponding": "Hodaka  Fujii",
+    "author_corresponding_institution": "Research Institute for Microbial Diseases, Osaka University",
+    "date": "2014-06-07",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by",
+    "category": "Biochemistry ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/06/07/006080.source.xml",
+    "abstract": "BackgroundComprehensive understanding of mechanisms of genome functions requires identification of molecules interacting with genomic regions of interest in vivo. We have developed the insertional chromatin immunoprecipitatin (iChIP) technology to isolate specific genomic regions retaining molecular interactions and identify their associated molecules. iChIP consists of locus-tagging and affinity purification. The recognition sequences of an exogenous DNA-binding protein such as LexA are inserted into a genomic region of interest in the cell to be analyzed. The exogenous DNA-binding protein fused with a tag(s) is expressed in the cell and the target genomic region is purified with antibody against the tag(s). In this study, we developed the iChIP system using recombinant DNA-binding proteins to make iChIP more straightforward.\\n\\nResultsIn this system, recombinant 3xFNLDD-D (r3xFNLDD-D) consisting of the 3xFLAG-tag, a nuclear localization signal, the DNA-binding domain plus the dimerization domain of the LexA protein, and the Dock-tag is used for isolation of specific genomic regions. 3xFNLDD-D was expressed using a silkworm-baculovirus expression system and purified by affinity purification. iChIP using r3xFNLDD-D could efficiently isolate the single-copy chicken Pax5 (cPax5) locus, in which LexA binding elements were inserted, with negligible contamination of other genomic regions. In addition, we could detect RNA associated with the cPax5 locus using this form of the iChIP system combined with RT-PCR.\\n\\nConclusionsThe iChIP system using r3xFNLDD-D can isolate specific genomic regions retaining molecular interactions without expression of the exogenous DNA-binding protein in the cell to be analyzed. iChIP using r3xFNLDD-D would be more straightforward and useful for analysis of specific genomic regions to elucidate their functions.",
+    "published": "10.1186/s12867-014-0026-0",
+    "server": "biorxiv"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "doi": "10.1101/753038",
+    "title": "Lack of regularity between letters impacts word recognition performance",
+    "authors": "Beier, S.; Bernard, J.-B.",
+    "author_corresponding": "Sofie  Beier",
+    "author_corresponding_institution": "Kongelige Danske Kunstakademis Skoler for Arkitektur Design og Konservering",
+    "date": "2019-08-30",
+    "version": "1",
+    "type": "new results",
+    "license": "cc_by",
+    "category": "scientific communication and education",
+    "jatsxml": "https://www.biorxiv.org/content/early/2019/08/30/753038.source.xml",
+    "abstract": "Physical inter-letter dissimilarity has been suggested as a solution to increase perceptual differences between letter shapes and hence a solution to improve reading performance. However, the deleterious effects of font tuning suggest that low inter-letter regularity (due to the enhancement of specific letter features to make them more differentiable) may impair word recognition performance. The aim of the present investigation was 1) to validate our hypothesis that reducing inter-letter regularity impairs reading performance, as suggested by font tuning, and 2) to test whether some forms of non-regularities could impair visual word recognition more. To do so, we designed four new fonts. For each font we induced one type of increased perceptual difference: for the first font, the letters have longer extender length; for the second font, the letters have different slants; and for the third font, the letters have different font cases. We also designed a fourth font where letters differ on all three aspects (worst regularity across letters). Word recognition performance was measured for each of the four fonts in comparison to a traditional sans serif font (best regularity across letters) through a lexical decision task. Results showed a significant decrease in word recognition performance only for the fonts with mixed-case letters, suggesting that fonts with low regularity, such as mixed-case letters, should be avoided in the definition of new \\\"optimal\\\" fonts. Letter recognition performance measured for the five different fonts through a trigram recognition task showed that this effect is not consistently due to poor letter identification.",
+    "published": "NA",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/753046",
+    "title": "Health care service providers experiences, understanding and conceptions of voluntary medical male circumcision in KwaZulu-Natal, South Africa",
+    "authors": "Nxumalo, C. T.; Mchunu, G. G.",
+    "author_corresponding": "Celenkosini  Thembelekosini  Nxumalo",
+    "author_corresponding_institution": "Ndwedwe Community Health Centre",
+    "date": "2019-08-30",
+    "version": "1",
+    "type": "new results",
+    "license": "cc_by",
+    "category": "scientific communication and education",
+    "jatsxml": "https://www.biorxiv.org/content/early/2019/08/30/753046.source.xml",
+    "abstract": "BackgroundThere is compelling evidence that voluntary medical male circumcision reduces the chances of heterosexual transmission of HIV infection. Health care workers are among the key influencers in terms of scale up of VMMC as they are often involved in mobilization for uptake. Adequate knowledge and competence are essential to ensuring that the delivery of VMMC services is line with the recommended comprehensive package of HIV prevention services.\\n\\nAimThe aim of this study was to analyse health care service providers conceptions, experiences and understanding of VMMC in KwaZulu-Natal, South Africa.\\n\\nMethodsThe study employed a qualitative approach using a phenomenographic design. Ethical clearance to conduct the study was obtained from the University of KwaZulu-Natals Biomedical Research Ethics Committee (BE627/18).Data were collected from a purposive sample of 15 health care worker who were doctors, nurses and clinical associates working in six different rural clinics in KwaZulu-Natal, South Africa. Individual in-depth interviews were used collect data guided by a semi-structured interview schedule. An audiotape was used to record the interviews, which were then transcribed verbatim, and analysed thematically.\\n\\nResultsCategories of description in healthcare providers experiences, conceptions and understanding of voluntary medical male circumcision emerged. The findings of this study revealed that health care workers conceptions, experiences and understanding of VMMC were influenced by stereotypical cultural, religious and traditional beliefs. The challenges of implementing VMMC were shortage of staff and poor training of health care workers on VMMC.\\n\\nConclusionTailored messaging targeting health care workers misconceptions and poor understanding of VMMC in necessary. In addition, resource allocation for training and infrastructure could significantly improve the quality of VMMC services and uptake thereof.",
+    "published": "10.1177/1557988319892437",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/753079",
+    "title": "Inverse correlation between heme synthesis and the Warburg effect in cancer cells",
+    "authors": "Sugiyama, Y.; Takahashi, E.; Takahashi, K.; Nakajima, M.; Tanaka, T.; Ogura, S.-i.",
+    "author_corresponding": "Shun-ichiro  Ogura",
+    "author_corresponding_institution": "Tokyo Institute of Technology",
+    "date": "2019-08-30",
+    "version": "1",
+    "type": "new results",
+    "license": "cc_by",
+    "category": "biochemistry",
+    "jatsxml": "https://www.biorxiv.org/content/early/2019/08/30/753079.source.xml",
+    "abstract": "AbstractsCancer cells show a bias toward the glycolytic system over the conventional mitochondrial electron transfer system for obtaining energy. This biased metabolic adaptation is called the Warburg effect. Cancer cells also exhibit a characteristic metabolism, a decreased heme synthesizing ability. Here we show that heme synthesis and the Warburg effect are inversely correlated. We used human gastric cancer cell lines to investigate glycolytic metabolism and electron transfer system toward promotion/inhibition of heme synthesis. Under hypoxic conditions, heme synthesis was suppressed and the glycolytic system was enhanced. Addition of a heme precursor for the promotion of heme synthesis led to an enhanced electron transfer system and inhibited the glycolytic system and vice versa. Enhanced heme synthesis leads to suppression of cancer cell proliferation by increasing intracellular reactive oxygen species levels. Collectively, the promotion of heme synthesis in cancer cells eliminated the Warburg effect by shifting energy metabolism from glycolysis to oxidative phosphorylation.",
+    "published": "NA",
+    "server": "biorxiv"
+  }
+]

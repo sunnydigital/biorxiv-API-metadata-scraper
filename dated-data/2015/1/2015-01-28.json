@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/005553",
+    "title": "Differential stoichiometry among core ribosomal proteins",
+    "authors": "Nikolai Slavov;Stefan Semrau;Edoardo Airoldi;Bogdan Budnik;Alexander van Oudenaarden;",
+    "author_corresponding": "Nikolai  Slavov",
+    "author_corresponding_institution": "Harvard University",
+    "date": "2015-01-28",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Systems Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/01/28/005553.source.xml",
+    "abstract": "Understanding the regulation and structure of ribosomes is essential to understanding protein synthesis and its dysregulation in disease. While ribosomes are believed to have a fixed stoichiometry among their core ribosomal proteins (RPs), some experiments suggest a more variable composition. Testing such variability requires direct and precise quantification of RPs. We used mass-spectrometry to directly quantify RPs across monosomes and polysomes of mouse embryonic stem cells (ESC) and budding yeast. Our data show that the stoichiometry among core RPs in wild-type yeast cells and ESC depends both on the growth conditions and on the number of ribosomes bound per mRNA. Furthermore, we find that the fitness of cells with a deleted RP-gene is inversely proportional to the enrichment of the corresponding RP in polysomes. Together, our findings support the existence of ribosomes with distinct protein composition and physiological function.",
+    "published": "10.1016/j.celrep.2015.09.056",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/014514",
+    "title": "Generators and connectivity of the early auditory evoked gamma band response.",
+    "authors": "Nenad Polomac;Gregor Leicht;Guido Nolte;Christina Andreou;Till R. Schneider;Saskia Steinmann;Andreas K. Engel;Christoph Mulert;",
+    "author_corresponding": "Christoph  Mulert",
+    "author_corresponding_institution": "University Medical Center Hamburg-Eppendorf",
+    "date": "2015-01-28",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Neuroscience ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/01/28/014514.source.xml",
+    "abstract": "BackgroundHigh frequency oscillations in the gamma range are known to be involved in early stages of auditory information processing in terms of synchronization of brain regions, e.g., in cognitive functions. It has been shown using EEG source localisation, as well as simultaneously recorded EEG-fMRI, that the auditory evoked gamma-band response (aeGBR) is modulated by attention. In addition to auditory cortex activity a dorsal anterior cingulate cortex (dACC) generator could be involved. In the present study we investigated aeGBR magnetic fields using magnetoencephalography (MEG). We aimed to localize the aeGBR sources and its connectivity features in relation to mental effort.\\n\\nMethodsWe investigated the aeGBR magnetic fields in 13 healthy participants using a 275-channel CTF-MEG system. The experimental paradigms were two auditory choice reaction tasks with different difficulties and demands for mental effort. We performed source localization with eLORETA and calculated the aeGBR lagged phase synchronization between bilateral auditory cortices and frontal midline structures.\\n\\nResultsThe eLORETA analysis revealed sources of the aeGBR within bilateral auditory cortices and in frontal midline structures of the brain including the dACC. Compared to the control condition the dACC source activity was found to be significantly stronger during the performance of the cognitively demanding task. Moreover, this task involved a significantly stronger functional connectivity between auditory cortices and dACC.\\n\\nConclusionIn accordance with previous EEG and EEG-fMRI investigations, our study confirms an aeGBR generator in the dACC by means of MEG and suggests its involvement in the effortful processing of auditory stimuli.",
+    "published": "10.1007/s10548-015-0434-6",
+    "server": "biorxiv"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "doi": "10.1101/002238",
+    "title": "Fast Principal Component Analysis of Large-Scale Genome-Wide Data",
+    "authors": "Gad Abraham;Michael Inouye;",
+    "author_corresponding": "Gad  Abraham",
+    "author_corresponding_institution": "University of Melbourne",
+    "date": "2014-03-11",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_by",
+    "category": "Genomics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/03/11/002238.source.xml",
+    "abstract": "Principal component analysis (PCA) is routinely used to analyze genome-wide single-nucleotide polymorphism (SNP) data, for detecting population structure and potential outliers. However, the size of SNP datasets has increased immensely in recent years and PCA of large datasets has become a time consuming task. We have developed flashpca, a highly efficient PCA implementation based on randomized algorithms, which delivers identical accuracy in extracting the top principal components compared with existing tools, in substantially less time. We demonstrate the utility of flashpca on both HapMap3 and on a large Immunochip dataset. For the latter, flashpca performed PCA of 15,000 individuals up to 125 times faster than existing tools, with identical results, and PCA of 150,000 individuals using flashpca completed in 4 hours. The increasing size of SNP datasets will make tools such as flashpca essential as traditional approaches will not adequately scale. This approach will also help to scale other applications that leverage PCA or eigen-decomposition to substantially larger datasets.",
+    "published": "10.1371/journal.pone.0093766",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/002642",
+    "title": "A reassessment of consensus clustering for class discovery",
+    "authors": "Yasin \u015eenbabao\u011flu;George Michailidis;Jun Z Li;",
+    "author_corresponding": "Jun Z Li",
+    "author_corresponding_institution": "University of Michigan Ann Arbor",
+    "date": "2014-03-11",
+    "version": "3",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Bioinformatics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/03/11/002642.source.xml",
+    "abstract": "Consensus clustering (CC) is an unsupervised class discovery method widely used to study sample heterogeneity in high-dimensional datasets. It calculates \\\"consensus rate\\\" between any two samples as how frequently they are grouped together in repeated clustering runs under a certain degree of random perturbation. The pairwise consensus rates form a between-sample similarity matrix, which has been used (1) as a visual proof that clusters exist, (2) for comparing stability among clusters, and (3) for estimating the optimal number (K) of clusters. However, the sensitivity and specificity of CC have not been systemically studied. To assess its performance, we investigated the most common implementations of CC; and compared CC with other popular methods that also focus on cluster stability and estimation of K. We evaluated these methods using simulated datasets with either known structure or known absence of structure. Our results showed that (1) CC was able to divide randomly generated unimodal data into pre-specified numbers of clusters, and was able to show apparent stability of these chance partitions of known cluster-less data; (2) for data with known structure, the proportion of ambiguously clustered (PAC) pairs infers the known number of clusters more reliably than several commonly used K estimating methods; and (3) validation of the optimal K by choosing the most discriminant genes from the discovery cohort and applying them in an independent cohort often exaggerates the confidence in K due to inherent gene-gene correlations among the selected genes. While these results do not yet prove that any of the published studies using CC has generated false positive findings, they show that datasets with subtle or no structure are fully capable of producing strong evidence of consensus clustering. We therefore recommend caution is using CC in class discovery and validation.",
+    "published": "10.1038/srep06207",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/003244",
+    "title": "An Analysis of Cochlear Implant Distortion from a User\u2019s Perspective",
+    "authors": "Barry David Jacobson;",
+    "author_corresponding": "Barry David Jacobson",
+    "author_corresponding_institution": "Massachusetts Institute of Technology",
+    "date": "2014-03-11",
+    "version": "3",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Bioengineering ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/03/11/003244.source.xml",
+    "abstract": "We describe our first-hand experience with a cochlear implant (CI), being both a recent recipient and a hearing researcher. We note the promising loudness, but very unpleasant distortion, which makes understanding speech difficult in many environments, including in noise, on the phone or through the radio. We also discuss the extreme unpleasantness of music, which makes recognizing familiar melodies very difficult. We investigate the causes of the above problems through mathematical analysis and computer simulations of sound mixtures, and find that surprisingly, the culprit appears to be non-biological in origin, but primarily due to the envelope-based signal processing algorithms currently used. This distortion is generated before the signal even enters the cochlea. Hence, the long-held belief that inter-electrode interference or current spreading is the cause, appears incorrect. We explain that envelope processing may have been originally instituted based on an inaccurate understanding of the role of place coding vs. temporal coding, or alternatively, because of an incorrect analogy to radio modulation theory. On the basis of our analysis, we suggest immediate concrete steps, some possibly in firmware alone, that may lead to a much improved experience.",
+    "published": "NA",
+    "server": "biorxiv"
+  }
+]

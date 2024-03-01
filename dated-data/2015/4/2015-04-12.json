@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/015834",
+    "title": "Sensitivity analysis of Wnt \u03b2-catenin based transcription complex might bolster power-logarithmic psychophysical law and reveal preserved gene gene interactions",
+    "authors": "Shriprakash Sinha;",
+    "author_corresponding": "Shriprakash  Sinha",
+    "author_corresponding_institution": "-",
+    "date": "2015-04-12",
+    "version": "4",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Systems Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/04/12/015834.source.xml",
+    "abstract": "Recently, psychophysical laws have been observed to be functional in certain factors working downstream of the Wnt pathway. This work tests the veracity of the prevalence of such laws, albeit at a coarse level, using sensitivity analysis on biologically inspired epigenetically influenced computational causal models. In this work, the variation in the effect of the predictive behaviour of the transcription complex (TRCMPLX) conditional on the evidences of gene expressions in normal/tumor samples is observed by varying the initially assigned values of conditional probability tables (cpt) for TRCMPLX. Preliminary analysis shows that the variation in predictive behaviour of TRCMPLX follows power-logarithmic psychophysical law, crudely. More recently, wet lab experiments have proved the existence of sensors that behave in a logarithmic fashion thus supporting the earlier proposed postulates based on computational sensitivity analysis of this manuscript regarding the existence of logarithmic behaviour in the signaling pathways. It also signifies the importance of systems biology approach where in silico experiments combined with in vivo/in vitro experiments have the power to explore the deeper mechanisms of a signaling pathway. Additionally, it is hypothesized that these laws are prevalent at gene-gene interaction level also. The interactions were obtained by thresholding the inferred conditional probabilities of a gene activation given the status of another gene activation. The deviation in the interactions in normal/tumor samples was similarly observed by varying the initially assigned values of conditional probability tables (cpt) for TRCMPLX. Analysis of deviation in interactions show prevalence of psychophysical laws and is reported for interaction between elements of pairs (SFRP3, MYC), (SFRP2, CD44) and (DKK1, DACT2). Based on crude static models, it is assumed that dynamic models of Bayesian networks might reveal the phenomena in a better way.",
+    "published": "NA",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/017939",
+    "title": "CIDANE: Comprehensive isoform discovery and abundance estimation",
+    "authors": "Stefan Canzar;Sandro Andreotti;David Weese;Knut Reinert;Gunnar W. Klau;",
+    "author_corresponding": "Stefan  Canzar",
+    "author_corresponding_institution": "Toyotal Technological Institute at Chicago",
+    "date": "2015-04-12",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Bioinformatics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/04/12/017939.source.xml",
+    "abstract": "We present CIDANE, a novel framework for genome-based transcript reconstruction and quantification from RNA-seq reads. CIDANE assembles transcripts with significantly higher sensitivity and precision than existing tools, while competing in speed with the fastest methods. In addition to reconstructing transcripts ab initio, the algorithm also allows to make use of the growing annotation of known splice sites, transcription start and end sites, or full-length transcripts, which are available for most model organisms. CIDANE supports the integrated analysis of RNA-seq and additional gene-boundary data and recovers splice junctions that are invisible to other methods. CIDANE is available at http://ccb.jhu.edu/software/cidane/.",
+    "published": "10.1186/s13059-015-0865-0",
+    "server": "biorxiv"
+  }
+]

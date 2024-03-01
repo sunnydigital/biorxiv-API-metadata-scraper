@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/004010",
+    "title": "MixMir: microRNA motif discovery from gene expression data using mixed linear models",
+    "authors": "LIYANG Diao;Antoine Marcais;Scott Norton;Kevin C. Chen;",
+    "author_corresponding": "Kevin C. Chen",
+    "author_corresponding_institution": "Rutgers, The State University of New  Jersey",
+    "date": "2014-04-10",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Genomics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/04/10/004010.source.xml",
+    "abstract": "microRNAs (miRNAs) are a class of [~]22nt non-coding RNAs that potentially regulate over 60% of human protein-coding genes. miRNA activity is highly specific, differing between cell types, developmental stages and environmental conditions, so the identification of active miRNAs in a given sample is of great interest. Here we present a novel computational approach for analyzing both mRNA sequence and gene expression data, called MixMir. Our method corrects for 3' UTR background sequence similarity between transcripts, which is known to correlate with mRNA transcript abundance. We demonstrate that after accounting for kmer sequence similarities in 3 UTRs, a statistical linear model based on motif presence/absence can effectively discover active miRNAs in a sample. MixMir utilizes fast software implementations for solving mixed linear models which are widely-used in genome-wide association studies (GWAS). Essentially we use 3 UTR sequence similarity in place of population cryptic relatedness in the GWAS problem. Compared to similar methods such as miReduce, Sylamer and cWords, we found that MixMir performed better at discovering true miRNA motifs in three mouse Dicer knockout experiments from different tissues, two of which were collected by our group. We confirmed these results on protein and mRNA expression data obtained from miRNA transfection experiments in human cell lines. MixMir can be freely downloaded from https://github.com/ldiao/MixMir.",
+    "published": "10.1093/nar/gku672",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/004119",
+    "title": "Natural CMT2 variation is associated with genome-wide methylation changes and temperature seasonality",
+    "authors": "Xia Shen;Jennifer De Jonge;Simon Forsberg;Mats Pettersson;Zheya Sheng;Lars Hennig;\u00d6rjan Carlborg;",
+    "author_corresponding": "\u00d6rjan  Carlborg",
+    "author_corresponding_institution": "Swedish University of Agricultural Sciences",
+    "date": "2014-04-10",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Genomics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/04/10/004119.source.xml",
+    "abstract": "As Arabidopsis thaliana has colonized a wide range of habitats across the world it is an attractive model for studying the genetic mechanisms underlying environmental adaptation. Here, we used public data from two collections of A. thaliana accessions to associate genetic variability at individual loci with differences in climates at the sampling sites. We use a novel method to screen the genome for plastic alleles that tolerate a broader climate range than the major allele. This approach reduces confounding with population structure and increases power compared to standard genome-wide association methods. Sixteen novel loci were found, including an association between Chromomethylase 2 (CMT2) and temperature seasonality where the genome-wide CHH methylation was different for the group of accessions carrying the plastic allele. Cmt2 mutants were shown to be more tolerant to heat-stress, suggesting genetic regulation of epigenetic modifications as a likely mechanism underlying natural adaptation to variable temperatures, potentially through differential allelic plasticity to temperature-stress.\\n\\nAUTHOR SUMMARYA central problem when studying adaptation to a new environment is the interplay between genetic variation and phenotypic plasticity. Arabidopsis thaliana has colonized a wide range of habitats across the world and it is therefore an attractive model for studying the genetic mechanisms underlying environmental adaptation. Here, we study two collections of A. thaliana accessions from across Eurasia to identify loci associated with differences in climates at the sampling sites. A new genome-wide association analysis method was developed to detect adaptive loci where the alleles tolerate different climate ranges. Sixteen novel such loci were found including a strong association between Chromomethylase 2 (CMT2) and temperature seasonality. The reference allele dominated in areas with less seasonal variability in temperature, and the alternative allele existed in both stable and variable regions. Our results thus link natural variation in CMT2 and epigenetic changes to temperature adaptation. We showed experimentally that plants with a defective CMT2 gene tolerate heat-stress better than plants with a functional gene. Together this strongly suggests a role for genetic regulation of epigenetic modifications in natural adaptation to temperature and illustrates the importance of re-analyses of existing data using new analytical methods to obtain deeper insights into the underlying biology from available data.",
+    "published": "10.1371/journal.pgen.1004842",
+    "server": "biorxiv"
+  }
+]

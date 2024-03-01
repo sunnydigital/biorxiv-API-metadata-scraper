@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/005082",
+    "title": "diCal-IBD: demography-aware inference of identity-by-descent tracts in unrelated individuals",
+    "authors": "Paula Tataru;Jasmine A. Nirody;Yun S. Song;",
+    "author_corresponding": "Paula  Tataru",
+    "author_corresponding_institution": "Bioinformatics Research Centre, Aarhus University, Denmark",
+    "date": "2014-05-13",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Bioinformatics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/05/13/005082.source.xml",
+    "abstract": "Summary: We present a tool, diCal-IBD, for detecting identity-by-descent (IBD) tracts between pairs of genomic sequences. Our method builds on a recent demographic inference method based on the coalescent with recombination, and is able to incorporate demographic information as a prior. Simulation study shows that diCal-IBD has significantly higher recall and precision than that of existing IBD detection methods, while retaining reasonable accuracy for IBD tracts as small as 0.1 cM.\\n\\nAvailability: http://sourceforge.net/p/dical-ibd\\n\\nContact: yss@eecs.berkeley.edu",
+    "published": "10.1093/bioinformatics/btu563",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/005124",
+    "title": "When genomes collide: multiple modes of germline misregulation in a dysgenic syndrome of Drosophila virilis",
+    "authors": "Mauricio A. Galdos;Alexandra A. Erwin;Michelle L. Wickersheim;Chris C. Harrison;Kendra D. Marr;Justin Blumenstiel;",
+    "author_corresponding": "Justin  Blumenstiel",
+    "author_corresponding_institution": "University of Kansas",
+    "date": "2014-05-13",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by",
+    "category": "Genetics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/05/13/005124.source.xml",
+    "abstract": "In sexually reproducing species the union of gametes that are not closely related can result in genomic incompatibility. Hybrid dysgenic syndromes represent a form of genomic incompatibility that can arise when transposable element (TE) abundance differs between two parents. When TEs lacking in the female parent are transmitted paternally, a lack of corresponding silencing small RNAs (piRNAs) transmitted through the female germline can lead to TE mobilization in progeny. The epigenetic nature of this phenomenon is demonstrated by the fact that genetically identical females of the reciprocal cross are normal. Here we show that in the hybrid dysgenic syndrome of Drosophila virilis, an excess of paternally inherited TE families leads not only to increased expression of these TEs, but also coincides with derepression of TEs in equal abundance within parents. Moreover, TE derepression is stable as flies age and associated with piRNA biogenesis defects for only some TEs. At the same time, TE activation is associated with a genome wide shift in the distribution of endogenous gene expression and an increase in abundance of off-target genic piRNAs. To identify regions of the maternal genome that most protect against dysgenesis, we performed an F3 backcross analysis. We find that pericentric regions play a dominant role in maternal protection. This F3 backcross approach additionally allowed us to clarify the properties of genic paramutation in D. virilis. Overall, results support a model in which early germline events in dysgenesis establish a chronic, stable state of mis-expression that is maintained through adulthood.\\n\\nSuch early events in the germline that are mediated by parent-of-origin effects may be important in determining patterns of gene expression in natural populations.\\n\\nAuthor SummaryTransposable elements (TE) are selfish elements that code for the function of copying themselves. More than half the human genome is comprised of such elements. Studies in the fruit flies Drosophila melanogaster and D. virilis have been important in demonstrating a role for RNA silencing by piwi-interacting RNAs (piRNAs) in protecting the genome against these harmful elements. These small RNAs are capable of recognizing TE mRNAs and mediating their destruction by Argonaute proteins. They are also transmitted by the female germline to offspring in order to maintain a stable genome across generations. When males carrying a particular TE family are crossed with females lacking the element, the mother is unable to provide genome defense via complementary piRNAs that target the element. This leads to excess TE activation in the germline and sterility. This phenomenon is known as hybrid dysgenesis. In this article we characterize the genomic landscape of TE destabilization that occurs in hybrid dysgenesis in D. virilis. Previous studies had demonstrated that multiple TEs mobilized during hybrid dysgenesis. We demonstrate that this mobilization of multiple TEs is associated with activation of additional TEs in the germline. In addition, we find that TE activation leads to the production of off-target genic piRNAs that cause reduced expression of highly expressed genes. Finally, we show that genic off-target effects of piRNA silencing can contribute to parent-of-origin effects on gene expression. Similar phenomena may influence patterns of gene expression in the germline of natural populations.",
+    "published": "NA",
+    "server": "biorxiv"
+  }
+]

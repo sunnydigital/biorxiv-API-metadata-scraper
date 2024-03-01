@@ -1,0 +1,18 @@
+[
+  {
+    "doi": "10.1101/000869",
+    "title": "Virulence in a Pseudomonas syringae Strain with a Small Repertoire of Predicted Effectors",
+    "authors": "Kevin L Hockett;Marc T Nishimura;Erick Karlsrud;Kevin Dougherty;David A Baltrus;",
+    "author_corresponding": "David A Baltrus",
+    "author_corresponding_institution": "University of Arizona",
+    "date": "2013-11-23",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Microbiology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2013/11/23/000869.source.xml",
+    "abstract": "Both type III effector proteins and non-ribosomal peptide toxins play important roles for Pseudomonas syringae pathogenicity in host plants, but whether and how these virulence pathways interact to promote infection remains unclear. Genomic evidence from one clade of P. syringae suggests a tradeoff between the total number of type III effector proteins and presence of syringomycin, syringopeptin, and syringolin A toxins. Here we report the complete genome sequence from P. syringae CC1557, which contains the lowest number of known type III effectors to date and has also acquired genes similar to sequences encoding syringomycin pathways from other strains. We demonstrate that this strain is pathogenic on Nicotiana benthamiana and that both the type III secretion system and a new type III effector family, hopBJ1, contribute to virulence. We further demonstrate that virulence activity of HopBJ1 is dependent on similar catalytic sites as the E. coli CNF1 toxin. Taken together, our results provide additional support for a negative correlation between type III effector repertoires and the potential to produce syringomycin-like toxins while also highlighting how genomic synteny and bioinformatics can be used to identify and characterize novel virulence proteins.",
+    "published": "NA",
+    "server": "biorxiv"
+  }
+]

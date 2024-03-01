@@ -1,0 +1,50 @@
+[
+  {
+    "doi": "10.1101/000547",
+    "title": "Varing chemical equilibrium gives kinetic parameters",
+    "authors": "Edward Flach;Santiago Schnell;",
+    "author_corresponding": "Edward  Flach",
+    "author_corresponding_institution": "Ronin Institute",
+    "date": "2013-11-16",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by",
+    "category": "Biochemistry ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2013/11/16/000547.source.xml",
+    "abstract": "We are interested in finding the kinetic parameters of a chemical reaction. Previous methods for finding these parameters rely on the dynamic behaviour of the system. This means that the methods are time-sensitive and often rely on non-linear curve fitting.",
+    "published": "NA",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/000513",
+    "title": "Lack of evidence for the presence of an interferon in invertebrate",
+    "authors": "Pei-Hui Wang;",
+    "author_corresponding": "Pei-Hui  Wang",
+    "author_corresponding_institution": "The University of Hong Kong",
+    "date": "2013-11-16",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Immunology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2013/11/16/000513.source.xml",
+    "abstract": "In vertebrates, the interferon (IFN) response is the primary form of innate antiviral defense. Previously (2005), a partial cDNA which could encode an interferon-like protein (IntlP) is reported in shrimp, later Rosa et al. (2008) argue that this partial cDNA should encode a portion of insect mitochondrial ATP synthase (MAS) B-chain. Recently (2009), it is demonstrated IntlP also possess antibacterial activity beside antiviral activity reported before. Lacking of a consensus opinion to the question of whether this gene encodes IntlP or MAS, we try to provide more evidences to identify this gene exactly. Here we obtain the full length cDNAs of IntlP/ MAS in Litopenaeus vannamei, and perform the tissue distribution and induced expression analysis. Our results confirm that IntlP is coded by a mistaken ORF and the actual protein indeed is a L. vannamei mitochondrial ATP synthase (LvMAS) whose function is unknown in antiviral responses.",
+    "published": "NA",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/000521",
+    "title": "Pathways to social evolution: reciprocity, relatedness, and synergy",
+    "authors": "Jeremy Van Cleve;Erol Akcay;",
+    "author_corresponding": "Jeremy  Van Cleve",
+    "author_corresponding_institution": "National Evolutionary Synthesis Center",
+    "date": "2013-11-16",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Evolutionary Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2013/11/16/000521.source.xml",
+    "abstract": "Many organisms live in populations structured by space and by class, exhibit plastic responses to their social partners, and are subject to non-additive ecological and fitness effects. Social evolution theory has long recognized that all of these factors can lead to different selection pressures but has only recently attempted to synthesize how these factors interact. Using models for both discrete and continuous phenotypes, we show that analyzing these factors in a consistent framework reveals that they interact with one another in ways previously overlooked. Specifically, behavioral responses (reciprocity), genetic relatedness, and synergy interact in non-trivial ways that cannot be easily captured by simple summary indices of assortment. We demonstrate the importance of these interactions by showing how they have been neglected in previous synthetic models of social behavior both within and between species. These interactions also affect the level of behavioral responses that can evolve in the long run; proximate biological mechanisms are evolutionarily stable when they generate enough responsiveness relative to the level of responsiveness that exactly balances the ecological costs and benefits. Given the richness of social behavior across taxa, these interactions should be a boon for empirical research as they are likely crucial for describing the complex relationship linking ecology, demography, and social behavior.",
+    "published": "10.1111/evo.12438",
+    "server": "biorxiv"
+  }
+]

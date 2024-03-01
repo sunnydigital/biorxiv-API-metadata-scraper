@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/2021.02.09.430520",
+    "title": "The seasonal dynamics of bud dormancy in grapevine suggest a regulated checkpoint prior to acclimation",
+    "authors": "Velappan, Y.; Chabikwa, T. G.; Considine, J. A.; Agudelo-Romero, P.; Foyer, C. H.; Signorelli, S.; Considine, M. J.",
+    "author_corresponding": "Michael J  Considine",
+    "author_corresponding_institution": "The University of Western Australia",
+    "date": "2021-02-10",
+    "version": "1",
+    "type": "new results",
+    "license": "",
+    "category": "plant biology",
+    "jatsxml": "https://www.biorxiv.org/content/early/2021/02/10/2021.02.09.430520.source.xml",
+    "abstract": "Grapevine (Vitis vinifera L.) displays wide plasticity to climate and seasonality, ranging from strongly deciduous to evergreen. Understanding the physiology of decisions to grow or quiesce is critical for improved crop management, prediction, and the adaptability of production to alternative climate scenarios. The perenniating bud (N+2) is a major economic unit and focus of study. Here we investigated the physiology and transcriptome of cv. Merlot buds grown in a temperate maritime climate from summer to spring in two consecutive years. The changes in bud respiration, hydration and internal tissue oxygen data were consistent with the transcriptome data. ABA-responsive gene processes prevailed upon the transition to a deep metabolic and cellular quiescence in the bud during autumn. Light, together with hypoxia and redox signalling presided over the resumption of nuclear and cellular growth in the transition to spring. Comparisons with transcriptome data from bud burst studies revealed a number of regulatory candidates for the orderly resumption of growth in spring, including components that may integrate light and temperature signalling. Importantly however, the bud burst forcing data, which is widely used as a measure of bud dormancy, were not consistent with the physiological and transcription data. We hypothesise the existence of a physiological checkpoint following bud set in summer, which if not met results in extreme quiescence. Collectively this is the most integrated developmental dataset of the latent bud of cultivated grapevine, and establishes a platform for systems approaches to study seasonal plasticity.\n\nOne sentence summaryPhysiology and transcriptome data provide strong evidence of a regulatory checkpoint prior to acclimation and dormancy in latent grapevine buds.",
+    "published": "NA",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/2021.02.09.430553",
+    "title": "An integrated strategy reveals complex glycosylation of erythropoietin using top-down and bottom-up mass spectrometry",
+    "authors": "Guan, Y.; Zhang, M.; Gaikwad, M.; Voss, H.; Fazel, R.; Ansari, S.; Shen, H.; Wang, J.; Hartmut, S.",
+    "author_corresponding": "Schlueter  Hartmut",
+    "author_corresponding_institution": "University Medical Center Hamburg-Eppendorf",
+    "date": "2021-02-10",
+    "version": "1",
+    "type": "new results",
+    "license": "",
+    "category": "biochemistry",
+    "jatsxml": "https://www.biorxiv.org/content/early/2021/02/10/2021.02.09.430553.source.xml",
+    "abstract": "The characterization of glycoproteins, like erythropoietin, is challenging due to the structural micro- and macro-heterogeneity of the protein glycosylation. This study presents an in-depth strategy for glycosylation analysis of a first-generation erythropoietin (epoetin beta), including a developed top-down mass spectrometric workflow for N-glycan analysis, bottom-up mass spectrometric methods for site-specific N-glycosylation and a LC-MS approach for O-glycan identification. Permethylated N-glycans, peptides and enriched glycopeptides of erythropoietin were analyzed by nanoLC-MS/MS and de-N-glycosylated erythropoietin was measured by LC-MS, enabling the qualitative and quantitative analysis of glycosylation and different glycan modifications (e.g., phosphorylation and O-acetylation). Extending the coverage of our newly developed Python script to phosphorylated N-glycans enabled the identification of 140 N-glycan compositions (237 N-glycan structures) from erythropoietin. The site-specificity of N-glycans was revealed at glycopeptide level by pGlyco software using different proteases. In total, 215 N-glycan compositions were identified from N-glycan and glycopeptide analysis. Moreover, LC-MS analysis of de-N-glycosylated erythropoietin species identified two different O-glycan compositions, based on the mass shifts between non-O-glycosylated and O-glycosylated species. This integrated strategy allows the in-depth glycosylation analysis of a therapeutic glycoprotein to understand its pharmacological properties and improving the manufacturing processes.",
+    "published": "10.1021/acs.jproteome.1c00221",
+    "server": "biorxiv"
+  }
+]

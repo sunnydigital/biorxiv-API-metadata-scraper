@@ -1,0 +1,50 @@
+[
+  {
+    "doi": "10.1101/000786",
+    "title": "Cycling Physicochemical Gradients as \u2018Evolutionary Drivers\u2019: From Complex Matter to Complex Living States",
+    "authors": "Jan Spitzer;",
+    "author_corresponding": "Jan  Spitzer",
+    "author_corresponding_institution": "MCP Inc",
+    "date": "2013-11-20",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Biophysics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2013/11/20/000786.source.xml",
+    "abstract": "HighlightsO_LIBiological complexity cannot be reduced to chemistry and physics\\nC_LIO_LIComplex living states are: multicomponent, multiphase,  crowded, and re-emergent\\nC_LIO_LILiving states arise naturally only by the action of cycling physicochemical gradients\\nC_LIO_LIBacterial cells can be modeled as viscoelastic capacitors with sol-gel transitions\\nC_LIO_LIEvolving living states can be investigated via  biotic soup experimentation\\nC_LIO_LIDarwinian evolution arises from the process errors of the cell cycle\\nC_LIO_LISynthetic biology heralds the transition from unintentional Darwinian evolution to intentional anthropic evolution\\nC_LI\\n\\nAbstractWithin the overlap of physics, chemistry and biology, complex matter becomes  more deeply understood when high level mathematics converts regularities of experimental data into scientific laws, theories, and models (Krakauer et al., 2011. The challenges and scope of theoretical biology. J. Theoret. Biol. 276: 269-276). The simplest kinds of complex biological matter are bacterial cells; they appear complex-from a physicochemical standpoint-because they are multicomponent, multiphase, biomacromolecularly crowded, and re-emergent; the property of re-emergence differentiates biological matter from complex chemical and physical matter.\\n\\nBacterial cells cannot self-reassemble spontaneously from their biomolecules and biomacromolecules (via non-covalent molecular forces) without the action of external  drivers; on Earth, such drivers have been diurnal (cycling) physicochemical gradients, i.e. temperature, water activity, etc. brought about by solar radiation striking the Earths rotating surface. About 3.5 billion years ago, these cycling gradients drove complex chemical  prebiotic soups toward progenotic living states from which extant bacteria evolved (Spitzer and Poolman, 2009; The role of biomacromolecular crowding, ionic strength and physicochemical gradients in the complexities of lifes emergence. Microbiol. Mol. Biol. Revs. 73:371-388). Thus there is historical non-equilibrium continuity between complex  dead chemical matter and complex living states of bacterial cells. This historical continuity becomes accessible to present-day experimentation, when cycling physicochemical gradients act on  dead biomacromolecules obtained from (suitably) killed bacterial populations - on a  biotic soup of chemicals (Harold, 2005, Molecules into cells: specifying spatial architecture. Microbiol. Mol. Biol. Rev. 69:544-564). The making of biotic soups and recovering living states from them is briefly discussed in terms of novel concepts and experimental possibilities.\\n\\nIn principle, emergent living states contingently arise and evolve when cycling physicochemical gradients continuously act on complex chemical mass; once living states become dynamically stabilized, the inevitable process errors of  primitive cell cycles become the roots of Darwinian evolution.",
+    "published": "NA",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/000745",
+    "title": "ROS accumulation in cotton ovule epidermal cells is necessary for fiber initiation",
+    "authors": "mingxiong pang;Nickolas Sanford;Thea Wilkins;",
+    "author_corresponding": "mingxiong  pang",
+    "author_corresponding_institution": "Texas Tech University",
+    "date": "2013-11-20",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Plant Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2013/11/20/000745.source.xml",
+    "abstract": "Cotton (Gossypium hirsutum) fiber, an extremely elongated and thickened single cell of the seed epidermis, is the worlds most important natural and economical textile fiber. Unlike Arabidopsis leaf trichomes, fiber initials are randomly developed and frequently form in adjacent seed epidermal cells and follow no apparent pattern. Numerous publications suggested cotton fiber development shares a similar mechanism with Arabidopsis leaf trichome development. Here we show that H2O2 accumulation in cotton ovule epidermal cells by NBT staining ovules at different development stages between TM1 and N1n2, a lintless-fuzzless doubled mutant originated from TM1. In contrast, Arabidopsis and cotton leaf trichomes do not show H2O2 content. By adding DPI (H2O2 inhibitor) and SHAM (H2O2 activator) in vitro ovule cultures, we show fiber initiation directly involves with H2O2 accumulation. We propose that the directional accumulation of H2O2 in cotton ovule epidermal cell is the drive for fiber initiation, elongation.",
+    "published": "NA",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/000778",
+    "title": "Quantifying the turnover of transcriptional subclasses of HIV-1-infected cells",
+    "authors": "Christian L Althaus;Beda Joos;Alan S Perelson;Huldrych F G\u00fcnthard;",
+    "author_corresponding": "Christian L Althaus",
+    "author_corresponding_institution": "University of Bern",
+    "date": "2013-11-20",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Systems Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2013/11/20/000778.source.xml",
+    "abstract": "HIV-1-infected cells in peripheral blood can be grouped into different transcriptional subclasses. Quantifying the turnover of these cellular subclasses can provide important insights into the viral life cycle and the generation and maintenance of latently infected cells. We used previously published data from five patients chronically infected with HIV-1 that initiated combination antiretroviral therapy (cART). Patient-matched PCR for unspliced and multiply spliced viral RNAs combined with limiting dilution analysis provided measurements of transcriptional profiles at the single cell level. Furthermore, measurement of intracellular transcripts and extracellular virion-enclosed HIV-1 RNA allowed us to distinguish productive from non-productive cells. We developed a mathematical model describing the dynamics of plasma virus and the transcriptional subclasses of HIV-1-infected cells. Fitting the model to the data allowed us to better understand the phenotype of different transcriptional subclasses and their contribution to the overall turnover of HIV-1 before and during cART. The average number of virus-producing cells in peripheral blood is small during chronic infection (25.7 cells ml-1). We find that 14.0%, 0.3% and 21.2% of infected cells become defectively, latently and persistently infected cells, respectively. Assuming that the infection is homogenous throughout the body, we estimate an average in vivo viral burst size of 2.1 x 104 virions per cell. Our study provides novel quantitative insights into the turnover and development of different subclasses of HIV-1-infected cells. The model predicts that the pool of latently infected cells becomes rapidly established during the first months of acute infection and continues to increase slowly during the first years of chronic infection. Having a detailed understanding of this process will be useful for the evaluation of viral eradication strategies that aim to deplete the latent reservoir of HIV-1.\\n\\nAuthor SummaryGaining a quantitative understanding of the development and turnover of different HIV-1-infected subpopulations of cells is crucial to improve the outcome of patients on combination antiretroviral therapy (cART). The population of latently infected cells is of particular interest as they represent the major barrier to a cure of HIV-1 infection. We developed a mathematical model that describes the dynamics of different transcriptionally active subclasses of HIV-1-infected cells and the viral load in peripheral blood. The model was fitted to previously published data from five chronically HIV-1-infected patients starting cART. This allowed us to estimate critical parameters of the within-host dynamics of HIV-1, such as the the number of virions produced by a single infected cell. The model further allowed investigation of HIV-1 dynamics during the acute phase. Computer simulations predict that latently infected cells become rapidly established during the first months of acute infection and continue to increase slowly during the first years of chronic infection. This illustrates the opportunity for strategies that aim to eradicate the virus during early cART as the pool of HIV-1 infected cells is substantially smaller during acute infection than during chronic infection.",
+    "published": "10.1371/journal.pcbi.1003871",
+    "server": "biorxiv"
+  }
+]

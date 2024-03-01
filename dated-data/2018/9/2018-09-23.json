@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/425033",
+    "title": "Covariate Assisted Principal Regression for Covariance Matrix Outcomes",
+    "authors": "Zhao, Y.; Wang, B.; Mostofsky, S.; Caffo, B.; Luo, X.",
+    "author_corresponding": "Yi  Zhao",
+    "author_corresponding_institution": "Johns Hopkins Bloomberg School of Public Health",
+    "date": "2018-09-23",
+    "version": "1",
+    "type": "new results",
+    "license": "cc_no",
+    "category": "neuroscience",
+    "jatsxml": "https://www.biorxiv.org/content/early/2018/09/23/425033.source.xml",
+    "abstract": "Modeling variances in data has been an important topic in many fields, including in financial and neuroimaging analysis. We consider the problem of regressing covariance matrices on a vector covariates, collected from each observational unit. The main aim is to uncover the variation in the covariance matrices across units that are explained by the covariates. This paper introduces Covariate Assisted Principal (CAP) regression, an optimization-based method for identifying the components predicted by (generalized) linear models of the covariates. We develop computationally efficient algorithms to jointly search the projection directions and regression coefficients, and we establish the asymptotic properties. Using extensive simulation studies, our method shows higher accuracy and robustness in coefficient estimation than competing methods. Applied to a resting-state functional magnetic resonance imaging study, our approach identifies the human brain network changes associated with age and sex.",
+    "published": "10.1093/biostatistics/kxz057",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/423921",
+    "title": "Modeling neuronal avalanches and long-range temporal correlations at the emergence of collective oscillations: continuously varying exponents mimic M/EEG results",
+    "authors": "Dalla Porta, L.; Copelli, M.",
+    "author_corresponding": "Mauro  Copelli",
+    "author_corresponding_institution": "Universidade Federal de Pernambuco (UFPE)",
+    "date": "2018-09-23",
+    "version": "1",
+    "type": "new results",
+    "license": "cc_by_nc_nd",
+    "category": "neuroscience",
+    "jatsxml": "https://www.biorxiv.org/content/early/2018/09/23/423921.source.xml",
+    "abstract": "We revisit the CROS (\\\"CRitical OScillations\\\") model which was recently proposed as an attempt to reproduce both scale-invariant neuronal avalanches and long-range time correlations. With excitatory and inhibitory stochastic neurons locally connected in a two-dimensional disordered network, the model exhibits a transition from an active to an oscillating state. Precisely at the transition, the fluctuations of the network activity have detrended fluctuation analysis (DFA) exponents close to one, and avalanches (defined as supra-threshold activity) have power law distributions of size and duration. By simulating larger system sizes, we show that, differently from previous results, the exponents governing the distributions of avalanche size and duration are not necessarily those of the mean-field directed percolation universality class (3/2 and 2, respectively). Instead, exponents obtained via a maximum-likelihood estimator vary continuously in a narrow region of parameter space. Around that critical region, moreover, the values of avalanche and DFA exponents display a spread with negative correlations, in qualitative agreement with the interindividual variability that was experimentally observed in M/EEG data.",
+    "published": "10.1371/journal.pcbi.1006924",
+    "server": "biorxiv"
+  }
+]

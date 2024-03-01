@@ -1,0 +1,50 @@
+[
+  {
+    "doi": "10.1101/023200",
+    "title": "Dendrites enable a robust mechanism for neuronal stimulus selectivity",
+    "authors": "Romain D. Caz\u00e9;Sarah Jarvis;Amanda Joy Foust;Simon R Schultz;",
+    "author_corresponding": "Romain D. Caz\u00e9",
+    "author_corresponding_institution": "Center for Neurotechnology and Dept. of Bioengineering, Imperial College London",
+    "date": "2015-12-12",
+    "version": "3",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Neuroscience ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/12/12/023200.source.xml",
+    "abstract": "Hearing, vision, touch -- underlying all of these senses is stimulus selectivity, a robust information processing operation in which cortical neurons respond more to some stimuli than to others. Previous models assume that these neurons receive the highest weighted input from an ensemble encoding the preferred stimulus, but dendrites enable other possibilities. Non-linear dendritic processing can produce stimulus selectivity based on the spatial distribution of synapses, even if the total preferred stimulus weight does not exceed that of non-preferred stimuli. Using a multi-subunit non-linear model, we demonstrate that selectivity can arise from the spatial distribution of synapses. Moreover, we show that this implementation of stimulus selectivity increases the neuron's robustness to synaptic and dendritic failure. Contrary to an equivalent linear model, our model can maintain stimulus selectivity even when 50% of synapses fail or when more than 50% of dendrites fail. We then use a Layer 2/3 biophysical neuron model to show that our implementation is consistent with recent experimental observations, of a mixture of selectivities in dendrites, that can differ from the somatic selectivity, and of hyperpolarization broadening somatic tuning without affecting dendritic tuning. Our model predicts that an initially non-selective neuron can become selective when depolarized. In addition to motivating new experiments, the model's increased robustness to synapses and dendrites loss provides a starting point for fault-resistant neuromorphic chip development.",
+    "published": "10.1162/NECO_a_00989",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/030676",
+    "title": "Dynamic stem cell states: naive to primed pluripotency in rodents and humans",
+    "authors": "Leehee Weinberger;Muneef Ayyash;Noa Novershtern;Jacob H. Hanna;",
+    "author_corresponding": "Jacob H.  Hanna",
+    "author_corresponding_institution": "Weizmann Institute of Science",
+    "date": "2015-12-12",
+    "version": "2",
+    "type": "Confirmatory Results",
+    "license": "cc_by_nc_nd",
+    "category": "Developmental Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/12/12/030676.source.xml",
+    "abstract": "PrefaceThe molecular mechanisms and signalling pathways that regulate the in vitro preservation of distinct pluripotent stem cell configurations, and their induction in somatic cells via direct reprogramming approaches, continue to constitute a highly exciting area of research. In this review, we provide an integrative synthesis on recent discoveries related to isolating unique naive and primed pluripotent stem cell states with altered functional and molecular characteristics, and from different species. We overview pathways underlying pluripotent state transitions and interconversion in vitro and in vivo. We conclude by highlighting unresolved key questions, future directions and potential novel applications of such dynamic pluripotent cell states.",
+    "published": "10.1038/nrm.2015.28",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/034223",
+    "title": "Structural specialities, curiosities and record-breaking features of crustacean reproduction",
+    "authors": "G\u00fcnter Vogt;",
+    "author_corresponding": "G\u00fcnter  Vogt",
+    "author_corresponding_institution": "University of Heidelberg",
+    "date": "2015-12-12",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Zoology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/12/12/034223.source.xml",
+    "abstract": "Crustaceans are a morphologically, physiologically and ecologically highly diverse animal group and correspondingly diverse are their reproductive characteristics. They have evolved structural specialities with respect to penis construction, sperm form, sperm storage, fertilization and brood care. Unique in the animal kingdom are safety lines that safeguard hatching and first molting. Further curiosities are dwarf males in parasitic and sessile taxa and bacteria-induced gigantism and infectious feminization in crustacean hosts. Record-breaking features in animals are relative penis length, clutch size, sperm size, chromosome number, viability of resting eggs, and fossil ages of penis, sperm and brooded embryos. These reproductive peculiarities are reviewed and their implication for basic and applied biology is discussed, including the early evolution and diversification of brood care in arthropods, sperm competition and assurance of paternity, posthumous paternity and sustainable male-based fishery, and ecotype changes by man-made pollution.",
+    "published": "10.1002/jmor.20582",
+    "server": "biorxiv"
+  }
+]

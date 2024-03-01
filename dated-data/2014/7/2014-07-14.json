@@ -1,0 +1,50 @@
+[
+  {
+    "doi": "10.1101/006817",
+    "title": "A solution to the biodiversity paradox by logical deterministic cellular automata",
+    "authors": "Lev V. Kalmykov;Vyacheslav L. Kalmykov;",
+    "author_corresponding": "Vyacheslav L. Kalmykov",
+    "author_corresponding_institution": "Institute of Cell Biophysics, Russian Academy of Sciences",
+    "date": "2014-07-14",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Ecology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/07/14/006817.source.xml",
+    "abstract": "The paradox of biological diversity is the key problem of theoretical ecology. The paradox consists in the contradiction between the competitive exclusion principle and the observed biodiversity. This principle was formulated incorrectly because of limitations of the traditional black-box models of interspecific competition. The principle is very important as the basis for understanding evolutionary processes. Our white-box multiscale models are based on logical deterministic individual-based cellular automata. This approach allows to provide an automatic deductive inference on the basis of a system of axioms and to get a direct holistic insight into the studied system. It is one of the most promising methods of artificial intelligence. Here on simplest models we show a mechanism of competitive coexistence which violates the known formulations of the competitive exclusion principle. We reformulate and generalize the competitive exclusion principle and explain why our formulations provide a solution of the biodiversity paradox. In addition, we propose a principle of competitive coexistence.\\n\\nGraphical abstract\\n\\nO_FIG O_LINKSMALLFIG WIDTH=200 HEIGHT=88 SRC=\\\"FIGDIR/small/006817_ufig1.gif\\\" ALT=\\\"Figure 1000\\\">\\nView larger version (21K):\\norg.highwire.dtl.DTLVardef@17f69c5org.highwire.dtl.DTLVardef@1f91196org.highwire.dtl.DTLVardef@f1ce70org.highwire.dtl.DTLVardef@12829e8_HPS_FORMAT_FIGEXP  M_FIG C_FIG",
+    "published": "10.1007/s10441-015-9257-9",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/007088",
+    "title": "Benchmark Analysis of Algorithms for Determining and Quantifying Full-length mRNA Splice Forms from RNA-Seq Data",
+    "authors": "Katharina Hayer;Angel Pizzaro;Nicholas L Lahens;John B Hogenesch;Gregory R Grant;",
+    "author_corresponding": "Gregory R Grant",
+    "author_corresponding_institution": "University of Pennsylvania, Dept. of Genetics",
+    "date": "2014-07-14",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Bioinformatics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/07/14/007088.source.xml",
+    "abstract": "The advantages of RNA sequencing (RNA-Seq) suggest it will replace microarrays for highly parallel gene expression analysis. For example, in contrast to arrays, RNA-Seq is expected to be able to provide accurate identification and quantification of full-length transcripts. A number of methods have been developed for this purpose, but short error prone reads makes it a difficult problem in practice. It is essential to determine which algorithms perform best, and where and why they fail. However, there is a dearth of independent and unbiased benchmarking studies of these algorithms. Here we take an approach using both simulated and experimental benchmark data to evaluate their accuracy. We conclude that most methods are inaccurate even using idealized data, and that no is method sufficiently accurate once complicating factors such as polymorphisms, intron signal, sequencing error, and multiple splice forms are present. These results point to the pressing need for further algorithm development.",
+    "published": "10.1093/bioinformatics/btv488",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/007096",
+    "title": "Stress-Induced Mutagenesis and Complex Adaptation",
+    "authors": "Yoav Ram;Lilach Hadany;",
+    "author_corresponding": "Lilach  Hadany",
+    "author_corresponding_institution": "Tel-Aviv University",
+    "date": "2014-07-14",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Evolutionary Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/07/14/007096.source.xml",
+    "abstract": "Because mutations are mostly deleterious, mutation rates should be reduced by natural selection. However, mutations also provide the raw material for adaptation. Therefore, evolutionary theory suggests that the mutation rate must balance between adaptability - the ability to adapt - and adaptedness - the ability to remain adapted. We model an asexual population crossing a fitness valley and analyze the rate of complex adaptation with and without stress-induced mutagenesis - the increase of mutation rates in response to stress or maladaptation. We show that stress-induced mutagenesis increases the rate of complex adaptation without reducing the population mean fitness, thus breaking the evolutionary trade-off between adaptability and adaptedness. Our theoretical results support the hypothesis that stress-induced mutagenesis promotes adaptation and provide quantitative predictions of the rate of complex adaptation with different mutational strategies.",
+    "published": "10.1098/rspb.2014.1025",
+    "server": "biorxiv"
+  }
+]

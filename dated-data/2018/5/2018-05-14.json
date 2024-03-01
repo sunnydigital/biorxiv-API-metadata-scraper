@@ -1,0 +1,18 @@
+[
+  {
+    "doi": "10.1101/322487",
+    "title": "C. elegans germ cells divide and differentiate along a folded epithelium",
+    "authors": "Seidel, H. S.; Smith, T. A.; Evans, J. K.; Stamper, J. Q.; Mast, T. G.; Kimble, J.",
+    "author_corresponding": "Hannah S Seidel",
+    "author_corresponding_institution": "Eastern Michigan University",
+    "date": "2018-05-14",
+    "version": "1",
+    "type": "new results",
+    "license": "cc_by",
+    "category": "developmental biology",
+    "jatsxml": "https://www.biorxiv.org/content/early/2018/05/14/322487.source.xml",
+    "abstract": "Knowing how stem cells and their progeny are positioned within their tissues is essential for understanding their regulation. One paradigm for stem cell regulation is the C. elegans germline, which is maintained by a pool of germline stem cells in the distal gonad, in a region known as the  progenitor zone. The C. elegans germline is widely used as a stem cell model, but the cellular architecture of the progenitor zone has been unclear. Here we characterize this architecture by creating virtual 3D models of the progenitor zone in both sexes. We show that the progenitor zone in adult hermaphrodites is essentially a folded epithelium. The progenitor zone in males is not folded. Analysis of germ cell division shows that daughter cells are born side-by-side along the surface of the epithelium. Analysis of a key regulator driving differentiation, GLD-1, shows that germ cells in hermaphrodites differentiate along the path of the folded epithelium, with previously described \\\"steps\\\" in GLD-1 expression corresponding to germline folds. Our study provides a three-dimensional view of how C. elegans germ cells progress from stem cell to overt differentiation, with critical implications for regulators driving this transition.",
+    "published": "10.1016/j.ydbio.2018.07.013",
+    "server": "biorxiv"
+  }
+]

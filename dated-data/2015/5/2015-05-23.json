@@ -1,0 +1,18 @@
+[
+  {
+    "doi": "10.1101/019521",
+    "title": "RUST FUNGAL EFFECTORS MIMIC HOST TRANSIT PEPTIDES TO TRANSLOCATE INTO CHLOROPLASTS",
+    "authors": "Benjamin Petre;C\u00e9cile Lorrain;Diane Saunders;S\u00e9bastien Duplessis;Sophien Kamoun;",
+    "author_corresponding": "Sophien  Kamoun",
+    "author_corresponding_institution": "The Sainsbury Laboratory",
+    "date": "2015-05-23",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Plant Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/05/23/019521.source.xml",
+    "abstract": "Parasite effector proteins target various host cell compartments to alter host processes and promote infection. How effectors cross membrane-rich interfaces to reach these compartments is a major question in effector biology. Growing evidence suggests that effectors use molecular mimicry to subvert host cell machinery for protein sorting. We recently identified CTP1 (chloroplast-targeted protein 1), a candidate effector from the poplar leaf rust fungus Melampsora larici-populina that carries a predicted transit peptide and accumulates in chloroplasts. Here, we show that the CTP1 transit peptide is necessary and sufficient for accumulation in the stroma of chloroplasts, and is cleaved after translocation. CTP1 is part of a Melampsora-specific family of polymorphic secreted proteins whose members translocate and are processed in chloroplasts in a N-terminal signal-dependent manner. Our findings reveal that fungi have evolved effector proteins that mimic plant-specific sorting signals to traffic within plant cells.",
+    "published": "10.1111/cmi.12530",
+    "server": "biorxiv"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "doi": "10.1101/033175",
+    "title": "The role of deleterious substitutions in crop genomes",
+    "authors": "Thomas J Y Kono;Fengli Fu;Mohsen Mohammadi;Paul J Hoffman;Chaochih Liu;Robert M Stupar;Kevin P Smith;Peter Tiffin;Justin C Fay;Peter L Morrell;",
+    "author_corresponding": "Peter L Morrell",
+    "author_corresponding_institution": "Department of Agronomy & Plant Genetics",
+    "date": "2015-11-28",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Genetics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/11/28/033175.source.xml",
+    "abstract": "Populations continually incur new mutations with fitness effects ranging from lethal to adaptive. While the distribution of fitness effects (DFE) of new mutations is not directly observable, many mutations likely have either no effect on organismal fitness or are deleterious. Historically, it has been hypothesized that a population may carry many mildly deleterious variants as segregating variation, which reduces the mean absolute fitness of the population. Recent advances in sequencing technology and sequence conservation-based metrics for inferring the functional effect of a variant permit examination of the persistence of deleterious variants in populations. The issue of segregating deleterious variation is particularly important for crop improvement, because the demographic history of domestication and breeding allows deleterious variants to persist and reach moderate frequency, potentially reducing crop productivity. In this study, we use exome resequencing of fifteen barley accessions and genome resequencing of eight soybean accessions to investigate the prevalence of deleterious SNPs in the protein-coding regions of the genomes of two crops. We conclude that individual cultivars carry hundreds of deleterious SNPs on average, and that nonsense variants make up a minority of deleterious SNPs. Our approach annotates known phenotype-altering variants as deleterious more frequently than the genome-wide average, suggesting that putatively deleterious variants are likely to affect phenotypic variation. We also report the implementation of a SNP annotation tool (BAD_Mutations) that makes use of a likelihood ratio test based on alignment of all currently publicly available Angiosperm genomes.",
+    "published": "10.1093/molbev/msw102",
+    "server": "biorxiv"
+  }
+]

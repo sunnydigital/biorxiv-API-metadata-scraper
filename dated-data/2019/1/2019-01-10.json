@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/517433",
+    "title": "Diversity, biogeography, and evidence for endemism of SAR11 bacteria from the Arctic Ocean",
+    "authors": "Kraemer, S.; Ramachandran, A.; Colatriano, D.; Lovejoy, C.; Walsh, D.",
+    "author_corresponding": "David  Walsh",
+    "author_corresponding_institution": "Concordia University",
+    "date": "2019-01-10",
+    "version": "1",
+    "type": "new results",
+    "license": "cc_by_nc_nd",
+    "category": "microbiology",
+    "jatsxml": "https://www.biorxiv.org/content/early/2019/01/10/517433.source.xml",
+    "abstract": "The Arctic Ocean is relatively isolated from other oceans and consists of strongly stratified water masses with distinct histories, nutrient, temperature and salinity characteristics, therefore providing an optimal environment to investigate local adaptation. The globally distributed SAR11 bacterial group consists of multiple ecotypes that are associated with particular marine environments, yet relatively little is known about Arctic SAR11 diversity. Here, we examined SAR11 diversity using ITS analysis and metagenome-assembled genomes (MAGs). Arctic SAR11 assemblages were comprised of the S1a, S1b, S2, and S3 clades, and structured by water mass and depth. The fresher surface layer was dominated by an ecotype (S3-derived P3.2) previously associated with Arctic and brackish water. In contrast, deeper waters of Pacific origin were dominated by the P2.3 ecotype of the S2 clade, within which we identified a novel subdivision (P2.3s1) that was rare outside the Arctic Ocean. Arctic S2-derived SAR11 MAGs were restricted to high latitudes and included MAGs related to the recently defined S2b subclade, a finding consistent with bi-polar ecotypes and Arctic endemism. These results place the stratified Arctic Ocean into the SAR11 global biogeography and have identified SAR11 lineages for future investigation of adaptive evolution in the Arctic Ocean.",
+    "published": "10.1038/s41396-019-0499-4",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/517284",
+    "title": "Dissociable electrophysiological correlates of semantic access of motor and non-motor concepts",
+    "authors": "Sokoliuk, R.; Calzolari, S.; Cruse, D.",
+    "author_corresponding": "Rodika  Sokoliuk",
+    "author_corresponding_institution": "University of Birmingham",
+    "date": "2019-01-10",
+    "version": "1",
+    "type": "new results",
+    "license": "cc_by_nc_nd",
+    "category": "neuroscience",
+    "jatsxml": "https://www.biorxiv.org/content/early/2019/01/10/517284.source.xml",
+    "abstract": "The notion of semantic embodiment posits that concepts are represented in the same neural sensorimotor systems that were involved in their acquisition. However, evidence in support of embodied semantics - in particular the hypothesised contribution of motor and premotor cortex to the representation of action concepts - is varied. Here, we tested the hypothesis that, consistent with semantic embodiment, sensorimotor cortices will rapidly become active while healthy participants access the meaning of visually-presented motor and non-motor action verbs. Event-related potentials revealed early differential processing of motor and non-motor verbs (164-203ms) within distinct regions of cortex likely reflecting rapid cortical activation of differentially distributed semantic representations. However, we found no evidence for a specific role of sensorimotor cortices in supporting these representations. Moreover, we observed a later modulation of the alpha band (8-12Hz) from 555-785ms over central electrodes, with estimated generators within the left superior parietal lobule, which may reflect post-lexical activation of the object-directed features of the motor action concepts. In conclusion, we find no evidence for a specific role of sensorimotor cortices when healthy participants judge the meaning of visually-presented action verbs. However, the relative contribution of sensorimotor cortices to action comprehension may vary as a function of task goals.",
+    "published": "10.1038/s41598-019-47835-9",
+    "server": "biorxiv"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/035519",
+    "title": "Hilbert-Schmidt and Sobol sensitivity indices for static and time series Wnt signaling measurements in colorectal cancer - Part A",
+    "authors": "shriprakash sinha;",
+    "author_corresponding": "shriprakash  sinha",
+    "author_corresponding_institution": "-",
+    "date": "2016-02-20",
+    "version": "8",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Systems Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2016/02/20/035519.source.xml",
+    "abstract": "Ever since the accidental discovery of Wingless [Sharma R.P., Drosophila information service, 1973, 50, p 134], research in the field of Wnt signaling pathway has taken significant strides in wet lab experiments and various cancer clinical trials augmented by recent developments in advanced computational modeling of the pathway. Information rich gene expression profiles reveal various aspects of the signaling pathway at work and help in studying different issues simultaneously. Hitherto, not many computational studies exist which incorporate the simultaneous study of these issues. This manuscript is an endeavour to * explore the strength of contributing factors in the signaling pathway, * analyze the existing causal relations among the inter/extracellular factors effecting the pathway based on prior biological knowledge and * investigate the deviations in fold changes in the recently found prevalence of psychophysical laws working in the pathway. To achieve this goal, local and global sensitivity analysis is conducted on the (non)linear responses between the factors obtained from static and time series expression profiles using the density (Hilbert-Schmidt Information Criterion) and variance (Sobol) based sensitivity indices. The results show the superiority of the density based indices in comparison to the use of variance based indices mainly due to the former's employment of distance measures using the kernel trick via Reproducing kernel Hilbert space (RKHS) that capture nonlinear relations among various intra/extracellular factors of the pathway in a higher dimensional space. In time series data, using these indices it is now possible to observe where in time, which factors get influenced & contribute to the pathway, as changes in concentration of the other factors are made. This synergy of prior biological knowledge, sensitivity analysis and representations in higher dimensional spaces can facilitate in time based administration of target therapeutic drugs and reveal hidden biological information within colorectal cancer samples. Code has been made available at Google drive on https://drive.google.com/folderview?id=0B7Kkv8wlhPU-Q2NBZGt1ZERrSVE&usp=sharing",
+    "published": "10.1186/s12918-017-0488-z",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/039933",
+    "title": "Aging shapes the population-mean and -dispersion of gene expression in human brains",
+    "authors": "Candice L Brinkmeyer-Langford;Jinting Guan;Guoli Ji;James J Cai;",
+    "author_corresponding": "James J Cai",
+    "author_corresponding_institution": "Texas A&M University",
+    "date": "2016-02-20",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Genetics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2016/02/20/039933.source.xml",
+    "abstract": "Human aging is associated with cognitive decline and an increased risk of neurodegenerative disease. Our objective for this study was to evaluate potential relationships between age and variation in gene expression across different regions of the brain. We analyzed the Genotype-Tissue Expression (GTEx) data from 54 and 101 tissue samples across 13 brain regions in post-mortem donors of European descent aged between 20 and 70 years at death. After accounting for the effects of covariates and hidden confounding factors, we identified 1,446 protein-coding genes whose expression in one or more brain regions is correlated with chronological age at a false discovery rate of 5%. These genes are involved in various biological processes including apoptosis, mRNA splicing, amino acid biosynthesis, and neurotransmitter transport. The distribution of these genes among brain regions is uneven, suggesting variable regional responses to aging. We also found that the aging response of many genes, e.g., TP37 and C1QA, depends on individuals genotypic backgrounds. Finally, using dispersion-specific analysis, we identified genes such as IL7R, MS4A4E, and TERF1/TERF2 whose expressions are differentially dispersed by aging, i.e., variances differ between age groups. Our results demonstrate that age-related gene expression is brain region-specific, genotype-dependent, and associated with both mean and dispersion changes. Our findings provide a foundation for more sophisticated gene expression modeling in the studies of age-related neurodegenerative diseases.",
+    "published": "10.3389/fnagi.2016.00183",
+    "server": "biorxiv"
+  }
+]

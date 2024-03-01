@@ -1,0 +1,50 @@
+[
+  {
+    "doi": "10.1101/004820",
+    "title": "Some plants don&amp;#146;t play games: An ideal free distribution explains the root production of plants that do not engage in a tragedy of the commons game.",
+    "authors": "Gordon McNickle;Joel S Brown;",
+    "author_corresponding": "Gordon  McNickle",
+    "author_corresponding_institution": "Wilfrid Laurier University",
+    "date": "2014-05-07",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Ecology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/05/07/004820.source.xml",
+    "abstract": "This is the pre-peer-reviewed version of the following article: G.G. McNickle and J.S. Brown. (2014) An ideal free distribution explains the root production of plants that do not engage in a tragedy of the commons game. Journal of Ecology. DOI: 10.1111/1365-2745.12259, which has been published in final form at http://onlinelibrary.wiley.com/doi/10.1111/1365-2745.12259/abstract\\n\\nO_LIGame theoretic models that seek to predict the most competitive strategy plants use for competition in soil are clear; they generally predict that over-proliferation of roots is the only evolutionarily stable strategy. However, empirical studies are equally clear that not all plants employ this strategy of over-proliferation of roots. Here, our goal was to develop and test an alternative non-game theoretic model that can be used to develop alternative hypotheses for plants that do not appear to play games.\\nC_LIO_LIThe model is similar to previous models, but does not use a game theoretic optimization criterion. Instead, plants use only nutrient availability to select a root allocation strategy, ignoring neighbours. To test the model we compare root allocation and seed yield of plants grown either alone or with neighbours.\\nC_LIO_LIThe model predicted plants that do not sense neighbours (or ignore neighbours) should allocate roots relative to resource availability following an ideal free distribution. This means that if a soil volume of quality R contains x roots, then a soil volume of quality R/n will contain x/n roots. The experimental data were consistent with this prediction. That is, plants grown with 1.2g of slow release fertilizer resources produced 0.043 g of roots, while plants grown with neighbours, or plants grown with half as much fertilizer produced half as much root mass (0.026g, and 0.24g respectively). Seed yield followed a similar pattern.\\nC_LIO_LIThis model presents an alternative predictive framework for those plant species that do not seem to play a tragedy of the commons game for belowground competition.\\nC_LIO_LISynthesis: It remains unclear why some plants do not engage in belowground games for competition. Models suggest over-proliferation is an unbeatable evolutionary stable strategy, yet plants that do not play the game apparently coexist with plants that do. We suggest that a greater understanding of trade-offs among traits that are important for other biotic interactions (above-ground competition, enemy defence, mutualisms) will lead to a greater understanding of why some species over-proliferate roots when in competition but other species do not.\\nC_LI",
+    "published": "10.1111/1365-2745.12259",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/004887",
+    "title": "Pushed beyond the brink: Allee effects, environmental stochasticity, and extinction",
+    "authors": "Gregory Roth;Sebastian Schreiber;",
+    "author_corresponding": "Sebastian  Schreiber",
+    "author_corresponding_institution": "University of California, Davis",
+    "date": "2014-05-07",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Ecology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/05/07/004887.source.xml",
+    "abstract": "To understand the interplay between environmental stochasticity and Allee effects, we analyze persistence, asymptotic extinction, and conditional persistence for stochastic difference equations. Our analysis reveals that persistence requires that the geometric mean of fitness at low densities is greater than one. When this geometric mean is less than one, asymptotic extinction occurs with high probability for low initial population densities. Additionally, if the population only experiences positive density-dependent feedbacks, conditional persistence occurs provided the geometric mean of fitness at high population densities is greater than one. However, if the population experiences both positive and negative density-dependent feedbacks, conditional persistence only occurs if environmental fluctuations are sufficiently small. We illustrate counter-intuitively that environmental fluctuations can increase the probability of persistence when populations are initially at low densities, and can cause asymptotic extinction of populations experiencing intermediate predation rates despite conditional persistence occurring at higher predation rates.",
+    "published": "10.1080/17513758.2014.962631",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/004895",
+    "title": "Genetic dissection of MAPK-mediated complex traits across S. cerevisiae",
+    "authors": "Sebastian Treusch;Frank W Albert;Joshua S Bloom;Iulia E Kotenko;Leonid Kruglyak;",
+    "author_corresponding": "Leonid  Kruglyak",
+    "author_corresponding_institution": "Howard Hughes Medical Institute, Department of Human Genetics, Department of Biological Chemistry, U",
+    "date": "2014-05-07",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Genetics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/05/07/004895.source.xml",
+    "abstract": "Signaling pathways enable cells to sense and respond to their environment. Many cellular signaling strategies are conserved from fungi to humans, yet their activity and phenotypic consequences can vary extensively among individuals within a species. A systematic assessment of the impact of naturally occurring genetic variation on signaling pathways remains to be conducted. In S. cerevisiae, both response and resistance to stressors that activate signaling pathways differ between diverse isolates. Here, we present a quantitative trait locus (QTL) mapping approach that enables us to identify genetic variants underlying such phenotypic differences across the genetic and phenotypic diversity of S. cerevisiae. Using a Round-robin cross between twelve diverse strains, we determined the genetic architectures of phenotypes critically dependent on MAPK signaling cascades. Genetic variants identified fell within MAPK signaling networks themselves as well as other interconnected signaling pathways, illustrating how genetic variation can shape the phenotypic output of highly conserved signaling cascades.",
+    "published": "10.1371/journal.pgen.1004913",
+    "server": "biorxiv"
+  }
+]

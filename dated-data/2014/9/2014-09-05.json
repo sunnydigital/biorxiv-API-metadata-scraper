@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/003665",
+    "title": "Flexible analysis of transcriptome assemblies with Ballgown",
+    "authors": "Alyssa C Frazee;Geo Pertea;Andrew E Jaffe;Ben Langmead;Steven L Salzberg;Jeffrey T Leek;",
+    "author_corresponding": "Jeffrey T Leek",
+    "author_corresponding_institution": "Johns Hopkins Bloomberg School of Public Health",
+    "date": "2014-09-05",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_by",
+    "category": "Bioinformatics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/09/05/003665.source.xml",
+    "abstract": "Introduction Introduction Negative control experiment Positive control experiment Confirmation of statistical... Analysis of RNA-seq experiments... Analysis of quantitative... Expression quantitative trait... Computational Efficiency Summary References A key advantage of RNA sequencing (RNA-seq) over hybridization-based technologies such as microarrays is that RNA-seq makes it possible to reconstruct complete gene structures, including multiple splice variants, from raw RNA-seq reads without relying on previously-established annotations [20, 32, 9]. But with this added flexibility, there are increased computational demands on upstream processing tasks such as alignment and ass ...",
+    "published": "10.1038/nbt.3172",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/007047",
+    "title": "Chromosomal distribution of cyto-nuclear genes in a dioecious plant with sex chromosomes",
+    "authors": "Josh Hough;J Arvid Agren;Spencer CH Barrett;Stephen I Wright;",
+    "author_corresponding": "Stephen I Wright",
+    "author_corresponding_institution": "University of Toronto",
+    "date": "2014-09-05",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Evolutionary Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/09/05/007047.source.xml",
+    "abstract": "The coordination between nuclear and organellar genes is essential to many aspects of eukaryotic life, including basic metabolism, energy production, and ultimately, organismal fitness. Whereas nuclear genes are bi-parentally inherited, mitochondrial and chloroplast genes are almost exclusively maternally inherited, and this asymmetry may lead to a bias in the chromosomal distribution of nuclear genes whose products act in the mitochondria or chloroplasts. In particular, because X-linked genes have a higher probability of co-transmission with organellar genes (2/3) compared to autosomal genes (1/2), selection for co-adaptation has been predicted to lead to an over-representation of nuclear-mitochondrial and nuclear-chloroplast genes on the X chromosome relative to autosomes. In contrast, the occurrence of sexually antagonistic organellar mutations might lead to selection for movement of cyto-nuclear genes from the X chromosome to autosomes to reduce male mutation load. Recent broad-scale comparative studies of N-mt distributions in animals have found evidence for these hypotheses in some species, but not others. Here, we use transcriptome sequences to conduct the first study of the chromosomal distribution of cyto-nuclear interacting genes in a plant species with sex chromosomes (Rumex hastatulus; Polygonaceae). We found no evidence of under- or over-representation of either N-mt or N-cp genes on the X chromosome, and thus no support for either the co-adaptation or the sexual-conflict hypothesis. We discuss how our results from a species with recently evolved sex chromosomes fit into an emerging picture of the evolutionary forces governing the chromosomal distribution of nuclear-mitochondrial and nuclear-chloroplast genes.",
+    "published": "10.1093/gbe/evu197",
+    "server": "biorxiv"
+  }
+]

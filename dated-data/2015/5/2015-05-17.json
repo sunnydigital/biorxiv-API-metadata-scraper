@@ -1,0 +1,18 @@
+[
+  {
+    "doi": "10.1101/019406",
+    "title": "miR-551a and miR-551b target GLIPR2 and promote tumor growth in High-Risk Head and Neck Cancer by modulating autophagy",
+    "authors": "Narasimha Kumar Karanam;Michael D Story;Liang-Hao Ding;Tae Hyun Hwang;Hao Tang;",
+    "author_corresponding": "Michael D Story",
+    "author_corresponding_institution": "UT Southwestern Medical Center",
+    "date": "2015-05-17",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Cancer Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/05/17/019406.source.xml",
+    "abstract": "Distant metastasis (DM) and local-regional recurrence (LR) after radiation and chemo therapy are major cause of treatment failure for patients with head and neck squamous cell carcinoma. However, detailed underlying mechanisms leading to DM and LR in patients are not fully understood yet. MiRNA have been proposed as biomarkers in a variety of biological and medical conditions such as cancer and stress response. The advantages of miRNA as a biomarker lies in its stability in tissues as well as body fluids, hence the potential for non-invasive diagnosis and prognosis. In this study, towards understanding the molecular mechanism causing DM and LR in HN cancer patients we performed miRNA expression profiling using tumor samples from 118 head and neck cancer patients treated by post-operative radiotherapy (PORT) at M.D. Anderson Cancer Center from 1992 to 1999. All patients were considered to be at high-risk for recurrence having histologically proven advanced squamous cell carcinoma. Amongst these samples, 41 found to have distant metastasis (DM), 53 responded without relapse (no evidence of disease (NED)) to PORT. Comparison of miRNA expression between DM and NED specimens using two-way ANOVA identified 28 miRNAs that were differentially expressed with statistical significance (FDR < 0.2 and fold change > 1.5). Amongst these 28 miRNAs seen in the DM and NED outcome groups, miRNAs 551a and 551b are significantly associated with the DM group. Interestingly these two miRNAs share same seed sequence. Moreover Kaplan-Meir survival analysis in our data set and two other data sets suggested that miR-551a and miR-551b expressions are associated with poor survival in patients. We further performed cell proliferation, migration and invasion assays using the HN5 and UMSCC-17B head and neck cancer cell lines by transfection of either mimic or an inhibitor of miR-551a and miR-551b. The results suggested that miR-551a and miR-551b mimics promote proliferation, migration and invasion whereas the inhibitor decreased. Further studies indicated that these miRNAs target GLIPR2 expression and miR-551a, miR-551b and GLIPR2 axis at least in part plays an important role in tumor progression. Hence we need to further explore miR-551a and miR-551b-3p role in HN cancer progression in detail in in-vivo models to use them as therapeutic targets in future.",
+    "published": "NA",
+    "server": "biorxiv"
+  }
+]

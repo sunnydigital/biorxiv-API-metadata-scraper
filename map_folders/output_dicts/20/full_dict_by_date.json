@@ -1,0 +1,944 @@
+{
+  "2015-02-20": [
+    {
+      "doi": "10.1101/014902",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/015032",
+      "license": "cc_no"
+    },
+    {
+      "doi": "10.1101/015214",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/015537",
+      "license": "cc_no"
+    },
+    {
+      "doi": "10.1101/015529",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/015503",
+      "license": "cc_by"
+    },
+    {
+      "doi": "10.1101/015552",
+      "license": "cc_by"
+    },
+    {
+      "doi": "10.1101/015560",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/015578",
+      "license": "cc_by"
+    },
+    {
+      "doi": "10.1101/015545",
+      "license": "cc_by_nc_nd"
+    }
+  ],
+  "2015-02-22": [
+    {
+      "doi": "10.1101/015511",
+      "license": "cc_by_nc_nd"
+    }
+  ],
+  "2015-02-23": [
+    {
+      "doi": "10.1101/014910",
+      "license": "cc_by"
+    },
+    {
+      "doi": "10.1101/011361",
+      "license": "cc_by_nd"
+    },
+    {
+      "doi": "10.1101/015586",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/015602",
+      "license": "cc_by"
+    },
+    {
+      "doi": "10.1101/015594",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/015495",
+      "license": "cc_by_nc"
+    }
+  ],
+  "2015-02-24": [
+    {
+      "doi": "10.1101/002634",
+      "license": "cc_by"
+    },
+    {
+      "doi": "10.1101/015669",
+      "license": "cc_no"
+    },
+    {
+      "doi": "10.1101/015628",
+      "license": "cc_by"
+    }
+  ],
+  "2015-02-25": [
+    {
+      "doi": "10.1101/014456",
+      "license": "cc_no"
+    }
+  ],
+  "2015-02-26": [
+    {
+      "doi": "10.1101/008763",
+      "license": "cc_by"
+    },
+    {
+      "doi": "10.1101/015685",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/015719",
+      "license": "cc_by"
+    },
+    {
+      "doi": "10.1101/015651",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/015693",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/015677",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/015743",
+      "license": "cc_by_nc"
+    },
+    {
+      "doi": "10.1101/015727",
+      "license": "cc_no"
+    }
+  ],
+  "2015-02-27": [
+    {
+      "doi": "10.1101/007765",
+      "license": "cc_no"
+    },
+    {
+      "doi": "10.1101/010777",
+      "license": "cc_by_nc"
+    },
+    {
+      "doi": "10.1101/015297",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/015784",
+      "license": "cc_no"
+    },
+    {
+      "doi": "10.1101/015750",
+      "license": "cc_no"
+    },
+    {
+      "doi": "10.1101/015792",
+      "license": "cc_no"
+    },
+    {
+      "doi": "10.1101/015776",
+      "license": "cc_by_nc_nd"
+    }
+  ],
+  "2015-02-28": [
+    {
+      "doi": "10.1101/004192",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/014183",
+      "license": "cc_by"
+    },
+    {
+      "doi": "10.1101/014183",
+      "license": "cc_by"
+    }
+  ],
+  "2015-03-01": [
+    {
+      "doi": "10.1101/008581",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/015826",
+      "license": "cc_by"
+    },
+    {
+      "doi": "10.1101/015818",
+      "license": "cc_by"
+    },
+    {
+      "doi": "10.1101/015800",
+      "license": "cc_by_nc"
+    },
+    {
+      "doi": "10.1101/015875",
+      "license": "cc_no"
+    }
+  ],
+  "2015-03-02": [
+    {
+      "doi": "10.1101/015800",
+      "license": "cc_by_nc"
+    },
+    {
+      "doi": "10.1101/015859",
+      "license": "cc_no"
+    },
+    {
+      "doi": "10.1101/015867",
+      "license": "cc_by"
+    },
+    {
+      "doi": "10.1101/015883",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/015883",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/015917",
+      "license": "cc_by"
+    },
+    {
+      "doi": "10.1101/015909",
+      "license": "cc_no"
+    },
+    {
+      "doi": "10.1101/015891",
+      "license": "cc_by_nc_nd"
+    }
+  ],
+  "2015-03-03": [
+    {
+      "doi": "10.1101/008458",
+      "license": "cc_by"
+    },
+    {
+      "doi": "10.1101/014829",
+      "license": "cc_by_nd"
+    },
+    {
+      "doi": "10.1101/015867",
+      "license": "cc_by"
+    },
+    {
+      "doi": "10.1101/015925",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/015958",
+      "license": "cc_no"
+    },
+    {
+      "doi": "10.1101/015834",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/015966",
+      "license": "cc_no"
+    }
+  ],
+  "2015-03-04": [
+    {
+      "doi": "10.1101/012682",
+      "license": "cc_no"
+    },
+    {
+      "doi": "10.1101/012740",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/015859",
+      "license": "cc_no"
+    },
+    {
+      "doi": "10.1101/015941",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/016022",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/015974",
+      "license": "cc_by_nc_nd"
+    }
+  ],
+  "2015-03-05": [
+    {
+      "doi": "10.1101/014936",
+      "license": "cc_no"
+    },
+    {
+      "doi": "10.1101/016006",
+      "license": "cc_by_nd"
+    }
+  ],
+  "2015-03-06": [
+    {
+      "doi": "10.1101/011346",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/016089",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/016030",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/016105",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/016121",
+      "license": "cc_by_nc"
+    },
+    {
+      "doi": "10.1101/016097",
+      "license": "cc_no"
+    },
+    {
+      "doi": "10.1101/016139",
+      "license": "cc_no"
+    },
+    {
+      "doi": "10.1101/013961",
+      "license": "cc_by_nd"
+    },
+    {
+      "doi": "10.1101/016154",
+      "license": "cc_by"
+    }
+  ],
+  "2015-03-07": [
+    {
+      "doi": "10.1101/016196",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/016063",
+      "license": "cc_no"
+    },
+    {
+      "doi": "10.1101/016204",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/016212",
+      "license": "cc_no"
+    }
+  ],
+  "2015-03-08": [
+    {
+      "doi": "10.1101/016188",
+      "license": "cc_by_nd"
+    }
+  ],
+  "2015-03-09": [
+    {
+      "doi": "10.1101/010140",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/014092",
+      "license": "cc_no"
+    },
+    {
+      "doi": "10.1101/014407",
+      "license": "cc_no"
+    },
+    {
+      "doi": "10.1101/016246",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/016303",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/016311",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/016261",
+      "license": "cc_by_nc_nd"
+    }
+  ],
+  "2015-03-10": [
+    {
+      "doi": "10.1101/006155",
+      "license": "cc_by_nd"
+    },
+    {
+      "doi": "10.1101/016246",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/016345",
+      "license": "cc_by"
+    },
+    {
+      "doi": "10.1101/016352",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/016378",
+      "license": "cc_by_nc"
+    },
+    {
+      "doi": "10.1101/016162",
+      "license": "cc_no"
+    }
+  ],
+  "2015-03-11": [
+    {
+      "doi": "10.1101/015552",
+      "license": "cc_by"
+    },
+    {
+      "doi": "10.1101/016295",
+      "license": "cc_no"
+    },
+    {
+      "doi": "10.1101/016402",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/016329",
+      "license": "cc_no"
+    },
+    {
+      "doi": "10.1101/016410",
+      "license": "cc_by_nd"
+    },
+    {
+      "doi": "10.1101/016394",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/016360",
+      "license": "cc_by_nc_nd"
+    }
+  ],
+  "2015-03-12": [
+    {
+      "doi": "10.1101/009522",
+      "license": "cc_by"
+    },
+    {
+      "doi": "10.1101/010348",
+      "license": "cc_by"
+    },
+    {
+      "doi": "10.1101/012690",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/016410",
+      "license": "cc_by_nd"
+    }
+  ],
+  "2015-03-13": [
+    {
+      "doi": "10.1101/012690",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/012831",
+      "license": "cc_by"
+    },
+    {
+      "doi": "10.1101/016469",
+      "license": "cc_by_nc_nd"
+    }
+  ],
+  "2015-03-14": [
+    {
+      "doi": "10.1101/010082",
+      "license": "cc_no"
+    },
+    {
+      "doi": "10.1101/012690",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/012690",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/016543",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/016527",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/016519",
+      "license": "cc_by"
+    },
+    {
+      "doi": "10.1101/016485",
+      "license": "cc_by"
+    },
+    {
+      "doi": "10.1101/016477",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/016451",
+      "license": "cc_by"
+    },
+    {
+      "doi": "10.1101/016436",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/016428",
+      "license": "cc_by_nd"
+    },
+    {
+      "doi": "10.1101/016386",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/016337",
+      "license": "cc_by"
+    }
+  ],
+  "2015-03-16": [
+    {
+      "doi": "10.1101/001685",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/010348",
+      "license": "cc_by"
+    },
+    {
+      "doi": "10.1101/010686",
+      "license": "cc_by"
+    }
+  ],
+  "2015-03-17": [
+    {
+      "doi": "10.1101/016519",
+      "license": "cc_by"
+    },
+    {
+      "doi": "10.1101/016683",
+      "license": "cc_no"
+    },
+    {
+      "doi": "10.1101/016675",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/016659",
+      "license": "cc_by"
+    },
+    {
+      "doi": "10.1101/016642",
+      "license": "cc_by"
+    },
+    {
+      "doi": "10.1101/016626",
+      "license": "cc_by_nc"
+    },
+    {
+      "doi": "10.1101/016618",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/016592",
+      "license": "cc_by"
+    },
+    {
+      "doi": "10.1101/016576",
+      "license": "cc_no"
+    },
+    {
+      "doi": "10.1101/016238",
+      "license": "cc_by_nd"
+    },
+    {
+      "doi": "10.1101/012518",
+      "license": "cc_by"
+    }
+  ],
+  "2015-03-18": [
+    {
+      "doi": "10.1101/010074",
+      "license": "cc_by"
+    },
+    {
+      "doi": "10.1101/015305",
+      "license": "cc_by_nc"
+    },
+    {
+      "doi": "10.1101/015834",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/016725",
+      "license": "cc_no"
+    },
+    {
+      "doi": "10.1101/016709",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/016691",
+      "license": "cc_by_nc_nd"
+    }
+  ],
+  "2015-03-19": [
+    {
+      "doi": "10.1101/013896",
+      "license": "cc_by"
+    },
+    {
+      "doi": "10.1101/015305",
+      "license": "cc_by_nc"
+    },
+    {
+      "doi": "10.1101/016733",
+      "license": "cc_by"
+    },
+    {
+      "doi": "10.1101/016725",
+      "license": "cc_no"
+    },
+    {
+      "doi": "10.1101/016675",
+      "license": "cc_by_nc_nd"
+    }
+  ],
+  "2015-03-20": [
+    {
+      "doi": "10.1101/016519",
+      "license": "cc_by"
+    },
+    {
+      "doi": "10.1101/016824",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/016808",
+      "license": "cc_no"
+    },
+    {
+      "doi": "10.1101/016790",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/016782",
+      "license": "cc_by_nc"
+    },
+    {
+      "doi": "10.1101/016774",
+      "license": "cc_by_nc"
+    },
+    {
+      "doi": "10.1101/016758",
+      "license": "cc_by_nd"
+    }
+  ],
+  "2015-03-21": [
+    {
+      "doi": "10.1101/011031",
+      "license": "cc_no"
+    },
+    {
+      "doi": "10.1101/011031",
+      "license": "cc_no"
+    },
+    {
+      "doi": "10.1101/015834",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/016808",
+      "license": "cc_no"
+    },
+    {
+      "doi": "10.1101/016808",
+      "license": "cc_no"
+    }
+  ],
+  "2015-03-22": [
+    {
+      "doi": "10.1101/010199",
+      "license": "cc_by_nc"
+    },
+    {
+      "doi": "10.1101/016873",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/016865",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/016857",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/016832",
+      "license": "cc_by_nd"
+    }
+  ],
+  "2015-03-23": [
+    {
+      "doi": "10.1101/016923",
+      "license": "cc_by"
+    },
+    {
+      "doi": "10.1101/016915",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/016881",
+      "license": "cc_by_nc_nd"
+    }
+  ],
+  "2015-03-24": [
+    {
+      "doi": "10.1101/006544",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/012229",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/016006",
+      "license": "cc_by_nd"
+    },
+    {
+      "doi": "10.1101/016691",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/016972",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/016956",
+      "license": "cc_no"
+    },
+    {
+      "doi": "10.1101/016949",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/016840",
+      "license": "cc_by"
+    },
+    {
+      "doi": "10.1101/016840",
+      "license": "cc_by"
+    }
+  ],
+  "2015-03-25": [
+    {
+      "doi": "10.1101/013623",
+      "license": "cc_by"
+    },
+    {
+      "doi": "10.1101/017061",
+      "license": "cc_by_nc"
+    },
+    {
+      "doi": "10.1101/017053",
+      "license": "cc_no"
+    },
+    {
+      "doi": "10.1101/017046",
+      "license": "cc_by_nd"
+    },
+    {
+      "doi": "10.1101/017020",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/016998",
+      "license": "cc_no"
+    },
+    {
+      "doi": "10.1101/016980",
+      "license": "cc_no"
+    },
+    {
+      "doi": "10.1101/016840",
+      "license": "cc_by"
+    }
+  ],
+  "2015-03-26": [
+    {
+      "doi": "10.1101/012922",
+      "license": "cc_no"
+    },
+    {
+      "doi": "10.1101/015925",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/017160",
+      "license": "cc_by_nd"
+    },
+    {
+      "doi": "10.1101/017152",
+      "license": "cc_by"
+    },
+    {
+      "doi": "10.1101/017145",
+      "license": "cc_no"
+    },
+    {
+      "doi": "10.1101/017137",
+      "license": "cc_no"
+    },
+    {
+      "doi": "10.1101/017129",
+      "license": "cc_no"
+    },
+    {
+      "doi": "10.1101/017103",
+      "license": "cc_by"
+    },
+    {
+      "doi": "10.1101/017095",
+      "license": "cc_by"
+    },
+    {
+      "doi": "10.1101/017087",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/016881",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/016840",
+      "license": "cc_by"
+    }
+  ],
+  "2015-03-27": [
+    {
+      "doi": "10.1101/005033",
+      "license": "cc_by_nd"
+    },
+    {
+      "doi": "10.1101/011486",
+      "license": "cc_no"
+    },
+    {
+      "doi": "10.1101/017194",
+      "license": "cc_by_nd"
+    },
+    {
+      "doi": "10.1101/017186",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/017178",
+      "license": "cc_by"
+    },
+    {
+      "doi": "10.1101/016840",
+      "license": "cc_by"
+    },
+    {
+      "doi": "10.1101/016493",
+      "license": "cc_by_nc_nd"
+    }
+  ],
+  "2015-03-28": [
+    {
+      "doi": "10.1101/017210",
+      "license": "cc_by_nc_nd"
+    }
+  ],
+  "2015-03-29": [
+    {
+      "doi": "10.1101/010371",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/013441",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/017277",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/017251",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/017244",
+      "license": "cc_no"
+    },
+    {
+      "doi": "10.1101/017111",
+      "license": "cc_by"
+    }
+  ],
+  "2015-03-30": [
+    {
+      "doi": "10.1101/008581",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/017244",
+      "license": "cc_no"
+    },
+    {
+      "doi": "10.1101/017202",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/016816",
+      "license": "cc_by_nc"
+    },
+    {
+      "doi": "10.1101/017301",
+      "license": "cc_no"
+    },
+    {
+      "doi": "10.1101/017285",
+      "license": "cc_by_nc"
+    },
+    {
+      "doi": "10.1101/017269",
+      "license": "cc_by_nc_nd"
+    },
+    {
+      "doi": "10.1101/016931",
+      "license": "cc_by"
+    }
+  ]
+}

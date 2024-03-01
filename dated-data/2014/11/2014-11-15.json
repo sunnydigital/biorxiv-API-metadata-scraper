@@ -1,0 +1,50 @@
+[
+  {
+    "doi": "10.1101/011460",
+    "title": "A robust statistical framework for reconstructing genomes from metagenomic data",
+    "authors": "Dongwan Don Kang;Jeff Froula;Rob Egan;Zhong Wang;",
+    "author_corresponding": "Zhong  Wang",
+    "author_corresponding_institution": "Lawrence Berkeley National Laboratory",
+    "date": "2014-11-15",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Bioinformatics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/11/15/011460.source.xml",
+    "abstract": "We present software that reconstructs genomes from shotgun metagenomic sequences using a reference-independent approach. This method permits the identification of OTUs in large complex communities where many species are unknown. Binning reduces the complexity of a metagenomic dataset enabling many downstream analyses previously unavailable. In this study we developed MetaBAT, a robust statistical framework that integrates probabilistic distances of genome abundance with sequence composition for automatic binning. Applying MetaBAT to a human gut microbiome dataset identified 173 highly specific genomes bins including many representing previously unidentified species.",
+    "published": "10.7717/peerj.1165",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/011445",
+    "title": "Circumstantial Evidence? Comparison of Statistical Learning Methods using Functional Annotations for Prioritizing Risk Variants",
+    "authors": "Sarah A Gagliano;Reena Ravji;Michael R Barnes;Michael E Weale;Jo Knight;",
+    "author_corresponding": "Sarah A Gagliano",
+    "author_corresponding_institution": "Centre for Addiction and Mental Health",
+    "date": "2014-11-15",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Bioinformatics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/11/15/011445.source.xml",
+    "abstract": "Although technology has triumphed in facilitating routine genome re-sequencing, new challenges have been created for the data analyst. Genome scale surveys of human disease variation generate volumes of data that far exceed capabilities for laboratory characterization, and importantly also create a substantial burden of type I error. By incorporating a variety of functional annotations as predictors, such as regulatory and protein coding elements, statistical learning has been widely investigated as a mechanism for the prioritization of genetic variants that are more likely to be associated with complex disease. These methods offer a hope of identification of sufficiently large numbers of truly associated variants, to make cost-effective the large-scale functional characterization necessary to progress genome scale experiments. We compared the results from three published prioritization procedures which use different statistical learning algorithms and different predictors with regard to the quantity, type and coding of the functional annotations. In this paper we also explore different combinations of algorithm and annotation set. We train the models in 60% of the data and reserve the remainder for testing the accuracy. As an application, we tested which methodology performed the best for prioritizing sub-genome-wide-significant variants (5x10-8<p<1x10-6) using data from the first and second rounds of a large schizophrenia meta-analysis by the Psychiatric Genomics Consortium. Results suggest that all methods have considerable (and similar) predictive accuracies (AUCs 0.64-0.71). However, predictive accuracy results obtained from the test set do not always reflect results obtained from the application to the schizophrenia meta-analysis. In conclusion, a variety of algorithms and annotations seem to have a similar potential to effectively enrich true risk variants in genome scale datasets, however none offer more than incremental improvement in prediction. We discuss how methods might be evolved towards the step change in the risk variant prediction required to address the impending bottleneck of the new generation of genome re-sequencing studies.",
+    "published": "10.1038/srep13373",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/011452",
+    "title": "How Well Can We Detect Shifts in Rates of Lineage Diversification? A Simulation Study of Sequential AIC Methods",
+    "authors": "Michael R May;Brian R Moore;",
+    "author_corresponding": "Michael R May",
+    "author_corresponding_institution": "University of California, Davis",
+    "date": "2014-11-15",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nd",
+    "category": "Evolutionary Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/11/15/011452.source.xml",
+    "abstract": "Evolutionary biologists have long been fascinated by the extreme differences in species numbers across branches of the Tree of Life. This has motivated the development of statistical phylogenetic methods for detecting shifts in the rate of lineage diversification (speciation - extinction). One of the most frequently used methods--implemented in the program MEDUSA--explores a set of diversification-rate models, where each model uniquely assigns branches of the phylogeny to a set of one or more diversification-rate categories. Each candidate model is first fit to the data, and the Akaike Information Criterion (AIC) is then used to identify the optimal diversification model. Surprisingly, the statistical behavior of this popular method is completely unknown, which is a concern in light of the poor performance of the AIC as a means of choosing among models in other phylogenetic comparative contexts, and also because of the ad hoc algorithm used to visit models. Here, we perform an extensive simulation study demonstrating that, as implemented, MEDUSA (1) has an extremely high Type I error rate (on average, spurious diversification-rate shifts are identified 42% of the time), and (2) provides severely biased parameter estimates (on average, estimated net-diversification and relative-extinction rates are 183% and 20% of their true values, respectively). We performed simulation experiments to reveal the source(s) of these pathologies, which include (1) the use of incorrect critical thresholds for model selection, and (2) errors in the likelihood function. Understanding the statistical behavior of MEDUSA is critical both to empirical researchers--in order to clarify whether these methods can reliably be applied to empirical datasets--and to theoretical biologists--in order to clarify whether new methods are required, and to reveal the specific problems that need to be solved in order to develop more reliable approaches for detecting shifts in the rate of lineage diversification.",
+    "published": "NA",
+    "server": "biorxiv"
+  }
+]

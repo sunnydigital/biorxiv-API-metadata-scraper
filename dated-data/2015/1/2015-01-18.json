@@ -1,0 +1,50 @@
+[
+  {
+    "doi": "10.1101/013581",
+    "title": "An homology- and coevolution-consistent structural model of bacterial copper-tolerance protein CopM supports function as a \u2018metal sponge\u2019 and suggests regions for metal-dependent interactions with other proteins",
+    "authors": "Luciano A Abriata;",
+    "author_corresponding": "Luciano A Abriata",
+    "author_corresponding_institution": "Ecole Polytechnique Federale de Lausanne",
+    "date": "2015-01-18",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Biochemistry ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/01/18/013581.source.xml",
+    "abstract": "Copper is essential for life but toxic, therefore all organisms control tightly its intracellular abundance. Bacteria have indeed whole operons devoted to copper resistance, with genes that code for efflux pumps, oxidases, etc. Recently, the CopM protein of the CopMRS operon was described as a novel important element for copper tolerance in Synechocystis. This protein consists of a domain of unknown function, and was proposed to act as a periplasmic/extracellular copper binder. This work describes a bioinformatic study of CopM including structural models based on homology modeling and on residue coevolution, to help expand on its recent biochemical characterization. The protein is predicted to be periplasmic but membrane-anchored, not secreted. Two disordered regions are predicted, both possibly involved in protein-protein interactions. The 3D models disclose a 4-helix bundle with several potential copper-binding sites, most of them largely buried inside the bundle lumen. Some of the predicted copper-binding sites involve residues from the disordered regions, suggesting they could gain structure upon copper binding and thus possibly modulate the interactions they mediate. All models are provided as PDB files in the Supporting Information and can be visualized online at http://lucianoabriata.altervista.org/modelshome.html Note (January 2017): Recent X-ray structures of apo, copper- and silver-bound CopM are < 3[A] RMSD away from the models, and reveal metal-dependent structural flexibility (Zhao et al Acta Crystallogr D Struct Biol. 2016)",
+    "published": "NA",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/013953",
+    "title": "Digit evolution in gymnophthalmid lizards",
+    "authors": "Juliana Roscito;Pedro M. S. Nunes;Miguel T Rodrigues;",
+    "author_corresponding": "Juliana  Roscito",
+    "author_corresponding_institution": "Universidade de S\u00e3o Paulo",
+    "date": "2015-01-18",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc",
+    "category": "Developmental Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/01/18/013953.source.xml",
+    "abstract": "BackgroundThe tetrapod limb is a highly diverse structure, and reduction of the limbs accounts for much of the phenotypes observed within species. Squamate reptiles represent one of the many lineages in which the limbs have been greatly modified from the pentadactyl generalized pattern; within the group, limb-reduced morphologies can vary from minor reductions in size of elements to complete limblessness, with several intermediate forms in between. Even though limb reduction is widespread, it is not clear what are the evolutionary and developmental mechanisms involved in the formation of reduced limb morphologies.\\n\\nMethodsIn this study, we present an overview of limb morphology within the microteiid lizard group Gymnophthalmidae, focusing on digit number.\\n\\nResultsWe show that there are two major groups of limb-reduced gymnophthalmids. The first group is formed by lizard-like - and frequently pentadactyl - species, in which minor reductions (such as the loss of 1-2 phalanges mainly in digits I and V) are the rule; these morphologies generally correspond to those seen in other squamates. The second group is formed by species showing more drastic losses, which can include the absence of an externally distinct limb in adults. We also show the expression patterns of Sonic Hedgehog (Shh) in the greatly reduced fore and hindlimb of a serpentiform gymnophthalmid.\\n\\nConclusionsOur discussion focus on identifying shared patterns of limb reduction among tetrapods, and explaining these patterns and the morphological variation within the gymnophthalmids based on the current knowledge of the molecular signaling pathways that coordinate limb development.",
+    "published": "10.1387/ijdb.140255jg",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/013912",
+    "title": "In plants, decapping prevents RDR6-dependent production of small interfering RNAs from endogenous mRNAs",
+    "authors": "Angel Emilio Mart\u00ednez de Alba;Ana Moreno;Marc Gabriel;Allison C Mallory;Aur\u00e9lie Christ;Remi Bounon;Sandrine Balzergue;Sebastien Aubourg;Daniel Gautheret;Martin D Crespi;Herv\u00e9 Vaucheret;Alexis Maizel;",
+    "author_corresponding": "Alexis  Maizel",
+    "author_corresponding_institution": "University of Heidelberg",
+    "date": "2015-01-18",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Plant Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/01/18/013912.source.xml",
+    "abstract": "Cytoplasmic degradation of endogenous RNAs is an integral part of RNA quality control (RQC) and often relies on the removal of the 5' cap structure and their subsequent 5 to 3 degradation in cytoplasmic processing (P-)bodies. In parallel, many eukaryotes degrade exogenous and selected endogenous RNAs through post-transcriptional gene silencing (PTGS). In plants, PTGS depends on small interfering (si)RNAs produced after the conversion of single-stranded RNAs to double-stranded RNAs by the cellular RNA DEPENDENT RNA POLYMERASE 6 (RDR6) in cytoplasmic siRNA-bodies. PTGS and RQC compete for transgene-derived RNAs, but it is unknown whether this competition also occurs for endogenous transcripts. We show that the lethality of decapping mutants is suppressed by impairing RDR6 activity. We establish that upon decapping impairment hundreds of endogenous mRNAs give rise to a new class of rqc-siRNAs, that over-accumulate when RQC processes are impaired, a subset of which depending on RDR6 for their production. We observe that P- and siRNA-bodies often are dynamically juxtaposed, potentially allowing for crosstalk of the two machineries. Our results suggest that the decapping of endogenous RNA limits their entry into the PTGS pathway. We anticipate that the rqc-siRNAs identified in decapping mutants represent a subset of a larger ensemble of endogenous siRNAs.",
+    "published": "10.1093/nar/gkv119",
+    "server": "biorxiv"
+  }
+]

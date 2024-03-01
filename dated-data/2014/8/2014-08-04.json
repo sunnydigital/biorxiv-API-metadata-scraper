@@ -1,0 +1,50 @@
+[
+  {
+    "doi": "10.1101/004564",
+    "title": "Crowdsourced analysis of ash and ash dieback through the Open Ash Dieback project: A year 1 report on datasets and analyses contributed by a self-organising community.",
+    "authors": "Diane Saunders;Kentaro Yoshida;Christine Sambles;Rachel Glover;Bernardo Clavijo;Manuel Corpas;Daniel Bunting;Suomeng Dong;Ghanasyam Rallapalli;Matthew Clark;David Swarbreck;Sarah Ayling;Matthew Bashton;Steve Collin;Tsuyoshi Hosoya;Anne Edwards;Lisa Crossman;Graham Etherington;Joe Win;Liliana Cano;David Studholme;J Allan Downie;Mario Caccamo;Sophien Kamoun;Dan MacLean;",
+    "author_corresponding": "Dan  MacLean",
+    "author_corresponding_institution": "The Sainsbury Laboratory",
+    "date": "2014-08-04",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_by",
+    "category": "Genomics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/08/04/004564.source.xml",
+    "abstract": "Ash dieback is a fungal disease of ash trees caused by Hymenoscyphus pseudoalbidus that has swept across Europe in the last two decades and is a significant threat to the ash population. This emergent pathogen has been relatively poorly studied and little is known about its genetic make-up. In response to the arrival of this dangerous pathogen in the UK we took the unusual step of providing an open access database and initial sequence datasets to the scientific community for analysis prior to performing an analysis of our own. Our goal was to crowdsource genomic and other analyses and create a community analysing this pathogen. In this report on the evolution of the community and data and analysis obtained in the first year of this activity, we describe the nature and the volume of the contributions and reveal some preliminary insights into the genome and biology of H. pseudoalbidus that emerged. In particular our nascent community generated a first-pass genome assembly containing abundant collapsed AT-rich repeats indicating a typically complex genome structure. Our open science and crowdsourcing effort has brought a wealth of new knowledge about this emergent pathogen within a short time-frame. Our community endeavour highlights the positive impact that open, collaborative approaches can have on fast, responsive modern science.",
+    "published": "NA",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/006411",
+    "title": "Hsp90 promotes kinase evolution",
+    "authors": "Jennifer Lachowiec;Tzitziki Lemus;Elhanan Borenstein;Christine Queitsch;",
+    "author_corresponding": "Christine  Queitsch",
+    "author_corresponding_institution": "University of Washington",
+    "date": "2014-08-04",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Evolutionary Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/08/04/006411.source.xml",
+    "abstract": "Heat-shock protein 90 (Hsp90) promotes the maturation and stability of its client proteins, including many kinases. In doing so, Hsp90 may allow its clients to accumulate mutations as previously proposed by the capacitor hypothesis. If true, Hsp90 clients should show increased evolutionary rate compared to non-clients; however, other factors, such as gene expression and protein connectivity, may confound or obscure the chaperones putative contribution. Here, we compared the evolutionary rates of many Hsp90 clients and non-clients in the human protein kinase superfamily. We show that Hsp90 client status promotes evolutionary rate independently of, but in a small magnitude similar to that of gene expression and protein connectivity. Hsp90s effect on kinase evolutionary rate was detected across mammals, specifically relaxing purifying selection. Hsp90 clients also showed increased nucleotide diversity and harbored more damaging variation than non-client kinases across humans. These results are consistent with the central argument of the capacitor hypothesis that interaction with the chaperone allows its clients to harbor genetic variation. Hsp90 client status is thought to be highly dynamic with as few as one amino acid change rendering a protein dependent on the chaperone. Contrary to this expectation, we found that across protein kinase phylogeny Hsp90 client status tends to be gained, maintained, and shared among closely related kinases. We also infer that the ancestral protein kinase was not an Hsp90 client. Taken together, our results suggest that Hsp90 played an important role in shaping the kinase superfamily.",
+    "published": "10.1093/molbev/msu270",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/006437",
+    "title": "The conserved PFT1 tandem repeat is crucial for proper flowering in Arabidopsis thaliana",
+    "authors": "Pauline Rival;Maximilian O Press;Jacob Bale;Tanya Grancharova;Soledad F Undurraga;Christine Queitsch;",
+    "author_corresponding": "Christine  Queitsch",
+    "author_corresponding_institution": "University of Washington",
+    "date": "2014-08-04",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Genetics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/08/04/006437.source.xml",
+    "abstract": "It is widely appreciated that short tandem repeat (STR) variation underlies substantial phenotypic variation in organisms. Some propose that the high mutation rates of STRs in functional genomic regions facilitate evolutionary adaptation. Despite their high mutation rate, some STRs show little to no variation in populations. One such STR occurs in the Arabidopsis thaliana gene PFT1 (MED25), where it encodes an interrupted polyglutamine tract. Though the PFT1 STR is large ([~]270 bp), and thus expected to be extremely variable, it shows only minuscule variation across A. thaliana strains. We hypothesized that the PFT1 STR is under selective constraint, due to previously undescribed roles in PFT1 function. We investigated this hypothesis using plants expressing transgenic PFT1 constructs with either an endogenous STR or with synthetic STRs of varying length. Transgenic plants carrying the endogenous PFT1 STR generally performed best across adult PFT1-dependent traits, in terms of complementing a pft1 null mutant. In stark contrast, transgenic plants carrying a PFT1 transgene lacking the STR entirely phenocopied a pft1 loss-of-function mutant for flowering time phenotypes, and were generally hypomorphic for other traits, establishing the functional importance of this domain. Transgenic plants carrying various synthetic constructs occupied the phenotypic space between wild-type and pft1-loss-of-function mutants. By varying PFT1 STR length, we discovered that PFT1 can act as either an activator or repressor of flowering in a photoperiod-dependent manner. We conclude that the PFT1 STR is constrained to its approximate wild-type length by its various functional requirements. Our study implies that there is strong selection on STRs not only to generate allelic diversity, but also to maintain certain lengths pursuant to optimal molecular function.",
+    "published": "10.1534/genetics.114.167866",
+    "server": "biorxiv"
+  }
+]

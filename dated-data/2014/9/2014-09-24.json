@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/009456",
+    "title": "On the prospect of identifying adaptive loci in recently bottlenecked populations",
+    "authors": "Yu-Ping Poh;Vera S Domingues;Hopi Hoekstra;Jeffrey Jensen;",
+    "author_corresponding": "Yu-Ping  Poh",
+    "author_corresponding_institution": "UMass Medical School",
+    "date": "2014-09-24",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by",
+    "category": "Evolutionary Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/09/24/009456.source.xml",
+    "abstract": "Identifying adaptively important loci in recently bottlenecked populations - be it natural selection acting on a population following the colonization of novel habitats in the wild, or artificial selection during the domestication of a breed - remains a major challenge. Here we report the results of a simulation study examining the performance of available population-genetic tools for identifying genomic regions under selection. To illustrate our findings, we examined the interplay between selection and demography in two species of Peromyscus mice, for which we have independent evidence of selection acting on phenotype as well as functional evidence identifying the underlying genotype. With this unusual information, we tested whether population-genetic-based approaches could have been utilized to identify the adaptive locus. Contrary to published claims, we conclude that the use of the background site frequency spectrum as a null model is largely ineffective in bottlenecked populations. Results are quantified both for site frequency spectrum and linkage disequilibrium-based predictions, and are found to hold true across a large parameter space that encompasses many species and populations currently under study. These results suggest that the genomic footprint left by selection on both new and standing variation in strongly bottlenecked populations will be difficult, if not impossible, to find using current approaches.",
+    "published": "10.1371/journal.pone.0110579",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/009563",
+    "title": "On the unfounded enthusiasm for soft selective sweeps",
+    "authors": "Jeffrey D. Jensen;",
+    "author_corresponding": "Jeffrey D. Jensen",
+    "author_corresponding_institution": "EPFL",
+    "date": "2014-09-24",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Evolutionary Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/09/24/009563.source.xml",
+    "abstract": "Underlying any understanding of the mode, tempo, and relative importance of the adaptive process in the evolution of natural populations is the notion of whether adaptation is mutation-limited. Two very different population genetic models have recently been proposed in which the rate of adaptation is not strongly limited by the rate at which newly arising beneficial mutations enter the population. This review discusses the theoretical underpinnings and requirements of these models, as well as the experimental insights on the parameters of relevance. Importantly, empirical and experimental evidence to date challenges the recent enthusiasm for invoking these models to explain observed patterns of variation in humans and Drosophila.",
+    "published": "10.1038/ncomms6281",
+    "server": "biorxiv"
+  }
+]

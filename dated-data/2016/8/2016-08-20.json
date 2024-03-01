@@ -1,0 +1,18 @@
+[
+  {
+    "doi": "10.1101/049593",
+    "title": "Sanctions, partner recognition, and variation in mutualistic symbiosis",
+    "authors": "Jeremy B Yoder;Peter Tiffin;",
+    "author_corresponding": "Jeremy B. Yoder",
+    "author_corresponding_institution": "University of British Columbia",
+    "date": "2016-08-20",
+    "version": "3",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Evolutionary Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2016/08/20/049593.source.xml",
+    "abstract": "Mutualistic interactions can be stabilized against invasion by non-cooperative individuals by putting such \\\"cheaters\\\" at a selective disadvantage. Selection against cheaters should eliminate genetic variation in partner quality -- yet such variation is often found in natural populations. One explanation for this paradox is that mutualism outcomes are determined not only by responses to partner performance, but also by partner signals. Here, we build a model of coevolution in a symbiotic mutualism, in which hosts ability to sanction non-cooperative symbionts and recognition of symbiont signals are determined by separate loci, as are symbionts cooperation and expression of signals. In the model, variation persists without destabilizing the interaction, in part because coevolution of symbiont signals and host recognition is altered by the coevolution of sanctions and cooperation, and vice-versa. Individual-based simulations incorporating population structure strongly corroborate these results. The dual systems of sanctions and partner recognition converge toward conditions similar to some economic models of mutualistic symbiosis in which hosts offering the right incentives to potential symbionts can initiate symbiosis without screening for partner quality. These results predict that mutualists can maintain variation in recognition of partner signals or in the ability to sanction non-cooperators without destabilizing mutualism, and reinforce the notion that studies of mutualism should consider communication between partners as well as the exchange of benefits.",
+    "published": "10.1086/693472",
+    "server": "biorxiv"
+  }
+]

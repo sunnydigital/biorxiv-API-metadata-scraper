@@ -1,0 +1,18 @@
+[
+  {
+    "doi": "10.1101/005025",
+    "title": "Module organizational principles and dynamics in biological networks",
+    "authors": "Chun-Yu Lin;Tsai-ling Lee;Yi-Wei Lin;Yu-Shu Lo;Chih-Ta Lin;Jinn-Moon Yang;",
+    "author_corresponding": "Jinn-Moon  Yang",
+    "author_corresponding_institution": "Institute of Bioinformatics, National Chiao Tung University",
+    "date": "2014-05-11",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Systems Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/05/11/005025.source.xml",
+    "abstract": "A module is a group of closely related proteins that act in concert to perform specific biological functions through protein-protein interactions (PPIs) that occur in time and space. However, the underlying organizational principles of a module remain unclear. In this study, we collected CORUM module templates to infer respective module families, including 58,041 homologous modules in 1,678 species, and PPI families using searches of complete genomic database. We then derived PPI evolution scores (PPIES) and interface evolution scores (IES) to infer module elements, including core and ring components. Functions of core components were highly correlated (Pearsons r = 0.98) with those of 11,384 essential genes. In comparison with ring components, core proteins and PPIs were conserved in multiple species. Subsequently, protein dynamics and module dynamics of biological networks and functional diversities confirmed that core components form dynamic biological network hubs and play key roles in various biological functions. PPIES and IES can reflect module organization principles and protein/module dynamics in biological networks. On the basis of the analyses of gene essentiality, module dynamics, network topology, and gene co-expression, the module organizational principles can be described as follows: 1) a module consists of core and ring components; 2) the core components play major roles in biological functions and collaborate with ring components to perform certain functions in some cases; 3) the core components are conserved and essential in module dynamics in time and space.",
+    "published": "NA",
+    "server": "biorxiv"
+  }
+]

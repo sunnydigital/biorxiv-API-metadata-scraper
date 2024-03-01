@@ -1,0 +1,50 @@
+[
+  {
+    "doi": "10.1101/013045",
+    "title": "FORGE : A tool to discover cell specific enrichments of GWAS associated SNPs in regulatory regions.",
+    "authors": "Ian Dunham;Eugene Kulesha;Valentina Iotchkova;Sandro Morganella;Ewan Birney;",
+    "author_corresponding": "Ian  Dunham",
+    "author_corresponding_institution": "European Molecular Biology Laboratory  European Bioinformatics Institute",
+    "date": "2014-12-20",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by",
+    "category": "Bioinformatics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/12/20/013045.source.xml",
+    "abstract": "Genome wide association studies provide an unbiased discovery mechanism for numerous human diseases. However, a frustration in the analysis of GWAS is that the majority of variants discovered do not directly alter protein-coding genes. We have developed a simple analysis approach that detects the tissue-specific regulatory component of a set of GWAS SNPs by identifying enrichment of overlap with DNase I hotspots from diverse tissue samples. Functional element Overlap analysis of the Results of GWAS Experiments (FORGE) is available as a web tool and as standalone software and provides tabular and graphical summaries of the enrichments. Conducting FORGE analysis on SNP sets for 260 phenotypes available from the GWAS catalogue reveals numerous overlap enrichments with tissue-specific components reflecting the known aetiology of the phenotypes as well as revealing other unforeseen tissue involvements that may lead to mechanistic insights for disease.",
+    "published": "10.12688/f1000research.6032.1",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/012880",
+    "title": "Highly-efficient Cas9-mediated transcriptional programming",
+    "authors": "Alejandro Chavez;Jonathan Scheiman;Suhani Vora;Benjamin W Pruitt;Marcelle Tuttle;Eswar Iyer;Samira Kiani;Christopher D Guzman;Daniel J. Wiegand;Dimtry Ter-Ovanesyan;Jonathan L Braff;Noah Davidsohn;Ron Weiss;John Aach;Collins J Collins;George M Church;",
+    "author_corresponding": "George M Church",
+    "author_corresponding_institution": "Harvard Genetics",
+    "date": "2014-12-20",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Synthetic Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/12/20/012880.source.xml",
+    "abstract": "The RNA-guided bacterial nuclease Cas9 can be reengineered as a programmable transcription factor by a series of changes to the Cas9 protein in addition to the fusion of a transcriptional activation domain (AD)1-5. However, the modest levels of gene activation achieved by current Cas9 activators have limited their potential applications. Here we describe the development of an improved transcriptional regulator through the rational design of a tripartite activator, VP64-p65-Rta (VPR), fused to Cas9. We demonstrate its utility in activating expression of endogenous coding and non-coding genes, targeting several genes simultaneously and stimulating neuronal differentiation of induced pluripotent stem cells (iPSCs).",
+    "published": "10.1038/nmeth.3312",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/013037",
+    "title": "Genetic Analysis of Substrain Divergence in NOD Mice",
+    "authors": "Petr Simecek;Gary A Churchill;Hyuna Yang;Lucy B Rowe;Lieselotte Herberg;David V Serreze;Edward H Leiter;",
+    "author_corresponding": "Petr  Simecek",
+    "author_corresponding_institution": "The Jackson Laboratory",
+    "date": "2014-12-20",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by",
+    "category": "Genetics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/12/20/013037.source.xml",
+    "abstract": "ABSTRACTThe NOD mouse is a polygenic model for type 1 diabetes that is characterized by insulitis, a leukocytic infiltration of the pancreatic islets. During ~35 years since the original inbred strain was developed in Japan, NOD substrains have been established at different laboratories around the world. Although environmental differences among NOD colonies capable of impacting diabetes incidence have been recognized, differences arising from genetic divergence have not previously been analyzed. We use both Mouse Diversity Array and Whole Exome Capture Sequencing platforms to identify genetic differences distinguishing 5 NOD substrains. We describe 64 SNPs, and 2 short indels that differ in coding regions of the 5 NOD substrains. A 100 kb deletion on Chromosome 3 distinguishes NOD/ShiLtJ and NOD/ShiLtDvs from 3 other substrains, while a 111 kb deletion in the Icam2 gene on Chromosome 11 is unique to the NOD/ShiLtDvs genome. The extent of genetic divergence for NOD substrains is compared to similar studies for C57BL6 and BALB/c substrains. As mutations are fixed to homozygosity by continued inbreeding, significant differences in substrain phenotypes are to be expected. These results emphasize the importance of using embryo freezing methods to minimize genetic drift within substrains and of applying appropriate genetic nomenclature to permit substrain recognition when one is used.",
+    "published": "10.1534/g3.115.017046",
+    "server": "biorxiv"
+  }
+]

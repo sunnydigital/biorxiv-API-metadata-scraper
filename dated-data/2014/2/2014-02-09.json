@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/002527",
+    "title": "Investigating speciation in face of polyploidization: what can we learn from approximate Bayesian computation approach?",
+    "authors": "Camille Roux;John Pannell;",
+    "author_corresponding": "Camille  Roux",
+    "author_corresponding_institution": "University of Lausanne",
+    "date": "2014-02-09",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by",
+    "category": "Evolutionary Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/02/09/002527.source.xml",
+    "abstract": "Despite its importance in the diversification of many eucaryote clades, particularly plants, detailed genomic analysis of polyploid species is still in its infancy, with published analysis of only a handful of model species to date. Fundamental questions concerning the origin of polyploid lineages (e.g., auto- vs. allopolyploidy) and the extent to which polyploid genomes display disomic vs. polysomic vs. heterosomic inheritance are poorly resolved for most polyploids, not least because they have hitherto required detailed karyotypic analysis or the analysis of allele segregation at multiple loci in pedigrees or artificial crosses, which are often not practical for non-model species. However, the increasing availability of sequence data for non-model species now presents an opportunity to apply established approaches for the evolutionary analysis of genomic data to polyploid species complexes. Here, we ask whether approximate Bayesian computation (ABC), applied to sequence data produced by next-generation sequencing technologies from polyploid taxa, allows correct inference of the evolutionary and demographic history of polyploid lineages and their close relatives. We use simulations to investigate how the number of sampled individuals, the number of surveyed loci and their length affect the accuracy and precision of evolutionary and demographic inferences by ABC, including the mode of polyploidisation, mode of inheritance of polyploid taxa, the relative timing of genome duplication and speciation, and effective populations sizes of contributing lineages. We also apply the ABC framework we develop to sequence data from diploid and polyploidy species of the plant genus Capsella, for which we infer an allopolyploid origin for tetra C. bursa-pastoris {approx} 90,000 years ago. In general, our results indicate that ABC is a promising and powerful method for uncovering the origin and subsequent evolution of polyploid species.",
+    "published": "NA",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/002550",
+    "title": "Noradrenergic plasticity of olfactory sensory neuron inputs to the main olfactory bulb",
+    "authors": "Dennis Eckmeier;Stephen David Shea;",
+    "author_corresponding": "Stephen David Shea",
+    "author_corresponding_institution": "Cold Spring Harbor Laboratory",
+    "date": "2014-02-09",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Neuroscience ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/02/09/002550.source.xml",
+    "abstract": "Sensory responses are modulated throughout the nervous system by internal factors including attention, experience, and brain state. This is partly due to fluctuations in neuromodulatory input from regions such as the noradrenergic locus coeruleus (LC) in the brainstem. LC activity changes with arousal and modulates sensory processing, cognition and memory. The main olfactory bulb (MOB) is richly targeted by LC fibers and noradrenaline profoundly influences MOB circuitry and odor-guided behavior. Noradrenaline-dependent plasticity affects the output of the MOB. However, it is unclear whether noradrenergic plasticity includes modulation in the glomerular layer, the site of input to the MOB. Noradrenergic terminals are found in the glomerular layer, but noradrenaline receptor activation does not seem to acutely modulate olfactory sensory neuron terminals in vitro. We investigated whether noradrenaline induces plasticity at the glomerulus. We used wide-field optical imaging to measure changes in odor responses following electrical stimulation of locus coeruleus in anesthetized mice. Surprisingly, the odor-evoked intrinsic optical signals at the glomerulus were persistently weakened after LC activation. Calcium imaging selectively from olfactory sensory neurons confirmed that this effect was due to a uniform gain suppression of presynaptic input, and did not require exposure to a stimulus during the LC activation. Finally, noradrenaline antagonists prevented glomerular suppression. We conclude that noradrenaline release from LC has persistent effects on odor processing already at the first synapse of the main olfactory system. This mechanism could contribute to arousal-dependent memories.",
+    "published": "10.1523/JNEUROSCI.0551-14.2014",
+    "server": "biorxiv"
+  }
+]

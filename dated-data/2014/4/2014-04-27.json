@@ -1,0 +1,18 @@
+[
+  {
+    "doi": "10.1101/002899",
+    "title": "An experimentally determined evolutionary model dramatically improves phylogenetic fit",
+    "authors": "Jesse D Bloom;",
+    "author_corresponding": "Jesse D Bloom",
+    "author_corresponding_institution": "Fred Hutchinson Cancer Research Center",
+    "date": "2014-04-27",
+    "version": "4",
+    "type": "New Results",
+    "license": "cc_by",
+    "category": "Evolutionary Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/04/27/002899.source.xml",
+    "abstract": "All modern approaches to molecular phylogenetics require a quantitative model for how genes evolve. Unfortunately, existing evolutionary models do not realistically represent the site-heterogeneous selection that governs actual sequence change. Attempts to remedy this problem have involved augmenting these models with a burgeoning number of free parameters. Here I demonstrate an alternative: experimental determination of a parameter-free evolutionary model via mutagenesis, functional selection, and deep sequencing. Using this strategy, I create an evolutionary model for influenza nucleoprotein that describes the gene phylogeny far better than existing models with dozens or even hundreds of free parameters. Emerging high-throughput experimental strategies such as the one employed here provide fundamentally new information that has the potential to transform the sensitivity of phylogenetic and genetic analyses.",
+    "published": "10.1093/molbev/msu173",
+    "server": "biorxiv"
+  }
+]

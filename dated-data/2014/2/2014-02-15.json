@@ -1,0 +1,50 @@
+[
+  {
+    "doi": "10.1101/002642",
+    "title": "A reassessment of consensus clustering for class discovery",
+    "authors": "Yasin \u015eenbabao\u011flu;George Michailidis;Jun Z Li;",
+    "author_corresponding": "Jun Z Li",
+    "author_corresponding_institution": "University of Michigan Ann Arbor",
+    "date": "2014-02-15",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Bioinformatics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/02/15/002642.source.xml",
+    "abstract": "Consensus clustering (CC) is an unsupervised class discovery method widely used to study sample heterogeneity in high-dimensional datasets. It calculates \\\"consensus rate\\\" between any two samples as how frequently they are grouped together in repeated clustering runs under a certain degree of random perturbation. The pairwise consensus rates form a between-sample similarity matrix, which has been used (1) as a visual proof that clusters exist, (2) for comparing stability among clusters, and (3) for estimating the optimal number (K) of clusters. However, the sensitivity and specificity of CC have not been systemically studied. To assess its performance, we investigated the most common implementations of CC; and compared CC with other popular methods that also focus on cluster stability and estimation of K. We evaluated these methods using simulated datasets with either known structure or known absence of structure. Our results showed that (1) CC was able to divide randomly generated unimodal data into pre-specified numbers of clusters, and was able to show apparent stability of these chance partitions of known cluster-less data; (2) for data with known structure, the proportion of ambiguously clustered (PAC) pairs infers the known number of clusters more reliably than several commonly used K estimating methods; and (3) validation of the optimal K by choosing the most discriminant genes from the discovery cohort and applying them in an independent cohort often exaggerates the confidence in K due to inherent gene-gene correlations among the selected genes. While these results do not yet prove that any of the published studies using CC has generated false positive findings, they show that datasets with subtle or no structure are fully capable of producing strong evidence of consensus clustering. We therefore recommend caution is using CC in class discovery and validation.",
+    "published": "10.1038/srep06207",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/002709",
+    "title": "Differential gene expression and alternative splicing in insect immune specificity",
+    "authors": "Carolyn Riddell;Juan David Lobaton Garces;Sally Adams;Seth M Barribeau;David Twell;Eamonn Mallon;",
+    "author_corresponding": "Eamonn  Mallon",
+    "author_corresponding_institution": "University of Leicester",
+    "date": "2014-02-15",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_by_nc",
+    "category": "Evolutionary Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/02/15/002709.source.xml",
+    "abstract": "Ecological studies routinely show genotype-genotype interactions between insects and their parasites. The mechanisms behind these interactions are not clearly understood. Using the bumblebee Bombus terrestris / trypanosome Crithidia bombi model system, we have carried out a transcriptome-wide analysis of gene expression and alternative splicing in bees during C. bombi infection. We have performed four analyses, 1) comparing gene expression in infected and non-infected bees 24 hours after infection by Crithidia bombi, 2) comparing expression at 24 and 48 hours after C.bombi infection, 3) searching for differential gene expression associated with the host-parasite genotype-genotype interaction at 24 hours after infection and 4) searching for alternative splicing associated with the host-parasite genotype-genotype interaction at 24 hours post infection. We found a large number of genes differentially regulated related to numerous canonical immune pathways. These genes include receptors, signaling pathways and effectors. We discovered a possible interaction between the peritrophic membrane and the insect immune system in defense against Crithidia. Most interestingly we found differential expression and alternative splicing of Dscam related transcripts and a novel immunoglobulin related gene Twitchin depends on the genotype-genotype interactions of the given bumblebee colony and Crithidia strain.",
+    "published": "10.1186/1471-2164-15-1031",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/002691",
+    "title": "Neuroanatomical diversity of corpus callosum and brain volume in the Autism Brain Imaging Data Exchange (Abide) project",
+    "authors": "Aline Lefebvre;Anita Beggiato;Thomas Bourgeron;Roberto Toro;",
+    "author_corresponding": "Roberto  Toro",
+    "author_corresponding_institution": "Institut Pasteur",
+    "date": "2014-02-15",
+    "version": "2",
+    "type": "Contradictory Results",
+    "license": "cc_by_nc_nd",
+    "category": "Neuroscience ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/02/15/002691.source.xml",
+    "abstract": "The corpus callosum - the main pathway for long-distance inter-hemispheric integration in the human brain - has been frequently reported to be smaller among autistic patients compared with non-autistic controls. We conducted a meta-analysis of the literature which suggested a statistically significant difference. However, the studies included were heavily underpowered: on average only 20% power to detect differences of 0.3 standard deviations, which makes it difficult to establish the reality of such a difference. We therefore studied the size of the corpus callosum among 694 subjects (328 patients, 366 controls) from the Abide cohort. Despite having achieved 99% power to detect statistically significant differences of 0.3 standard deviations, we did not observe any. To better understand the neuroanatomical diversity of the corpus callosum, and the possible reasons for the previous findings, we analysed the relationship between its size, the size of the brain, intracranial volume and intelligence scores. The corpus callosum appeared to scale non-linearly with brain size, with large brains having a proportionally smaller corpus callosum. Additionally, intelligence scores correlated with brain volume among controls but the correlation was significantly weaker among patients. We used simulations to determine to which extent these two effects could lead to artefactual differences in corpus callosum size within populations. We observed that, were there a difference in brain volume between cases and controls, normalising corpus callosum size by brain volume would not eliminate the brain volume effect, but adding brain volume as a covariate in a linear model would. Finally, we observed that because of the weaker correlation of intelligence scores and brain volume among patients, matching populations by intelligence scores could result in a bias towards including more patients with large brain volumes, inducing an artificial difference. Overall, our results highlight the necessity for open data sharing efforts such as Abide to provide a more solid ground for the discovery of neuroimaging biomarkers, within the context of the wide human neuroanatomical diversity.",
+    "published": "10.1016/j.biopsych.2015.02.010",
+    "server": "biorxiv"
+  }
+]

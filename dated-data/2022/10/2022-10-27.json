@@ -1,0 +1,18 @@
+[
+  {
+    "doi": "10.1101/2022.10.27.514014",
+    "title": "Randomly incorporated genomic 6mA delays zygotic transcription initiation",
+    "authors": "Febrimarsa,  ; Gornik, S.; Bareira, S. N.; Salinas-Saavedra, M.; Schnitzler, C.; Baxevanis, A.; Frank, U.",
+    "author_corresponding": "Uri Frank",
+    "author_corresponding_institution": "National University of Ireland, Galway",
+    "date": "2022-10-27",
+    "version": "1",
+    "type": "new results",
+    "license": "cc_by",
+    "category": "developmental biology",
+    "jatsxml": "https://www.biorxiv.org/content/early/2022/10/27/2022.10.27.514014.source.xml",
+    "abstract": "N6-methyldeoxyadenosine (6mA) is a chemical alteration of DNA, observed across all realms of life. The functions of 6mA are well understood in bacteria but its roles in animal genomes have been controversial. We show that 6mA randomly accumulates in early embryos of the cnidarian Hydractinia symbiolongicarpus, with a peak at the 16-cell stage followed by clearance to background levels two cell cycles later, at the 64-cell stage - the embryonic stage at which zygotic genome activation occurs in this animal. Knocking down Alkbh1, a putative initiator of animal 6mA clearance, resulted in higher levels of 6mA at the 64-cell stage and a delay in the commencement of zygotic transcription. Our data are consistent with 6mA originating from recycled nucleotides of degraded m6A-marked maternal RNA post-fertilization. Therefore, while 6mA does not function as an epigenetic mark in Hydractinia, its random incorporation into the early embryonic genome inhibits transcription. Alkbh1 functions as a genomic 6mA  cleaner, facilitating timely zygotic genome activation. Given the random nature of genomic 6mA accumulation and its ability to interfere with gene expression, defects in 6mA clearance may represent a hitherto unknown cause of various pathologies.",
+    "published": "10.15252/embj.2022112934",
+    "server": "biorxiv"
+  }
+]
