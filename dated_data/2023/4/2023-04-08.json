@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/2023.04.07.536093",
+    "title": "Tree-based QTL mapping with expected local geneticrelatedness matrices",
+    "authors": "Link, V.; Schraiber, J. G.; Fan, C.; Dinh, B.; Mancuso, N.; Chiang, C. W. K.; Edge, M. D.",
+    "author_corresponding": "Michael D. Edge",
+    "author_corresponding_institution": "University of Southern California",
+    "date": "2023-04-08",
+    "version": "1",
+    "type": "new results",
+    "license": "cc_by_nc_nd",
+    "category": "genetics",
+    "jatsxml": "https://www.biorxiv.org/content/early/2023/04/08/2023.04.07.536093.source.xml",
+    "abstract": "Understanding the genetic basis of complex phenotypes is a central pursuit of genetics. Genome-wide Association Studies (GWAS) are a powerful way to find genetic loci associated with phenotypes. GWAS are widely and successfully used, but they face challenges related to the fact that variants are tested for association with a phenotype independently, whereas in reality variants at different sites are correlated because of their shared evolutionary history. One way to model this shared history is through the ancestral recombination graph (ARG), which encodes a series of local coalescent trees. Recent computational and methodological breakthroughs have made it feasible to estimate approximate ARGs from large-scale samples. Here, we explore the potential of an ARG-based approach to quantitative-trait locus (QTL) mapping, echoing existing variance-components approaches. We propose a framework that relies on the conditional expectation of a local genetic relatedness matrix given the ARG (local eGRM). Simulations show that our method is especially beneficial for finding QTLs in the presence of allelic heterogeneity. By framing QTL mapping in terms of the estimated ARG, we can also facilitate the detection of QTLs in understudied populations. We use local eGRM to identify a large-effect BMI locus, the CREBRF gene, in a sample of Native Hawaiians in which it was not previously detectable by GWAS because of a lack of population-specific imputation resources. Our investigations can provide intuition about the benefits of using estimated ARGs in population- and statistical-genetic methods in general.",
+    "published": "NA",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/2023.04.08.535096",
+    "title": "Measuring human cerebral blood flow and brain function with fiber-based speckle contrast optical spectroscopy system",
+    "authors": "Kim, B.; Zilpelwar, S.; Sie, E. J.; Marsili, F.; Zimmermann, B.; Boas, D. A.; Cheng, X.",
+    "author_corresponding": "Xiaojun Cheng",
+    "author_corresponding_institution": "Boston University",
+    "date": "2023-04-08",
+    "version": "1",
+    "type": "new results",
+    "license": "cc_by_nc_nd",
+    "category": "bioengineering",
+    "jatsxml": "https://www.biorxiv.org/content/early/2023/04/08/2023.04.08.535096.source.xml",
+    "abstract": "Cerebral blood flow (CBF) is an important indicator of brain health and function. Diffuse correlation spectroscopy (DCS) is an optical technique that enables non-invasive and continuous bedside monitoring of human CBF. However, traditional DCS consisting of a few channels has relatively low signal-to-noise ratio (SNR), preventing measurements at long source detector separations (SDS) with increased sensitivity to cerebral rather than extracerebral blood flow. Here we developed a fiber-based speckle contrast optical spectroscopy (SCOS) system and the corresponding data analysis pipeline to measure CBF variations. We show that SCOS outperforms traditional DCS by more than an order of magnitude in SNR with comparable financial cost. We also demonstrated human brain function measurements during a cognitive task at an SDS of 33 mm. This technology will establish the foundation for devices that use spatial speckle statistics to non-invasively monitor human CBF, leading to a new functional neuroimaging approach for cognitive neuroscience.",
+    "published": "10.1038/s42003-023-05211-4",
+    "server": "biorxiv"
+  }
+]

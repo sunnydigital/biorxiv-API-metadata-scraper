@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/035840",
+    "title": "The divisible load balance problem with shared cost and its application to phylogenetic inference",
+    "authors": "Constantin Scholl;Kassian Kobert;Tomas Flouri;Alexandros Stamatakis;",
+    "author_corresponding": "Constantin  Scholl",
+    "author_corresponding_institution": "Karlsruhe Institute of Technology",
+    "date": "2016-01-02",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nd",
+    "category": "Bioinformatics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2016/01/02/035840.source.xml",
+    "abstract": "Motivated by load balance issues in parallel calculations of the phylogenetic likelihood function, we recently introduced an approximation algorithm for efficiently distributing partitioned alignment data to a given number of CPUs. The goal is to balance the accumulated number of sites per CPU, and, at the same time, to minimize the maximum number of unique partitions per CPU. The approximation algorithm assumes that likelihood calculations on individual alignment sites have identical runtimes and that likelihood calculation times on distinct sites are entirely independent from each other. However, a recently introduced optimization of the phylogenetic likelihood function, the so-called site repeats technique, violates both aforementioned assumptions. To this end, we modify our data distribution algorithm and explore 72 distinct heuristic strategies that take into account the additional restrictions induced by site repeats, to yield a  good parallel load balance.\\n\\nOur best heuristic strategy yields a reduction in required arithmetic operations that ranges between 2% and 92% with an average of 62% for all test datasets using 2, 4, 8, 16, 32, and 64 CPUs compared to the original site-repeat-agnostic data distribution algorithm.",
+    "published": "NA",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/035774",
+    "title": "On the optimal use of isotherm models for the characterization of biosorption of lead onto algae",
+    "authors": "F. Brouers;Tariq Al-Musawi;",
+    "author_corresponding": "Tariq  Al-Musawi",
+    "author_corresponding_institution": "Liege University/Department of Chemical Engineering",
+    "date": "2016-01-02",
+    "version": "1",
+    "type": "Confirmatory Results",
+    "license": "cc_no",
+    "category": "Bioengineering ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2016/01/02/035774.source.xml",
+    "abstract": "For the first time we apply a new method based on the mathematical derivation of some known isotherm from the Burr function which describes many birth-death (sorption-desorption) phenomena in ecology and economy. Therefore, in this study the experimental isotherm data of biosorption of Pb(II) onto algae was modeled to Langmuir, Hill-Sips, Brouers-Sotolongo, Brouers-Gaspard, and Redlich-Peterson isotherm models. The parameters of each model were determined by non linear fitting algorithms using Mathematica program. The maximum Pb(II) removal rate increased with the increase of temperature and reached the maximum value (98%) at the temperature of 40 {degrees}C. The results showed that the Hill-Sips and the Brouers-Sotolongo isotherms were definitely the most suitable models to satisfactorily describe biosorption of Pb(II) on the algal biomass. In addition, as these two models gave very close results, the use of an intermediate one the Brouers-Gaspard isotherm model could also describe the sorption in most cases. High coefficient of determination values were obtained by using non linear methods and these findings are contrary to most works in this field that use linearization methods. Further, this study showed that a complete set of data is necessary to have a good representation of the isotherm and using only coefficient of determination is not always an adequate tool to compare the goodness of the non linear fit of an isotherm models.",
+    "published": "10.1016/j.molliq.2015.08.054",
+    "server": "biorxiv"
+  }
+]

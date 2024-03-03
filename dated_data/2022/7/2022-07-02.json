@@ -1,0 +1,18 @@
+[
+  {
+    "doi": "10.1101/2022.06.29.498148",
+    "title": "CCR5 deficiency normalizes TIMP levels, working memory, and gamma oscillation power in APOE4 targeted replacement mice",
+    "authors": "Greco, G.; Rock, M.; Amontree, M.; Lanfranco, M. F.; Korthas, H.; Hong, S. H.; Turner, R. S.; Rebeck, G. W.; Conant, K.",
+    "author_corresponding": "Katherine  Conant",
+    "author_corresponding_institution": "Georgetown University School of Medicine",
+    "date": "2022-07-02",
+    "version": "1",
+    "type": "new results",
+    "license": "cc_no",
+    "category": "neuroscience",
+    "jatsxml": "https://www.biorxiv.org/content/early/2022/07/02/2022.06.29.498148.source.xml",
+    "abstract": "The APOE4 allele increases the risk for Alzheimers disease (AD) in a dose-dependent manner and is also associated with cognitive decline in non-demented elderly controls. In mice with targeted gene replacement (TR) of murine APOE with human APOE3 or APOE4, the latter show reduced neuronal dendritic complexity and impaired learning. APOE4 TR mice also show reduced gamma oscillation power and sharp wave ripple (SWR) abundance, neuronal population activities important to learning and memory. Published work has shown that brain extracellular matrix (ECM) can reduce neuroplasticity as well as gamma power and SWR abundance, while attenuation of ECM can instead enhance these endpoints. In the present study we examine human cerebrospinal fluid (CSF) samples from APOE3 and APOE4 individuals and brain lysates from APOE3 and APOE4 TR mice for levels of ECM effectors that can increase matrix deposition and restrict neuroplasticity. We find that CCL5, a molecule linked to ECM deposition in liver and kidney, is increased in CSF samples from APOE4 individuals. Levels of tissue inhibitor of metalloproteinases (TIMPs), which inhibit the activity of ECM-degrading enzymes, are also increased in APOE4 CSF as well as protein lysates from APOE4 TR mice. Importantly, as compared to wildtype/APOE4 heterozygotes, CCR5 knockout/APOE4 heterozygotes show reduced TIMP levels and enhanced EEG gamma power. The latter also show improved learning and memory, suggesting that the CCR5/CCL5 axis could represent a therapeutic target for APOE4 individuals.",
+    "published": "10.1016/j.nbd.2023.106057",
+    "server": "biorxiv"
+  }
+]

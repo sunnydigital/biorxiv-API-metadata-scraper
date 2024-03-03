@@ -1,0 +1,50 @@
+[
+  {
+    "doi": "10.1101/001008",
+    "title": "Efficient Search, Mapping, and Optimization of Multi-protein Genetic Systems in Diverse Bacteria",
+    "authors": "Iman Farasat;Manish Kushwaha;Jason Collens;Michael Easterbrook;Matthew Guido;Howard M Salis;",
+    "author_corresponding": "Howard M Salis",
+    "author_corresponding_institution": "Penn State University",
+    "date": "2014-03-03",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Synthetic Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/03/03/001008.source.xml",
+    "abstract": "Engineering multi-protein genetic systems to maximize their performance remains a combinatorial challenge, particularly when measurement throughput is limited. We have developed a computational design and modeling approach to build predictive models and identify optimal expression levels, while circumventing combinatorial explosion. Maximally informative genetic system variants are first designed by the RBS Library Calculator, an algorithm that optimizes the smallest ribosome binding site library to efficiently search the expression space across a >10,000-fold range with tailored search resolutions, sequence constraints, and well-predicted translation rates. We validated the algorithms predictions using a 644 sequence data-set, within single and multi-protein genetic systems, modifying plasmids and genomes, and in Escherichia coli and Bacillus subtilis. We then combined the search algorithm with kinetic modeling to map the mechanistic relationship between sequence, expression, and overall activity for a 3-enzyme biosynthesis pathway, requiring only 73 measurements to forward design highly productive pathway variants. The combination of sequence desi gn and systems modeling accelerates the optimization of many-protein systems, and allow previous measurements to quantitatively inform future designs.",
+    "published": "10.15252/msb.20134955",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/003178",
+    "title": "DISSECT: an assignment-free Bayesian discovery method for species delimitation under the multispecies coalescent",
+    "authors": "Graham Jones;Bengt Oxelman;",
+    "author_corresponding": "Graham  Jones",
+    "author_corresponding_institution": "Gothenburg University",
+    "date": "2014-03-03",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Evolutionary Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/03/03/003178.source.xml",
+    "abstract": "MotivationThe multispecies coalescent model provides a formal framework for the assignment of individual organisms to species, where the species are modeled as the branches of the species tree. None of the available approaches so far have simultaneously co-estimated all the relevant parameters in the model, without restricting the parameter space by requiring a guide tree and/or prior assignment of individuals to clusters or species.\\n\\nResultsWe present DISSECT, which explores the full space of possible clusterings of individuals and species tree topologies in a Bayesian framework. It uses an approximation to avoid the need for reversible-jump MCMC, in the form of a prior that is a modification of the birth-death prior for the species tree. It incorporates a spike near zero in the density for node heights. The model has two extra parameters: one controls the degree of approximation, and the second controls the prior distribution on the numbers of species. It is implemented as part of BEAST and requires only a few changes from a standard *BEAST analysis. The method is evaluated on simulated data and demonstrated on an empirical data set. The method is shown to be insensitive to the degree of approximation, but quite sensitive to the second parameter, suggesting that large numbers of sequences are needed to draw firm conclusions.\\n\\nAvailabilityhttp://code.google.com/p/beast-mcmc/, http://www.indriid.com/dissectinbeast.html\\n\\nContactart@gjones.name, www.indriid.com\\n\\nSupplementary informationSupplementary material is available.",
+    "published": "10.1093/bioinformatics/btu770",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/003160",
+    "title": "Conditions for the validity of SNP-based heritability estimation",
+    "authors": "James J Lee;Carson C Chow;",
+    "author_corresponding": "Carson C Chow",
+    "author_corresponding_institution": "NIDDK, NIH",
+    "date": "2014-03-03",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nd",
+    "category": "Genetics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/03/03/003160.source.xml",
+    "abstract": "The heritability of a trait (h2) is the proportion of its population variance caused by genetic differences, and estimates of this parameter are important for interpreting the results of genome-wide association studies (GWAS). In recent years, researchers have adopted a novel method for estimating a lower bound on heritability directly from GWAS data that uses realized genetic similarities between nominally unrelated individuals. The quantity estimated by this method is purported to be the contribution to heritability that could in principle be recovered from association studies employing the given panel of SNPs [Formula] Thus far the validity of this approach has mostly been tested empirically. Here, we provide a mathematical explication and show that the method should remain a robust means of obtaining [Formula] under circumstances wider than those under which it has so far been derived.",
+    "published": "10.1007/s00439-014-1441-5",
+    "server": "biorxiv"
+  }
+]

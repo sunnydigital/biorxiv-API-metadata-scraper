@@ -1,0 +1,18 @@
+[
+  {
+    "doi": "10.1101/011080",
+    "title": "Inference of cell-cell interactions from population density characteristics and cell trajectories on static and growing domains",
+    "authors": "Robert Ross;Christian A Yates;Ruth E Baker;",
+    "author_corresponding": "Ruth E Baker",
+    "author_corresponding_institution": "University of Oxford",
+    "date": "2015-04-11",
+    "version": "3",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Systems Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/04/11/011080.source.xml",
+    "abstract": "A key feature of cell migration is how cell movement is affected by cell-cell interactions. Furthermore, many cell migratory processes such as neural crest stem cell migration [1, 2] occur on growing domains or in the presence of a chemoattractant. Therefore, it is important to study interactions between migrating cells in the context of domain growth and directed motility. Here we compare discrete and continuum models describing the spatial and temporal evolution of a cell population for different types of cell-cell interactions on static and growing domains. We suggest that cell-cell interactions can be inferred from population density characteristics in the presence of motility bias, and these population density characteristics for different cell-cell interactions are conserved on both static and growing domains. We also study the expected displacement of a tagged cell, and show that different types of cell-cell interactions can give rise to cell trajectories with different characteristics. These characteristics are conserved in the presence of domain growth, however, they are diminished in the presence of motility bias. Our results are relevant for researchers who study the existence and role of cell-cell interactions in biological systems, so far as we suggest that different types of cell-cell interactions could be identified from cell density and trajectory data.",
+    "published": "10.1016/j.mbs.2015.04.002",
+    "server": "biorxiv"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "doi": "10.1101/013011",
+    "title": "ViennaNGS: A toolbox for building efficient next-generation sequencing analysis pipelines",
+    "authors": "Michael T. Wolfinger;J\u00f6rg Fallmann;Florian Eggenhofer;Fabian Amman;",
+    "author_corresponding": "Michael T.  Wolfinger",
+    "author_corresponding_institution": "University of Vienna, Austria",
+    "date": "2015-02-13",
+    "version": "3",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Bioinformatics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/02/13/013011.source.xml",
+    "abstract": "Recent achievements in next-generation sequencing (NGS) technologies lead to a high demand for reuseable software components to easily compile customized analysis workflows for big genomics data. We present ViennaNGS, an integrated collection of Perl modules focused on building efficient pipelines for NGS data processing. It comes with functionality for extracting and converting features from common NGS file formats, computation and evaluation of read mapping statistics, as well as normalization of RNA abundance. Moreover, ViennaNGS provides software components for identification and characterization of splice junctions from RNA-seq data, parsing and condensing sequence motif data, automated construction of Assembly and Track Hubs for the UCSC genome browser, as well as wrapper routines for a set of commonly used NGS command line tools.",
+    "published": "10.12688/f1000research.6157.1",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/015172",
+    "title": "Selection constrains phenotypic evolution in a functionally important plant trait",
+    "authors": "Christopher D Muir;",
+    "author_corresponding": "Christopher D Muir",
+    "author_corresponding_institution": "University of British Columbia",
+    "date": "2015-02-13",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by",
+    "category": "Evolutionary Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/02/13/015172.source.xml",
+    "abstract": "A long-standing idea is that the macroevolutionary adaptive landscape - a  map of phenotype to fitness - constrains evolution because certain phenotypes are fit, while others are universally unfit. Such constraints should be evident in traits that, across many species, cluster around particular modal values, with few intermediates between modes. Here, I compile a new global database of 599 species from 94 plant families showing that stomatal ratio, an important functional trait affecting photosynthesis, is multimodal, hinting at distinct peaks in the adaptive landscape. The dataset confirms that most plants have all their stomata on the lower leaf surface (hypostomy), but shows for the first time that species with roughly half their stomata on each leaf surface (amphistomy) form a distinct mode in the trait distribution. Based on a new evolutionary process model, this multimodal pattern is unlikely without constraint. Further, multimodality has evolved repeatedly across disparate families, evincing long-term constraint on the adaptive landscape. A simple cost-benefit model of stomatal ratio demonstrates that selection alone is sufficient to generate an adaptive landscape with multiple peaks. Finally, phylogenetic comparative methods indicate that life history evolution drives shifts between peaks. This implies that the adaptive benefit conferred by amphistomy - increased photosynthesis - is most important in plants with fast life histories, challenging existing ideas that amphistomy is an adaptation to thick leaves and open habitats. I conclude that peaks in the adaptive landscape have been constrained by selection over much of land plant evolution, leading to predictable, repeatable patterns of evolution.",
+    "published": "10.1098/rspb.2015.1498",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/015180",
+    "title": "A minimalistic resource allocation model to explain ubiquitous increase in protein expression with growth rate",
+    "authors": "Uri Barenholz;Leeat Keren;Eran Segal;Ron Milo;",
+    "author_corresponding": "Ron  Milo",
+    "author_corresponding_institution": "Weizmann Institute of Science",
+    "date": "2015-02-13",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Systems Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/02/13/015180.source.xml",
+    "abstract": "Most proteins show changes in level across growth conditions. Many of these changes seem to be coordinated with the specific growth rate rather than the growth environment or the protein function. Although cellular growth rates, gene expression levels and gene regulation have been at the center of biological research for decades, there are only a few models giving a base line prediction of the dependence of the proteome fraction occupied by a gene with the specific growth rate.\\n\\nWe present a simple model that predicts a widely coordinated increase in the fraction of many proteins out of the proteome, proportionally with the growth rate. The model reveals how passive redistribution of resources, due to active regulation of only a few proteins, can have proteome wide effects that are quantitatively predictable. Our model provides a potential explanation for why and how such a coordinated response of a large fraction of the proteome to the specific growth rate arises under different environmental conditions. The simplicity of our model can also be useful by serving as a baseline null hypothesis in the search for active regulation. We exemplify the usage of the model by analyzing the relationship between growth rate and proteome composition for the model microorganism E.coli as reflected in two recent proteomics data sets spanning various growth conditions. We find that the fraction out of the proteome of a large number of proteins, and from different cellular processes, increases proportionally with the growth rate. Notably, ribosomal proteins, which have been previously reported to increase in fraction with growth rate, are only a small part of this group of proteins. We suggest that, although the fractions of many proteins change with the growth rate, such changes could be part of a global effect, not requiring specific cellular control mechanisms.",
+    "published": "10.1371/journal.pone.0153344",
+    "server": "biorxiv"
+  }
+]

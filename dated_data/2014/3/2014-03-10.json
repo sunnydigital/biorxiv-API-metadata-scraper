@@ -1,0 +1,18 @@
+[
+  {
+    "doi": "10.1101/003285",
+    "title": "Alignathon: A competitive assessment of whole genome alignment methods.",
+    "authors": "Dent Earl;Ngan K Nguyen;Glenn Hickey;Robert S. Harris;Stephen Fitzgerald;Kathryn Beal;Igor Seledtsov;Vladimir Molodtsov;Brian Raney;Hiram Clawson;Jaebum Kim;Carsten Kemena;Jia-Ming Chang;Ionas Erb;Alexander Poliakov;Minmei Hou;Javier Herrero;Victor Solovyev;Aaron E. Darling;Jian Ma;Cedric Notredame;Michael Brudno;Inna Dubchak;David Haussler;Benedict Paten;",
+    "author_corresponding": "Benedict  Paten",
+    "author_corresponding_institution": "University of California, Santa Cruz",
+    "date": "2014-03-10",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by",
+    "category": "Bioinformatics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/03/10/003285.source.xml",
+    "abstract": "BackgroundMultiple sequence alignments (MSAs) are a prerequisite for a wide variety of evolutionary analyses. Published assessments and benchmark datasets for protein and, to a lesser extent, global nucleotide MSAs are available, but less effort has been made to establish benchmarks in the more general problem of whole genome alignment (WGA).\\n\\nResultsUsing the same model as the successful Assemblathon competitions, we organized a competitive evaluation in which teams submitted their alignments, and assessments were performed collectively after all the submissions were received. Three datasets were used: two of simulated primate and mammalian phylogenies, and one of 20 real fly genomes. In total 35 submissions were assessed, submitted by ten teams using 12 different alignment pipelines.\\n\\nConclusionsWe found agreement between independent simulation-based and statistical assessments, indicating that there are substantial accuracy differences between contemporary alignment tools. We saw considerable difference in the alignment quality of differently annotated regions, and found few tools aligned the duplications analysed. We found many tools worked well at shorter evolutionary distances, but fewer performed competitively at longer distances. We provide all datasets, submissions and assessment programs for further study, and provide, as a resource for future benchmarking, a convenient repository of code and data for reproducing the simulation assessments.",
+    "published": "10.1101/gr.174920.114",
+    "server": "biorxiv"
+  }
+]

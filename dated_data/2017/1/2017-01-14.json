@@ -1,0 +1,50 @@
+[
+  {
+    "doi": "10.1101/035675",
+    "title": "A regression framework for the proportion of true null hypotheses",
+    "authors": "Boca, S. M.; Leek, J. T.",
+    "author_corresponding": "Jeffrey T. Leek",
+    "author_corresponding_institution": "Georgetown University Medical Center",
+    "date": "2017-01-14",
+    "version": "2",
+    "type": "new results",
+    "license": "cc_by",
+    "category": "bioinformatics",
+    "jatsxml": "https://www.biorxiv.org/content/early/2017/01/14/035675.source.xml",
+    "abstract": "Modern scientific studies from many diverse areas of research abound with multiple hypothesis testing concerns. The false discovery rate is one of the most commonly used error rates for measuring and controlling rates of false discoveries when performing multiple tests. Adaptive false discovery rates rely on an estimate of the proportion of null hypotheses among all the hypotheses being tested. This proportion is typically estimated once for each collection of hypotheses. Here we propose a regression framework to estimate the proportion of null hypotheses conditional on observed covariates. This may then be used as a multiplication factor with the Benjamini-Hochberg adjusted p-values, leading to a plug-in false discovery rate estimator. Our case study concerns a genome-wise association meta-analysis which considers associations with body mass index. In our framework, we are able to use the sample sizes for the individual genomic loci and the minor allele frequencies as covariates. We further evaluate our approach via a number of simulation scenarios.",
+    "published": "10.7717/peerj.6035",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/070441",
+    "title": "DeepAD: Alzheimer\u2019s Disease Classification via Deep Convolutional Neural Networks using MRI and fMRI",
+    "authors": "Sarraf, S.; DeSouza, D. D.; Anderson, J.; Tofighi, G.; for the Alzheimer's Disease Neuroimaging Initiativ,  ",
+    "author_corresponding": "Saman  Sarraf",
+    "author_corresponding_institution": "Department of Electrical and Computer Engineering, McMaster University, Hamilton, Ontario, Canada",
+    "date": "2017-01-14",
+    "version": "4",
+    "type": "new results",
+    "license": "cc_by_nc",
+    "category": "bioinformatics",
+    "jatsxml": "https://www.biorxiv.org/content/early/2017/01/14/070441.source.xml",
+    "abstract": "1To extract patterns from neuroimaging data, various techniques, including statistical methods and machine learning algorithms, have been explored to ultimately aid in Alzheimers disease diagnosis of older adults in both clinical and research applications. However, identifying the distinctions between Alzheimers brain data and healthy brain data in older adults (age > 75) is challenging due to highly similar brain patterns and image intensities. Recently, cutting-edge deep learning technologies have been rapidly expanding into numerous fields, including medical image analysis. This work outlines state-of-the-art deep learning-based pipelines employed to distinguish Alzheimers magnetic resonance imaging (MRI) and functional MRI data from normal healthy control data for the same age group. Using these pipelines, which were executed on a GPU-based high performance computing platform, the data were strictly and carefully preprocessed. Next, scale and shift invariant low- to high-level features were obtained from a high volume of training images using convolutional neural network (CNN) architecture. In this study, functional MRI data were used for the first time in deep learning applications for the purposes of medical image analysis and Alzheimers disease prediction. These proposed and implemented pipelines, which demonstrate a significant improvement in classification output when compared to other studies, resulted in high and reproducible accuracy rates of 99.9% and 98.84% for the fMRI and MRI pipelines, respectively. Additionally, the subject-level classification was performed that resulted in the averaged accuracy rate of 94.32% and 97.88% for the fMRI and MRI pipeline respectively. Finally, a decision making algorithm was designed for the subject-level classification and improved the averaged accuracy rate to 97.77% for fMRI and 100% MRI subjects.",
+    "published": "NA",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/076679",
+    "title": "A global perspective of codon usage",
+    "authors": "Khomtchouk, B.; Wahlestedt, C.; Nonner, W.",
+    "author_corresponding": "Wolfgang  Nonner",
+    "author_corresponding_institution": "University of Miami Miller School of Medicine",
+    "date": "2017-01-14",
+    "version": "2",
+    "type": "new results",
+    "license": "cc_by",
+    "category": "genetics",
+    "jatsxml": "https://www.biorxiv.org/content/early/2017/01/14/076679.source.xml",
+    "abstract": "Codon usage in 2730 genomes is analyzed for evolutionary patterns in the usage of synonymous codons and amino acids across prokaryotic and eukaryotic taxa. We group genomes together that have similar amounts of intra-genomic bias in their codon usage, and then compare how usage of particular different codons is diversified across each genome group, and how that usage varies from group to group. Inter-genomic diversity of codon usage increases with intra-genomic usage bias, following a universal pattern. The frequencies of the different codons vary in robust mutual correlation, and the implied synonymous codon and amino acid usages drift together. This kind of correlation indicates that the variation of codon usage across organisms is chiefly a consequence of lateral DNA transfer among diverse organisms. The group of genomes with the greatest intra-genomic bias comprises two distinct subgroups, with each one restricting its codon usage to essentially one unique half of the genetic code table. These organisms include eubacteria and archaea thought to be closest to the hypothesized last universal common ancestor (LUCA). Their codon usages imply genetic diversity near the hypothesized base of the tree of life. There is a continuous evolutionary progression across taxa from the two extremely diversified usages toward balanced usage of different codons (as approached, e.g. in mammals). In that progression, codon frequency variations are correlated as expected from a blending of the two extreme codon usages seen in prokaryotes.\\n\\nAUTHOR SUMMARYThe redundancy intrinsic to the genetic code allows different amino acids to be encoded by up to six synonymous codons. Genomes of different organisms prefer different synonymous codons, a phenomenon known as  codon usage bias. The phenomenon of codon usage bias is of fundamental interest for evolutionary biology, and is important in a variety of applied settings (e.g., transgene expression). The spectrum of codon usage biases seen in current organisms is commonly thought to have arisen by the combined actions of mutations and selective pressures. This view focuses on codon usage in specific genomes and the consequences of that usage for protein expression.\\n\\nHere we investigate an unresolved question of molecular genetics: are there global rules governing the usage of synonymous codons made by genomic DNA across organisms? To answer this question, we employed a data-driven approach to surveying 2730 species from all kingdoms of the  tree of life in order to classify their codon usage. A first major result was that the large majority of these organisms use codons rather uniformly on the genome-wide scale, without giving preference to particular codons among possible synonymous alternatives. A second major result was that two compartments of codon usage seem to co-exist and to be expressed in different proportions by different organisms. As such, we investigate how individual different codons are used in different organisms from all taxa. Whereas codon usage is generally believed to be the evolutionary result of both mutations and natural selection, our results suggest a different perspective: the usage of different codons (and amino acids) by different organisms follows a superposition of two distinct patterns of usage. One distinction locates to the third base pair of all different codons, which in one pattern is U or A, and in the other pattern is G or C. This result has two major implications: (1) the variation of codon usage as seen across different organisms is best accounted for by lateral gene transfer among diverse organisms; (2) the organisms that are by protein homology grouped near the base of the  tree of life comprise two genetically distinct lineages.\\n\\nWe find that, over evolutionary time, codon usages have converged from two distinct, non-overlapping usages (e.g., as evident in bacteria and archaea) to a near-uniform, balanced usage of synonymous codons (e.g., in mammals). This shows that the variations of codon (and amino acid) biases reveal a distinct evolutionary progression. We also find that codon usage in bacteria and archaea is most diverse between organisms thought to be closest to the hypothesized last universal common ancestor (LUCA). The dichotomy in codon (and amino acid usages) present near the origin of the current  tree of life might provide information about the evolutionary development of the genetic code.",
+    "published": "NA",
+    "server": "biorxiv"
+  }
+]

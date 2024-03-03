@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/011940",
+    "title": "Alignment by numbers: sequence assembly using compressed numerical representations",
+    "authors": "Avraam Tapinos;Bede Constantinides;Douglas B Kell;David L Robertson;",
+    "author_corresponding": "David L Robertson",
+    "author_corresponding_institution": "University of Manchester",
+    "date": "2014-12-01",
+    "version": "3",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Bioinformatics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/12/01/011940.source.xml",
+    "abstract": "MotivationDNA sequencing instruments are enabling genomic analyses of unprecedented scope and scale, widening the gap between our abilities to generate and interpret sequence data. Established methods for computational sequence analysis generally use nucleotide-level resolution of sequences, and while such approaches can be very accurate, increasingly ambitious and data-intensive analyses are rendering them impractical for applications such as genome and metagenome assembly. Comparable analytical challenges are encountered in other data-intensive fields involving sequential data, such as signal processing, in which dimensionality reduction methods are routinely used to reduce the computational burden of analyses. We therefore seek to address the question of whether it is possible to improve the efficiency of sequence alignment by applying dimensionality reduction methods to numerically represented nucleotide sequences.\\n\\nResultsTo explore the applicability of signal transformation and dimensionality reduction methods to sequence assembly, we implemented a short read aligner and evaluated its performance against simulated high diversity viral sequences alongside four existing aligners. Using our sequence transformation and feature selection approach, alignment time was reduced by up to 14-fold compared to uncompressed sequences and without reducing alignment accuracy. Despite using highly compressed sequence transformations, our implementation yielded alignments of similar overall accuracy to existing aligners, outperforming all other tools tested at high levels of sequence variation. Our approach was also applied to the de novo assembly of a simulated diverse viral population. Our results demonstrate that full sequence resolution is not a prerequisite of accurate sequence alignment and that analytical performance can be retained and even enhanced through appropriate dimensionality reduction of sequences.",
+    "published": "NA",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/012062",
+    "title": "Activation of dorsal raphe serotonergic neurons promotes persistent waiting independently of reinforcing effects",
+    "authors": "Madalena Fonseca;Masayoshi Murakami;Zachary F. Mainen;",
+    "author_corresponding": "Zachary F. Mainen",
+    "author_corresponding_institution": "Champalimaud Centre for the Unknown",
+    "date": "2014-12-01",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Neuroscience ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/12/01/012062.source.xml",
+    "abstract": "The central neuromodulator serotonin (5-HT) has been implicated in a wide range of behaviors and affective disorders, but the principles underlying its function remain elusive. One influential line of research has implicated 5-HT in response inhibition and impulse control. Another has suggested a role in affective processing. However, whether and how these effects relate to each other is still unclear. Here, we report that optogenetic activation of 5-HT neurons in the dorsal raphe nucleus (DRN) produces a dose-dependent increase in mices ability to withhold premature responding in a task that requires them to wait several seconds for a randomly delayed tone. The 5-HT effect had a rapid onset and was maintained throughout the stimulation period. In addition, movement speed was slowed but stimulation did not affect reaction time or time spent at the reward port. Using similar stimulation protocols in place preference and value-based choice tests, we found no evidence of either appetitive or aversive effects of DRN 5-HT neuron activation. These results provide strong evidence that the efficacy of DRN 5-HT neurons in promoting waiting for delayed rewards is independent of appetitive or aversive effects and support the importance of 5-HT in behavioral persistence and impulse control.",
+    "published": "NA",
+    "server": "biorxiv"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "doi": "10.1101/011247",
+    "title": "A Hidden Markov Model for Investigating Recent Positive Selection through Haplotype Structure",
+    "authors": "Hua Chen;Jody Hey;Montgomery Slatkin;",
+    "author_corresponding": "Hua  Chen",
+    "author_corresponding_institution": "BIG",
+    "date": "2014-11-08",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by",
+    "category": "Evolutionary Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/11/08/011247.source.xml",
+    "abstract": "Recent positive selection can increase the frequency of an advantageous mutant rapidly enough that a relatively long ancestral haplotype will be remained intact around it. We present a hidden Markov model (HMM) to identify such haplotype structures. With HMM identified haplotype structures, a population genetic model for the extent of ancestral haplotypes is then adopted for parameter inference of the selection intensity and the allele age. Simulations show that this method can detect selection under a wide range of conditions and has higher power than the existing frequency spectrum-based method. In addition, it provides good estimate of the selection coefficients and allele ages for strong selection. The method analyzes large data sets in a reasonable amount of running time. This method is applied to HapMap III data for a genome scan, and identifies a list of candidate regions putatively under recent positive selection. It is also applied to several genes known to be under recent positive selection, including the LCT, KITLG and TYRP1 genes in Northern Europeans, and OCA2 in East Asians, to estimate their allele ages and selection coefficients.",
+    "published": "10.1016/j.tpb.2014.11.001",
+    "server": "biorxiv"
+  }
+]

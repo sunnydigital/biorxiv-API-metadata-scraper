@@ -1,0 +1,18 @@
+[
+  {
+    "doi": "10.1101/2020.05.17.100859",
+    "title": "Diazotrophic bacteria from maize exhibit multifaceted plant growth promotion traits in multiple hosts",
+    "authors": "Higdon, S. M.; Pozzo, T.; Tibbitt, E.; Chiu, C.; Jeannotte, R.; Bennett, A. B.; Weimer, B. C.",
+    "author_corresponding": "Bart C Weimer",
+    "author_corresponding_institution": "UC Davis",
+    "date": "2020-05-17",
+    "version": "1",
+    "type": "new results",
+    "license": "cc_by_nd",
+    "category": "microbiology",
+    "jatsxml": "https://www.biorxiv.org/content/early/2020/05/17/2020.05.17.100859.source.xml",
+    "abstract": "Sierra Mixe maize is a geographically remote landrace variety grown on nitrogen-deficient fields in Oaxaca, Mexico that meets its nutritional requirements without synthetic fertilizer by associating with free-living diazotrophs comprising the microbiota of its aerial root mucilage. We selected nearly 500 diazotrophic bacteria isolated from Sierra Mixe maize mucilage and sequenced their genomes. Comparative genomic analysis demonstrated that isolates represented diverse genera and possessed multiple marker genes for mechanisms of direct plant growth promotion (PGP). In addition to nitrogen fixation, we examined deamination of 1-amino-1-cyclopropanecarboxylic acid, biosynthesis of indole-3-acetic acid, and phosphate solubilization. Implementing in vitro colorimetric assays revealed each isolates potential to confer the alternative PGP activities that corroborated genotype and pathway content. We examined the ability of mucilage diazotrophs to confer PGP by direct inoculation of clonally propagated potato plants in planta, which led to the identification of bio-stimulant candidates that were tested for PGP by inoculating a conventional maize variety. The results indicate that, while many diazotrophic isolates from Sierra Mixe maize possessed genotypes and in vitro phenotypes for targeted PGP traits, a subset of these organisms promoted the growth of potato and conventional maize using multiple promotion mechanisms.",
+    "published": "10.1371/journal.pone.0239081",
+    "server": "biorxiv"
+  }
+]

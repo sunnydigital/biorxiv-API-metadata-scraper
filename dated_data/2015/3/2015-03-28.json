@@ -1,0 +1,18 @@
+[
+  {
+    "doi": "10.1101/017210",
+    "title": "Visual cues determine hippocampal directional selectivity",
+    "authors": "Lavanya Acharya;Zahra M. Aghajan;Cliff Vuong;Jason Moore;Mayank Mehta;",
+    "author_corresponding": "Mayank  Mehta",
+    "author_corresponding_institution": "UCLA",
+    "date": "2015-03-28",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Neuroscience ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/03/28/017210.source.xml",
+    "abstract": "Both spatial and directional information are necessary for navigation. Rodent hippocampal neurons show spatial selectivity in all environments1, but directional tuning only on linear paths2-8.The sensory mechanisms underlying directionality are unknown, though vestibular and visual cues are thought to be crucial. However, hippocampal neurons are thought to show no angular modulation during two-dimensional random foraging despite the presence of vestibular and visual cues6,7. Additionally, specific aspects of visual cues have not been directly linked to hippocampal responses in rodents. To resolve these issues we manipulated vestibular and visual cues in a series of experiments. We first measured hippocampal activity during random foraging in real world (RW) where we found that neurons firing exhibited significant modulation by head-direction. In fact, the fraction of modulated neurons was comparable to that in the head-direction system9. These findings are contrary to commonly held beliefs about hippocampal directionality6,7. To isolate the contribution of visual cues we measured neural responses in a visually similar virtual reality (VR) where the range of vestibular inputs is minimized5,10,11. Significant directional modulation was not only found in VR, but it was comparable to that in RW. Several additional experiments revealed that changes in the angular information contained in the visual cues induced corresponding changes in hippocampal head-directional modulation. Remarkably, for head-directionally modulated neurons, the ensemble activity was biased towards the sole visual cue. These results demonstrate that robust vestibular cues are not required for hippocampal directional selectivity, while visual cues are not only sufficient but also play a causal role in driving hippocampal responses.",
+    "published": "10.1016/j.cell.2015.12.015",
+    "server": "biorxiv"
+  }
+]

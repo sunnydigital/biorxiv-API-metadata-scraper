@@ -1,0 +1,18 @@
+[
+  {
+    "doi": "10.1101/012021",
+    "title": "Bet-hedging, seasons and the evolution of behavioral diversity in Drosophila",
+    "authors": "Jamey Kain;Sarah Zhang;Mason Klein;Aravinthan Samuel;Benjamin de Bivort;",
+    "author_corresponding": "Benjamin  de Bivort",
+    "author_corresponding_institution": "Harvard University",
+    "date": "2014-11-30",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by",
+    "category": "Evolutionary Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/11/30/012021.source.xml",
+    "abstract": "Organisms use various strategies to cope with fluctuating environmental conditions. In diversified bet-hedging, a single genotype exhibits phenotypic heterogeneity with the expectation that some individuals will survive transient selective pressures. To date, empirical evidence for bet-hedging is scarce. Here, we observe that individual Drosophila melanogaster flies exhibit striking variation in light-and temperature-preference behaviors. With a modeling approach that combines real world weather and climate data to simulate temperature preference-dependent survival and reproduction, we find that a bet-hedging strategy may underlie the observed inter-individual behavioral diversity. Specifically, bet-hedging outcompetes strategies in which individual thermal preferences are heritable. Animals employing bet-hedging refrain from adapting to the coolness of spring with increased warm-seeking that inevitably becomes counterproductive in the hot summer. This strategy is particularly valuable when mean seasonal temperatures are typical, or when there is considerable fluctuation in temperature within the season. The model predicts, and we experimentally verify, that the behaviors of individual flies are not heritable. Finally, we model the effects of historical weather data, climate change, and geographic seasonal variation on the optimal strategies underlying behavioral variation between individuals, characterizing the regimes in which bet-hedging is advantageous.",
+    "published": "NA",
+    "server": "biorxiv"
+  }
+]

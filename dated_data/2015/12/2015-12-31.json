@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/035360",
+    "title": "A Critical Review on the Use of Support Values in Tree Viewers and Bioinformatics Toolkits",
+    "authors": "Lucas Czech;Jaime Huerta-Cepas;Alexandros Stamatakis;",
+    "author_corresponding": "Alexandros  Stamatakis",
+    "author_corresponding_institution": "Heidelberg Institute for Theoretical Studies",
+    "date": "2015-12-31",
+    "version": "2",
+    "type": "Contradictory Results",
+    "license": "cc_by_nd",
+    "category": "Evolutionary Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/12/31/035360.source.xml",
+    "abstract": "Phylogenetic trees are routinely visualized to present and interpret the evolutionary relationships of species. Virtually all empirical evolutionary data studies contain a visualization of the inferred tree with branch support values. Ambiguous semantics in tree file formats can lead to erroneous tree visualizations and therefore to incorrect interpretations of phylogenetic analyses.\\n\\nHere, we discuss problems that can and do arise when displaying branch values on trees after re-rooting. Branch values are typically stored as node labels in the widely-used Newick tree format. However, such values are attributes of branches. Storing them as node labels can therefore yield errors when re-rooting trees. This depends on the mostly implicit semantics that tools deploy to interpret node labels.\\n\\nWe reviewed 10 tree viewers and 10 bioinformatics toolkits that can display and re-root trees. We found that 14 out of 20 of these tools do not permit users to select the semantics of node labels. Thus, unaware users might obtain incorrect results when rooting trees inferred by common phylogenetic inference programs. We illustrate such incorrect mappings for several test cases and real examples taken from the literature. This review has already led to improvements and workarounds in 8 of the tested tools. We suggest tools should provide an option that explicitly forces users to define the semantics of node labels.",
+    "published": "10.1093/molbev/msx055",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/035766",
+    "title": "Estimating cell cycle model parameters using systems identification",
+    "authors": "Edwin Francisco Juarez Rosales;Ahmadreza Ghaffarizadeh;Samuel H Friedman;Edmond Jonckheere;Paul Macklin;",
+    "author_corresponding": "Paul  Macklin",
+    "author_corresponding_institution": "University of Southern California",
+    "date": "2015-12-31",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Cancer Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/12/31/035766.source.xml",
+    "abstract": "A current challenge in data-driven mathematical modeling of cancer is identifying biologically-relevant parameters of mathematical models from sparse and often noisy experimental data of mixed types. We describe a cell cycle model and outline how to use the Optimization Toolbox in Matlab to estimate its timescale parameters, given flow cytometry and cell viability (synthetic) data, and illustrate the technique with simulated data. This technique can be similarly applied to a variety of cell cycle models, particularly as more laboratories begin to use high-content, quantitative cell screening and imaging platforms. An advanced version of this work (CellPD: cell line phenotype digitizer) will be released as open source in early 2016 at MultiCellDS.org.",
+    "published": "NA",
+    "server": "biorxiv"
+  }
+]

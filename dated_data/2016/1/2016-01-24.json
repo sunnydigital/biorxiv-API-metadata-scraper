@@ -1,0 +1,18 @@
+[
+  {
+    "doi": "10.1101/033266",
+    "title": "Automated long-term recording and analysis of neural activity in behaving animals",
+    "authors": "Ashesh K Dhawale;Rajesh Poddar;Evi Kopelowitz;Valentin Normand;Steffen Wolff;Bence Olveczky;",
+    "author_corresponding": "Bence  Olveczky",
+    "author_corresponding_institution": "Harvard University",
+    "date": "2016-01-24",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Neuroscience ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2016/01/24/033266.source.xml",
+    "abstract": "Addressing how neural circuits underlie behavior is routinely done by measuring electrical activity from single neurons during experimental sessions. While such recordings yield snapshots of neural dynamics during specified tasks, they are ill-suited for tracking single-unit activity over longer timescales relevant for most developmental and learning processes, or for capturing neural dynamics across different behavioral states. Here we describe an automated platform for continuous long-term recordings of neural activity and behavior in freely moving animals. An unsupervised algorithm identifies and tracks the activity of single units over weeks of recording, dramatically simplifying the analysis of large datasets. Months-long recordings from motor cortex and striatum made and analyzed with our system revealed remarkable stability in basic neuronal properties, such as firing rates and inter-spike interval distributions. Interneuronal correlations and the representation of different movements and behaviors were similarly stable. This establishes the feasibility of high-throughput long-term extracellular recordings in behaving animals.\\n\\nHighlightsO_LIWe record neural activity and behavior in rodents continuously (24/7) over months\\nC_LIO_LIAn automated spike-sorting method isolates and tracks single units over many weeks\\nC_LIO_LINeural dynamics and motor representations are highly stable over long timescales\\nC_LIO_LINeurons cluster into functional groups based on their activity in different states\\nC_LI\\n\\neTOC BlurbDhawale et al. describe experimental infrastructure for recording neural activity and behavior continuously over months in freely moving rodents. A fully automated spike-sorting algorithm allows single units to be tracked over weeks of recording. Recordings from motor cortex and striatum revealed a remarkable long-term stability in both single unit activity and network dynamics.",
+    "published": "10.7554/eLife.27702",
+    "server": "biorxiv"
+  }
+]

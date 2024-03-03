@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/011601",
+    "title": "Strong selective sweeps on the X chromosome in the human-chimpanzee ancestor explain its low divergence",
+    "authors": "Julien Y Dutheil;Kasper Munch;Kiwoong Nam;Thomas Mailund;Mikkel Schierup;",
+    "author_corresponding": "Julien Y Dutheil",
+    "author_corresponding_institution": "Max Planck Institute for Evolutionary Biology",
+    "date": "2014-11-21",
+    "version": "3",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Evolutionary Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/11/21/011601.source.xml",
+    "abstract": "The human and chimpanzee X chromosomes are less divergent than expected based on autosomal divergence. This has led to a controversial hypothesis proposing a unique role of the X chromosome in human-chimpanzee speciation. We study incomplete lineage sorting patterns between humans, chimpanzees and gorillas to show that this low divergence is entirely due to megabase-sized regions comprising one-third of the X chromosome, where polymorphism in the human-chimpanzee ancestral species was severely reduced. Background selection can explain 10% of this reduction at most. Instead, we show that several strong selective sweeps in the ancestral species can explain this reduction of diversity in the ancestor. We also report evidence of population specific sweeps in extant humans that overlap the regions of low diversity in the ancestral species. These regions further correspond to chromosomal sections shown to be devoid of Neanderthal introgression into modern humans. This suggests that the same X-linked regions that undergo selective sweeps are among the first to form reproductive barriers between diverging species. We hypothesize that meiotic drive is the underlying mechanism causing these two observations.\\n\\nAuthors' SummaryBecause the speciation events that leads to human, chimpanzee and gorilla were close in time, their genetic relationship of these species varies along the genome. While human and chimpanzee species are most closely related, 15% of the human genome is more closely related to the gorilla genome than the chimpanzee genome, a phenomenon called incomplete lineage sorting (ILS). The amount and distribution of ILS can be predicted using population genetics theory, and is affected by demography and selection in the ancestral populations. It was previously reported that the X chromosome, in contrast to autosomes, is deprived of ILS, and this givies rise to controversial theories about the speciation event that splits humans and chimpanzees. Using a full genome alignment of the X chromosome, we show that this deprivation of ILS affects only one third of the chromosome. These regions also show reduced diversity in the extant populations of human and great apes, and coincide with regions devoid of Neanderthal introgression. We propose that these regions are targets of selection and that they played a role in the formation of reproductive barriers.",
+    "published": "10.1371/journal.pgen.1005451",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/011692",
+    "title": "Tissue-specific evolution of protein coding genes in human and mouse",
+    "authors": "Nadezda Kryuchkova-Mostacci;Marc Robinson-Rechavi;",
+    "author_corresponding": "Marc  Robinson-Rechavi",
+    "author_corresponding_institution": "University of Lausanne",
+    "date": "2014-11-21",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Evolutionary Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/11/21/011692.source.xml",
+    "abstract": "Protein-coding genes evolve at different rates, and the influence of different parameters, from gene size to expression level, has been extensively studied. While in yeast gene expression level is the major causal factor of gene evolutionary rate, the situation is more complex in animals. Here we investigate these relations further, especially taking in account gene expression in different organs as well as indirect correlations between parameters. We used RNA-seq data from two large datasets, covering 22 mouse tissues and 27 human tissues. Over all tissues, evolutionary rate only correlates weakly with levels and breadth of expression. The strongest explanatory factors of purifying selection are GC content, expression in many developmental stages, and expression in brain tissues. While the main component of evolutionary rate is purifying selection, we also find tissue-specific patterns for sites under neutral evolution and for positive selection. We observe fast evolution of genes expressed in testis, but also in other tissues, notably liver, which are explained by weak purifying selection rather than by positive selection.",
+    "published": "10.1371/journal.pone.0131673",
+    "server": "biorxiv"
+  }
+]

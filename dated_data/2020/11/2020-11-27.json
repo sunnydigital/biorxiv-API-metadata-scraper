@@ -1,0 +1,18 @@
+[
+  {
+    "doi": "10.1101/2020.11.27.400952",
+    "title": "DNA polymerase theta suppresses mitotic crossing over",
+    "authors": "Carvajal-Garcia, J.; Crown, K. N.; Ramsden, D. A.; Sekelsky, J.",
+    "author_corresponding": "Jeff  Sekelsky",
+    "author_corresponding_institution": "The University of North Carolina at Chapel Hill",
+    "date": "2020-11-27",
+    "version": "1",
+    "type": "new results",
+    "license": "cc_by",
+    "category": "genetics",
+    "jatsxml": "https://www.biorxiv.org/content/early/2020/11/27/2020.11.27.400952.source.xml",
+    "abstract": "Polymerase theta-mediated end joining (TMEJ) is a chromosome break repair pathway that is able to rescue the lethality associated with the loss of proteins involved in early steps in homologous recombination (e.g., BRCA1/2). This is due to the ability of polymerase theta (Pol {theta}) to use resected, 3 single stranded DNA tails to repair chromosome breaks. These resected DNA tails are also the starting substrate for homologous recombination. However, it remains unknown if TMEJ can compensate for the loss of proteins involved in more downstream steps during homologous recombination. Here we expand the number of homologous recombination proteins synthetic lethal with Pol {theta} to the Holliday junction resolvases SLX4 and GEN1. SLX4 and GEN1 are required for viability in the absence of Pol {theta} in Drosophila melanogaster, and lack of all three proteins results in very high levels of apoptosis. We observe that flies deficient in Pol {theta} and SLX4 are extremely sensitive to DNA damaging agents, and mammalian cells require either Pol {theta} or SLX4 to survive. Our results suggest that TMEJ and Holliday junction formation/resolution share a common DNA substrate, likely a homologous recombination intermediate, that when left unrepaired leads to cell death. One major consequence of Holliday junction resolution by SLX4 and GEN1 is cancer-causing loss of heterozygosity due to mitotic crossing over. We measured mitotic crossovers in flies after a Cas9-induced chromosome break, and observed that this mutagenic form of repair is increased in the absence of Pol {theta}. This demonstrates that TMEJ can function upstream of the Holiday junction resolvases to protect cells from loss of heterozygosity. Our work argues that Pol {theta} can thus compensate for the loss of the Holliday junction resolvases by utilizing homologous recombination intermediates, suppressing mitotic crossing over and preserving the genomic stability of cells.\n\nAuthor summaryChromosome breaks are a common threat to the stability of DNA. Mutations in genes involved in the early steps of homologous recombination (BRCA1 and BRCA2), a mostly error-free chromosome break repair pathway, lead to hereditary breast cancer. Cells lacking BRCA1 and BRCA2 rely on DNA polymerase theta, a key protein for a more error-prone pathway, for survival. Using fruit flies and mammalian cells, we have shown that mutations in genes involved in later steps of homologous recombination (SLX4 and GEN1) also make cells reliant on polymerase theta. Moreover, we have shown that polymerase theta acts upstream of a type of homologous recombination that is error-prone and depends on SLX4 and GEN1. This form of homologous recombination, termed Holliday junction resolution, creates mitotic crossovers, which can lead to loss of heterozygosity and cancer. Our results expand the cellular contexts that make cells depend on polymerase theta for survival, and the substrates that this protein can use to repair chromosome breaks.",
+    "published": "10.1371/journal.pgen.1009267",
+    "server": "biorxiv"
+  }
+]

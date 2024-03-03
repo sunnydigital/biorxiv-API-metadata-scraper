@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/001305",
+    "title": "Ordered, Random, Monotonic, and Non-Monotonic Digital Nanodot Gradients",
+    "authors": "Grant Ongo;Sebastien G Ricoult;Timothy E Kennedy;David Juncker;",
+    "author_corresponding": "David  Juncker",
+    "author_corresponding_institution": "McGill University",
+    "date": "2014-03-28",
+    "version": "3",
+    "type": "New Results",
+    "license": "cc_by",
+    "category": "Bioengineering ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/03/28/001305.source.xml",
+    "abstract": "Cell navigation is directed by inhomogeneous distributions of extracellular cues. It is well known that noise plays a key role in biology and is present in naturally occurring gradients at the micro- and nanoscale, yet it has not been studied with gradients in vitro. Here, we introduce novel algorithms to produce ordered and random gradients of discrete nanodots - called digital nanodot gradients (DNGs) - according to monotonic and non-monotonic density functions. The algorithms generate continuous DNGs, with dot spacing changing in two dimensions along the gradient direction according to arbitrary mathematical functions, with densities ranging from 0.02% to 44.44%. The random gradient algorithm compensates for random nanodot overlap, and the randomness and spatial homogeneity of the DNGs were confirmed with Ripleys K function. An array of 100 DNGs, each 400 x 400 {micro}m2, comprising a total of 57 million 200 x 200 nm2 dots was designed and patterned into silicon using electron-beam lithography, then patterned as fluorescently labeled IgGs on glass using lift-off nanocontact printing. DNGs will facilitate the study of the effects of noise and randomness at the micro- and nanoscales on cell migration and growth.",
+    "published": "10.1371/journal.pone.0106541",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/003640",
+    "title": "The Scramble Conversion Tool",
+    "authors": "James K Bonfield;",
+    "author_corresponding": "James K Bonfield",
+    "author_corresponding_institution": "Wellcome Trust Sanger Institute",
+    "date": "2014-03-28",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by",
+    "category": "Bioinformatics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/03/28/003640.source.xml",
+    "abstract": "MotivationThe reference CRAM file format implementation is in Java. We present \\\"Scramble\\\": a new C implementation of SAM, BAM and CRAM file I/O.\\n\\nResultsThe C API for CRAM is 1.5-1.7x slower than BAM at decoding, but 1.8-2.6x faster at encoding. We see file size savings of 40-50%.\\n\\nAvailabilitySource code is available from http://sourceforge.net/projects/staden/files/io_lib/",
+    "published": "10.1093/bioinformatics/btu390",
+    "server": "biorxiv"
+  }
+]

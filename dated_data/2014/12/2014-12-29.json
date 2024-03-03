@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/013326",
+    "title": "Reconstructing gene content in the last common ancestor of cellular life: is it possible, should it be done, and are we making any progress?",
+    "authors": "Arcady Mushegian;",
+    "author_corresponding": "Arcady  Mushegian",
+    "author_corresponding_institution": "n/a",
+    "date": "2014-12-29",
+    "version": "1",
+    "type": "Confirmatory Results",
+    "license": "cc_by_nc_nd",
+    "category": "Evolutionary Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/12/29/013326.source.xml",
+    "abstract": "I review recent literature on the reconstruction of gene repertoire of the Last Universal Common Ancestor of cellular life (LUCA). The form of the phylogenetic record of cellular life on Earth is important to know in order to reconstruct any ancestral state; therefore I also discuss the emerging understanding that this record does not take the form of a tree. I argue that despite this, \\\"tree-thinking\\\" remains an essential component in evolutionary thinking and that \\\"pattern pluralism\\\" in evolutionary biology can be only epistemological, but not ontological.",
+    "published": "NA",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/013318",
+    "title": "High-resolution genomic surveillance of 2014 ebolavirus using shared subclonal variants",
+    "authors": "Kevin J Emmett;Albert K Lee;Hossein Khiabanian;Raul Rabadan;",
+    "author_corresponding": "Raul  Rabadan",
+    "author_corresponding_institution": "Columbia University",
+    "date": "2014-12-29",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Evolutionary Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/12/29/013318.source.xml",
+    "abstract": "Viral outbreaks, such as the 2014 ebolavirus, can spread rapidly and have complex evolutionary dynamics, including coinfection and bulk transmission of multiple viral populations. Genomic surveillance can be hindered when the spread of the outbreak exceeds the evolutionary rate, in which case consensus approaches will have limited resolution. Deep sequencing of infected patients can identify genomic variants present in intrahost populations at subclonal frequencies (i.e. < 50%). Shared subclonal variants (SSVs) can provide additional phylogenetic resolution and inform about disease transmission patterns. Here, we use metrics from population genetics to analyze data from the 2014 ebolavirus outbreak in Sierra Leone and identify phylogenetic signal arising from SSVs. We use methods derived from information theory to measure a lower bound on transmission bottleneck size that is larger than one founder population, yet significantly smaller than the intrahost effective population. Our results demonstrate the important role of shared subclonal variants in genomic surveillance.",
+    "published": "10.1371/currents.outbreaks.c7fd7946ba606c982668a96bcba43c90",
+    "server": "biorxiv"
+  }
+]

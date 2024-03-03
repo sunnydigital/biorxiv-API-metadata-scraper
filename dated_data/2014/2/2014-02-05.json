@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/002360",
+    "title": "A phase diagram for gene selection and disease classification",
+    "authors": "Hong-Dong Li;Qing-Song Xu;Yi-Zeng Liang;",
+    "author_corresponding": "Hong-Dong  Li",
+    "author_corresponding_institution": "Central South University",
+    "date": "2014-02-05",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_by_nc",
+    "category": "Bioinformatics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/02/05/002360.source.xml",
+    "abstract": "Identifying a small subset of discriminate genes is important for predicting clinical outcomes and facilitating disease diagnosis. Based on the model population analysis framework, we present a method, called PHADIA, which is able to output a phase diagram displaying the predictive ability of each variable, which provides an intuitive way for selecting informative variables. Using two publicly available microarray datasets, its demonstrated that our method can selects a few informative genes and achieves significantly better or comparable classification accuracy compared to the reported results in the literature. The source codes are freely available at: www.libpls.net.",
+    "published": "NA",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/002378",
+    "title": "Evolutionary dynamics of shared niche construction",
+    "authors": "Philip Gerlee;Alexander RA Anderson;",
+    "author_corresponding": "Philip  Gerlee",
+    "author_corresponding_institution": "Moffitt Cancer Center",
+    "date": "2014-02-05",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Evolutionary Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/02/05/002378.source.xml",
+    "abstract": "Many species engage in niche construction that ultimately leads to an increase in the carrying capacity of the population. We have investigated how the specificity of this behaviour affects evolutionary dynamics using a set of coupled logistic equations, where the carrying capacity of each genotype consists of two components: an intrinsic part and a contribution from all genotypes present in the population. The relative contribution of the two components is controlled by a specificity parameter{gamma} , and we show that the ability of a mutant to invade a resident population depends strongly on this parameter. When the carrying capacity is intrinsic, selection is almost exclusively for mutants with higher carrying capacity, while a shared carrying capacity yields selection purely on growth rate. This result has important implications for our understanding of niche construction, in particular the evolutionary dynamics of tumor growth.",
+    "published": "NA",
+    "server": "biorxiv"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "doi": "10.1101/003954",
+    "title": "SplitMEM: Graphical pan-genome analysis with suffix skips",
+    "authors": "Shoshana Marcus;Hayan Lee;Michael Schatz;",
+    "author_corresponding": "Michael  Schatz",
+    "author_corresponding_institution": "Cold Spring Harbor Laboratory",
+    "date": "2014-04-06",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Bioinformatics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/04/06/003954.source.xml",
+    "abstract": "Motivation: With the rise of improved sequencing technologies, genomics is expanding from a single reference per species paradigm into a more comprehensive pan-genome approach with multiple individuals represented and analyzed together. One of the most sophisticated data structures for representing an entire population of genomes is a compressed de Bruijn graph. The graph structure can robustly represent simple SNPs to complex structural variations far beyond what can be done from linear sequences alone. As such there is a strong need to develop algorithms that can efficiently construct and analyze these graphs. Results: In this paper we explore the deep topological relationships between the suffix tree and the compressed de Bruijn graph. We introduce a novel O(n log n) time and space algorithm called splitMEM, that directly constructs the compressed de Bruijn graph for a pan-genome of total length n. To achieve this time complexity, we augment the suffix tree with suffix skips, a new construct that allows us to traverse several suffix links in constant time, and use them to efficiently decompose maximal exact matches (MEMs) into the graph nodes. We demonstrate the utility of splitMEM by analyzing the pan- genomes of 9 strains of Bacillus anthracis and 9 strains of Escherichia coli to reveal the properties of their core genomes. Availability: The source code and documentation are available open- source at http://splitmem.sourceforge.net",
+    "published": "10.1093/bioinformatics/btu756",
+    "server": "biorxiv"
+  }
+]

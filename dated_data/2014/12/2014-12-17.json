@@ -1,0 +1,50 @@
+[
+  {
+    "doi": "10.1101/006122",
+    "title": "Natural selection constrains neutral diversity across a wide range of species.",
+    "authors": "Russell B. Corbett-Detig;Daniel L. Hartl;Timothy B. Sackton;",
+    "author_corresponding": "Timothy B. Sackton",
+    "author_corresponding_institution": "Harvard University",
+    "date": "2014-12-17",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Genomics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/12/17/006122.source.xml",
+    "abstract": "The neutral theory of molecular evolution predicts that the amount of neutral polymorphisms within a species will increase proportionally with the census population size (Nc). However, this prediction has not been borne out in practice: while the range of Nc spans many orders of magnitude, levels of genetic diversity within species fall in a comparatively narrow range. Although theoretical arguments have invoked the increased efficacy of natural selection in larger populations to explain this discrepancy, few direct empirical tests of this hypothesis have been conducted. In this work, we provide a direct test of this hypothesis using population genomic data from a wide range of taxonomically diverse species. To do this, we relied on the fact that the impact of natural selection on linked neutral diversity depends on the local recombinational environment. In regions of relatively low recombination, selected variants affect more neutral sites through linkage, and the resulting correlation between recombination and polymorphism allows a quantitative assessment of the magnitude of the impact of selection on linked neutral diversity. By comparing whole-genome polymorphism data and genetic maps using a coalescent modeling framework, we estimate the degree to which natural selection reduces linked neutral diversity for 40 species of obligately sexual eukaryotes. We then show that the magnitude of the impact of natural selection is positively correlated with Nc, based on body size and species range as proxies for census population size. These results demonstrate that natural selection removes more variation at linked neutral sites in species with large Nc than those with small Nc, and provides direct empirical evidence that natural selection constrains levels of neutral genetic diversity across many species. This implies that natural selection may provide an explanation for this longstanding paradox of population genetics.",
+    "published": "10.1371/journal.pbio.1002112",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/012864",
+    "title": "A biophysical approach to predicting protein-DNA binding energetics",
+    "authors": "George Locke;Alexandre V Morozov;",
+    "author_corresponding": "Alexandre V Morozov",
+    "author_corresponding_institution": "Rutgers University, Department of Physics & Astronomy",
+    "date": "2014-12-17",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by",
+    "category": "Biophysics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/12/17/012864.source.xml",
+    "abstract": "Sequence-specific interactions between proteins and DNA play a central role in DNA replication, repair, recombination, and control of gene expression. These interactions can be studied in vitro using microfluidics, protein-binding microarrays (PBMs), and other high-throughput techniques. Here we develop a biophysical approach to predicting protein-DNA binding specificities from high-throughput in vitro data. Our algorithm, called BindSter, accommodates multiple protein species competing for access to DNA and alternative binding modes of the same protein, while rigorously taking into account all sterically allowed configurations of DNA-bound particles. BindSter can be used with a hierarchy of protein-DNA interaction models of increasing complexity. We observe that the quality of BindSter predictions does not change significantly as some of the energy parameters vary over a sizable range. To take this degeneracy into account, we have developed a graphical representation of parameter uncertainties, called IntervalLogo. We find that our simplest model, in which each nucleotide in the binding site is treated independently, performs better than previous biophysical approaches. The extensions of this model, in which contributions of longer words are also considered, result in further improvements, underscoring the importance of higherorder effects in protein-DNA energetics. In contrast, we find little evidence for multiple binding modes for the transcription factors (TFs) in our dataset. Furthermore, there is limited consistency in predictions for the same TF utilizing microfluidics and PBM experimental platforms.",
+    "published": "10.1534/genetics.115.178384",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/012872",
+    "title": "Common binding by redundant group B Sox proteins is evolutionarily conserved in Drosophila",
+    "authors": "Sarah H Carl;Steven Russell;",
+    "author_corresponding": "Steven  Russell",
+    "author_corresponding_institution": "University of Cambridge",
+    "date": "2014-12-17",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nd",
+    "category": "Genomics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/12/17/012872.source.xml",
+    "abstract": "BackgroundGroup B Sox proteins are a highly conserved group of transcription factors that act extensively to coordinate nervous system development in higher metazoans while showing both co-expression and functional redundancy across a broad group of taxa. In Drosophila melanogaster, the two group B Sox proteins Dichaete and SoxNeuro show widespread common binding across the genome. While some instances of functional compensation have been observed in Drosophila, the function of common binding and the extent of its evolutionary conservation is not known.\\n\\nResultsWe used DamID-seq to examine the genome-wide binding patterns of Dichaete and SoxNeuro in four species of Drosophila. Through a quantitative comparison of Dichaete binding, we evaluated the rate of binding site turnover across the genome as well as at specific functional sites. We also examined the presence of Sox motifs within binding intervals and the correlation between sequence conservation and binding conservation. To determine whether common binding between Dichaete and SoxNeuro is conserved, we performed a detailed analysis of the binding patterns of both factors in two species.\\n\\nConclusionWe find that, while the regulatory networks driven by Dichaete and SoxNeuro are largely conserved across the drosophilids studied, binding site turnover is widespread and correlated with phylogenetic distance. Nonetheless, binding is preferentially conserved at known cis-regulatory modules and core, independently verified binding sites. We observed the strongest binding conservation at sites that are commonly bound by Dichaete and SoxNeuro, suggesting that these sites are functionally important. Our analysis provides insights into the evolution of group B Sox function, highlighting the specific conservation of shared binding sites and suggesting alternative sources of neofunctionalisation between paralogous family members.",
+    "published": "10.1186/s12864-015-1495-3",
+    "server": "biorxiv"
+  }
+]

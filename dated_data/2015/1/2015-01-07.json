@@ -1,0 +1,50 @@
+[
+  {
+    "doi": "10.1101/008813",
+    "title": "The dark side of theoretical ecology",
+    "authors": "Lev V. Kalmykov;",
+    "author_corresponding": "Lev V. Kalmykov",
+    "author_corresponding_institution": "Institute of Theoretical and Experimental Biophysics, Russian Academy of Sciences",
+    "date": "2015-01-07",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/01/07/008813.source.xml",
+    "abstract": "Good science must be clearly transparent in its theories, models and experiments. Earlier David Tilman drew attention to the fact that ecologists investigate interspecific competition phenomenologically, rather than mechanistically. To create a mechanistic model of a complex dynamic system we need to logically describe interactions of its subsystems which lead to emergence of new properties on the macro-level. There are black-box, grey-box and white-box models of complex systems. Black-box models are completely nonmechanistic. We cannot investigate interactions of subsystems of such non-transparent model. A white-box model of a complex system has \\\"transparent walls\\\" and directly shows underlined mechanistic mechanisms - all events at micro-, meso-and macro-levels of the modeled dynamic system are directly visible at all stages. Grey-box models are intermediate. Basic ecological models are of black-box type, e.g. Malthusian, Verhulst, Lotka-Volterra models. These models are not individual-based and cannot show features of local interactions of individuals of competing species. That is why they principally cannot provide a mechanistic insight into interspecific competition. To create a white-box model we need a physical theory of the object domain and its intrinsic axiomatic system. On the basis of axiomatic system there is a possibility to logically generate a new knowledge by logical deterministic cellular automata. Understanding of biodiversity mechanisms is the global research priority. Only knowledge of mechanisms of interspecific interactions can allow us to efficiently operate in the field of biodiversity conservation. Obviously that such knowledge must be based on mechanistic models of species coexistence. In order to create a serviceable theory of biodiversity it is necessary to renew attempts to create a basic mechanistic model of species coexistence. But the question arises: Why ecological modelers prefer to use the heaviest black-box mathematical methods which cannot produce mechanistic models of complex dynamic systems in principle, and why they do not use simple and long-known pure logical deterministic cellular automata, which easily can produce white-box models and directly generate clear mechanistic insights into dynamics of complex systems?",
+    "published": "NA",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/013474",
+    "title": "A Spatial Framework for Understanding Population Structure and Admixture.",
+    "authors": "Gideon Bradburd;Peter L. Ralph;Graham Coop;",
+    "author_corresponding": "Gideon  Bradburd",
+    "author_corresponding_institution": "University of California, Davis",
+    "date": "2015-01-07",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by",
+    "category": "Evolutionary Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/01/07/013474.source.xml",
+    "abstract": "Geographic patterns of genetic variation within modern populations, produced by complex histories of migration, can be difficult to infer and visually summarize. A general consequence of geographically limited dispersal is that samples from nearby locations tend to be more closely related than samples from distant locations, and so genetic covariance often recapitulates geographic proximity. We use genome-wide polymorphism data to build \\\"geogenetic maps,\\\" which, when applied to stationary populations, produces a map of the geographic positions of the populations, but with distances distorted to reflect historical rates of gene flow. In the underlying model, allele frequency covariance is a decreasing function of geogenetic distance, and nonlocal gene flow such as admixture can be identified as anomalously strong covariance over long distances. This admixture is explicitly co-estimated and depicted as arrows, from the source of admixture to the recipient, on the geogenetic map. We demonstrate the utility of this method on a circum-Tibetan sampling of the greenish warbler (Phylloscopus trochiloides), in which we find evidence for gene flow between the adjacent, terminal populations of the ring species. We also analyze a global sampling of human populations, for which we largely recover the geography of the sampling, with support for significant histories of admixture in many samples. This new tool for understanding and visualizing patterns of population structure is implemented in a Bayesian framework in the program SpaceMix.\\n\\nAuthor SummaryIn this paper, we introduce a statistical method for inferring, for a set of sequenced samples, a map in which the distances between population locations reflect genetic, rather than geographic, proximity. Two populations that are sampled at distant locations but that are genetically similar (perhaps one was recently founded by a colonization event from the other) may have inferred locations that are nearby, while two populations that are sampled close together, but that are genetically dissimilar (e.g., are separated by a barrier), may have inferred locations that are farther apart. The result is a \\\"geogenetic\\\" map in which the distances between populations are effective distances, indicative of the way that populations perceive the distances between themselves: the \\\"organisms-eye view\\\" of the world. Added to this, \\\"admixture\\\" can be thought of as the outcome of unusually long-distance gene flow; it results in relatedness between populations that is anomalously high given the distance that separates them. We depict the effect of admixture using arrows, from a source of admixture to its target, on the inferred map. The inferred geogenetic map is an intuitive and information-rich visual summary of patterns of population structure.",
+    "published": "10.1371/journal.pgen.1005703",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/013532",
+    "title": "Multi -omics and metabolic modelling pipelines: challenges and tools for systems microbiology",
+    "authors": "Marco Fondi;Pietro Li\u00f2;",
+    "author_corresponding": "Marco  Fondi",
+    "author_corresponding_institution": "University of Florence",
+    "date": "2015-01-07",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Systems Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/01/07/013532.source.xml",
+    "abstract": "Integrated -omics approaches are quickly spreading across microbiology research labs, leading to i) the possibility of detecting previously hidden features of microbial cells like multi-scale spatial organisation and ii) tracing molecular components across multiple cellular functional states. This promises to reduce the knowledge gap between genotype and phenotype and poses new challenges for computational microbiologists. We underline how the capability to unravel the complexity of microbial life will strongly depend on the integration of the huge and diverse amount of information that can be derived today from - omics experiments. In this work, we present opportunities and challenges of multi -omics data integration in current systems biology pipelines. We here discuss which layers of biological information are important for biotechnological and clinical purposes, with a special focus on bacterial metabolism and modelling procedures. A general review of the most recent computational tools for performing large-scale datasets integration is also presented, together with a possible framework to guide the design of systems biology experiments by microbiologists.",
+    "published": "10.1016/j.micres.2015.01.003",
+    "server": "biorxiv"
+  }
+]

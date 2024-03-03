@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/003541",
+    "title": "An optimized CRISPR/Cas toolbox for efficient germline and somatic genome engineering in Drosophila",
+    "authors": "Fillip Port;Hui-Min Chen;Tzumin Lee;Simon L Bullock;",
+    "author_corresponding": "Fillip  Port",
+    "author_corresponding_institution": "MRC-LMB",
+    "date": "2014-03-26",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Genetics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/03/26/003541.source.xml",
+    "abstract": "The type II CRISPR/Cas system has recently emerged as a powerful method to manipulate the genomes of various organisms. Here, we report a novel toolbox for high efficiency genome engineering of Drosophila melanogaster consisting of transgenic Cas9 lines and versatile guide RNA (gRNA) expression plasmids. Systematic evaluation reveals Cas9 lines with ubiquitous or germline restricted patterns of activity. We also demonstrate differential activity of the same gRNA expressed from different U6 snRNA promoters, with the previously untested U6:3 promoter giving the most potent effect. Choosing an appropriate combination of Cas9 and gRNA allows targeting of essential and non-essential genes with transmission rates ranging from 25% - 100%. We also provide evidence that our optimized CRISPR/Cas tools can be used for offset nicking-based mutagenesis and, in combination with oligonucleotide donors, to precisely edit the genome by homologous recombination with efficiencies that do not require the use of visible markers. Lastly, we demonstrate a novel application of CRISPR/Cas-mediated technology in revealing loss-of-function phenotypes in somatic cells following efficient biallelic targeting by Cas9 expressed in a ubiquitous or tissue-restricted manner. In summary, our CRISPR/Cas tools will facilitate the rapid evaluation of mutant phenotypes of specific genes and the precise modification of the genome with single nucleotide precision. Our results also pave the way for high throughput genetic screening with CRISPR/Cas.",
+    "published": "10.1073/pnas.1405500111",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/003533",
+    "title": "Rice BiP3 regulates immunity mediated by the PRRs XA3 and XA21 but not immunity mediated by the NB-LRR protein, Pi5",
+    "authors": "Chang-Jin Park;Min-Young Song;Chi-Yeol Kim;Jong-Seong Jeon;Pamela C. Ronald;",
+    "author_corresponding": "Pamela C. Ronald",
+    "author_corresponding_institution": "Department of Plant Pathology and the Genome Center, University of California Davis",
+    "date": "2014-03-26",
+    "version": "1",
+    "type": "Confirmatory Results",
+    "license": "cc_no",
+    "category": "Plant Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/03/26/003533.source.xml",
+    "abstract": "Plant innate immunity is mediated by pattern recognition receptors (PRRs) and intracellular NB-LRR (nucleotide-binding domain and leucine-rich repeat) proteins. Overexpression of the endoplasmic reticulum (ER) chaperone, luminal-binding protein 3 (BiP3) compromises resistance to Xanthomonas oryzae pv. oryzae (Xoo) mediated by the rice PRR XA21 (Park et al., PLoS ONE 5(2): e9262). Here we show that BiP3 overexpression also compromises resistance mediated by rice XA3, a PRR that provides broad-spectrum resistance to Xoo. In contrast, BiP3 overexpression has no effect on resistance mediated by rice Pi5, an NB-LRR protein that confers resistance to the fungal pathogen Magnaporthe oryzae (M. oryzae). Our results suggest that rice BiP3 regulates membrane-resident PRR-mediated immunity.",
+    "published": "10.1016/j.bbrc.2014.04.093",
+    "server": "biorxiv"
+  }
+]

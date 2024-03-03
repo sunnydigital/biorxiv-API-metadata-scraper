@@ -1,0 +1,18 @@
+[
+  {
+    "doi": "10.1101/384511",
+    "title": "An efficient timer and sizer of protein motions reveals the time scales of functional dynamics in the ribosome",
+    "authors": "Chan, J.; Lin, H.-R.; Takemura, K.; Chang, K.-C.; Chang, Y.-Y.; Joti, Y.; Kitao, A.; Yang, L.-W.",
+    "author_corresponding": "Lee-Wei  Yang",
+    "author_corresponding_institution": "Institute of Bioinformatics and Structural Biology, National Tsing Hua University",
+    "date": "2018-08-03",
+    "version": "1",
+    "type": "new results",
+    "license": "cc_no",
+    "category": "biophysics",
+    "jatsxml": "https://www.biorxiv.org/content/early/2018/08/03/384511.source.xml",
+    "abstract": "The clock of life ticks as fast as how efficiently proteins could perform their functional dynamics. Protein complexes execute functions via several large-scale intrinsic motions across multiple conformational states, which occur at a timescale of nano-to milliseconds for well-folded proteins. Computationally expensive molecular dynamics (MD) simulation has been the only theoretical tool to time and size these motions, though barely to their slowest ends. Here, we convert a simple elastic network model (ENM), which takes a few seconds (ubiquitin) to hours (ribosome) for the analysis, into a molecular timer and sizer to gauge the slowest functional motions of proteins. Quasi-harmonic analysis, fluctuation-profile matching (FPM) and the Wiener-Khintchine theorem (WKT) are used to define the \\\"time-periods\\\", t, for anharmonic principal components (PCs) which are validated by NMR order parameters. The PCs with their respective \\\"time-periods\\\" are mapped to the eigenvalues ({lambda}ENM) of the corresponding ENM modes. Thus, the power laws t(ns) = 86.9{lambda}ENM-1.9 and {sigma}2([A]2) = 46.1 {lambda}ENM-2.5 are established allowing the characterization of the time scales of Nuclear Magnetic Resonance (NMR)-solved conformers, crystallographic anisotropic displacement parameters, and important ribosomal motions, as well as motional sizes of the latter.\\n\\nAuthor SummaryThe time scale of biological processes is governed by protein functional dynamics that often corresponds to the largest conformational spread and the longest time scales among all possible motions. Current simulation methodologies cannot reach the slowest, often functional, motions especially for supramolecular machineries. Borrowing the spring-bead model used in polymer physics since 60s, the efficient elastic network model (ENM), introduced in 90s, captured all modes of protein motions but largely underestimated the time scales of slowest modes due to its harmonic approximation.\\n\\nHere we map water-damped modes sampled by MD simulations to corresponding ones in ENM and thereby establish 2 power laws that describe the authentic time scales and sizes for the slowest anharmonic modes as functions of ENM eigenvalues. With that, we adequately describe the sizes and time scales for three proteins, confirmed by NMR spectroscopy, and ribosome that contains ~0.2 million heavy atoms (~ 20 thousands coarse-grained nodes).",
+    "published": "10.1016/j.str.2019.10.020",
+    "server": "biorxiv"
+  }
+]

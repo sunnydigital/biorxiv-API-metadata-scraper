@@ -1,0 +1,50 @@
+[
+  {
+    "doi": "10.1101/2020.03.12.988618",
+    "title": "Development of transient expression assay for Cannabis sativa which revealed differential Agrobacterium susceptibility among cannabis cultivars",
+    "authors": "Sorokin, A.; Yadav, N. S.; Gaudet, D.; Kovalchuk, I.",
+    "author_corresponding": "Igor  Kovalchuk",
+    "author_corresponding_institution": "University of Lethbridge",
+    "date": "2020-03-12",
+    "version": "1",
+    "type": "new results",
+    "license": "cc_by",
+    "category": "molecular biology",
+    "jatsxml": "https://www.biorxiv.org/content/early/2020/03/12/2020.03.12.988618.source.xml",
+    "abstract": "In plant biology, transient expression analysis plays a vital role to provide a fast method to study the gene of interest and subsequently leads the path to develop an improved crop variety with better agronomic traits. In this study, we have reported a rapid and efficient method for transient expression in Cannabis sativa seedlings using Agrobacterium tumefaciens-mediated transformation. A. tumefaciens strain EHA105 carrying the pCAMBIA1301 construct with uidA gene was used to transform cannabis seedlings and the GUS assay was used to detect the uidA expression. A 1% hydrogen peroxide (H2O2) solution was used for both seed sterilization and rapid germination steps. Transient transformation revealed that both cotyledons and young true leaves are amenable to transformation. Comparison to Nicotiana tabacum (tobacco) showed that cannabis seedlings were less susceptible to transformation with Agrobacterium tumefaciens. The susceptibility to Agrobacterium infection also varied with the different cannabis cultivars. The method established in this study has potential to be an important tool for gene-function studies and genetic improvement in cannabis.",
+    "published": "NA",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/2020.03.12.988592",
+    "title": "Minimizing the number of optimizations for efficient community dynamic flux balance analysis.",
+    "authors": "Brunner, J. D.; Chia, N.",
+    "author_corresponding": "James  D.  Brunner",
+    "author_corresponding_institution": "Mayo Clinic",
+    "date": "2020-03-12",
+    "version": "1",
+    "type": "new results",
+    "license": "cc_by",
+    "category": "systems biology",
+    "jatsxml": "https://www.biorxiv.org/content/early/2020/03/12/2020.03.12.988592.source.xml",
+    "abstract": "Dynamic flux balance analysis uses a quasi-steady state assumption to calculate an organisms metabolic activity at each time-step of a dynamic simulation, using the well-know technique of flux balance analysis. For microbial communities, this calculation is especially costly and involves solving a linear constrained optimization problem for each member of the community at each time step. However, this is unnecessary and inefficient, as prior solutions can be used to inform future time steps. Here, we show that a basis for the space of internal fluxes can be chosen for each microbe in a community and this basis can be used to simulate forward by solving a relatively inexpensive system of linear equations at most time steps, instead of the full optimization problem. Using our method, we can use this solution as long as the resulting metabolic activity remains within the optimization problems constraints (i.e. the solution remains feasible). As the solution becomes infeasible, it first becomes a feasible but degenerate solution to the optimization problem, and we can solve a different but related optimization problem to choose an appropriate basis to continue forward simulation. We show using an eight species community that this is an efficient and robust method for computing dynamic flux balance analysis simulations, and so is capable of simulating communities of organisms. We demonstrate that the method gives an approximately 85% speed-up per organism over the standard and widely used method. Our method has been implemented in the Python language and source code is available at https://github.com/jdbrunner/surfin_fba and in the Python Package Index (PyPI) as surfinFBA.\n\nAuthor summaryThe standard method in the field for dynamic flux balance analysis carries a prohibitively high computational cost because it requires solving a linear optimization problem at each time-step. We have developed a novel method for producing solutions to this dynamical system which greatly reduces the number of optimization problems that must be solved. We prove mathematically that we can solve the optimization problem once and simulate the system forward as an ordinary differential equation for some time interval, and solutions to this ODE provide solutions to the optimization problem. Eventually, the system reaches an easily checkable condition which implies that another optimization problem must be solved. We compare our method with the classical method to validate that it provides equivalent solutions in much lower computational time.",
+    "published": "10.1371/journal.pcbi.1007786",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/2020.03.12.988584",
+    "title": "Efficient and Flexible Integration of Variant Characteristics in Rare Variant Association Studies Using Integrated Nested Laplace Approximation",
+    "authors": "Susak, H.; Serra-Saurina, L.; Rabionet Janssen, R.; Domenech, L.; Bosio, M.; Muyas, F.; Estivill, X.; Escaramis, G.; Ossowsky, S.",
+    "author_corresponding": "Georgia  Escaramis",
+    "author_corresponding_institution": "University of Barcelona",
+    "date": "2020-03-12",
+    "version": "1",
+    "type": "new results",
+    "license": "cc_by",
+    "category": "bioinformatics",
+    "jatsxml": "https://www.biorxiv.org/content/early/2020/03/12/2020.03.12.988584.source.xml",
+    "abstract": "Rare variants are thought to play an important role in the etiology of complex diseases and may explain a significant fraction of the missing heritability in genetic disease studies. Next-generation sequencing facilitates the association of rare variants in coding or regulatory regions with complex diseases in large cohorts at genome-wide scale. However, rare variant association studies (RVAS) still lack power when cohorts are small to medium-sized and if genetic variation explains a small fraction of phenotypic variance. Here we present a novel Bayesian rare variant Association Test using Integrated Nested Laplace Approximation (BATI). Unlike existing RVAS tests, BATI allows integration of individual or variant-specific features as covariates, while efficiently performing inference based on full model estimation. We demonstrate that BATI outperforms established RVAS methods on realistic, semi-synthetic whole-exome sequencing cohorts, especially when using meaningful biological context, such as functional annotation. We show that BATI achieves power above 75% in scenarios in which competing tests fail to identify risk genes, e.g. when risk variants in sum explain less than 0.5% of phenotypic variance. We have integrated BATI, together with five existing RVAS tests in the  Rare Variant Genome Wide Association Study (rvGWAS) framework for data analyzed by whole-exome or whole genome sequencing. rvGWAS supports rare variant association for genes or any other biological unit such as promoters, while allowing the analysis of essential functionalities like quality control or filtering. Applying rvGWAS to a Chronic Lymphocytic Leukemia study we identified eight candidate predisposition genes, including EHMT2 and COPS7A.\n\nData availability and implementationAll relevant data are within the manuscript and pipeline implementation on https://github.com/hanasusak/rvGWAS\n\nAuthor summaryComplex diseases are characterized by being related to genetic factors and environmental factors such as air pollution, diet etc. that together define the susceptibility of each individual to develop a given disease. Much effort has been applied to advance the knowledge of the genetic bases of such diseases, specially in the discovery of frequent genetic variants in the population increasing disease risk. However, these variants usually explain a little part of the etiology of such diseases. Previous studies have shown that rare variants, i.e. variants present in less than 1% of the population, may explain the rest of the variability related to genetic aspects of the disease.\n\nGenome sequencing offers the opportunity to discover rare variants, but powerful statistical methods are needed to discriminate those variants that induce susceptibility to the disease. Here we have developed a powerful and flexible statistical approach for the detection of rare variants associated with a disease and we have integrated it into a computer tool that is easy and intuitive for the researchers and clinicians to use. We have shown that our approach outperformed other common statistical methods specially in a situation where these variants explain just a small part of the disease. The discovery of these rare variants will contribute to the knowledge of the molecular mechanism of complex diseases.",
+    "published": "10.1371/journal.pcbi.1007784",
+    "server": "biorxiv"
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/000653",
+    "title": "An interplay between extracellular signalling and the dynamics of the exit from pluripotency drives cell fate decisions in mouse ES cells",
+    "authors": "David A Turner;Jamie Trott;Penelope Hayward;Pau Ru\u00e9;Alfonso Martinez Arias;",
+    "author_corresponding": "Alfonso  Martinez Arias",
+    "author_corresponding_institution": "Department of Genetics. University of Cambridge. Cambridge CB2 3EH. UK.",
+    "date": "2013-11-21",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_by",
+    "category": "Developmental Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2013/11/21/000653.source.xml",
+    "abstract": "Embryonic Stem cells derived from the epiblast tissue of the mammalian blastocyst, retain the capability to differentiate into any adult cell type and are able to self-renew indefinitely under appropriate culture conditions. Despite the large amount of knowledge that we have accumulated to date about the regulation and control of self-renewal, efficient directed differentiation into specific tissues remains elusive. In this work, we have analyzed in a systematic manner the interaction between the dynamics of loss of pluripotency and Activin/Nodal, BMP4 and Wnt signalling in fate assignment during the early stages of differentiation of mouse ES cells in culture. During the initial period of differentiation cells exit from pluripotency and enter an Epi-like state. Following this transient stage, and under the influence of Activin/Nodal and BMP signalling, cells face a fate choice between differentiating into neuroectoderm and contributing to Primitive Streak fates. We find that Wnt signalling does not suppress neural development as previously thought and that it aids both fates in a context dependent manner. Our results suggest that as cells exit pluripotency they are endowed with a primary neuroectodermal fate and that the potency to become endomesodermal rises with time. We suggest that this situation translates into a \\\"race for fates\\\" at the level of single cells in which the neuroectodermal fate has an advantage.",
+    "published": "10.1242/bio.20148409",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/000760",
+    "title": "Linking indices for biodiversity monitoring to extinction risk theory",
+    "authors": "Michael A. McCarthy;Alana L. Moore;Jochen Krauss;John W Morgan;Christopher F. Clements;",
+    "author_corresponding": "Michael A. McCarthy",
+    "author_corresponding_institution": "The University of Melbourne",
+    "date": "2013-11-21",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Ecology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2013/11/21/000760.source.xml",
+    "abstract": "Biodiversity indices often combine data from different species when used in monitoring programs. Heuristic properties can suggest preferred indices, but we lack objective ways to discriminate between indices with similar heuristics. Biodiversity indices can be evaluated by determining how well they reflect management objectives that a monitoring program aims to support. For example, the Convention on Biological Diversity requires reporting about extinction rates, so simple indices that reflect extinction risk would be valuable. Here we develop three biodiversity indices that are based on simple models of population viability that relate extinction risk to abundance. The first index is based on the geometric mean abundance of species. A second uses a more general power mean. A third integrates both the geometric mean abundance and trend. These indices require the same data as previous indices, but they also relate directly to extinction risk. Field data for butterflies and woodland plants, and experimental studies of protozoan communities show that the indices correlate with local extinction rates. Applying the index based on the geometric mean to global data on changes in avian abundance suggests that the average extinction probability of birds has increased approximately 1% from 1970 to 2009.",
+    "published": "10.1111/cobi.12308",
+    "server": "biorxiv"
+  }
+]

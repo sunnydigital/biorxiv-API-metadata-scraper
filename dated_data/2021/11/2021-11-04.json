@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/2021.11.04.467341",
+    "title": "Conservation Genomics of Urban Populations of Streamside Salamander (Ambystoma barbouri)",
+    "authors": "Hubbs, N. W.; Hurt, C.; Niedzwiecki, J.; Leckie, B.; Withers, D.",
+    "author_corresponding": "Carla  Hurt",
+    "author_corresponding_institution": "Tennessee Technological University",
+    "date": "2021-11-04",
+    "version": "1",
+    "type": "new results",
+    "license": "cc_by",
+    "category": "evolutionary biology",
+    "jatsxml": "https://www.biorxiv.org/content/early/2021/11/04/2021.11.04.467341.source.xml",
+    "abstract": "In Tennessee, populations of the state endangered Streamside Salamander (Ambystoma barbouri) are in decline as their distribution lies mostly within rapidly developing areas in the Nashville Basin. Information regarding the partitioning of genetic variation among populations of A. barbouri, and the taxonomic status of these populations relative to northern populations and their congener, the smallmouth salamander (A. texanum), have important implications for management and conservation of this species. Here we combined mitochondrial sequencing and genome-wide single nucleotide polymorphism (SNP) data generated using Genotyping-by-Sequencing (GBS) to investigate patterns of genetic variation within Tennessee populations of A. barbouri, to assess their relationship to populations in Kentucky, and to examine their phylogenetic relationship to the closely related A. texanum. Results from phylogenetic reconstructions reveal a complex history of Tennessee A. barbouri populations with regards to northern populations, unisexual A. barbouri, and A. texanum. Patterns of mitochondrial sequence variation suggest that A. barbouri may have originated within Tennessee and expanded north multiple times into Kentucky, Ohio, Indiana and West Virginia. Phylogenetic reconstructions based on genome-wide SNP data contradict results based on mitochondrial DNA and correspond to geographic and taxonomic boundaries. Variation in allele frequencies at SNP genotypes, as identified by multivariate analyses and Bayesian assignment tests, identified three evolutionary significant units (ESUs) for A. barbouri within the state of Tennessee. Collectively, these results emphasize the need for prioritizing conservation needs of Tennessee populations of A. barbouri to ensure the long-term persistence of this species.",
+    "published": "NA",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/2021.11.04.467340",
+    "title": "A comparative analysis of current phasing and imputation software",
+    "authors": "Yazdi, P. G.; De Marino, A.; Mahmoud, A. A.; Bose, M.; Bircan, K. O.; Terpolovsky, A.; Bamunusinghe, V.; Khan, U.; Novkovic, B.",
+    "author_corresponding": "Puya  G  Yazdi",
+    "author_corresponding_institution": "SelfDecode",
+    "date": "2021-11-04",
+    "version": "1",
+    "type": "new results",
+    "license": "cc_by",
+    "category": "genomics",
+    "jatsxml": "https://www.biorxiv.org/content/early/2021/11/04/2021.11.04.467340.source.xml",
+    "abstract": "Whole-genome data has become significantly more accessible over the last two decades. This can largely be attributed to both reduced sequencing costs and imputation models which make it possible to obtain nearly whole-genome data from less expensive genotyping methods, such as microarray chips. Although there are many different approaches to imputation, the Hidden Markov Model remains the most widely used. In this study, we compared the latest versions of the most popular Hidden Markov Model based tools for phasing and imputation: Beagle 5.2, Eagle 2.4.1, Shapeit 4, Impute 5 and Minimac 4. We benchmarked them on three input datasets with three levels of chip density. We assessed each imputation software on the basis of accuracy, speed and memory usage, and showed how the choice of imputation accuracy metric can result in different interpretations. The highest average concordance rate was achieved by Beagle 5.2, followed by Impute 5 and Minimac 4, using a reference-based approach during phasing and the highest density chip. IQS and R2 metrics revealed that IMPUTE5 obtained better results for low frequency markers, while Beagle 5.2 remained more accurate for common markers (MAF>5%). Computational load as measured by run time was lower for Beagle 5.2 than Impute 5 and Minimac 4, while Minimac utilized the least memory of the imputation tools we compared. ShapeIT 4, used the least memory of the phasing tools examined, even with the highest density chip. Finally, we determined the combination of phasing software, imputation software, and reference panel, best suited for different situations and analysis needs and created an automated pipeline that provides a way for users to create customized chips designed to optimize their imputation results.",
+    "published": "10.1371/journal.pone.0260177",
+    "server": "biorxiv"
+  }
+]

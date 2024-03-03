@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/010322",
+    "title": "Panpulmonate habitat transitions: tracing the evolution of Acochlidia (Heterobranchia,Gastropoda)",
+    "authors": "Katharina M. J\u00f6rger;Bastian Brenzinger;Timea P. Neusser;Alexander V. Martynov;Nerida G. Wilson;Michael Schr\u00f6dl;",
+    "author_corresponding": "Katharina M. J\u00f6rger",
+    "author_corresponding_institution": "Department Biology II, Ludwig-Maximilians-Universit\u00e4t",
+    "date": "2014-10-15",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Evolutionary Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/10/15/010322.source.xml",
+    "abstract": "The evolution and diversification of euthyneuran slugs and snails was likely strongly influenced by habitat transitions from marine to terrestrial and limnic systems. Well-supported euthyneuran phylogenies with detailed morphological data can provide information on the historical, biological and ecological background in which these habitat shifts took place allowing for comparison across taxa. Acochlidian slugs are  basal pulmonates with uncertain relationships to other major panpulmonate clades. They present a unique evolutionary history with representatives in the marine mesopsammon, but also benthic lineages in brackish water, limnic habitats and (semi-)terrestrial environments. We present the first comprehensive molecular phylogeny on Acochlidia, based on a global sampling that covers nearly 85 % of the described species diversity, and additionally, nearly doubles known diversity by undescribed taxa. Our phylogenetic hypotheses are highly congruent with previous morphological analyses and confirm all included recognized families and genera. We further establish an ancestral area chronogram for Acochlidia, document changes in diversification rates in their evolution via the birth-death-shift-model and reconstruct the ancestral states for major ecological traits. Based on our data, Acochlidia originated from a marine, mesopsammic ancestor adapted to tropical waters, in the mid Mesozoic Jurassic. We found that the two major subclades present a remarkably different evolutionary history. The Microhedylacea are morphologically highly-adapted to the marine mesopsammon. They show a circum-tropical distribution with several independent shifts to temperate and temperate cold-habitats, but remained in stunning morphological and ecological stasis since the late Mesozoic. Their evolutionary specialization, which includes a remarkable and potentially irreversible  meiofaunal syndrome, guaranteed long-term survival and locally high species densities but also resembles a dead-end road to morphological and ecological diversity. In contrast, the Hedylopsacea are characterized by morphological flexibility and ecologically by independent habitat shifts out of the marine mesopsammon, conquering (semi-)terrestrial and limnic habitats. Originating from interstitial ancestors with moderate adaptations to the mesopsammic world, they reestablished a benthic lifestyle and secondary  gigantism in body size. The major radiations and habitat shifts in hedylopsacean families occured in the central Indo-West Pacific in the Paleogene. In the Western Atlantic only one enigmatic representative is known probably presenting a relict of a former pan-Tethys distribution of the clade. This study on acochlidian phylogeny and biogeography adds another facet of the yet complex panpulmonate evolution and shows the various parallel pathways in which these snails and slugs invaded non-marine habitats. Given the complex evolutionary history of Acochlidia, which represent only a small group of Panpulmonata, this study highlights the need to generate comprehensively-sampled species-level phylogenies to understand euthyneuran evolution.",
+    "published": "NA",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/010371",
+    "title": "Social evolution and genetic interactions in the short and long term",
+    "authors": "Jeremy Van Cleve;",
+    "author_corresponding": "Jeremy  Van Cleve",
+    "author_corresponding_institution": "University of Kentucky",
+    "date": "2014-10-15",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Evolutionary Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/10/15/010371.source.xml",
+    "abstract": "The evolution of social traits remains one of the most fascinating and feisty topics in evolutionary bi-ology even after half a century of theoretical research. W. D. Hamilton shaped much of the field initially with his 1964 papers that laid out the foundation for understanding the effect of genetic relatedness on the evolution of social behavior. Early theoretical investigations revealed two critical assumptions required for Hamiltons rule to hold in dynamical models: weak selection and additive genetic interactions. However, only recently have analytical approaches from population genetics and evolutionary game theory developed sufficiently so that social evolution can be studied under the joint action of selection, mutation, and genetic drift. We review how these approaches suggest two timescales for evolution under weak mutation: (i) a short-term timescale where evolution occurs between a finite set of alleles, and (ii) a long-term timescale where a continuum of alleles are possible and populations evolve continuously from one monomorphic trait to another. We show how Hamiltons rule emerges from the short-term analysis under additivity and how non-additive genetic interactions can be accounted for more generally. This short-term approach re-produces, synthesizes, and generalizes many previous results including the one-third law from evolutionary game theory and risk dominance from economic game theory. Using the long-term approach, we illustrate how trait evolution can be described with a diffusion equation that is a stochastic analogue of the canonical equation of adaptive dynamics. Peaks in the stationary distribution of the diffusion capture classic notions of convergence stability from evolutionary game theory and generally depend on the additive genetic in-teractions inherent in Hamiltons rule. Surprisingly, the peaks of the long-term stationary distribution can predict the effects of simple kinds of non-additive interactions. Additionally, the peaks capture both weak and strong effects of social payoffs in a manner difficult to replicate with the short-term approach. Together, the results from the short and long-term approaches suggest both how Hamiltons insight may be robust in unexpected ways and how current analytical approaches can expand our understanding of social evolution far beyond Hamiltons original work.",
+    "published": "10.1016/j.tpb.2015.05.002",
+    "server": "biorxiv"
+  }
+]

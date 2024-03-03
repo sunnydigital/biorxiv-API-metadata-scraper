@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/015040",
+    "title": "Decoding of human hand actions to handle missing limbs in Neuroprosthetics",
+    "authors": "Jovana Belic;Aldo Faisal;",
+    "author_corresponding": "Jovana  Belic",
+    "author_corresponding_institution": "Royal Institute of Technology",
+    "date": "2015-02-09",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by",
+    "category": "Neuroscience ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/02/09/015040.source.xml",
+    "abstract": "The only way we can interact with the world is through movements, and our primary interactions are via the hands, thus any loss of hand function has immediate impact on our quality of life. However, to date it has not been systematically assessed how coordination in the hands joints affects every day actions. This is important for two fundamental reasons. Firstly, to understand the representations and computations underlying motor control \\\"in-the-wild\\\" situations, and secondly to develop smarter controllers for prosthetic hands that have the same functionality as natural limbs. In this work we exploit the correlation structure of our hand and finger movements in daily-life. The novelty of our idea is that instead of averaging variability out, we take the view that the structure of variability may contain valuable information about the task being performed. We asked seven subjects to interact in 17 daily-life situations, and quantified behaviour in a principled manner using CyberGlove body sensor networks that, after accurate calibration, track all major joints of the hand. Our key findings are: 1. We confirmed that hand control in daily-life tasks is very low-dimensional, with four to five dimensions being sufficient to explain 80-90% of the variability in the natural movement data. 2. We established a universally applicable measure of manipulative complexity that allowed us to measure and compare limb movements across tasks. We used Bayesian latent variable models to model the low-dimensional structure of finger joint angles in natural actions. 3. This allowed us to build a naive classifier that within the first 1000ms of action initiation (from a flat hand start configuration) predicted which of the 17 actions was going to be executed - enabling us to reliably predict the action intention from very short-time-scale initial data, further revealing the foreseeable nature of hand movements for control of neuroprosthetics and tele operation purposes. 4. Using the Expectation-Maximization algorithm on our latent variable model permitted us to reconstruct with high accuracy (<5{degrees}-6{degrees} MAE) the movement trajectory of missing fingers by simply tracking the remaining fingers. Overall, our results suggest the hypothesis that specific hand actions are orchestrated by the brain in such a way that in the natural tasks of daily-life there is sufficient redundancy and predictability to be directly exploitable for neuroprosthetics.",
+    "published": "10.3389/fncom.2015.00027",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/015057",
+    "title": "Can rodents conceive hyperbolic spaces?",
+    "authors": "Eugenio Urdapilleta;Francesca Troiani;Federico Stella;Alessandro Treves;",
+    "author_corresponding": "Alessandro  Treves",
+    "author_corresponding_institution": "Limbo - SISSA : via Bonomea 265, 34136 Trieste, Italy",
+    "date": "2015-02-09",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Neuroscience ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/02/09/015057.source.xml",
+    "abstract": "The grid cells discovered in the rodent medial entorhinal cortex have been proposed to provide a metric for Euclidean space, possibly even hardwired in the embryo. Yet one class of models describing the formation of grid unit selectivity is entirely based on developmental self-organization, and as such it predicts that the metric it expresses should reflect the environment to which the animal has adapted. We show that, according to self-organizing models, if raised in a non-Euclidean hyperbolic cage rats should be able to form hyperbolic grids. For a given range of grid spacing relative to the radius of negative curvature of the hyperbolic surface, such grids are predicted to appear as multi-peaked firing maps, in which each peak has seven neighbours instead of the Euclidean six, a prediction that can be tested in experiments. We thus demonstrate that a useful universal neuronal metric, in the sense of a multi-scale ruler and compass that remain unaltered when changing environments, can be extended to other than the standard Euclidean plane.\\n\\nAbbreviation",
+    "published": "10.1098/rsif.2014.1214",
+    "server": "biorxiv"
+  }
+]

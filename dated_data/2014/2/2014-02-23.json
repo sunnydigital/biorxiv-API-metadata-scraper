@@ -1,0 +1,18 @@
+[
+  {
+    "doi": "10.1101/002956",
+    "title": "Functional normalization of 450k methylation array data improves replication in large cancer studies",
+    "authors": "Jean-Philippe Fortin;Aurelie Labbe;Mathieu Lemire;Brent W. Zanke;Thomas J. Hudson;Elana J. Fertig;Celia M.T. Greenwood;Kasper D. Hansen;",
+    "author_corresponding": "Kasper D. Hansen",
+    "author_corresponding_institution": "Johns Hopkins University",
+    "date": "2014-02-23",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by",
+    "category": "Bioinformatics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/02/23/002956.source.xml",
+    "abstract": "We propose an extension to quantile normalization which removes unwanted technical variation using control probes. We adapt our algorithm, functional normalization, to the Illumina 450k methylation array and address the open problem of normalizing methylation data with global epigenetic changes, such as human cancers. Using datasets from The Cancer Genome Atlas and a large case-control study, we show that our algorithm outperforms all existing normalization methods with respect to replication of results between experiments, and yields robust results even in the presence of batch effects. Functional normalization can be applied to any microarray platform, provided suitable control probes are available.",
+    "published": "10.1186/s13059-014-0503-2",
+    "server": "biorxiv"
+  }
+]

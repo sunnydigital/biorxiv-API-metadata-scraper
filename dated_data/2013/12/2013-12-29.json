@@ -1,0 +1,18 @@
+[
+  {
+    "doi": "10.1101/001602",
+    "title": "p97-dependent retrotranslocation and proteolytic processing govern formation of active Nrf1 upon proteasome inhibition",
+    "authors": "Senthil K Radhakrishnan;Willem den Besten;Raymond J Deshaies;",
+    "author_corresponding": "Raymond J Deshaies",
+    "author_corresponding_institution": "California Institute of Technology",
+    "date": "2013-12-29",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Cell Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2013/12/29/001602.source.xml",
+    "abstract": "Proteasome inhibition elicits an evolutionarily conserved response wherein proteasome subunit mRNAs are upregulated, resulting in recovery of proteasome activity. We previously demonstrated that the transcription factor Nrf1 mediates this homeostatic response in mammalian cells. We show here that Nrf1 is initially translocated into the lumen of the ER, but is rapidly and efficiently retrotranslocated to the cytosolic side of the membrane in a manner that depends on p97/VCP. Normally, retrotranslocated Nrf1 is degraded by the proteasome and active species do not accumulate. However, in cells with compromised proteasomes, retrotranslocated Nrf1 escapes degradation and is cleaved N-terminal to Leu-104 to yield a fragment that is no longer tethered to the ER-membrane. Importantly, this cleavage event is essential for Nrf1-dependent activation of proteasome gene expression upon proteasome inhibition. Our data uncover an unexpected role for p97 in activation of a transcription factor by relocalizing it from the ER lumen to the cytosol.",
+    "published": "10.7554/eLife.01856.001",
+    "server": "biorxiv"
+  }
+]

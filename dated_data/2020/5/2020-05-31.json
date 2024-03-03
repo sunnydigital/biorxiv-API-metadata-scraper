@@ -1,0 +1,18 @@
+[
+  {
+    "doi": "10.1101/2020.05.31.126334",
+    "title": "Frequency and Prognostic Value of NPM1 Mutations in Sudanese Acute Myeloid Leukemia Patients",
+    "authors": "Elzain, E.; Khalil, H. B.",
+    "author_corresponding": "Eman  Elzain",
+    "author_corresponding_institution": "International University of Africa",
+    "date": "2020-05-31",
+    "version": "1",
+    "type": "new results",
+    "license": "cc_no",
+    "category": "molecular biology",
+    "jatsxml": "https://www.biorxiv.org/content/early/2020/05/31/2020.05.31.126334.source.xml",
+    "abstract": "IntroductionAcute myeloid leukemia (AML) is a malignancy of proliferative, clonal, abnormally, or poorly differentiated cells of the hematopoietic system, characterized by clonal evolution and genetic heterogeneity (Dohner et al, 2015). The molecular genetics of AML regarding the prognosis of patients mainly representing by NPM1. NPM1 is a nucleolar protein that located on chromosome 5q35.1 which shuttles between the nucleus and cytoplasm. It is concerned in multiple functions, including ribosomal protein assembly and transport, control of centrosome duplication, and regulation of the tumor suppressor ARF & p53. NPM1 mutations that relocalize NPM1 from the nucleus into the cytoplasm are associated with development of acute myeloid leukemia (Garzon et al, 2008). The aim of this study was to determine the frequency and clarify the prognostic value of NPM1 mutations among Sudanese patients with acute myeloid leukemia.\n\nMaterials and MethodsA cross sectional study recruited 100 patients in this study clinically diagnosed firstly (not transformed from any other malignancy) as AML patients based on the diagnostic protocol concern RICK hospital; such as morphological identification, immunophenotyping analysis, and molecular genetics, Of the 100 AML patients, 54% were newly diagnosed and 46% were admitted by chemotherapy treatment and follow up. EDTA blood or bone marrow samples were collected from patients for performing CBC, hematological studies including FAB classification, PCR protocols and sequencing. genomic DNA was extracted from all samples using guanidine method (Ding et al, 2008).\n\nResultsNPM1 mutations detection, sequencing technique was done, and then sequencing analysis by software (Mega 7 Software) (Kumar et al, 2016) revealed that there were no NPM1mutations in Sudanese AML patients.\n\nConclusionThe Sudanese AML patients carry wild type NPM1.",
+    "published": "10.30574/gscbps.2021.14.2.0055",
+    "server": "biorxiv"
+  }
+]

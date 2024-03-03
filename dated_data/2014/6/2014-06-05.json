@@ -1,0 +1,50 @@
+[
+  {
+    "doi": "10.1101/002188",
+    "title": "Significantly distinct branches of hierarchical trees: A framework for statistical analysis and applications to biological data",
+    "authors": "Guoli Sun;Alexander Krasnitz;",
+    "author_corresponding": "Alexander  Krasnitz",
+    "author_corresponding_institution": "Cold Spring Harbor Laboratory",
+    "date": "2014-06-05",
+    "version": "4",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Bioinformatics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/06/05/002188.source.xml",
+    "abstract": "BackgroundOne of the most common goals of hierarchical clustering is finding those branches of a tree that form quantifiably distinct data subtypes. Achieving this goal in a statistically meaningful way requires (a) a measure of distinctness of a branch and (b) a test to determine the significance of the observed measure, applicable to all branches and across multiple scales of dissimilarity.\\n\\nResultsWe formulate a method termed Tree Branches Evaluated Statistically for Tightness (TBEST) for identifying significantly distinct tree branches in hierarchical clusters. For each branch of the tree a measure of distinctness, or tightness, is defined as a rational function of heights, both of the branch and of its parent. A statistical procedure is then developed to determine the significance of the observed values of tightness. We test TBEST as a tool for tree-based data partitioning by applying it to five benchmark datasets, one of them synthetic and the other four each from a different area of biology. For each dataset there is a well-defined partition of the data into classes. In all test cases TBEST performs on par with or better than the existing techniques.\\n\\nConclusionsBased on our benchmark analysis, TBEST is a tool of choice for detection of significantly distinct branches in hierarchical trees grown from biological data. An R language implementation of the method is available from the Comprehensive R Archive Network: cran.r-project.org/web/packages/TBEST/index.html.",
+    "published": "10.1186/1471-2164-15-1000",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/005140",
+    "title": "Collecting reward to defend homeostasis: A homeostatic reinforcement learning theory",
+    "authors": "Mehdi Keramati;Boris Gutkin;",
+    "author_corresponding": "Mehdi  Keramati",
+    "author_corresponding_institution": "Group for Neural Theory, INSERM U960, Ecole Normale Sup\u00e9rieure, Paris, France.",
+    "date": "2014-06-05",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Neuroscience ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/06/05/005140.source.xml",
+    "abstract": "Efficient regulation of internal homeostasis and defending it against perturbations requires complex behavioral strategies. However, the computational principles mediating brains homeostatic regulation of reward and associative learning remain undefined. Here we use a definition of primary rewards, as outcomes fulfilling physiological needs, to build a normative theory showing how learning motivated behavior is modulated by the internal state of the animal. The theory proves that seeking rewards is equivalent to the fundamental objective of physiological stability, defining the notion of physiological rationality of behavior. We further give a formal basis for temporal discounting of reward. It also explains how animals learn to act predictively to preclude prospective homeostatic challenges, and attributes a normative computational role to the modulation of midbrain dopaminergic activity by hypothalamic signals.",
+    "published": "10.7554/eLife.04811",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/005942",
+    "title": "Copy number networks to guide combinatorial therapy for cancer and other disorders",
+    "authors": "Andy Lin;Desmond James Smith;",
+    "author_corresponding": "Desmond James Smith",
+    "author_corresponding_institution": "UCLA",
+    "date": "2014-06-05",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by",
+    "category": "Genomics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/06/05/005942.source.xml",
+    "abstract": "The dwindling drug pipeline is driving increased interest in the use of genome datasets to inform drug treatment. In particular, networks based on transcript data and protein-protein interactions have been used to design therapies that employ drug combinations. But there has been less focus on employing human genetic interaction networks constructed from copy number alterations (CNAs). These networks can be charted with sensitivity and precision by seeking gene pairs that tend to be amplified and/or deleted in tandem, even when they are located at a distance on the genome. Our experience with radiation hybrid (RH) panels, a library of cell clones that have been used for genetic mapping, have shown this tool can pinpoint statistically significant patterns of co-inherited gene pairs. In fact, we were able to identify gene pairs specifically associated with the mechanism of cell survival at single gene resolution. The strategy of seeking correlated CNAs can also be used to map survival networks for cancer. Although the cancer networks have lower resolution, the RH network can be leveraged to provide single gene specificity in the tumor networks. In a survival network for glioblastoma possessing single gene resolution, we found that the epidermal growth factor receptor (EGFR) oncogene interacted with 46 genes. Of these genes, ten (22%) happened to be targets for existing drugs. Here, we briefly review the previous use of molecular networks to design novel therapies. We then highlight the potential of using correlated CNAs to guide combinatorial drug treatment in common medical conditions. We focus on therapeutic opportunities in cancer, but also offer examples from autoimmune disorders and atherosclerosis.",
+    "published": "NA",
+    "server": "biorxiv"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "doi": "10.1101/004192",
+    "title": "Epigenetic Landscape Models: The Post-Genomic Era",
+    "authors": "Jose Davila-Velderrain;Juan Carlos Martinez-Garcia;Elena R Alvarez-Buylla;",
+    "author_corresponding": "Elena R  Alvarez-Buylla",
+    "author_corresponding_institution": "Universidad Nacional Autonoma de Mexico",
+    "date": "2015-02-28",
+    "version": "2",
+    "type": "Confirmatory Results",
+    "license": "cc_by_nc_nd",
+    "category": "Systems Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/02/28/004192.source.xml",
+    "abstract": "Complex networks of regulatory interactions orchestrate developmental processes in multicellular organisms. Such a complex internal structure intrinsically constrains cellular behavior allowing only a reduced set of attainable and observable cellular states or cell types. Thus, a multicellular system undergoes cell fate decisions in a robust manner in the course of its normal development. The epigenetic landscape (EL) model originally proposed by C.H. Waddington was an early attempt to integrate these processes in a universal conceptual model of development. Since then, a wealth of experimental data has accumulated, the general mechanisms of gene regulation have been uncovered, and the placement of specific molecular components within modular gene regulatory networks (GRN) has become a common practice. This has motivated the development of mathematical and computational models inspired by the EL aiming to integrate molecular data and gain a better understanding of development, and hopefully predict cell differentiation and reprogramming events. Both deterministic and stochastic dynamical models have been used to described cell state transitions. In this review, we describe recent EL models, emphasising that the construction of an explicit landscape from a GRN is not the only way to implement theoretical models consistent with the conceptual basis of the EL. Moreover, models based on the EL have been shown to be useful in the study of morphogenic processes and not just cell differentiation. Here we describe the distinct approaches, comparing their strengths and weaknesses and the kind of biological questions that they have been able to address. We also point to challenges ahead.",
+    "published": "10.1186/s12918-015-0166-y",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/014183",
+    "title": "Geometric constraints dominate the antigenic evolution of influenza H3N2 hemagglutinin",
+    "authors": "Austin G Meyer;Claus O Wilke;",
+    "author_corresponding": "Claus O Wilke",
+    "author_corresponding_institution": "The University of Texas at Austin",
+    "date": "2015-02-28",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_by",
+    "category": "Evolutionary Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/02/28/014183.source.xml",
+    "abstract": "We have carried out a comprehensive analysis of the determinants of human influenza A H3 hemagglutinin evolution, considering three distinct predictors of evolutionary variation at individual sites: solvent accessibility (as a proxy for protein fold stability and/or conservation), experimental epitope sites (as a proxy for host immune bias), and proximity to the receptor-binding region (as a proxy for protein function). We found that these three predictors individually explain approximately 15% of the variation in site-wise dN/dS. The solvent accessibility and proximity predictors were largely independent of each other, while the epitope sites were not. In combination, solvent accessibility and proximity explained 32% of the variation in dN/dS. Incorporating experimental epitope sites into the model added only an additional 2 percentage points. We also found that the historical H3 epitope sites, which date back to the 1980s and 1990s, showed only weak overlap with the latest experimental epitope data. Finally, sites with dN/dS > 1, i.e., the sites most likely driving seasonal immune escape, are not correctly predicted by either historical or experimental epitope sites, but only by proximity to the receptor-binding region. In summary, proximity to the receptor-binding region, and not host immune bias, seems to be the primary determinant of H3 evolution.\\n\\nAuthor summaryThe influenza virus is one of the most rapidly evolving human viruses. Every year, it accumulates mutations that allow it to evade the host immune response of previously infected individuals. Which sites in the virus genome allow this immune escape and the manner of escape is not entirely understood, but conventional wisdom states that specific \\\"immune epitope sites\\\" in the protein hemagglutinin are preferentially attacked by host antibodies and that these sites mutate to directly avoid host recognition; as a result, these sites are commonly targeted by vaccine development efforts. Here, we combine influenza hemagglutinin sequence data, protein structural information, experimental immune epitope data, and historical epitopes to demonstrate that neither the historical epitope groups nor epitopes based on experimental data are crucial for predicting the rate of influenza evolution. Instead, we find that a simple geometrical model works best: sites that are closest to the location where the virus binds the human receptor are the primary driver of hemagglutinin evolution. There are two possible explanations for this result. First, the existing historical and experimental epitope sites may not be the real antigenic sites in hemagglutinin. Second, alternatively, hemagglutinin antigenicity may not the primary driver of influenza evolution.",
+    "published": "10.1371/journal.ppat.1004940",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/014183",
+    "title": "Geometric constraints dominate the antigenic evolution of influenza H3N2 hemagglutinin",
+    "authors": "Austin G Meyer;Claus O Wilke;",
+    "author_corresponding": "Claus O Wilke",
+    "author_corresponding_institution": "The University of Texas at Austin",
+    "date": "2015-02-28",
+    "version": "3",
+    "type": "New Results",
+    "license": "cc_by",
+    "category": "Evolutionary Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/02/28/014183.source.xml",
+    "abstract": "We have carried out a comprehensive analysis of the determinants of human influenza A H3 hemagglutinin evolution, considering three distinct predictors of evolutionary variation at individual sites: solvent accessibility (as a proxy for protein fold stability and/or conservation), experimental epitope sites (as a proxy for host immune bias), and proximity to the receptor-binding region (as a proxy for protein function). We found that these three predictors individually explain approximately 15% of the variation in site-wise dN/dS. The solvent accessibility and proximity predictors were largely independent of each other, while the epitope sites were not. In combination, solvent accessibility and proximity explained 32% of the variation in dN/dS. Incorporating experimental epitope sites into the model added only an additional 2 percentage points. We also found that the historical H3 epitope sites, which date back to the 1980s and 1990s, showed only weak overlap with the latest experimental epitope data. Finally, sites with dN/dS > 1, i.e., the sites most likely driving seasonal immune escape, are not correctly predicted by either historical or experimental epitope sites, but only by proximity to the receptor-binding region. In summary, proximity to the receptor-binding region, and not host immune bias, seems to be the primary determinant of H3 evolution.\\n\\nAuthor summaryThe influenza virus is one of the most rapidly evolving human viruses. Every year, it accumulates mutations that allow it to evade the host immune response of previously infected individuals. Which sites in the virus genome allow this immune escape and the manner of escape is not entirely understood, but conventional wisdom states that specific \\\"immune epitope sites\\\" in the protein hemagglutinin are preferentially attacked by host antibodies and that these sites mutate to directly avoid host recognition; as a result, these sites are commonly targeted by vaccine development efforts. Here, we combine influenza hemagglutinin sequence data, protein structural information, experimental immune epitope data, and historical epitopes to demonstrate that neither the historical epitope groups nor epitopes based on experimental data are crucial for predicting the rate of influenza evolution. Instead, we find that a simple geometrical model works best: sites that are closest to the location where the virus binds the human receptor are the primary driver of hemagglutinin evolution. There are two possible explanations for this result. First, the existing historical and experimental epitope sites may not be the real antigenic sites in hemagglutinin. Second, alternatively, hemagglutinin antigenicity may not the primary driver of influenza evolution.",
+    "published": "10.1371/journal.ppat.1004940",
+    "server": "biorxiv"
+  }
+]

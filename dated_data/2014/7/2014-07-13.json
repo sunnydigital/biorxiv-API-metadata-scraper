@@ -1,0 +1,18 @@
+[
+  {
+    "doi": "10.1101/000992",
+    "title": "Mutated SF3B1 is associated with transcript isoform changes of the genes UQCC and RPL31 both in CLLs and uveal melanomas",
+    "authors": "Alejandro Reyes;Carolin Blume;Vicent Pelechano;Petra Jakob;Lars M Steinmetz;Thorsten Zenz;Wolfgang Huber;",
+    "author_corresponding": "Alejandro  Reyes",
+    "author_corresponding_institution": "European Molecular Biology Laboratory",
+    "date": "2014-07-13",
+    "version": "3",
+    "type": "New Results",
+    "license": "cc_by",
+    "category": "Cancer Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/07/13/000992.source.xml",
+    "abstract": "BackgroundGenome sequencing studies of chronic lympoid leukemia (CLL) have provided a comprehensive overview of recurrent somatic mutations in coding genes. One of the most intriguing discoveries has been the prevalence of mutations in the HEAT-repeat domain of the splicing factor SF3B1. A frequently observed variant is predicted to cause the substitution of a lysine with a glutamic acid at position 700 of the protein (K700E). However, the molecular consequences of the mutations are largely unknown.\\n\\nResultsTo start exploring this question, we sequenced the transcriptomes of six samples: four samples of CLL tumour cells, of which two contained the K700E mutation in SF3B1, and CD19 positive cells from two healthy donors. We identified 41 genes that showed differential usage of exons statistically associated with the mutated status of SF3B1 (false discovery rate of 10%). These genes were enriched in pathways related to interferon signaling and mRNA splicing.\\n\\nAmong these genes, we found UQCC and RPL31; notably, a similar effect on these genes was described in a previously published study of uveal melanoma. In addition, while this manuscript was under revision, another study independently reported the common splicing signature of the gene UQCC in different tumour types with mutations in SF3B1.\\n\\nConclusionsOur results suggest common effects of isoform deregulation in the genes UQCC and RPL31 upon mutations in SF3B1. Additionally, our data provide a candidate list of potential isoform consequences of the SF3B1 (K700E) mutation in CLL, some of which might contribute to the tumourigenesis.\\n\\nValidation studies on larger cohorts and model systems are required to extend these findings.",
+    "published": "NA",
+    "server": "biorxiv"
+  }
+]

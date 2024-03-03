@@ -1,0 +1,50 @@
+[
+  {
+    "doi": "10.1101/010587",
+    "title": "A theoretical justification for single molecule peptide sequencing",
+    "authors": "Jagannath Swaminathan;Alexander A. Boulgakov;Edward M. Marcotte;",
+    "author_corresponding": "Edward M. Marcotte",
+    "author_corresponding_institution": "University of Texas",
+    "date": "2014-10-22",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Bioinformatics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/10/22/010587.source.xml",
+    "abstract": "The proteomes of cells, tissues, and organisms reflect active cellular processes and change continuously in response to intracellular and extracellular cues. Deep, quantitative profiling of the proteome, especially if combined with mRNA and metabolite measurements, should provide an unprecedented view of cell state, better revealing functions and interactions of cell components. Molecular diagnostics and biomarker should benefit particularly from the accurate quantification of proteomes, since complex diseases like cancer change protein abundances and modifications. Currently, shotgun mass spectrometry is the primary technology for high-throughput protein identification and quantification; while powerful, it lacks high sensitivity and coverage. We draw parallels with next-generation DNA sequencing and propose a strategy, termed fluorosequencing, for sequencing peptides in a complex protein sample at the level of single molecules. In the proposed approach, millions of individual fluorescently labeled peptides are visualized in parallel, monitoring changing patterns of fluorescence intensity as N-terminal amino acids are sequentially removed, and using the resulting fluorescence signatures (fluorosequences) to uniquely identify individual peptides. We introduce a theoretical foundation for fluorosequencing, and by using Monte Carlo computer simulations, we explore its feasibility, anticipate the most likely experimental errors, quantify their potential impact, and discuss the broad potential utility offered by a high-throughput peptide sequencing technology.\\n\\nAUTHOR SUMMARYThe development of next-generation DNA and RNA sequencing methods has transformed biology, with current platforms generating >1 billion sequencing reads per run. Unfortunately, no method of similar scale and throughput exists to identify and quantify specific proteins in complex mixtures, representing a critical bottleneck in many biochemical and molecular diagnostic assays. What is urgently needed is a massively parallel method, akin to next-gen DNA sequencing, for identifying and quantifying peptides or proteins in a sample. In principle, single-molecule peptide sequencing could achieve this goal, allowing billions of distinct peptides to be sequenced in parallel and thereby identifying proteins composing the sample and digitally quantifying them by direct counting of peptides. Here, we discuss theoretical considerations of single molecule peptide sequencing, suggest one possible experimental strategy, and, using computer simulations, characterize the potential utility and unusual properties of this future proteomics technology.",
+    "published": "10.1371/journal.pcbi.1004080",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/010595",
+    "title": "Deciphering the genetic and transcriptional basis of cross-stress responses in Escherichia coli under complex evolutionary scenarios",
+    "authors": "Violeta Zorraquino-Salvo;Semarhy Quinones-Soto;Minseung Kim;Navneet Rai;Ilias Tagkopoulos;",
+    "author_corresponding": "Ilias  Tagkopoulos",
+    "author_corresponding_institution": "UC Davis Department of Computer Science & Genome Center",
+    "date": "2014-10-22",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Evolutionary Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/10/22/010595.source.xml",
+    "abstract": "A tantalizing question in microbial physiology is the inter-dependence and evolutionary potential of cellular stress response across multiple environmental dimensions. To address this question, we comprehensively characterized the cross-stress behavior of wild-type and evolved Escherichia coli populations in five abiotic stresses (n-butanol, osmotic, alkaline, acidic, and oxidative) by performing genome-scale genetic, transcriptional and growth profiling, thus identifying 18 cases of cross-stress protection and one case of cross-stress vulnerability. We identified 18 cases of cross-stress protection and one case of cross-stress vulnerability, along with core and stress-specific networks. We tested several hypotheses regarding the effect of the stress order, stress combinations, mutation reversal and varying environments to the evolution and final cellular fitness of the respective populations. Our results argue of a common systems-level core of the stress response with several crucial implicated pathways that include metal ion binding and glycolysis/gluconeogenesis that is further complemented by a stress-specific expression program.",
+    "published": "NA",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/010603",
+    "title": "Automated placement of stereotactic injections using a laser scan of the skull",
+    "authors": "Margaret Henderson;Vadim Pinskiy;Alexander Tolpygo;Stephen Savoia;Pascal Grange;Partha Mitra;",
+    "author_corresponding": "Margaret  Henderson",
+    "author_corresponding_institution": "Cold Spring Harbor Laboratory",
+    "date": "2014-10-22",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Neuroscience ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/10/22/010603.source.xml",
+    "abstract": "Stereotactic targeting is a commonly used technique for performing injections in the brains of mice and other animals. The most common method for targeting stereoscopic injections uses the skull indentations bregma and lambda as reference points and is limited in its precision by factors such as skull curvature and individual variation, as well as an incomplete correspondence between skull landmarks and brain locations. In this software tool, a 3D laser scan of the mouse skull is taken in vitro and registered onto a reference skull using a point cloud matching algorithm, and the parameters of the transformation are used to position a glass pipette to place tracer injections. The software was capable of registering sample skulls with less than 100 micron error, and was able to target an injection in a mouse with error of roughly 500 microns. These results indicate that using skull scan registration has the potential to be widely applicable in automating stereotactic targeting of tracer injections.",
+    "published": "NA",
+    "server": "biorxiv"
+  }
+]

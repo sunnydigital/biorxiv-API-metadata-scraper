@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/019323",
+    "title": "The Multi-allelic Genetic Architecture of a Variance-heterogeneity Locus for Molybdenum Accumulation Acts as a Source of Unexplained Additive Genetic Variance",
+    "authors": "Simon K G Forsberg;Matthew E Andreatta;Xin-Yuan Huang;John Danku;David E Salt;\u00d6rjan Carlborg;",
+    "author_corresponding": "\u00d6rjan  Carlborg",
+    "author_corresponding_institution": "Swedish University of Agricultural Sciences",
+    "date": "2015-05-14",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Genetics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/05/14/019323.source.xml",
+    "abstract": "Most biological traits are regulated by both genetic and environmental factors. Individual loci contributing to the phenotypic diversity in a population are generally identified by their contributions to the trait mean. Genome-wide association (GWA) analyses can also detect loci based on variance differences between genotypes and several hypotheses have been proposed regarding the possible genetic mechanisms leading to such signals. Little is, however, known about what causes them and whether this genetic variance-heterogeneity reflects mechanisms of importance in natural populations. Previously, we identified a variance-heterogeneity GWA (vGWA) signal for leaf molybdenum concentrations in Arabidopsis thaliana. Here, fine-mapping of this association to a [~]78 kb Linkage Disequilibrium (LD)-block reveals that it emerges from the independent effects of three genetic polymorphisms on the high-variance associated version of this LD-block. By revealing the genetic architecture underlying this vGWA signal, we uncovered the molecular source of a significant amount of hidden additive genetic variation (\\\"missing heritability\\\"). Two of the three polymorphisms on the high-variance LD-block are promoter variants for Molybdate transporter 1 (MOT1), and the third a variant located [~]25 kb downstream of this gene. A fourth independent association was also detected [~]600 kb upstream of the LD-block. Testing of T-DNA knockout alleles for genes in the associated regions suggest AT2G25660 (unknown function) and AT2G26975 (Copper Transporter 6; COPT6) as the strongest candidates for the associations outside MOT1. Our results show that multi-allelic genetic architectures within a single LD-block can lead to a variance-heterogeneity between genotypes in natural populations. Further they provide novel insights into the genetic regulation of ion homeostasis in A. thaliana, and empirically confirm that variance-heterogeneity based GWA methods are a valuable tool to detect novel associations of biological importance in natural populations.",
+    "published": "10.1371/journal.pgen.1005648",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/019273",
+    "title": "The case for absolute ligand discrimination : modeling information processing and decision by immune T cells",
+    "authors": "Paul Fran\u00e7ois;Gr\u00e9goire Altan-Bonnet;",
+    "author_corresponding": "Paul  Fran\u00e7ois",
+    "author_corresponding_institution": "McGill University",
+    "date": "2015-05-14",
+    "version": "1",
+    "type": "Confirmatory Results",
+    "license": "cc_no",
+    "category": "Biophysics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2015/05/14/019273.source.xml",
+    "abstract": "1. Introduction 1. Introduction 2. Theoretical approaches for... 3. Biologically realistic models... 4. Ligand recognition by... 5. Wrapping up References Cells within the body are constantly bombarded with a large repertoire of molecules that must be dealt with as potential stimuli. Most of the time, these molecular inputs are measured by receptors at the surface of the cells. State of these receptors are thus informative on the outside world, and experimental and theoretical biophysicists [50] have extensively used information theory to estimate how much information (in the Shannon sense [45]) can be encoded at this stage. This information can be used and processed by the cells, and again transmission of information between Inputs and Outputs have been well studied (see e ...",
+    "published": "10.1007/s10955-015-1444-1",
+    "server": "biorxiv"
+  }
+]

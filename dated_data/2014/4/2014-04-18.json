@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/004291",
+    "title": "Quantitative comparison of single-cell sequencing methods using hippocampal neurons",
+    "authors": "Luwen Ning;Guan Wang;Zhoufang Li;Wen Hu;Qingming Hou;Yin Tong;Meng Zhang;Li Qin;Xiaoping Chen;Hengye Man;Pinghua Liu;Jiankui He;",
+    "author_corresponding": "Jiankui  He",
+    "author_corresponding_institution": "South University of Science and Technology of China",
+    "date": "2014-04-18",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Genomics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/04/18/004291.source.xml",
+    "abstract": "Single-cell genomic analysis has grown rapidly in recent years and will find widespread applications in various fields of biology, including cancer biology, development, immunology, pre-implantation genetic diagnosis, and neurobiology. In this study, we amplified genomic DNA from individual hippocampal neurons using one of three single-cell DNA amplification methods (multiple annealing and looping-based amplification cycles (MALBAC), multiple displacement amplification (MDA), and GenomePlex whole genome amplification (WGA4)). We then systematically evaluated the genome coverage, GC-bias, reproducibility, and copy number variations among individual neurons. Our results showed that single-cell genome sequencing results obtained from the MALBAC and WGA4 methods are highly reproducible and have a high success rate. Chromosome-level and subchromosomal-level copy number variations among individual neurons can be detected.",
+    "published": "NA",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/004317",
+    "title": "Comprehensive mutational scanning of a kinase in vivo reveals substrate-dependent fitness landscapes",
+    "authors": "Alexandre Melnikov;Peter Rogov;Li Wang;Andreas Gnirke;Tarjei S Mikkelsen;",
+    "author_corresponding": "Tarjei S Mikkelsen",
+    "author_corresponding_institution": "Broad Institute",
+    "date": "2014-04-18",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Molecular Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/04/18/004317.source.xml",
+    "abstract": "Deep mutational scanning has emerged as a promising tool for mapping sequence-activity relationships in proteins1-4, RNA5 and DNA6-8. In this approach, diverse variants of a sequence of interest are first ranked according to their activities in a relevant pooled assay, and this ranking is then used to infer the shape of the fitness landscape around the wild-type sequence. Little is currently know, however, about the degree to which such fitness landscapes are dependent on the specific assay conditions from which they are inferred. To explore this issue, we performed deep mutational scanning of APH(3)II, a Tn5 transposon-derived kinase that confers resistance to aminoglycoside antibiotics9, in E. coli under selection with each of six structurally diverse antibiotics at a range of inhibitory concentrations. We found that the resulting fitness landscapes showed significant dependence on both antibiotic structure and concentration. This shows that the notion of essential amino acid residues is context-dependent, but also that this dependence can be exploited to guide protein engineering. Specifically, we found that differential analysis of fitness landscapes allowed us to generate synthetic APH(3)II variants with orthogonal substrate specificities.",
+    "published": "10.1093/nar/gku511",
+    "server": "biorxiv"
+  }
+]

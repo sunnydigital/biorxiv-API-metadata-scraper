@@ -1,0 +1,18 @@
+[
+  {
+    "doi": "10.1101/061952",
+    "title": "Tissue Resolved, Gene Structure Refined Equine Transcriptome",
+    "authors": "Tamer A. Mansour;Erica Y Scott;Carrie J Finno;Rebecca R Bellone;Michael J. Mienaltowski;M Cecilia Penedo;Pablo J Ross;Stephanie J. Valberg;James D Murray;C. Titus Brown;",
+    "author_corresponding": "C. Titus  Brown",
+    "author_corresponding_institution": "UC Davis",
+    "date": "2016-07-03",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by",
+    "category": "Genomics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2016/07/03/061952.source.xml",
+    "abstract": "BackgroundTranscriptome interpretation relies on a good-quality reference transcriptome for accurate quantification of gene expression as well as functional analysis of genetic variants. The current annotation of the horse genome lacks the specificity and sensitivity necessary to assess gene expression especially at the isoform level, and suffers from insufficient annotation of untranslated regions (UTR). We built an annotation pipeline for horse and used it to integrate 1.9 billion reads from multiple RNA-seq data sets into a new refined transcriptome.\\n\\nResultsThis equine transcriptome integrates eight different tissues from 59 individuals and improves gene structure and isoform resolution while providing considerable tissue-specific information. We utilized four levels of transcript filtration in our pipeline, aimed at producing several transcriptome versions that are suitable for different downstream analyses. Our most refined transcriptome includes 36,876 genes and 76,125 isoforms, with 6474 candidate transcriptional loci novel to the equine transcriptome.\\n\\nConclusionsWe have employed a variety of descriptive statistics and figures that demonstrate the quality and content of the transcriptome. The equine transcriptomes that are provided by this pipeline show the best tissue-specific resolution of any equine transcriptome to date and can serve several types of downstream analyses.",
+    "published": "10.1186/s12864-016-3451-2",
+    "server": "biorxiv"
+  }
+]

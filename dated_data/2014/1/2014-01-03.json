@@ -1,0 +1,18 @@
+[
+  {
+    "doi": "10.1101/001677",
+    "title": "Beyond species: why ecological interaction networks vary through space and time",
+    "authors": "Timoth\u00e9e Poisot;Daniel B Stouffer;Dominique Gravel;",
+    "author_corresponding": "Timoth\u00e9e  Poisot",
+    "author_corresponding_institution": "Universit\u00e9 du Qu\u00e9bec \u00e0 Rimouski",
+    "date": "2014-01-03",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nd",
+    "category": "Ecology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/01/03/001677.source.xml",
+    "abstract": "Community ecology is tasked with the considerable challenge of predicting the structure, and properties, of emerging ecosystems. It requires the ability to understand how and why species interact, as this will allow the development of mechanism-based predictive models, and as such to better characterize how ecological mechanisms act locally on the existence of interspecific interactions. Here we argue that the current conceptualization of species interaction networks is ill-suited for this task. Instead, we propose that future research must start to account for the intrinsic variability of species interactions, then scale up from here onto complex networks. This can be accomplished simply by recognizing that there exists intra-specific variability, in traits or properties related to the establishment of species interactions. By shifting the scale towards population-based processes, we show that this new approach will improve our predictive ability and mechanistic understanding of how species interact over large spatial or temporal scales.",
+    "published": "10.1111/oik.01719",
+    "server": "biorxiv"
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "doi": "10.1101/001685",
+    "title": "Stem cells in Nanomia bijuga (Siphonophora), a colonial animal with localized growth zones",
+    "authors": "Stefan Siebert;Freya E. Goetz;Samuel H. Church;Pathikrit Bhattacharyya;Felipe Zapata;Steven H.D. Haddock;Casey W. Dunn;",
+    "author_corresponding": "Stefan  Siebert",
+    "author_corresponding_institution": "Brown University",
+    "date": "2014-01-06",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Developmental Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/01/06/001685.source.xml",
+    "abstract": "BackgroundSiphonophores (Hydrozoa) have unparalleled colony-level complexity, precision of colony organization, and functional specialization between zooids (i.e., the units that make up colonies) Previous work has shown that, unlike other colonial animals, most growth in siphonophores is restricted to one or two well-defined growth zones that are the sites of both elongation and zooid budding. It remained unknown, however, how this unique colony growth and development is realized at the cellular level.\\n\\nResultsTo understand the colony-level growth and development of siphonophores at the cellular level, we characterize the distribution of proliferating cells and interstitial stem cells (i-cells) in the siphonophore Nanomia bijuga. Within the colony we find that i-cells are present at the tip of the horn, the structure within the growth zone that gives rise to new zooids. They persist in the youngest zooid buds, but as each zooid matures i-cells become progressively restricted to specific regions within the zooids until they are mostly absent from the oldest zooids. I-cell marker-gene expression remained in gametogenic regions. I-cells are not found in the stem between maturing zooids. Domains of high cell proliferation include regions where i-cells can be found, but also include some areas without i-cells such as the stem within the growth zones. Cell proliferation in regions devoid of marker gene expression indicates the presence of mitotically active epithelial cell lineages and, potentially, progenitor cell populations.\\n\\nConclusionsRestriction of stem cells to particular regions in the colony may play a major role in facilitating the precision of siphonophore growth, and also lead to a reduced developmental plasticity in other, typically older, parts of the colony. This helps explain why siphonophore colonies have such precise colony-level organization.",
+    "published": "10.1186/s13227-015-0018-2",
+    "server": "biorxiv"
+  }
+]

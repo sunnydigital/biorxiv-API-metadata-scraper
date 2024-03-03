@@ -1,0 +1,50 @@
+[
+  {
+    "doi": "10.1101/010181",
+    "title": "Pollinators, pests and soil properties interactively shape oilseed rape yield",
+    "authors": "Ignasi Bartomeus;Vesna Gagic;Riccardo Bommarco;",
+    "author_corresponding": "Ignasi  Bartomeus",
+    "author_corresponding_institution": "Estaci\u00f3n Biol\u00f3gica de Do\u00f1ana (EBD-CSIC)",
+    "date": "2014-10-09",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc",
+    "category": "",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/10/09/010181.source.xml",
+    "abstract": "O_LIPollination, pest control, and soil properties are well known to affect agricultural production. These factors might interactively shape crop yield, but most studies focus on only one of these factors at a time.\\nC_LIO_LIWe used 15 winter oilseed rape (Brassica napus L.) fields in Sweden to study how variation among fields in pollinator visitation rates, pollen beetle pest attack rates and soil properties (soil texture, pH and organic carbon) interactively determined crop yield. The fields were embedded in a landscape gradient with contrasting proportions arable and semi-natural land.\\nC_LIO_LIPollinator, pest and soil property variables formed bundles across the sites. In general, pollinator visitation and pest levels were negatively correlated and varied independently of soil properties. Because above- and below-ground processes reacted at contrasting spatial scales, it was difficult to predict bundle composition based on the surrounding landscape structure.\\nC_LIO_LIThe above-ground biotic interactions and below-ground abiotic factors interactively affected crop yield. Pollinator visitation was the strongest predictor positively associated with yield. High soil pH also benefited yield, but only at lower pest loads. Surprisingly, high pest loads increased the pollinator benefits for yield.\\nC_LIO_LISynthesis and applications Implementing management plans at different spatial scales can create synergies among bundles of above- and below-ground ecosystem processes, but both scales are needed given that different processes react to different spatial scales.\\nC_LI",
+    "published": "10.1016/j.baae.2015.07.004",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/010173",
+    "title": "Quantification of GC-biased gene conversion in the human genome",
+    "authors": "Sylvain Glemin;Peter F Arndt;Philipp W Messer;Dmitri Petrov;Nicolas Galtier;Laurent Duret;",
+    "author_corresponding": "Sylvain  Glemin",
+    "author_corresponding_institution": "CNRS - Universit\u00e9 Montpellier 2",
+    "date": "2014-10-09",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Evolutionary Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/10/09/010173.source.xml",
+    "abstract": "Many lines of evidence indicate GC-biased gene conversion (gBGC) has a major impact on the evolution of mammalian genomes. However, up to now, this process had not been properly quantified. In principle, the strength of gBGC can be measured from the analysis of derived allele frequency spectra. However, this approach is sensitive to a number of confounding factors. In particular, we show by simulations that the inference is pervasively affected by polymorphism polarization errors, especially at hypermutable sites, and spatial heterogeneity in gBGC strength. Here we propose a new method to quantify gBGC from DAF spectra, incorporating polarization errors and taking spatial heterogeneity into account. This method is very general in that it does not require any prior knowledge about the source of polarization errors and also provides information about mutation patterns. We apply this approach to human polymorphism data from the 1000 genomes project. We show that the strength of gBGC does not differ between hypermutable CpG sites and non-CpG sites, suggesting that in humans gBGC is not caused by the base-excision repair machinery. We further find that the impact of gBGC is concentrated primarily within recombination hotspots: genome-wide, the strength of gBGC is in the nearly neutral area, but 2% of the human genome is subject to strong gBGC, with population-scaled gBGC coefficients above 5. Given that the location of recombination hotspots evolves very rapidly, our analysis predicts that in the long term, a large fraction of the genome is affected by short episodes of strong gBGC.",
+    "published": "10.1101/gr.185488.114",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/010199",
+    "title": "Species delimitation and phylogeny estimation under the multispecies coalescent",
+    "authors": "Graham R Jones;",
+    "author_corresponding": "Graham R Jones",
+    "author_corresponding_institution": "Gothenburg University",
+    "date": "2014-10-09",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc",
+    "category": "Evolutionary Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/10/09/010199.source.xml",
+    "abstract": "This article describes a Bayesian method for inferring both species delimitations and species trees under the multispecies coalescent model using DNA sequences from multiple loci. The focus here is on species delimitation with no a priori assignment of individuals to species, and no guide tree. The method uses a new model for the population sizes along the branches of the species tree, and three new operators for sampling from the posterior using the Markov chain Monte Carlo (MCMC) algorithm. The correctness of the moves is demonstrated both by proofs and by tests of the implementation. Current practice, using a pipeline approach to species delimitation under the multispecies coalescent, has been shown to have major problems on simulated data [10]. The same simulated data set is used to demonstrate the accuracy and efficiency of the present method. The method is implemented in a package called STACEY for BEAST2.",
+    "published": "10.1007/s00285-016-1034-0",
+    "server": "biorxiv"
+  }
+]

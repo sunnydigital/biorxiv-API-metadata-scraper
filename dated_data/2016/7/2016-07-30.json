@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/045344",
+    "title": "Association between use of the progestin Depot Medroxyprogesterone Acetate and Female Cervicovaginal Lavage Proinflammatory Cytokines among HIV-1 and HSV-2 co-infected African women: a case control study",
+    "authors": "Edwin Walong;Christopher Gontier;Walter Jaoko;Elizabeth Anne Bukusi;",
+    "author_corresponding": "Christopher  Gontier",
+    "author_corresponding_institution": "University of Narirobi",
+    "date": "2016-07-30",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_by_nd",
+    "category": "Immunology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2016/07/30/045344.source.xml",
+    "abstract": "BackgroundUse of the progestin contraceptive Depot Medroxyprogesterone Acetate (DMPA) by HIV 1 infected women is associated with increased female to male transmission of HIV. Mucosal innate immune activation has been proposed as a likely mechanism. To establish the effect of DMPA upon mucosal immune activation, this study sought to evaluate the concentrations of 5 proinflammatory and the regulatory cytokine IL 10 in cervicovaginal lavage fluid.\\n\\nMethodsThis was a case control study, 70 participants were recruited, comprising of 35 asymptomatic ART naive HIV positive women on DMPA recruited as cases and 35 age matched asymptomatic ART naive HIV positive women not on contraceptives recruited as controls. Peripheral blood CD4 and total lymphocyte counts, High vaginal swab microscopy, endocervical smears and cervical cytology were performed for each participant. Concentrations of six proinflammatory cytokines were measured on cervicovaginal lavage by multiplex cytometric bead array.\\n\\nResultsThe mean age of cases was 26.8 years and 30 years for controls. Total lymphocyte counts and CD4 cell counts were significantly higher among cases (p=0.02 and 0.004 respectively). HSV 2 prevalence as determined by ELISA was higher (p=0.034 among cases. The concentrations of the cytokines IL 1{beta}, IL 6, IL 8, IL 12p70 and TNF  were lower among cases, with IL 1{beta} being statistically significant (p=0.046). Concentrations of IL 10 was higher among cases (p=0.022). On multivariate analysis, reduction in IL 1{beta} and IL 8 were associated with the duration of DMPA use (p=0.015 and 0.041 respectively). Inclusion of HSV 2 into the multivariate models showed elevation of all cytokines measured (p=<0.001).\\n\\nConclusionDMPA use is associated with reduction of proinflammatory cytokines and elevation of the regulatory cytokine IL 10. This may explain increased female to male transmission of HIV infection by modulation of male genital tract mucosa in the absence of increased HIV 1 genital shedding.",
+    "published": "NA",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/066225",
+    "title": "Depot Medroxyprogesterone Acetate is associated with increased Peripheral blood CD 3 and CD 4 T-Lymphocyte Counts among ART-Naive women living with HIV",
+    "authors": "Edwin Walong;Anne Barasa;Christopher Gontier;",
+    "author_corresponding": "Edwin  Walong",
+    "author_corresponding_institution": "University of Nairobi",
+    "date": "2016-07-30",
+    "version": "2",
+    "type": "Contradictory Results",
+    "license": "cc_by_nd",
+    "category": "Immunology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2016/07/30/066225.source.xml",
+    "abstract": "IntroductionEstablishment of peripheral blood CD 3 and CD 4 lymphocyte counts is useful for immunological monitoring and staging of HIV. This forms the basis of management. This study evaluates total T lymphocyte and CD4 lymphocyte counts among women on DMPA and compares this to matched controls that were not on hormonal contraception.\\n\\nMaterials and MethodsThis case control study was conducted in the western Kenya city of Kisumu. Participants were WHO stage I and II ART naive HIV-positive women. The cases were enrolled in the institutional family planning clinic and must have had an intramuscular injection of DMPA within a three month period. We used a standard provider initiated questionnaire to collect social and demographic information. Peripheral blood CD 3 and CD 4 lymphocyte counts were determined using BD-Facs-count . Data was entered and analysed using SPSS(R) Version 17.\\n\\nResultsA total of 138 participants were recruited into the study, 66 controls and 54 cases. The median ages were 26 and 28 respectively. The median CD 3 lymphocyte counts among controls and cases were 1628 and (p=0.004) while median CD4 lymphocyte counts are 649 (p=0.02).\\n\\nConclusionUse of the progestin DMPA is associated with an increase in median in CD3 and CD 4 I lymphocyte counts. Although the clinical benefits of this increase is unclear, DMPA is safe for use among women living with HIV.",
+    "published": "NA",
+    "server": "biorxiv"
+  }
+]

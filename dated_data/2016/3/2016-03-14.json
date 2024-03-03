@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/027516",
+    "title": "Mixed Effects Models for Resampled Network Statistics Improves Statistical Power to Find Differences in Multi-Subject Functional Connectivity",
+    "authors": "Manjari Narayan;Genevera I Allen;",
+    "author_corresponding": "Manjari  Narayan",
+    "author_corresponding_institution": "Rice University",
+    "date": "2016-03-14",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_by",
+    "category": "Neuroscience ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2016/03/14/027516.source.xml",
+    "abstract": "Many complex brain disorders, such as autism spectrum disorders, exhibit a wide range of symptoms and disability. To understand how brain communication is impaired in such conditions, functional connectivity studies seek to understand individual differences in brain network structure in terms of covariates that measure symptom severity. In practice, however, functional connectivity is not observed but estimated from complex and noisy neural activity measurements. Imperfect subject network estimates can compromise subsequent efforts to detect covariate effects on network structure. We address this problem in the case of Gaussian graphical models of functional connectivity, by proposing novel two-level models that treat both subject level networks and population level covariate effects as unknown parameters. To account for imperfectly estimated subject level networks when fitting these models, we propose two related approaches -- R2 based on resampling and random effects test statistics, and R3 that additionally employs random adaptive penalization. Simulation studies using realistic graph structures reveal that R2 and R3 have superior statistical power to detect covariate effects compared to existing approaches, particularly when the number of within subject observations is comparable to the size of subject networks. Using our novel models and methods to study parts of the ABIDE dataset, we find evidence of hypoconnectivity associated with symptom severity in autism spectrum disorders, in frontoparietal and limbic systems as well as in anterior and posterior cingulate cortices.",
+    "published": "10.3389/fnins.2016.00108",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/043471",
+    "title": "KlebSeq: A Diagnostic Tool for Healthcare Surveillance and Antimicrobial Resistance Monitoring of Klebsiella pneumoniae",
+    "authors": "Jolene R Bowers;Darrin Lemmer;Jason W Sahl;Talima Pearson;Elizabeth M Driebe;David M Engelthaler;Paul Keim;",
+    "author_corresponding": "Jolene R Bowers",
+    "author_corresponding_institution": "Translational Genomics Research Institute",
+    "date": "2016-03-14",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Molecular Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2016/03/14/043471.source.xml",
+    "abstract": "Healthcare-acquired infections (HAIs) kill tens of thousands of people each year and add significantly to healthcare costs. Multidrug resistant and epidemic strains are a large proportion of HAI agents, and multidrug resistant strains of Klebsiella pneumoniae, a leading HAI agent, have become an urgent public health crisis. In the healthcare environment, patient colonization of K. pneumoniae precedes infection, and transmission via colonization leads to outbreaks. Periodic patient screening for K. pneumoniae colonization has cost-effective and life-saving potential. In this study, we describe the design and validation of KlebSeq, a highly informative screening tool that detects Klebsiella species and identifies clinically important strains and characteristics using highly multiplexed amplicon sequencing without a live culturing step. We demonstrate the utility of this tool on several complex specimen types including urine, wound swabs and tissue, several types of respiratory, and fecal, showing K. pneumoniae species and clonal group identification and antimicrobial resistance and virulence profiling, including capsule typing. Use of this amplicon sequencing tool can be used to screen patients for K. pneumoniae carriage to assess risk of infection and outbreak potential, and the expansion of this tool can be used for several other HAI agents or applications.",
+    "published": "NA",
+    "server": "biorxiv"
+  }
+]

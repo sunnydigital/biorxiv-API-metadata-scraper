@@ -1,0 +1,50 @@
+[
+  {
+    "doi": "10.1101/007385",
+    "title": "Negative Feedback Facilitates Temperature Robustness in Biomolecular Circuit Dynamics",
+    "authors": "Shaunak Sen;Richard M Murray;",
+    "author_corresponding": "Shaunak  Sen",
+    "author_corresponding_institution": "Indian Institute of Technology Delhi",
+    "date": "2014-07-22",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Systems Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/07/22/007385.source.xml",
+    "abstract": "Temporal dynamics in many biomolecular circuits can change with temperature because of the temperature dependence of underlying reaction rate parameters. It is generally unclear what circuit mechanisms can inherently facilitate robustness in the dynamics to variations in temperature. Here, we address this issue using a combination of mathematical models and experimental measurements in a cell-free transcription-translation system. We find that negative transcriptional feedback can reduce the effect of temperature variation on circuit dynamics. Further, we find that effective negative feedback due to first-order degradation mechanisms can also enable such a temperature robustness effect. Finally, we estimate temperature dependence of key parameters mediating such negative feedback mechanisms. These results should be useful in the design of temperature robust circuit dynamics.",
+    "published": "NA",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/007369",
+    "title": "Comparative analysis of principal components can be misleading",
+    "authors": "Josef C Uyeda;Daniel S. Caetano;Matthew W Pennell;",
+    "author_corresponding": "Josef C Uyeda",
+    "author_corresponding_institution": "University of Idaho",
+    "date": "2014-07-22",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nd",
+    "category": "Evolutionary Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/07/22/007369.source.xml",
+    "abstract": "Quantitative geneticists long ago recognized the value of studying evolution in a multivariate framework (Pearson, 1903). Due tolinkage, pleiotropy, coordinated selection and mutational covariance, the evolutionary response in any phenotypic trait can only be properly understood in the context ofother traits (Lande, 1979; Lynch and Walsh, 1998). This is of course also well-appreciated bycomparative biologists. However, unlike in quantitative genetics, most of the statistical and conceptual tools for analyzing phylogenetic comparative data (recently reviewed in Pennell and Harmon, 2013) are designed for analyzing a single trait (but see, for example Revell and Harmon, 2008; Revell and Harrison, 2008; Hohenlohe and Arnold, 2008; Revell and Collar, 2009; Schmitz and Motani, 2011; Adams, 2014b). Indeed, even classical approaches for testing for correlated evolution between two traits (e.g., Felsenstein, 1985; Grafen, 1989; Harvey and Pagel, 1991) are not actually multivariate as each trait is assumed to have evolved under a process that is independent of the state of the other (Hansen and Orzack, 2005; Hansen and Bartoszek, 2012). As a result of these limitations, researchers with multivariate datasets are often faced with a choice: analyze each trait as if they were independent or else decompose the dataset into statistically independent set of traits, such that each set can be analyzed with the univariate methods.",
+    "published": "10.1093/sysbio/syv019",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/007351",
+    "title": "Rapid Core-Genome Alignment and Visualization for Thousands of Intraspecific Microbial Genomes",
+    "authors": "Todd J. Treangen;Brian D. Ondov;Sergey Koren;Adam M. Phillippy;",
+    "author_corresponding": "Todd J. Treangen",
+    "author_corresponding_institution": "NBACC",
+    "date": "2014-07-22",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Bioinformatics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/07/22/007351.source.xml",
+    "abstract": "Though many microbial species or clades now have hundreds of sequenced genomes, existing whole-genome alignment methods do not efficiently handle comparisons on this scale. Here we present the Harvest suite of core-genome alignment and visualization tools for quickly analyzing thousands of intraspecific microbial strains. Harvest includes Parsnp, a fast core-genome multi-aligner, and Gingr, a dynamic visual platform. Combined they provide interactive core-genome alignments, variant calls, recombination detection, and phylogenetic trees. Using simulated and real data we demonstrate that our approach exhibits unrivaled speed while maintaining the accuracy of existing methods. The Harvest suite is open-source and freely available from: http://github.com/marbl/harvest.",
+    "published": "10.1186/s13059-014-0524-x",
+    "server": "biorxiv"
+  }
+]

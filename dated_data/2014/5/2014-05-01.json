@@ -1,0 +1,50 @@
+[
+  {
+    "doi": "10.1101/004671",
+    "title": "The Landscape of Human STR Variation",
+    "authors": "Thomas F. Willems;Melissa Gymrek;Gareth Highnam;- The 1000 Genomes Project;David Mittelman;Yaniv Erlich;",
+    "author_corresponding": "Yaniv  Erlich",
+    "author_corresponding_institution": "Whitehead Institute for Biomedical Research",
+    "date": "2014-05-01",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Genomics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/05/01/004671.source.xml",
+    "abstract": "Short Tandem Repeats are among the most polymorphic loci in the human genome. These loci play a role in the etiology of a range of genetic diseases and have been frequently utilized in forensics, population genetics, and genetic genealogy. Despite this plethora of applications, little is known about the variation of most STRs in the human population. Here, we report the largest-scale analysis of human STR variation to date. We collected information for nearly 700,000 STR loci across over 1,000 individuals in phase 1 of the 1000 Genomes Project. This process nearly saturated common STR variations. After employing a series of quality controls, we utilize this call set to analyze determinants of STR variation, assess the human reference genomes representation of STR alleles, find STR loci with common loss-of-function alleles, and obtain initial estimates of the linkage disequilibrium between STRs and common SNPs. Overall, these analyses further elucidate the scale of genetic variation beyond classical point mutations. The resource is publicly available at http://strcat.teamerlich.org/ both in raw format and via a graphical interface.",
+    "published": "10.1101/gr.177774.114",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/004671",
+    "title": "The Landscape of Human STR Variation",
+    "authors": "Thomas F. Willems;Melissa Gymrek;Gareth Highnam;- The 1000 Genomes Project;David Mittelman;Yaniv Erlich;",
+    "author_corresponding": "Yaniv  Erlich",
+    "author_corresponding_institution": "Whitehead Institute for Biomedical Research",
+    "date": "2014-05-01",
+    "version": "2",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Genomics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/05/01/004671.source.xml",
+    "abstract": "Short Tandem Repeats are among the most polymorphic loci in the human genome. These loci play a role in the etiology of a range of genetic diseases and have been frequently utilized in forensics, population genetics, and genetic genealogy. Despite this plethora of applications, little is known about the variation of most STRs in the human population. Here, we report the largest-scale analysis of human STR variation to date. We collected information for nearly 700,000 STR loci across over 1,000 individuals in phase 1 of the 1000 Genomes Project. This process nearly saturated common STR variations. After employing a series of quality controls, we utilize this call set to analyze determinants of STR variation, assess the human reference genomes representation of STR alleles, find STR loci with common loss-of-function alleles, and obtain initial estimates of the linkage disequilibrium between STRs and common SNPs. Overall, these analyses further elucidate the scale of genetic variation beyond classical point mutations. The resource is publicly available at http://strcat.teamerlich.org/ both in raw format and via a graphical interface.",
+    "published": "10.1101/gr.177774.114",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/004689",
+    "title": "Detection and Polarization of Introgression in a Five-taxon Phylogeny",
+    "authors": "James B Pease;Matthew W. Hahn;",
+    "author_corresponding": "James B Pease",
+    "author_corresponding_institution": "Indiana University",
+    "date": "2014-05-01",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Evolutionary Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/05/01/004689.source.xml",
+    "abstract": "In clades of closely related taxa, discordant genealogies due to incomplete lineage sorting (ILS) can complicate the detection of introgression. The D-statistic (a.k.a. the ABBA/BABA test) was proposed to infer introgression in the presence of ILS for a four-taxon clade. However, the original D-statistic cannot be directly applied to a symmetric five-taxon phylogeny, and the direction of introgression cannot be inferred for any tree topology. Here we explore the issues associated with previous methods for adapting the D-statistic to a larger tree topology, and propose new \\\"DFOIL\\\" tests to infer both the taxa involved in and the direction of introgressions for a symmetric five-taxon phylogeny. Using theory and simulations, we find that previous modifications of the D-statistic to five-taxon phylogenies incorrectly identify both the pairs of taxa exchanging migrants as well as the direction of introgression. The DFOIL statistics are shown to overcome this deficiency and to correctly determine the direction of introgressions. The DFOIL tests are relatively simple and computationally inexpensive to calculate, and can be easily applied to various phylogenomic datasets. In addition, our general approach to the problem of introgression detection could be adapted to larger tree topologies and other models of sequence evolution.",
+    "published": "10.1093/sysbio/syv023",
+    "server": "biorxiv"
+  }
+]

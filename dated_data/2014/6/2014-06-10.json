@@ -1,0 +1,50 @@
+[
+  {
+    "doi": "10.1101/004317",
+    "title": "Comprehensive mutational scanning of a kinase in vivo reveals substrate-dependent fitness landscapes",
+    "authors": "Alexandre Melnikov;Peter Rogov;Li Wang;Andreas Gnirke;Tarjei S Mikkelsen;",
+    "author_corresponding": "Tarjei S Mikkelsen",
+    "author_corresponding_institution": "Broad Institute",
+    "date": "2014-06-10",
+    "version": "3",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Molecular Biology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/06/10/004317.source.xml",
+    "abstract": "Deep mutational scanning has emerged as a promising tool for mapping sequence-activity relationships in proteins1-4, RNA5 and DNA6-8. In this approach, diverse variants of a sequence of interest are first ranked according to their activities in a relevant pooled assay, and this ranking is then used to infer the shape of the fitness landscape around the wild-type sequence. Little is currently know, however, about the degree to which such fitness landscapes are dependent on the specific assay conditions from which they are inferred. To explore this issue, we performed deep mutational scanning of APH(3)II, a Tn5 transposon-derived kinase that confers resistance to aminoglycoside antibiotics9, in E. coli under selection with each of six structurally diverse antibiotics at a range of inhibitory concentrations. We found that the resulting fitness landscapes showed significant dependence on both antibiotic structure and concentration. This shows that the notion of essential amino acid residues is context-dependent, but also that this dependence can be exploited to guide protein engineering. Specifically, we found that differential analysis of fitness landscapes allowed us to generate synthetic APH(3)II variants with orthogonal substrate specificities.",
+    "published": "10.1093/nar/gku511",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/006148",
+    "title": "Reducing INDEL calling errors in whole-genome and exome sequencing data",
+    "authors": "Han Fang;Yiyang Wu;Giuseppe Narzisi;Jason A. O'Rawe;Laura T. Jimenez Barr\u00f3n;Julie Rosenbaum;Michael Ronemus;Ivan Iossifov;Michael C. Schatz;Gholson J. Lyon;",
+    "author_corresponding": "Gholson J. Lyon",
+    "author_corresponding_institution": "Cold Spring Harbor Laboratory",
+    "date": "2014-06-10",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Bioinformatics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/06/10/006148.source.xml",
+    "abstract": "BackgroundINDELs, especially those disrupting protein-coding regions of the genome, have been strongly associated with human diseases. However, there are still many errors with INDEL variant calling, driven by library preparation, sequencing biases, and algorithm artifacts.\\n\\nMethodsWe characterized whole genome sequencing (WGS), whole exome sequencing (WES), and PCR-free sequencing data from the same samples to investigate the sources of INDEL errors. We also developed a classification scheme based on the coverage and composition to rank high and low quality INDEL calls. We performed a large-scale validation experiment on 600 loci, and find high-quality INDELs to have a substantially lower error rate than low quality INDELs (7% vs. 51%).\\n\\nResultsSimulation and experimental data show that assembly based callers are significantly more sensitive and robust for detecting large INDELs (>5 bp) than alignment based callers, consistent with published data. The concordance of INDEL detection between WGS and WES is low (52%), and WGS data uniquely identifies 10.8-fold more high-quality INDELs. The validation rate for WGS-specific INDELs is also much higher than that for WES-specific INDELs (85% vs. 54%), and WES misses many large INDELs. In addition, the concordance for INDEL detection between standard WGS and PCR-free sequencing is 71%, and standard WGS data uniquely identifies 6.3-fold more low-quality INDELs. Furthermore, accurate detection with Scalpel of heterozygous INDELs requires 1.2-fold higher coverage than that for homozygous INDELs. Lastly, homopolymer A/T INDELs are a major source of low-quality INDEL calls, and they are highly enriched in the WES data.\\n\\nConclusionsOverall, we show that accuracy of INDEL detection with WGS is much greater than WES even in the targeted region. We calculated that 60X WGS depth of coverage from the HiSeq platform is needed to recover 95% of INDELs detected by Scalpel. While this is higher than current sequencing practice, the deeper coverage may save total project costs because of the greater accuracy and sensitivity. Finally, we investigate sources of INDEL errors (e.g. capture deficiency, PCR amplification, homopolymers) with various data that will serve as a guideline to effectively reduce INDEL errors in genome sequencing.",
+    "published": "10.1186/s13073-014-0089-z",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/006130",
+    "title": "Validation of methods for Low-volume RNA-seq",
+    "authors": "Peter Acu\u00f1a Combs;Michael B Eisen;",
+    "author_corresponding": "Peter Acu?a Combs",
+    "author_corresponding_institution": "University of California, Berkeley",
+    "date": "2014-06-10",
+    "version": "1",
+    "type": "Confirmatory Results",
+    "license": "cc_by",
+    "category": "Genomics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/06/10/006130.source.xml",
+    "abstract": "Recently, a number of protocols extending RNA-sequencing to the single-cell regime have been published. However, we were concerned that the additional steps to deal with such minute quantities of input sample would introduce serious biases that would make analysis of the data using existing approaches invalid. In this study, we performed a critical evaluation of several of these low-volume RNA-seq protocols, and found that they performed slightly less well in metrics of interest to us than a more standard protocol, but with at least two orders of magnitude less sample required. We also explored a simple modification to one of these protocols that, for many samples, reduced the cost of library preparation to approximately $20/sample.",
+    "published": "10.7717/peerj.869",
+    "server": "biorxiv"
+  }
+]

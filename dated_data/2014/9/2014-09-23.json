@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/009548",
+    "title": "FourCSeq: Analysis of 4C sequencing data",
+    "authors": "Felix A. Klein;Tibor Pakozdi;Simon Anders;Yad Ghavi-Helm;Eileen E. M. Furlong;Wolfgang Huber;",
+    "author_corresponding": "Wolfgang  Huber",
+    "author_corresponding_institution": "European Molecular Biology Laboratory (EMBL), Genome Biology Unit",
+    "date": "2014-09-23",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Bioinformatics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/09/23/009548.source.xml",
+    "abstract": "1 Abstract 1.1 MotivationCircularized Chromosome Conformation Capture (4C) is a powerful technique for studying the spatial interactions of a specific genomic region called the \\\"viewpoint\\\" with the rest of the genome, both in a single condition or comparing different experimental conditions or cell types. Observed ligation frequencies show a strong, regular dependence on genomic distance from the viewpoint, on top of which specific interaction peaks are superimposed. Here, we address the computational task to find these specific interactions and to detect changes between interaction profiles of different conditions.\\n\\n1.2 ResultsWe model the overall trend of decreasing interaction frequency with genomic distance by fitting a smooth monotonously decreasing function to suitably transformed count data. Based on the fit, z-scores are calculated from the residuals, with high z scores being interpreted as peaks providing evidence for specific interactions. To compare different conditions, we normalize fragment counts between samples, and call for differential contact frequencies using the statistical method DESeq2 adapted from RNA-Seq analysis.\\n\\n1.3 Availability and ImplementationA full end-to-end analysis pipeline is implemented in the R package FourCSeq available at www.bioconductor.org.\\n\\n1.4 Contactfelix.klein@embl.de, whuber@embl.de",
+    "published": "10.1093/bioinformatics/btv335",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/009555",
+    "title": "Abnormal X Chromosome Inactivation in Females with Major Psychiatric Disorders",
+    "authors": "Baohu Ji;Kerin K Higa;John Kelsoe;Xianjin Zhou;",
+    "author_corresponding": "Xianjin  Zhou",
+    "author_corresponding_institution": "UCSD",
+    "date": "2014-09-23",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_by_nc_nd",
+    "category": "Neuroscience ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/09/23/009555.source.xml",
+    "abstract": "Bipolar disorder, major depression and schizophrenia are severe brain disorders. No biological hallmark has been identified for any of these disorders. Here, we report that abnormal X chromosome inactivation (XCI) often presents in lymphoblastoid cells of female patients with different major psychiatric disorders in the general population. X chromosome inactivation is well preserved in human lymphoblastoid cells. XIST, KDM5C, and other X-linked genes are over-expressed in the lymphoblastoid cells of female patients, suggesting an abnormal XCI. Trimethylation of lysine 27 on histone 3 (H3K27me3) is significantly increased at both XIST and KDM5C gene loci. We found that XIST and KDM5C expression can be used as a potential diagnostic hallmark for major psychiatric disorders in a large sub-population of female patients. Preliminary studies also suggest an increased XIST expression in postmortem brains from female patients with schizophrenia, bipolar disorder, and major depression. An increased gene dosage from some X-linked genes may contribute to the development of psychiatric disorders, as functional disomy of partial X chromosome have been suggested to cause mental retardation and other developmental abnormalities. Additionally, patients with Klinefelter syndrome (XXY) or Triple X syndrome (XXX) frequently display psychiatric disorders due to an extra X chromosome. Mutation of the KDM5C gene was reported to cause X-linked syndromic mental retardation. Our studies suggest that abnormal X chromosome inactivation could play a causal role in development of major psychiatric disorders in females. Correction of abnormal X chromosome inactivation may prevent and/or cure major psychiatric disorders in a sub-population of female patients in the future.",
+    "published": "10.1016/j.ebiom.2015.06.012",
+    "server": "biorxiv"
+  }
+]

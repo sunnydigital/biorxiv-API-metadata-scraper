@@ -1,0 +1,34 @@
+[
+  {
+    "doi": "10.1101/005470",
+    "title": "Bio-inspired design of ice-retardant devices based on benthic marine invertebrates: the effect of surface texture",
+    "authors": "Homayun Mehrabani;Neil Ray;Kyle Tse;Dennis Evangelista;",
+    "author_corresponding": "Dennis  Evangelista",
+    "author_corresponding_institution": "University of North Carolina at Chapel Hill",
+    "date": "2014-05-24",
+    "version": "1",
+    "type": "New Results",
+    "license": "cc_no",
+    "category": "Biophysics ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/05/24/005470.source.xml",
+    "abstract": "Growth of ice on surfaces poses a challenge for both organisms and for devices that come into contact with liquids below the freezing point. Resistance of some organisms to ice formation and growth, either in subtidal environments (e.g. Antarctic anchor ice), or in environments with moisture and cold air (e.g. plants, intertidal) begs examination of how this is accomplished. Several factors may be important in promoting or mitigating ice formation. As a start, here we examine the effect of surface texture alone. We tested four candidate surfaces, inspired by hard-shelled marine invertebrates and constructed using a three-dimensional printing process. We screened biological and artifical samples for ice formation and accretion in submerged conditions using previous methods, and developed a new test to examine ice formation from surface droplets as might be encountered in environments with moist, cold air. It appears surface texture plays only a small role in delaying the onset of ice formation: a stripe feature (corresponding to patterning found on valves of blue mussels, Mytilus edulis, or on the spines of the Antarctic sea urchin Sterechinus neumayeri) slowed ice formation an average of 25% compared to a grid feature (corresponding to patterning found on sub-polar butterclams, Saxidomas nuttalli). The geometric dimensions of the features have only a small ([~]6%) effect on ice formation. Surface texture affects ice formation, but does not explain by itself the large variation in ice formation and species-specific ice resistance observed in other work. This suggests future examination of other factors, such as material elastic properties and coatings, and their interaction with surface pattern.",
+    "published": "10.7717/peerj.588",
+    "server": "biorxiv"
+  },
+  {
+    "doi": "10.1101/005454",
+    "title": "Novel Natural Product Discovery from Marine Sponges and their Obligate Symbiotic Organisms",
+    "authors": "Regina Monaco;Rena Quinlan;",
+    "author_corresponding": "Regina  Monaco",
+    "author_corresponding_institution": "Hunter College",
+    "date": "2014-05-24",
+    "version": "1",
+    "type": "Confirmatory Results",
+    "license": "cc_by_nd",
+    "category": "Pharmacology and Toxicology ",
+    "jatsxml": "https://www.biorxiv.org/content/early/2014/05/24/005454.source.xml",
+    "abstract": "Discovery of novel natural products is an accepted method for the elucidation of pharmacologically active molecules and drug leads. Best known sources for such discovery have been terrestrial plants and microbes, accounting for about 85% of the approved natural products in pharmaceutical use (1), and about 60% of approved pharmaceuticals and new drug applications annually (2). Discovery in the marine environment has lagged due to the difficulty of exploration in this ecological niche. Exploration began in earnest in the 1950s, after technological advances such as scuba diving allowed collection of marine organisms, primarily at a depth to about 15m.\\n\\nNatural products from filter feeding marine invertebrates and in particular, sponges, have proven to be a rich source of structurally unique pharmacologically active compounds, with over 16,000 molecules isolated thus far (3, 1) and a continuing pace of discovery at hundreds of novel bioactive molecules per year. All classes of pharmaceuticals have been represented in this discovery process, including antiprotazoals, pesticides, TGF-beta inhibitors, cationic channel blockers, anticancer, cytotoxic, antiviral, anti-inflammatory and antibacterial compounds. Important biosynthetic pathways found in sponges which give rise to these compounds include the terpenoid (4), fatty acid, polyketoid, quinone reductase, alkaloid, isoprenoid (5), and non-ribosomal protein synthase pathways.",
+    "published": "NA",
+    "server": "biorxiv"
+  }
+]
